@@ -1,0 +1,218 @@
+  OPP draws 5  (hand now 5, library 43)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 43
+    YOU (recorder) hand [exact]: Cannon Soldier, Dream Clown, Man-Eater Bug, Ring of Destruction, Waboku
+    OPP hand [exact]: Confiscation, Mage Power, Magician of Faith, Nimble Momonga, Offerings to the Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Confiscation (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Confiscation
+    OPP loses 1000 LP -> 7000
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  OPP SETS Offerings to the Doomed (S/T zone 5)  [card 1 of 4 in hand]
+  OPP SETS Mage Power (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 5 / OPP 2   library: YOU 39 / OPP 42
+    YOU (recorder) hand [exact]: Cannon Soldier, Dream Clown, Man-Eater Bug, Ring of Destruction, Waboku
+    OPP hand [exact]: Giant Rat, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 0  [card 3 of 6 in hand]
+  YOU SETS Premature Burial (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Waboku (S/T zone 6)  [card 3 of 4 in hand]
+  YOU SETS Ring of Destruction (S/T zone 7)  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8000
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 38 / OPP 42
+    YOU (recorder) hand [exact]: Cannon Soldier, Man-Eater Bug
+    OPP hand [partly unknown]: Giant Rat, Magician of Faith   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 41)
+    effect: Waboku
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 2 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 38 / OPP 41
+    YOU (recorder) hand [exact]: Cannon Soldier, Man-Eater Bug
+    OPP hand [partly unknown]: Magician of Faith   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    effect: Offerings to the Doomed
+    YOU special summons a monster to zone 0
+  YOU SUMMONS Cannon Soldier in monster zone 1  [card 1 of 3 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    YOU special summons a monster to zone 2
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+  YOU attacks with unknown monster (zone 2) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 10000
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's face-down Giant Rat (zone 2)
+    YOU loses 50 LP -> 7150
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 8600
+    YOU loses 1400 LP -> 5750
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 5750 / OPP 8600) ===
+  hand: YOU 1 / OPP 5   library: YOU 37 / OPP 41
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: Magician of Faith   (+4 unknown)
+  [standby]
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5750 / OPP 8600) ===
+  hand: YOU 1 / OPP 4   library: YOU 37 / OPP 41
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Mage Power (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Dream Clown
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 1)
+    OPP loses 1400 LP -> 7200
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 450 LP -> 6750
+  [main 2]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 6250
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5750 / OPP 6250) ===
+  hand: YOU 1 / OPP 4   library: YOU 36 / OPP 41
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 40)
+  [standby]
+  [main 1]
+  OPP SETS United We Stand (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5750 / OPP 6250) ===
+  hand: YOU 1 / OPP 4   library: YOU 36 / OPP 40
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 1)
+    OPP loses 1400 LP -> 4850
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    OPP loses 1200 LP -> 3650
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5750 / OPP 3650) ===
+  hand: YOU 1 / OPP 4   library: YOU 35 / OPP 40
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 39)
+  [standby]
+  [main 1]
+  OPP SUMMONS Morphing Jar in monster zone 0  [card 2 of 5 in hand]
+    effect: Mage Power
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Morphing Jar (zone 0) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+    YOU loses 1300 LP -> 4450
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 4450 / OPP 3650) ===
+  hand: YOU 1 / OPP 4   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Man-Eater Bug
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 3150
+    effect: Witch of the Black Forest
+    YOU special summons a monster to zone 0
+    effect: Mage Power
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's Morphing Jar (zone 0)
+    OPP's Morphing Jar (zone 0) is destroyed in battle
+    OPP loses 200 LP -> 2950
+  YOU attacks DIRECTLY with Cannon Soldier (zone 1)
+    OPP loses 1400 LP -> 1550
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 4450 / OPP 1550) ===
+  hand: YOU 2 / OPP 4   library: YOU 34 / OPP 39
+    YOU (recorder) hand [partly unknown]: Man-Eater Bug   (+1 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Box (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 4450 / OPP 1550) ===
+  hand: YOU 2 / OPP 4   library: YOU 34 / OPP 38
+    YOU (recorder) hand [partly unknown]: Man-Eater Bug   (+1 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 1)
+    OPP loses 1400 LP -> 150
+  [main 2]
+  YOU SUMMONS Magician of Faith in monster zone 2  [card 1 of 3 in hand]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> -350
+  [DUEL END]  final LP: YOU 4450 / OPP -350

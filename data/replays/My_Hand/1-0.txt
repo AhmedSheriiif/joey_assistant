@@ -1,0 +1,76 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 38)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 38
+    YOU hand [exact]: Bladefly, Giant Trunade, Pot of Greed, Premature Burial, Rising Air Current
+    OPP (recorder) hand [exact]: Crass Clown, Magic Cylinder, Nobleman of Crossout, Penguin Soldier, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 33)
+  YOU draws 1  (hand now 7, library 32)
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 7 of 7 in hand]
+  YOU SETS Snatch Steal (S/T zone 5)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 32 / OPP 38
+    YOU hand [exact]: Bladefly, Giant Trunade, Nobleman of Crossout, Premature Burial, Rising Air Current
+    OPP (recorder) hand [exact]: Crass Clown, Magic Cylinder, Nobleman of Crossout, Penguin Soldier, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS Crass Clown in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Crass Clown (zone 0)
+    YOU loses 1350 LP -> 6650
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 6650 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 32 / OPP 37
+    YOU hand [exact]: Bladefly, Giant Trunade, Nobleman of Crossout, Premature Burial, Rising Air Current
+    OPP (recorder) hand [exact]: Penguin Soldier, Snatch Steal, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Rising Air Current (S/T zone 10)  [card 1 of 6 in hand]
+    effect: Rising Air Current
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's Crass Clown (zone 0)
+    effect: Magic Cylinder
+    YOU loses 2400 LP -> 4250
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 4250 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 31 / OPP 37
+    YOU hand [partly unknown]: Bladefly, Giant Trunade, Nobleman of Crossout, Premature Burial, Rising Air Current
+    OPP (recorder) hand [exact]: Penguin Soldier, Snatch Steal, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Snatch Steal (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Snatch Steal
+  OPP SUMMONS Penguin Soldier in monster zone 2  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 2400 LP -> 1850
+  OPP attacks DIRECTLY with Crass Clown (zone 0)
+    YOU loses 1350 LP -> 500
+  OPP attacks DIRECTLY with Penguin Soldier (zone 2)
+    YOU loses 750 LP -> -250
+  [DUEL END]  final LP: YOU -250 / OPP 8000

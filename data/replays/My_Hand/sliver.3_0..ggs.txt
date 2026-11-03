@@ -1,0 +1,469 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 47)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 47
+    YOU (recorder) hand [exact]: Crush Card, 2x Giant Germ, Greenkappa, Magic Cylinder
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Fissure, Mage Power, Torrential Tribute, Windstorm of Etaqua
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Crush Card (S/T zone 6)  [card 2 of 5 in hand]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 36 / OPP 47
+    YOU (recorder) hand [exact]: 2x Giant Germ, Kycoo the Ghost Destroyer
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Fissure, Mage Power, Torrential Tribute, Windstorm of Etaqua
+  [draw phase]
+  OPP draws 1  (hand now 6, library 46)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SETS Windstorm of Etaqua (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Waboku (S/T zone 7)  [card 4 of 4 in hand]
+  OPP SETS Mage Power (S/T zone 8)  [card 1 of 3 in hand]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 36 / OPP 46
+    YOU (recorder) hand [exact]: 2x Giant Germ, Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Waboku
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 35 / OPP 46
+    YOU (recorder) hand [exact]: Giant Germ, Kycoo the Ghost Destroyer, Mask of Darkness
+    OPP hand [exact]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 45)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 35 / OPP 45
+    YOU (recorder) hand [exact]: Giant Germ, Kycoo the Ghost Destroyer, Mask of Darkness
+    OPP hand [exact]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+    effect: Crush Card
+  YOU SUMMONS Giant Germ in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with face-down Giant Germ (zone 1) -> OPP's 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 200 LP -> 7800
+  YOU attacks with Giant Germ (zone 0) -> OPP's Fissure (zone 1)
+    OPP's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 34 / OPP 45
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Kycoo the Ghost Destroyer, Mask of Darkness
+    OPP hand [exact]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 44)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 34 / OPP 44
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Kycoo the Ghost Destroyer, Mask of Darkness
+    OPP hand [exact]: Fissure, Man-Eater Bug
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 6)  [card 4 of 4 in hand]
+  YOU SETS Mask of Darkness in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 33 / OPP 44
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure, Man-Eater Bug
+  [draw phase]
+  OPP draws 1  (hand now 3, library 43)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 7)  [card 2 of 3 in hand]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 43
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Man-Eater Bug (zone 1)
+    OPP's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Ekibyo Drakmord (S/T zone 8)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 43
+    YOU (recorder) hand [exact]: Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 42)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 1  [card 1 of 2 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 42
+    YOU (recorder) hand [exact]: Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Ekibyo Drakmord (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS Crush Card (S/T zone 9)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7800 / OPP 8000) ===
+  hand: YOU 1 / OPP 1   library: YOU 31 / OPP 42
+    YOU (recorder) hand [exact]: Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 41)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 2 of 2 in hand]
+    effect: Dust Tornado
+  [battle phase]
+  OPP attacks with 4-Starred Ladybug of Doom (zone 0) -> YOU's face-down Mask of Darkness (zone 1)
+    effect: Crush Card
+  OPP attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 800 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 1 / OPP 1   library: YOU 31 / OPP 41
+    YOU (recorder) hand [exact]: Kycoo the Ghost Destroyer
+    OPP hand [exact]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Kycoo the Ghost Destroyer (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 0)
+    effect: Windstorm of Etaqua
+  [main 2]
+    effect: Ekibyo Drakmord
+  YOU SETS Mystical Space Typhoon (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 0 / OPP 1   library: YOU 30 / OPP 41
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 40)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Fissure (zone 1) -> YOU's Kycoo the Ghost Destroyer (zone 0)
+    effect: Magic Cylinder
+    OPP loses 1000 LP -> 7000
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 30 / OPP 40
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Giant Rat
+  [draw phase]
+  YOU draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Box (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 29 / OPP 40
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Giant Rat
+  [draw phase]
+  OPP draws 1  (hand now 3, library 39)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 2  [card 1 of 3 in hand]
+    effect: Torrential Tribute
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 29 / OPP 39
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 39
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 3, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 38
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 2   library: YOU 27 / OPP 38
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Fissure, Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS Fissure (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 0 / OPP 1   library: YOU 27 / OPP 37
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 26)
+    effect: Ceasefire
+    YOU loses 1500 LP -> 5500
+  [standby]
+  [main 1]
+  YOU SUMMONS Greenkappa in monster zone 2  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Greenkappa (zone 2) -> OPP's face-down Dimensional Warrior (zone 0)
+    YOU loses 350 LP -> 5150
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with face-down Blast Sphere (zone 0)
+    OPP loses 1400 LP -> 5600
+  YOU attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP loses 800 LP -> 4800
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 5150 / OPP 4800) ===
+  hand: YOU 0 / OPP 1   library: YOU 26 / OPP 37
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 5150 / OPP 4800) ===
+  hand: YOU 0 / OPP 1   library: YOU 26 / OPP 36
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 25)
+  [standby]
+  [main 1]
+    effect: Mystic Box
+  [battle phase]
+  YOU attacks with Blast Sphere (zone 0) -> OPP's face-down Greenkappa (zone 0)
+    effect: Mystical Space Typhoon
+    OPP's face-down Greenkappa (zone 0) is destroyed in battle
+    OPP loses 600 LP -> 4200
+  [main 2]
+  YOU SETS Fissure (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 5150 / OPP 4200) ===
+  hand: YOU 0 / OPP 1   library: YOU 25 / OPP 36
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 5150 / OPP 4200) ===
+  hand: YOU 0 / OPP 1   library: YOU 25 / OPP 35
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 24)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Blast Sphere (zone 0)
+    OPP loses 1400 LP -> 2800
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 5150 / OPP 2800) ===
+  hand: YOU 0 / OPP 1   library: YOU 24 / OPP 35
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 5150 / OPP 2800) ===
+  hand: YOU 0 / OPP 1   library: YOU 24 / OPP 34
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 2  [card 1 of 1 in hand]
+    effect: Man-Eater Bug
+    effect: Torrential Tribute
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 5150 / OPP 2800) ===
+  hand: YOU 1 / OPP 1   library: YOU 23 / OPP 34
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 5150 / OPP 2800) ===
+  hand: YOU 1 / OPP 1   library: YOU 23 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 1400
+  [main 2]
+  YOU SETS Ceasefire (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 5150 / OPP 1400) ===
+  hand: YOU 0 / OPP 1   library: YOU 22 / OPP 33
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 31: YOU   (LP YOU 5150 / OPP 1400) ===
+  hand: YOU 0 / OPP 1   library: YOU 22 / OPP 32
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 1, library 21)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    effect: Waboku
+  [main 2]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 32: OPP   (LP YOU 5150 / OPP 1400) ===
+  hand: YOU 0 / OPP 1   library: YOU 21 / OPP 32
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+    effect: Ceasefire
+    OPP loses 1500 LP -> -100
+  [DUEL END]  final LP: YOU 5150 / OPP -100

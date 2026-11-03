@@ -1,0 +1,296 @@
+  OPP draws 5  (hand now 5, library 53)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 53
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Heavy Storm, Premature Burial, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, Messenger of Peace, Morphing Jar, Rush Recklessly, Shining Angel
+  [draw phase]
+  OPP draws 1  (hand now 6, library 52)
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 52
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Heavy Storm, Premature Burial, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, Messenger of Peace, Penguin Soldier, Shining Angel
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 4 of 6 in hand]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> 6100
+  [main 2]
+  YOU SETS Heavy Storm (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 52
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Premature Burial
+    OPP hand [exact]: Dimensional Warrior, Messenger of Peace, Penguin Soldier, Shining Angel
+  [draw phase]
+  OPP draws 1  (hand now 5, library 51)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  OPP ACTIVATES Messenger of Peace (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Messenger of Peace
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 51
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Premature Burial
+    OPP hand [partly unknown]: Dimensional Warrior, Fissure, Penguin Soldier, Shining Angel
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 51
+    YOU (recorder) hand [partly unknown]: Blast Sphere, Cannon Soldier, Dark Hole, Premature Burial
+    OPP hand [partly unknown]: Dimensional Warrior, Fissure, Penguin Soldier, Shining Angel
+  [draw phase]
+  OPP draws 1  (hand now 4, library 50)
+  [standby]
+  [main 1]
+  OPP SUMMONS Shining Angel in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Shining Angel (zone 0)
+    YOU loses 1400 LP -> 6600
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6600 / OPP 6100) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 50
+    YOU (recorder) hand [partly unknown]: Blast Sphere, Cannon Soldier, Dark Hole, Premature Burial
+    OPP hand [partly unknown]: Dimensional Warrior, Fissure, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6600 / OPP 6100) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 50
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial   (+1 unknown)
+    OPP hand [partly unknown]: Dimensional Warrior, Fissure, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 49)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Blast Sphere (zone 0)
+    effect: Blast Sphere
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Shining Angel (zone 0)
+    YOU loses 1400 LP -> 5200
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5200 / OPP 6100) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 49
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial   (+1 unknown)
+    OPP hand [partly unknown]: Fissure, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5200 / OPP 6100) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 49
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial   (+1 unknown)
+    OPP hand [partly unknown]: Fissure, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 48)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5200 / OPP 6100) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 48
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial   (+1 unknown)
+    OPP hand [partly unknown]: Fissure   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with face-down Mystic Tomato (zone 0) -> OPP's Shining Angel (zone 0)
+    OPP's Shining Angel (zone 0) is destroyed in battle
+    effect: Shining Angel
+    OPP special summons Shining Angel to zone 0
+  YOU attacks with Slate Warrior (zone 1) -> OPP's Shining Angel (zone 0)
+    OPP's Shining Angel (zone 0) is destroyed in battle
+    OPP loses 1800 LP -> 4300
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5200 / OPP 4300) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 48
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial
+    OPP hand [partly unknown]: Fissure   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 47)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  OPP SUMMONS Jinzo in monster zone 1  [card 1 of 4 in hand]
+    effect: Jinzo
+  [battle phase]
+  OPP attacks DIRECTLY with Jinzo (zone 1)
+    YOU loses 2400 LP -> 2800
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 2800 / OPP 4300) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 47
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Premature Burial
+    OPP hand [partly unknown]: Fissure   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  YOU draws 1  (hand now 5, library 26)
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 3 of 5 in hand]
+  YOU ACTIVATES Dark Hole (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Dark Hole
+  YOU ACTIVATES Premature Burial (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 2000
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    effect: Scapegoat
+  YOU attacks with unknown monster (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 2000 / OPP 4300) ===
+  hand: YOU 2 / OPP 3   library: YOU 26 / OPP 47
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Fissure   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 46)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Heavy Storm
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 600
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 600 / OPP 4300) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 46
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Fissure   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Swords of Revealing Light
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's Jinzo (zone 1)
+    OPP's Jinzo (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 600 / OPP 4300) ===
+  hand: YOU 1 / OPP 2   library: YOU 25 / OPP 46
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Fissure   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 45)
+  [standby]
+  [main 1]
+  OPP SETS Aqua Madoor in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  OPP ACTIVATES The Dark Door (S/T zone 5)  [card 1 of 2 in hand]
+    effect: The Dark Door
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 600 / OPP 4300) ===
+  hand: YOU 1 / OPP 1   library: YOU 25 / OPP 45
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Fissure   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 1  [card 1 of 2 in hand]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 600 / OPP 4300) ===
+  hand: YOU 0 / OPP 1   library: YOU 24 / OPP 45
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Fissure   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 44)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 600 / OPP 4300) ===
+  hand: YOU 0 / OPP 2   library: YOU 24 / OPP 44
+    YOU (recorder) hand [partly unknown]: Cannon Soldier   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Fissure   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Ekibyo Drakmord
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's face-down Aqua Madoor (zone 1)
+    YOU loses 600 LP -> 0
+  [DUEL END]  final LP: YOU 0 / OPP 4300

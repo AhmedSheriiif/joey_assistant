@@ -1,0 +1,519 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Man-Eater Bug, Nimble Momonga, Pot of Greed, Torrential Tribute
+    OPP hand [exact]: 2x Giant Germ, Imperial Order, Penguin Soldier, Pot of Greed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 36)
+  YOU draws 1  (hand now 7, library 35)
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 7 in hand]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Mystic Tomato, Nimble Momonga, Torrential Tribute, Waboku
+    OPP hand [exact]: 2x Giant Germ, Imperial Order, Penguin Soldier, Pot of Greed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 33)
+  OPP draws 1  (hand now 7, library 32)
+  OPP SETS Imperial Order (S/T zone 5)  [card 2 of 7 in hand]
+  OPP ACTIVATES Change of Heart (S/T zone 6)  [card 5 of 6 in hand]
+    effect: Change of Heart
+    effect: Man-Eater Bug
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 5 of 5 in hand]
+  OPP SUMMONS Giant Germ in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 32
+    YOU (recorder) hand [exact]: Ceasefire, Mystic Tomato, Nimble Momonga, Torrential Tribute, Waboku
+    OPP hand [exact]: Giant Germ, Monster Reborn, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Ceasefire (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 32
+    YOU (recorder) hand [exact]: Mystic Tomato, Swords of Revealing Light, Torrential Tribute, Waboku
+    OPP hand [exact]: Giant Germ, Monster Reborn, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 7)  [card 4 of 4 in hand]
+  OPP SETS Monster Reborn (S/T zone 8)  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 1   library: YOU 34 / OPP 31
+    YOU (recorder) hand [partly unknown]: Mystic Tomato, Swords of Revealing Light, Torrential Tribute, Waboku   (+1 unknown)
+    OPP hand [exact]: Giant Germ
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 6000
+  YOU SETS Mystic Tomato in monster zone 2 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Ceasefire
+    YOU loses 2500 LP -> 5500
+
+=== Turn 6: OPP   (LP YOU 5500 / OPP 6000) ===
+  hand: YOU 4 / OPP 1   library: YOU 33 / OPP 31
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light, Waboku   (+2 unknown)
+    OPP hand [exact]: Giant Germ
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6500
+  OPP attacks with face-down Penguin Soldier (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7500
+  [main 2]
+  OPP SETS Giant Germ in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7500 / OPP 6000) ===
+  hand: YOU 6 / OPP 1   library: YOU 33 / OPP 30
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light, Waboku   (+4 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Mystic Tomato (zone 2) -> OPP's Penguin Soldier (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1400 LP -> 6100
+  [main 2]
+  YOU SETS Waboku (S/T zone 7)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 1   library: YOU 32 / OPP 30
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (+5 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 3 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 1   library: YOU 32 / OPP 29
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (+5 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 2) -> OPP's Penguin Soldier (zone 1)
+    OPP's Penguin Soldier (zone 1) is destroyed in battle
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 8)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 1   library: YOU 31 / OPP 29
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (+5 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 1  [card 2 of 2 in hand]
+    effect: Torrential Tribute
+    effect: Monster Reborn
+    OPP special summons Penguin Soldier to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with Penguin Soldier (zone 0)
+    effect: Call Of The Haunted
+    YOU special summons Nimble Momonga to zone 0
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 1   library: YOU 31 / OPP 28
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (+5 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Penguin Soldier (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Penguin Soldier to zone 0
+    YOU special summons Nimble Momonga to zone 0
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Penguin Soldier (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Penguin Soldier to zone 0
+    YOU special summons Nimble Momonga to zone 0
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Penguin Soldier (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Penguin Soldier to zone 0
+    YOU special summons Nimble Momonga to zone 0
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 10 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 4   library: YOU 30 / OPP 28
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Scapegoat
+    effect: Imperial Order
+
+=== Turn 13: YOU   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 4   library: YOU 30 / OPP 27
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6100 / OPP 6000) ===
+  hand: YOU 6 / OPP 4   library: YOU 29 / OPP 27
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 26)
+  [standby]
+    effect: Imperial Order
+    OPP loses 700 LP -> 5300
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 6 / OPP 4   library: YOU 29 / OPP 26
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 4 of 7 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Witch of the Black Forest (zone 1)
+    OPP's Witch of the Black Forest (zone 1) is destroyed in battle
+    effect: Witch of the Black Forest
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's face-down Magician of Faith (zone 2)
+    OPP's Magician of Faith (zone 2) is destroyed in battle
+    effect: Magician of Faith
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 6 / OPP 5   library: YOU 28 / OPP 26
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 25)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Change of Heart (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Change of Heart
+    effect: Waboku
+  OPP SUMMONS Jinzo in monster zone 1  [card 1 of 5 in hand]
+    effect: Jinzo
+  OPP SETS Scapegoat (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 6 / OPP 3   library: YOU 28 / OPP 25
+    YOU (recorder) hand [partly unknown]: Swords of Revealing Light   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 1 of 7 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 6 / OPP 3   library: YOU 27 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+9 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Heavy Storm
+    effect: Scapegoat
+  [battle phase]
+  OPP attacks with Jinzo (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 1000 LP -> 5100
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 6 / OPP 3   library: YOU 27 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+9 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 6 / OPP 3   library: YOU 26 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+9 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Jinzo (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Penguin Soldier (zone 0) -> YOU's face-down Witch of the Black Forest (zone 0)
+    effect: Dimensional Warrior
+  [main 2]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 6 / OPP 3   library: YOU 26 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+9 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 1 of 7 in hand]
+    effect: Nobleman of Crossout
+  YOU SETS Heavy Storm (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 3 / OPP 3   library: YOU 25 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Premature Burial (S/T zone 5)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Jinzo (zone 1) -> YOU's face-down Morphing Jar (zone 0)
+    YOU's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 24)
+  YOU draws 1  (hand now 2, library 23)
+  YOU draws 1  (hand now 3, library 22)
+  YOU draws 1  (hand now 4, library 21)
+  YOU draws 1  (hand now 5, library 20)
+  OPP draws 1  (hand now 1, library 21)
+  OPP draws 1  (hand now 2, library 20)
+  OPP draws 1  (hand now 3, library 19)
+  OPP draws 1  (hand now 4, library 18)
+  OPP draws 1  (hand now 5, library 17)
+  [main 2]
+  OPP ACTIVATES The Forceful Sentry (S/T zone 6)  [card 4 of 5 in hand]
+    effect: The Forceful Sentry
+  OPP SETS Scapegoat (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 5 / OPP 3   library: YOU 20 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 19)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 5100 / OPP 5300) ===
+  hand: YOU 5 / OPP 3   library: YOU 19 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 16)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Raigeki (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Raigeki
+    effect: Sangan
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 2 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 4500
+    OPP special summons Magician of Faith to zone 0
+  OPP SUMMONS Mystic Tomato in monster zone 2  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Magician of Faith (zone 0)
+    YOU loses 1900 LP -> 3200
+  OPP attacks DIRECTLY with Jinzo (zone 1)
+    effect: Kuriboh
+  OPP attacks DIRECTLY with Mystic Tomato (zone 2)
+    YOU loses 1400 LP -> 1800
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 1800 / OPP 4500) ===
+  hand: YOU 6 / OPP 1   library: YOU 19 / OPP 16
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 18)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  YOU SETS Scapegoat (S/T zone 5)  [card 4 of 7 in hand]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 1800 / OPP 4500) ===
+  hand: YOU 5 / OPP 1   library: YOU 18 / OPP 16
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 15)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Jinzo (zone 1) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  OPP attacks DIRECTLY with Mystic Tomato (zone 2)
+    effect: Scapegoat
+  OPP attacks with Mystic Tomato (zone 2) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 1800 / OPP 4500) ===
+  hand: YOU 5 / OPP 2   library: YOU 18 / OPP 15
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 16)
+  YOU draws 1  (hand now 7, library 15)
+  YOU ACTIVATES Dark Hole (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Dark Hole
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 1000
+    YOU special summons a monster to zone 0
+  YOU ACTIVATES Giant Trunade (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Giant Trunade
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 200
+    YOU special summons a monster to zone 1
+  YOU SETS Magic Jammer (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 7)  [card 1 of 2 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 8)  [card 1 of 1 in hand]
+    effect: Monster Reborn
+    YOU special summons a monster to zone 2
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    effect: Kuriboh
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1900 LP -> 2600
+  YOU attacks DIRECTLY with unknown monster (zone 1)
+    OPP loses 1400 LP -> 1200
+  [main 2]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 700
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 200
+    effect: Cannon Soldier
+    OPP loses 500 LP -> -300
+  [DUEL END]  final LP: YOU 200 / OPP -300

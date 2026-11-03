@@ -1,0 +1,147 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 38)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 35
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Morphing Jar, Penguin Soldier, Ring of Destruction
+    OPP (recorder) hand [exact]: Mystical Space Typhoon, Nimble Momonga, Ring of Destruction, Solemn Judgment, Time Machine
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 2 of 4 in hand]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 38 / OPP 34
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Morphing Jar, Penguin Soldier, Ring of Destruction
+    OPP (recorder) hand [exact]: Premature Burial, Time Machine
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 2 of 5 in hand]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 37 / OPP 34
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Morphing Jar
+    OPP (recorder) hand [exact]: Premature Burial, Time Machine
+  [draw phase]
+  OPP draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 33
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Morphing Jar
+    OPP (recorder) hand [exact]: Left Arm of the Forbidden One, Premature Burial, Time Machine
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Morphing Jar in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 33
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Sinister Serpent
+    OPP (recorder) hand [exact]: Left Arm of the Forbidden One, Premature Burial, Time Machine
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 0) -> YOU's face-down Morphing Jar (zone 1)
+    effect: Ring of Destruction
+    OPP loses 1000 LP -> 7000
+    YOU loses 1000 LP -> 7000
+  [main 2]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 32
+    YOU hand [exact]: Dream Clown, Kinetic Soldier, Sinister Serpent
+    OPP (recorder) hand [exact]: Left Arm of the Forbidden One, Premature Burial, Time Machine
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Mystical Space Typhoon
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 34)
+  YOU draws 1  (hand now 2, library 33)
+  YOU draws 1  (hand now 3, library 32)
+  YOU draws 1  (hand now 4, library 31)
+  YOU draws 1  (hand now 5, library 30)
+  OPP draws 1  (hand now 1, library 31)
+  OPP draws 1  (hand now 2, library 30)
+  OPP draws 1  (hand now 3, library 29)
+  OPP draws 1  (hand now 4, library 28)
+  OPP draws 1  (hand now 5, library 27)
+    effect: Penguin Soldier
+  YOU SUMMONS Giant Rat in monster zone 0  [card 4 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 5600
+  YOU attacks DIRECTLY with face-down Morphing Jar (zone 1)
+    OPP loses 700 LP -> 4900
+  [main 2]
+  YOU SETS Trap Hole (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 4900) ===
+  hand: YOU 4 / OPP 5   library: YOU 30 / OPP 27
+    YOU hand [exact]: Dimensional Warrior, Monster Reborn, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Graceful Charity, Morphing Jar, Right Arm of the Forbidden One, Sangan, Upstart Goblin
+  [draw phase]
+  OPP draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Upstart Goblin (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Upstart Goblin
+  OPP draws 1  (hand now 6, library 25)
+    YOU gains 1000 LP -> 8000
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 24)
+  OPP draws 1  (hand now 5, library 23)
+  OPP draws 1  (hand now 6, library 22)
+  OPP ACTIVATES Painful Choice (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Painful Choice
+  OPP SUMMONS Sangan in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Giant Rat (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 4500
+    effect: Sangan
+  [main 2]
+  OPP SETS Backup Soldier (S/T zone 5)  [card 1 of 5 in hand]
+  OPP SETS Waboku (S/T zone 6)  [card 1 of 4 in hand]
+  OPP SETS The Shallow Grave (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 4500) ===
+  hand: YOU 4 / OPP 2   library: YOU 30 / OPP 22
+    YOU hand [exact]: Dimensional Warrior, Monster Reborn, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Morphing Jar, Mystic Tomato, Right Arm of the Forbidden One   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 29)
+    effect: Backup Soldier
+  [DUEL END]  final LP: YOU 8000 / OPP 4500

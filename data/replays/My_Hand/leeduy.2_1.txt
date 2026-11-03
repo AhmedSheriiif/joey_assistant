@@ -1,0 +1,232 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 37
+    YOU hand [exact]: 4-Starred Ladybug of Doom, 2x Flying Kamakiri #1, Last Will, Slate Warrior
+    OPP (recorder) hand [exact]: Kinetic Soldier, Mage Power, Man-Eater Bug, Skull Lair, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Flying Kamakiri #1 in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Last Will (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 37
+    YOU hand [exact]: 4-Starred Ladybug of Doom, Flying Kamakiri #1, Harpie's Brother, Slate Warrior
+    OPP (recorder) hand [exact]: Kinetic Soldier, Mage Power, Man-Eater Bug, Skull Lair, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 36
+    YOU hand [exact]: 4-Starred Ladybug of Doom, Flying Kamakiri #1, Harpie's Brother, Slate Warrior
+    OPP (recorder) hand [exact]: Graceful Charity, Kinetic Soldier, Mage Power, Skull Lair
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 36
+    YOU hand [exact]: Flying Kamakiri #1, Giant Trunade, Harpie's Brother, Slate Warrior
+    OPP (recorder) hand [exact]: Graceful Charity, Kinetic Soldier, Mage Power, Skull Lair
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  OPP SUMMONS Kinetic Soldier in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Kinetic Soldier (zone 1) -> YOU's face-down Flying Kamakiri #1 (zone 0)
+    YOU's face-down Flying Kamakiri #1 (zone 0) is destroyed in battle
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [main 2]
+  OPP SETS Skull Lair (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 33 / OPP 35
+    YOU hand [partly unknown]: Flying Kamakiri #1, Giant Trunade, Harpie's Brother, Slate Warrior   (+1 unknown)
+    OPP (recorder) hand [exact]: Crush Card, Graceful Charity, Mage Power
+  [draw phase]
+  YOU draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 6)  [card 5 of 6 in hand]
+  YOU SETS Flying Kamakiri #1 in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 32 / OPP 35
+    YOU hand [partly unknown]: Giant Trunade, Harpie's Brother, Slate Warrior   (+1 unknown)
+    OPP (recorder) hand [exact]: Crush Card, Graceful Charity, Mage Power
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Crush Card (S/T zone 7)  [card 3 of 4 in hand]
+  OPP SETS Graceful Charity (S/T zone 8)  [card 2 of 3 in hand]
+  OPP ACTIVATES Mage Power (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks with Kinetic Soldier (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    effect: Dust Tornado
+    OPP's Kinetic Soldier (zone 1) is destroyed in battle
+    OPP loses 150 LP -> 7850
+  [main 2]
+  OPP SETS Giant Germ in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7850) ===
+  hand: YOU 4 / OPP 0   library: YOU 32 / OPP 34
+    YOU hand [partly unknown]: Giant Trunade, Harpie's Brother, Slate Warrior   (+1 unknown)
+    OPP (recorder) hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Change of Heart (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Change of Heart
+  YOU SETS Slate Warrior in monster zone 3 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Giant Trunade (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 7850) ===
+  hand: YOU 2 / OPP 0   library: YOU 31 / OPP 34
+    YOU hand [partly unknown]: Harpie's Brother   (+1 unknown)
+    OPP (recorder) hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Giant Germ (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    OPP's Giant Germ (zone 1) is destroyed in battle
+    OPP loses 100 LP -> 7750
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 1
+    OPP special summons Giant Germ to zone 2
+    effect: Crush Card
+  OPP attacks with Giant Germ (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+  [main 2]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 32)
+  OPP draws 1  (hand now 2, library 31)
+  OPP draws 1  (hand now 3, library 30)
+  OPP SETS Monster Reborn (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS Giant Rat in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7500 / OPP 7750) ===
+  hand: YOU 3 / OPP 1   library: YOU 31 / OPP 30
+    YOU hand [partly unknown]: Harpie's Brother   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+    effect: Skull Lair
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Flying Kamakiri #1 to zone 1
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 1) -> OPP's Giant Germ (zone 1)
+    OPP's Giant Germ (zone 1) is destroyed in battle
+    OPP loses 600 LP -> 7150
+    effect: Giant Germ
+    YOU loses 500 LP -> 7000
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's face-down Giant Rat (zone 2)
+    OPP's Giant Rat (zone 2) is destroyed in battle
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 1
+  [main 2]
+  YOU SETS Morphing Jar in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7000 / OPP 7150) ===
+  hand: YOU 4 / OPP 3   library: YOU 30 / OPP 30
+    YOU hand [partly unknown]: Harpie's Brother   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Skull Lair (S/T zone 5)  [card 2 of 4 in hand]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 2 of 3 in hand]
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    OPP special summons Giant Rat to zone 3
+    effect: Dream Clown
+  [battle phase]
+  OPP attacks with Giant Rat (zone 3) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    YOU loses 1300 LP -> 5700
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5700 / OPP 7150) ===
+  hand: YOU 4 / OPP 1   library: YOU 30 / OPP 29
+    YOU hand [partly unknown]: Harpie's Brother   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 29)
+    effect: Skull Lair
+  [standby]
+  [main 1]
+  YOU SETS Seven Tools of the Bandit (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5700 / OPP 7150) ===
+  hand: YOU 4 / OPP 1   library: YOU 29 / OPP 29
+    YOU hand [partly unknown]: Harpie's Brother   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Rush Recklessly (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Rush Recklessly
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Monster Reborn
+    OPP special summons Giant Rat to zone 4
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 3)
+    YOU loses 1900 LP -> 3800
+  OPP attacks DIRECTLY with Giant Rat (zone 1)
+    YOU loses 1900 LP -> 1900
+  OPP attacks DIRECTLY with Giant Rat (zone 4)
+    YOU loses 1400 LP -> 500
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 50
+  OPP attacks DIRECTLY with face-down Magician of Faith (zone 2)
+    YOU loses 300 LP -> -250
+  [DUEL END]  final LP: YOU -250 / OPP 7150

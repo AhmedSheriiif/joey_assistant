@@ -1,0 +1,362 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Giant Germ, Imperial Order, Skull Lair, Trap Hole
+    OPP hand [exact]: Magic Jammer, Mirror Wall, Seven Tools of the Bandit, Summoned Skull, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, Garuda the Wind Spirit, Imperial Order, Skull Lair
+    OPP hand [exact]: Magic Jammer, Mirror Wall, Seven Tools of the Bandit, Summoned Skull, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 5)  [card 3 of 6 in hand]
+  OPP SETS Mirror Wall (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, Garuda the Wind Spirit, Imperial Order, Skull Lair
+    OPP hand [exact]: Magic Jammer, Megamorph, Summoned Skull
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Flying Kamakiri #1 in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Imperial Order (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Monster Reborn, Skull Lair
+    OPP hand [exact]: Magic Jammer, Megamorph, Summoned Skull
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Mother Grizzly in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  OPP SETS Magic Jammer (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Monster Reborn, Skull Lair
+    OPP hand [exact]: Megamorph, Summoned Skull
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Flying Kamakiri #1 (zone 1) -> OPP's face-down Mother Grizzly (zone 1)
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 1
+  [main 2]
+  YOU SETS Skull Lair (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 33
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Monster Reborn
+    OPP hand [partly unknown]: Megamorph, Summoned Skull   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Jar of Greed (S/T zone 8)  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    effect: Mother Grizzly
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+    OPP special summons Mother Grizzly to zone 1
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    effect: Mother Grizzly
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+    OPP special summons Mother Grizzly to zone 1
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    effect: Rush Recklessly
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    OPP loses 600 LP -> 7400
+    effect: Revival Jam
+    OPP loses 1000 LP -> 6400
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6400) ===
+  hand: YOU 4 / OPP 5   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit, Monster Reborn   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, Summoned Skull   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 1) -> OPP's face-down Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [main 2]
+  YOU SETS Mask of Darkness in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 6400) ===
+  hand: YOU 4 / OPP 6   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit, Monster Reborn   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, Summoned Skull   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 31)
+  [standby]
+    effect: Revival Jam
+    OPP special summons Witch of the Black Forest to zone 0
+  [main 1]
+    effect: Jar of Greed
+  OPP draws 1  (hand now 8, library 30)
+  OPP SUMMONS Summoned Skull in monster zone 0  [card 2 of 8 in hand]
+    effect: Trap Hole
+    OPP special summons Witch of the Black Forest to zone 0
+  OPP SETS Windstorm of Etaqua (S/T zone 8)  [card 3 of 7 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    YOU loses 200 LP -> 7800
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Skull Lair
+
+=== Turn 9: YOU   (LP YOU 7800 / OPP 6400) ===
+  hand: YOU 5 / OPP 6   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit, Monster Reborn   (+3 unknown)
+    OPP hand [partly unknown]: Megamorph   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystic Box (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Mystic Box
+    effect: Magic Jammer
+    YOU special summons Flying Kamakiri #1 to zone 1
+  [battle phase]
+  YOU attacks with face-down Giant Germ (zone 0) -> OPP's Witch of the Black Forest (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    YOU loses 600 LP -> 7200
+    effect: Giant Germ
+    OPP loses 500 LP -> 5900
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 3
+  YOU attacks with Flying Kamakiri #1 (zone 1) -> OPP's Witch of the Black Forest (zone 0)
+    effect: Mirror Wall
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    YOU loses 800 LP -> 6400
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6400 / OPP 5900) ===
+  hand: YOU 6 / OPP 6   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit, Monster Reborn   (+4 unknown)
+    OPP hand [partly unknown]: Megamorph   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's Giant Germ (zone 3)
+    YOU's Giant Germ (zone 3) is destroyed in battle
+    YOU loses 600 LP -> 5800
+    effect: Giant Germ
+    OPP loses 500 LP -> 5400
+  [main 2]
+  OPP SETS Masked Sorcerer in monster zone 1 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5800 / OPP 5400) ===
+  hand: YOU 7 / OPP 6   library: YOU 30 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit, Monster Reborn   (+5 unknown)
+    OPP hand [partly unknown]: Megamorph   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 29)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  YOU ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 8 in hand]
+    effect: Monster Reborn
+    YOU special summons Giant Germ to zone 1
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's Witch of the Black Forest (zone 0)
+    effect: Windstorm of Etaqua
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 7 in hand]
+    effect: Mask of Darkness
+  YOU SETS Trap Hole (S/T zone 8)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5800 / OPP 5400) ===
+  hand: YOU 5 / OPP 6   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Megamorph   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+    OPP special summons Witch of the Black Forest to zone 2
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's face-down Mask of Darkness (zone 2)
+    YOU's face-down Mask of Darkness (zone 2) is destroyed in battle
+    YOU loses 700 LP -> 5100
+  OPP attacks with Witch of the Black Forest (zone 2) -> YOU's Giant Germ (zone 1)
+    effect: Skull Lair
+  [main 2]
+  OPP ACTIVATES Megamorph (S/T zone 6)  [card 1 of 7 in hand]
+    effect: Megamorph
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 13: YOU   (LP YOU 5100 / OPP 5400) ===
+  hand: YOU 5 / OPP 6   library: YOU 29 / OPP 28
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 28)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's Witch of the Black Forest (zone 0)
+    effect: Imperial Order
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    OPP loses 900 LP -> 4500
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Masked Sorcerer (zone 1)
+    YOU loses 400 LP -> 4700
+    effect: Masked Sorcerer
+  OPP draws 1  (hand now 7, library 27)
+  [main 2]
+  YOU SETS Mask of Darkness in monster zone 2 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 4700 / OPP 4500) ===
+  hand: YOU 5 / OPP 7   library: YOU 28 / OPP 27
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: -   (+7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 5)  [card 2 of 8 in hand]
+  OPP SETS Pot of Greed (S/T zone 7)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 4700 / OPP 4500) ===
+  hand: YOU 5 / OPP 6   library: YOU 28 / OPP 26
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+    effect: Imperial Order
+    YOU loses 700 LP -> 4000
+  [main 1]
+  YOU SETS Michizure (S/T zone 5)  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's Masked Sorcerer (zone 1)
+    OPP's Masked Sorcerer (zone 1) is destroyed in battle
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 3500
+  [main 2]
+    effect: Mask of Darkness
+  YOU SETS Dust Tornado (S/T zone 9)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 4000 / OPP 3500) ===
+  hand: YOU 4 / OPP 6   library: YOU 27 / OPP 26
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  OPP SETS White Magical Hat in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 4000 / OPP 3500) ===
+  hand: YOU 4 / OPP 6   library: YOU 27 / OPP 25
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+    effect: Imperial Order
+    YOU loses 700 LP -> 3300
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down White Magical Hat (zone 0)
+    OPP's White Magical Hat (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 2500
+  YOU attacks DIRECTLY with face-down Mask of Darkness (zone 2)
+    OPP loses 900 LP -> 1600
+  [main 2]
+  YOU SETS Greenkappa in monster zone 3 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 3300 / OPP 1600) ===
+  hand: YOU 4 / OPP 6   library: YOU 26 / OPP 25
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Wall (S/T zone 8)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 19: YOU   (LP YOU 3300 / OPP 1600) ===
+  hand: YOU 4 / OPP 6   library: YOU 26 / OPP 24
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 25)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+    effect: Greenkappa
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Germ (zone 1)
+    OPP loses 5000 LP -> -3400
+  [DUEL END]  final LP: YOU 3300 / OPP -3400

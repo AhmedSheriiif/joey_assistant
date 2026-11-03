@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "joey-web-viewer",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:/Users/ahmed/OneDrive/Desktop/joey_web_game/server/server.js", "--art"],
+      "port": 8123
+    }
+  ]
+}

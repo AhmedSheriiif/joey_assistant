@@ -1,0 +1,220 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU hand [exact]: Dark Hole, Hoshiningen, Magic Cylinder, Morphing Jar, Shining Angel
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, 2x Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Shining Angel in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 36
+    YOU hand [exact]: Dark Hole, Hoshiningen, Morphing Jar, White Magical Hat
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, 2x Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Blast Sphere in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 35
+    YOU hand [exact]: Dark Hole, Hoshiningen, Morphing Jar, White Magical Hat
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS White Magical Hat in monster zone 1  [card 4 of 5 in hand]
+  [battle phase]
+  YOU attacks with face-down Shining Angel (zone 0) -> OPP's face-down Blast Sphere (zone 0)
+    effect: Blast Sphere
+  YOU attacks DIRECTLY with White Magical Hat (zone 1)
+    OPP loses 1000 LP -> 7000
+    effect: White Magical Hat
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 35
+    YOU hand [exact]: Dark Hole, Hoshiningen, Morphing Jar, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 7)  [card 4 of 5 in hand]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's White Magical Hat (zone 1)
+    YOU's White Magical Hat (zone 1) is destroyed in battle
+    YOU loses 600 LP -> 7400
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7400 / OPP 7000) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 34
+    YOU hand [exact]: Dark Hole, Hoshiningen, Morphing Jar, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+    effect: Blast Sphere
+    YOU loses 1400 LP -> 6000
+  [main 1]
+    YOU special summons White Magical Hat to zone 0
+  YOU SUMMONS Hoshiningen in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with White Magical Hat (zone 0) -> OPP's Bazoo the Soul-Eater (zone 0)
+    effect: Magic Cylinder
+    YOU loses 2500 LP -> 3500
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 3500 / OPP 7000) ===
+  hand: YOU 4 / OPP 3   library: YOU 32 / OPP 34
+    YOU hand [exact]: Dark Hole, Mirror Force, Morphing Jar, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 2 of 4 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Hoshiningen (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1600 LP -> 5400
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's White Magical Hat (zone 0)
+    OPP's Dimensional Warrior (zone 1) is destroyed in battle
+    OPP loses 1600 LP -> 3800
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 3500 / OPP 3800) ===
+  hand: YOU 4 / OPP 3   library: YOU 32 / OPP 33
+    YOU hand [exact]: Dark Hole, Mirror Force, Morphing Jar, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Robbin' Goblin (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 3 of 4 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 3500 / OPP 3800) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 33
+    YOU hand [exact]: Dark Hole, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Hoshiningen (zone 1)
+    effect: Mirror Force
+    effect: Call Of The Haunted
+    OPP special summons Dimensional Warrior to zone 0
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's Hoshiningen (zone 1)
+    YOU's Hoshiningen (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS Blast Sphere in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 3500 / OPP 3800) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 32
+    YOU hand [exact]: Dark Hole, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Crass Clown, Dimensional Warrior, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Dark Hole (S/T zone 6)  [card 1 of 3 in hand]
+  YOU SETS Nobleman of Crossout (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 29)
+  YOU draws 1  (hand now 2, library 28)
+  YOU draws 1  (hand now 3, library 27)
+  YOU draws 1  (hand now 4, library 26)
+  YOU draws 1  (hand now 5, library 25)
+  OPP draws 1  (hand now 1, library 31)
+  OPP draws 1  (hand now 2, library 30)
+  OPP draws 1  (hand now 3, library 29)
+  OPP draws 1  (hand now 4, library 28)
+  OPP draws 1  (hand now 5, library 27)
+    effect: Dark Hole
+  YOU SUMMONS White Magical Hat in monster zone 0  [card 2 of 5 in hand]
+  YOU ACTIVATES Luminous Spark (S/T zone 10)  [card 3 of 4 in hand]
+    effect: Luminous Spark
+    effect: Robbin' Goblin
+  [battle phase]
+  YOU attacks DIRECTLY with White Magical Hat (zone 0)
+    OPP loses 1500 LP -> 2300
+    effect: White Magical Hat
+    effect: Robbin' Goblin
+  [main 2]
+  YOU ACTIVATES Confiscation (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Confiscation
+    YOU loses 1000 LP -> 2500
+  YOU SETS Waboku (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 2500 / OPP 2300) ===
+  hand: YOU 1 / OPP 5   library: YOU 25 / OPP 27
+    YOU hand [exact]: Copycat
+    OPP (recorder) hand [exact]: Blast Sphere, Ceasefire, Mage Power, Mystical Space Typhoon, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 1500
+    OPP special summons Dimensional Warrior to zone 0
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's White Magical Hat (zone 0)
+    effect: Waboku
+  [main 2]
+  OPP SETS Blast Sphere in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 2500 / OPP 1500) ===
+  hand: YOU 1 / OPP 4   library: YOU 25 / OPP 26
+    YOU hand [exact]: Copycat
+    OPP (recorder) hand [exact]: Ceasefire, Mage Power, Mystical Space Typhoon, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Copycat in monster zone 1  [card 1 of 2 in hand]
+    effect: Copycat
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Monster Reborn
+    YOU special summons Hoshiningen to zone 2
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks with Copycat (zone 1) -> OPP's Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 1400
+    effect: Robbin' Goblin
+  YOU attacks DIRECTLY with White Magical Hat (zone 0)
+    OPP loses 2000 LP -> -600
+  [DUEL END]  final LP: YOU 2500 / OPP -600

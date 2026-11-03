@@ -1,0 +1,229 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Imperial Order, Pot of Greed, Princess of Tsurugi, Tremendous Fire
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 35)
+  YOU draws 1  (hand now 7, library 34)
+  YOU SETS Solemn Wishes (S/T zone 5)  [card 5 of 7 in hand]
+  YOU SETS Ceasefire (S/T zone 6)  [card 4 of 6 in hand]
+  YOU SETS Imperial Order (S/T zone 7)  [card 1 of 5 in hand]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Princess of Tsurugi, Tremendous Fire
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 3 of 6 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 7500
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Solemn Wishes
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7500) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 34
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Princess of Tsurugi, Tremendous Fire   (+1 unknown)
+    OPP hand [exact]: Kinetic Soldier, Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 8500
+  [standby]
+  [main 1]
+  YOU SETS Amazon Archer in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8500 / OPP 7500) ===
+  hand: YOU 4 / OPP 5   library: YOU 33 / OPP 34
+    YOU (recorder) hand [partly unknown]: Princess of Tsurugi, Tremendous Fire   (+2 unknown)
+    OPP hand [exact]: Kinetic Soldier, Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Amazon Archer (zone 2)
+    YOU's Amazon Archer (zone 2) is destroyed in battle
+  [main 2]
+  OPP SETS Kinetic Soldier in monster zone 1 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8500 / OPP 7500) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: Princess of Tsurugi, Tremendous Fire   (+2 unknown)
+    OPP hand [exact]: Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 9000
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 5500
+  YOU SETS Waboku (S/T zone 6)  [card 4 of 5 in hand]
+  YOU SETS Mask of Darkness in monster zone 2 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Ceasefire
+    YOU loses 2500 LP -> 6500
+
+=== Turn 6: OPP   (LP YOU 6500 / OPP 5500) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 33
+    YOU (recorder) hand [partly unknown]: Princess of Tsurugi, Tremendous Fire   (+1 unknown)
+    OPP hand [exact]: Man-Eater Bug, Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Kinetic Soldier (zone 1) -> YOU's face-down Mask of Darkness (zone 2)
+    YOU's face-down Mask of Darkness (zone 2) is destroyed in battle
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 5000
+  [main 2]
+  OPP SETS Man-Eater Bug in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6500 / OPP 5000) ===
+  hand: YOU 4 / OPP 3   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Princess of Tsurugi, Tremendous Fire   (+2 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 7000
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Man-Eater Bug (zone 2)
+    effect: Ring of Destruction
+    YOU loses 1000 LP -> 6000
+    OPP loses 1000 LP -> 4000
+  [main 2]
+  YOU ACTIVATES Messenger of Peace (S/T zone 8)  [card 3 of 5 in hand]
+    effect: Messenger of Peace
+  YOU SETS Princess of Tsurugi in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Tremendous Fire (S/T zone 9)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6000 / OPP 4000) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  [battle phase]
+  OPP attacks DIRECTLY with Kinetic Soldier (zone 1)
+    YOU loses 1350 LP -> 4650
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 2)
+    YOU loses 450 LP -> 4200
+  [main 2]
+  OPP SETS Seven Tools of the Bandit (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 4200 / OPP 4000) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 4700
+  [standby]
+    effect: Messenger of Peace
+    YOU loses 100 LP -> 4600
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 4600 / OPP 4000) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Kinetic Soldier (zone 1)
+    YOU loses 1350 LP -> 3250
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 3 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 3250 / OPP 4000) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 3750
+  [standby]
+    effect: Messenger of Peace
+    YOU loses 100 LP -> 3650
+  [main 1]
+  YOU SETS Princess of Tsurugi in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 3650 / OPP 4000) ===
+  hand: YOU 3 / OPP 3   library: YOU 29 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Monster Reborn, Morphing Jar, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Tribute to The Doomed
+    effect: Imperial Order
+    effect: Seven Tools of the Bandit
+    OPP loses 1000 LP -> 3000
+  [battle phase]
+  OPP attacks DIRECTLY with Kinetic Soldier (zone 1)
+    YOU loses 1350 LP -> 2300
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 2)
+    YOU loses 450 LP -> 1850
+  [main 2]
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 3 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 4
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 650
+    effect: Amazon Archer
+    YOU loses 1200 LP -> -550
+  [DUEL END]  final LP: YOU -550 / OPP 3000

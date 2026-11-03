@@ -1,0 +1,276 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Giant Rat, Magician of Faith, Morphing Jar, Mystical Space Typhoon, Premature Burial
+    OPP hand [exact]: Fissure, Greenkappa, Last Will, Nimble Momonga, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Magician of Faith, Morphing Jar, Premature Burial, The Rock Spirit
+    OPP hand [exact]: Fissure, Greenkappa, Last Will, Nimble Momonga, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Fissure (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SETS Last Will (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Premature Burial (S/T zone 7)  [card 1 of 4 in hand]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 38 / OPP 38
+    YOU (recorder) hand [exact]: Magician of Faith, Morphing Jar, Premature Burial, The Rock Spirit
+    OPP hand [exact]: Nimble Momonga, Sangan
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Giant Rat (zone 0) -> OPP's face-down Greenkappa (zone 0)
+    OPP's Greenkappa (zone 0) is destroyed in battle
+    effect: Greenkappa
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Premature Burial (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 37 / OPP 38
+    YOU (recorder) hand [exact]: Giant Rat, Morphing Jar, The Rock Spirit
+    OPP hand [exact]: Nimble Momonga, Sangan
+  [draw phase]
+  OPP draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Magician of Faith (zone 1)
+    YOU's Magician of Faith (zone 1) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+    effect: Fissure
+  OPP SETS Mage Power (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 37 / OPP 37
+    YOU (recorder) hand [exact]: Giant Rat, Morphing Jar, The Rock Spirit
+    OPP hand [exact]: Sangan
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 36 / OPP 37
+    YOU (recorder) hand [exact]: Giant Rat, Morphing Jar, The Rock Spirit
+    OPP hand [exact]: Sangan
+  [draw phase]
+  OPP draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 35)
+  OPP draws 1  (hand now 2, library 34)
+  OPP draws 1  (hand now 3, library 33)
+  OPP SUMMONS Sangan in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  OPP attacks DIRECTLY with Sangan (zone 1)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 36 / OPP 33
+    YOU (recorder) hand [exact]: Giant Rat, Morphing Jar, The Rock Spirit
+    OPP hand [exact]: Dream Clown, Giant Trunade, United We Stand   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 400 LP -> 7600
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7000 / OPP 7600) ===
+  hand: YOU 3 / OPP 3   library: YOU 35 / OPP 33
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade, United We Stand   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 3 of 4 in hand]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7000 / OPP 7600) ===
+  hand: YOU 3 / OPP 2   library: YOU 35 / OPP 32
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade, United We Stand   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+    YOU special summons Man-Eater Bug to zone 0
+  YOU SETS Scapegoat (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7000 / OPP 7600) ===
+  hand: YOU 3 / OPP 2   library: YOU 34 / OPP 32
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade, United We Stand   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 8)  [card 2 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 6800
+    OPP special summons Man-Eater Bug to zone 0
+  OPP SETS United We Stand (S/T zone 9)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7000 / OPP 6800) ===
+  hand: YOU 3 / OPP 1   library: YOU 34 / OPP 31
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 0) -> OPP's Man-Eater Bug (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1700 LP -> 5300
+    OPP loses 1700 LP -> 5100
+  [main 2]
+  YOU ACTIVATES Monster Reborn (S/T zone 8)  [card 2 of 4 in hand]
+    effect: Monster Reborn
+    YOU special summons Man-Eater Bug to zone 0
+    effect: Torrential Tribute
+    effect: Sangan
+    effect: Premature Burial
+    YOU loses 800 LP -> 4500
+    YOU special summons Man-Eater Bug to zone 0
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4500 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 31
+    YOU (recorder) hand [exact]: Giant Trunade, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 4500 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 30
+    YOU (recorder) hand [exact]: Giant Trunade, Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 8)  [card 3 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 31)
+  YOU draws 1  (hand now 5, library 30)
+  YOU ACTIVATES Giant Trunade (S/T zone 8)  [card 2 of 5 in hand]
+    effect: Giant Trunade
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 3 of 4 in hand]
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 3700
+    YOU special summons Man-Eater Bug to zone 2
+  [battle phase]
+  YOU attacks with Amazon Archer (zone 1) -> OPP's face-down Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 0)
+    OPP loses 1700 LP -> 3400
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 2)
+    OPP loses 1400 LP -> 2000
+  [main 2]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 800
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SETS Waboku (S/T zone 6)  [card 1 of 3 in hand]
+  YOU SETS Scapegoat (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 3700 / OPP 800) ===
+  hand: YOU 1 / OPP 3   library: YOU 30 / OPP 30
+    YOU (recorder) hand [exact]: Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Monster Reborn
+    effect: Waboku
+    OPP special summons Witch of the Black Forest to zone 0
+  OPP SUMMONS Jinzo in monster zone 0  [card 1 of 3 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  OPP SETS Mage Power (S/T zone 5)  [card 3 of 3 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 2 of 2 in hand]
+  OPP SETS United We Stand (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+    effect: Scapegoat
+
+=== Turn 15: YOU   (LP YOU 3700 / OPP 800) ===
+  hand: YOU 1 / OPP 0   library: YOU 30 / OPP 29
+    YOU (recorder) hand [exact]: Morphing Jar, The Rock Spirit
+    OPP hand [partly unknown]: Dream Clown, Giant Trunade   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Amazon Archer
+    effect: Mystical Space Typhoon
+    OPP loses 1200 LP -> -400
+  [DUEL END]  final LP: YOU 3700 / OPP -400

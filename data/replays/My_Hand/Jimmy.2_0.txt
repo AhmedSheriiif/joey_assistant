@@ -1,0 +1,638 @@
+  OPP draws 5  (hand now 5, library 38)
+  YOU draws 5  (hand now 5, library 43)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 43 / OPP 38
+    YOU hand [exact]: 4-Starred Ladybug of Doom, Mystic Box, Mystical Space Typhoon, Nobleman of Crossout, Scapegoat
+    OPP (recorder) hand [exact]: 3x Mystic Tomato, Scapegoat, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 43 / OPP 37
+    YOU hand [exact]: 4-Starred Ladybug of Doom, Mystic Box, Mystical Space Typhoon, Nobleman of Crossout, Scapegoat
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 37
+    YOU hand [exact]: Mystic Box, Mystical Space Typhoon, Nobleman of Crossout
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 35)
+  OPP draws 1  (hand now 4, library 34)
+  OPP draws 1  (hand now 5, library 33)
+  [battle phase]
+  OPP attacks with face-down Mystic Tomato (zone 0) -> YOU's face-down 4-Starred Ladybug of Doom (zone 0)
+    YOU's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 33
+    YOU hand [exact]: Mystic Box, Mystical Space Typhoon, Nobleman of Crossout
+    OPP (recorder) hand [exact]: Heavy Storm, Mirror Force, 2x Mystic Tomato, Snatch Steal, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 41)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 41 / OPP 33
+    YOU hand [exact]: Mystic Box, Nobleman of Crossout
+    OPP (recorder) hand [exact]: Heavy Storm, Mirror Force, 2x Mystic Tomato, Snatch Steal, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 4 of 5 in hand]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 6: YOU   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 41 / OPP 32
+    YOU hand [partly unknown]: Mystic Box, Nobleman of Crossout   (+1 unknown)
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Mystical Space Typhoon, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 40)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Nobleman of Crossout
+    effect: Ring of Destruction
+    OPP loses 1000 LP -> 7000
+    YOU loses 1000 LP -> 8000
+  [battle phase]
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Scapegoat
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 2 / OPP 3   library: YOU 40 / OPP 32
+    YOU hand [partly unknown]: Mystic Box   (+1 unknown)
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Mystical Space Typhoon, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 2 / OPP 3   library: YOU 40 / OPP 31
+    YOU hand [partly unknown]: Mystic Box   (+1 unknown)
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 39)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Witch of the Black Forest (zone 1)
+    OPP's Witch of the Black Forest (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 39 / OPP 31
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Mirror Force, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 39 / OPP 30
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Magic Jammer, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 38)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Nimble Momonga (zone 1)
+    effect: Mirror Force
+  [main 2]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 38 / OPP 30
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Magic Jammer, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 38 / OPP 29
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Magic Jammer, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 29
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Magic Jammer, 2x Mystic Tomato, Snatch Steal, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 7)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 28
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Magic Jammer, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 7)  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Mystic Tomato (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> 6600
+    OPP loses 1400 LP -> 5600
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 28
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Magic Jammer, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Magic Jammer (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 27
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Michizure (S/T zone 8)  [card 3 of 4 in hand]
+    effect: Call Of The Haunted
+    YOU special summons Nimble Momonga to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Mystical Space Typhoon
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 35 / OPP 27
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 35 / OPP 26
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 1  [card 3 of 4 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Jinzo (zone 1)
+    effect: Kuriboh
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 26
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 3 of 4 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 25
+    YOU hand [partly unknown]: Mystic Box   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 25
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 24
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 6600 / OPP 5600) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 24
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 23)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 9)  [card 3 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS Cannon Soldier in monster zone 0  [card 3 of 4 in hand]
+  OPP ACTIVATES Snatch Steal (S/T zone 9)  [card 1 of 3 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    effect: Scapegoat
+  OPP attacks with unknown monster (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Cannon Soldier (zone 0) -> YOU's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 6100
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 6100 / OPP 5600) ===
+  hand: YOU 4 / OPP 2   library: YOU 32 / OPP 23
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Heavy Storm (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Heavy Storm
+    effect: Magic Jammer
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 6100 / OPP 5600) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 23
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Cannon Soldier (zone 0) -> YOU's Jinzo (zone 1)
+    YOU's Jinzo (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 6100 / OPP 5600) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 22
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+    YOU special summons Jinzo to zone 0
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Cannon Soldier (zone 0)
+    OPP's Cannon Soldier (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 5300
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 5 / OPP 2   library: YOU 30 / OPP 22
+    YOU hand [partly unknown]: Mystic Box   (+4 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 5 / OPP 2   library: YOU 30 / OPP 21
+    YOU hand [partly unknown]: Mystic Box   (+4 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+    effect: Waboku
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+  [main 2]
+  YOU SETS Giant Rat in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Michizure (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 6100 / OPP 5300) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 21
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 20)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Giant Rat (zone 1)
+    OPP loses 450 LP -> 4850
+  [main 2]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 6100 / OPP 4850) ===
+  hand: YOU 4 / OPP 0   library: YOU 29 / OPP 20
+    YOU hand [partly unknown]: Mystic Box   (+3 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystic Box (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Mystic Box
+  YOU ACTIVATES Fissure (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Fissure
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 3, library 27)
+  YOU draws 1  (hand now 4, library 26)
+  YOU SUMMONS Dream Clown in monster zone 2  [card 3 of 4 in hand]
+    effect: Torrential Tribute
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 6100 / OPP 4850) ===
+  hand: YOU 2 / OPP 0   library: YOU 26 / OPP 20
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 19)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 4200
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 4200 / OPP 4850) ===
+  hand: YOU 2 / OPP 0   library: YOU 26 / OPP 19
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Dark Hole
+  YOU SUMMONS Sangan in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 3850
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 25 / OPP 19
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 18)
+  [standby]
+  [main 1]
+  OPP SETS Crass Clown in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 34: YOU   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 25 / OPP 18
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Crass Clown (zone 0)
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 35: OPP   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 24 / OPP 18
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 17)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 36: YOU   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 24 / OPP 17
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 37: OPP   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 2 / OPP 1   library: YOU 23 / OPP 17
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 16)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 38: YOU   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 2 / OPP 0   library: YOU 23 / OPP 16
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Michizure (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 39: OPP   (LP YOU 4200 / OPP 3850) ===
+  hand: YOU 2 / OPP 0   library: YOU 22 / OPP 16
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 15)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Heavy Storm (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Heavy Storm
+    effect: Call Of The Haunted
+    OPP special summons Sangan to zone 2
+    effect: Jinzo
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks with Sangan (zone 2) -> YOU's Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    YOU loses 1400 LP -> 2800
+    effect: Sangan
+  OPP attacks DIRECTLY with Crass Clown (zone 0)
+    YOU loses 1350 LP -> 1450
+  OPP attacks DIRECTLY with face-down Magician of Faith (zone 1)
+    YOU loses 300 LP -> 1150
+  [main 2]
+  OPP SETS Penguin Soldier in monster zone 3 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 40: YOU   (LP YOU 1150 / OPP 3850) ===
+  hand: YOU 3 / OPP 0   library: YOU 22 / OPP 15
+    YOU hand [partly unknown]: -   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 41: OPP   (LP YOU 1150 / OPP 3850) ===
+  hand: YOU 2 / OPP 0   library: YOU 21 / OPP 15
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, 2x Mystic Tomato   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 14)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 1, library 13)
+  OPP draws 1  (hand now 2, library 12)
+  OPP SUMMONS Slate Warrior in monster zone 4  [card 2 of 2 in hand]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 2)
+    YOU loses 2400 LP -> -1250
+  [DUEL END]  final LP: YOU -1250 / OPP 3850

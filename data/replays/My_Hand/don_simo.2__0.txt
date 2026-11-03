@@ -1,0 +1,499 @@
+  OPP draws 5  (hand now 5, library 37)
+  YOU draws 5  (hand now 5, library 43)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 43 / OPP 37
+    YOU hand [exact]: Cannon Soldier, Giant Rat, Sangan, Scapegoat, The Forceful Sentry
+    OPP (recorder) hand [exact]: Giant Rat, Mystical Space Typhoon, Nimble Momonga, 2x Scapegoat
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 43 / OPP 36
+    YOU hand [exact]: Cannon Soldier, Giant Rat, Sangan, Scapegoat, The Forceful Sentry
+    OPP (recorder) hand [exact]: Giant Rat, 2x Scapegoat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  YOU ACTIVATES The Forceful Sentry (S/T zone 5)  [card 3 of 6 in hand]
+    effect: The Forceful Sentry
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 36
+    YOU hand [exact]: Cannon Soldier, Giant Rat, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Giant Rat, 2x Scapegoat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 4 of 5 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with face-down Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 42 / OPP 35
+    YOU hand [exact]: Cannon Soldier, Giant Rat, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 41)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 41 / OPP 35
+    YOU hand [exact]: Cannon Soldier, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Giant Rat (zone 0)
+    OPP loses 450 LP -> 7550
+  [main 2]
+  OPP ACTIVATES The Forceful Sentry (S/T zone 6)  [card 3 of 4 in hand]
+    effect: The Forceful Sentry
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 3   library: YOU 41 / OPP 34
+    YOU hand [exact]: Cannon Soldier, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 40)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 3   library: YOU 40 / OPP 34
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 4   library: YOU 40 / OPP 33
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 39)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 3 / OPP 4   library: YOU 39 / OPP 33
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 3 / OPP 5   library: YOU 39 / OPP 32
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 38)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 7)  [card 3 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 37)
+  YOU draws 1  (hand now 3, library 36)
+  YOU draws 1  (hand now 4, library 35)
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Torrential Tribute (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 5   library: YOU 35 / OPP 32
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Scapegoat, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Man-Eater Bug (zone 1)
+    YOU's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 5 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 7)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 12: YOU   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 4   library: YOU 35 / OPP 31
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 1  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    effect: Scapegoat
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 7000 / OPP 7550) ===
+  hand: YOU 2 / OPP 4   library: YOU 34 / OPP 31
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 4  [card 3 of 5 in hand]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 6500
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 6000
+  OPP SETS Waboku (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 5500
+  OPP ACTIVATES Premature Burial (S/T zone 7)  [card 2 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 6750
+    OPP special summons a monster to zone 0
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Nimble Momonga (zone 1)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6500
+    YOU special summons Nimble Momonga to zone 1
+    YOU special summons Nimble Momonga to zone 2
+    OPP gains 1000 LP -> 7750
+    OPP special summons a monster to zone 0
+    OPP special summons a monster to zone 1
+  OPP attacks with Cannon Soldier (zone 4) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7500
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 30
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+    effect: Waboku
+  YOU SETS Torrential Tribute (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Morphing Jar in monster zone 1 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 30
+    YOU hand [partly unknown]: Cannon Soldier, Mystic Tomato, The Fiend Megacyber   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 5)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8000
+  OPP attacks with Cannon Soldier (zone 4) -> YOU's face-down Morphing Jar (zone 1)
+    YOU's Morphing Jar (zone 1) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 32)
+  YOU draws 1  (hand now 2, library 31)
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  [main 2]
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Fissure
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 7500
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 7500 / OPP 7750) ===
+  hand: YOU 5 / OPP 4   library: YOU 28 / OPP 24
+    YOU hand [partly unknown]: -   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Mystical Space Typhoon
+    YOU special summons Morphing Jar to zone 0
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 4 of 5 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 1) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    OPP loses 1500 LP -> 6250
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7250
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8250
+  [main 2]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 1 of 4 in hand]
+  YOU SETS Ceasefire (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 7500 / OPP 8250) ===
+  hand: YOU 2 / OPP 6   library: YOU 27 / OPP 24
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 23)
+  [standby]
+  [main 1]
+  OPP SETS Giant Trunade (S/T zone 5)  [card 2 of 7 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Ceasefire
+    OPP loses 1500 LP -> 6750
+
+=== Turn 18: YOU   (LP YOU 7500 / OPP 6750) ===
+  hand: YOU 2 / OPP 5   library: YOU 27 / OPP 23
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 1  [card 1 of 3 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's face-down Penguin Soldier (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Jinzo (zone 1)
+    OPP loses 2400 LP -> 4350
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 7500 / OPP 4350) ===
+  hand: YOU 2 / OPP 5   library: YOU 26 / OPP 23
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 22)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 21)
+  OPP draws 1  (hand now 5, library 20)
+  OPP draws 1  (hand now 6, library 19)
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Fissure
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 7500 / OPP 4350) ===
+  hand: YOU 2 / OPP 3   library: YOU 26 / OPP 19
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 3 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    YOU special summons Morphing Jar to zone 2
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 2) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Man-Eater Bug
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> 6100
+    OPP loses 1400 LP -> 2950
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 6100 / OPP 2950) ===
+  hand: YOU 1 / OPP 3   library: YOU 25 / OPP 19
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 18)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 4 in hand]
+    OPP special summons Man-Eater Bug to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 0)
+    YOU loses 1700 LP -> 4400
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 4400 / OPP 2950) ===
+  hand: YOU 1 / OPP 3   library: YOU 25 / OPP 18
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 3, library 23)
+  YOU draws 1  (hand now 4, library 22)
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 3 in hand]
+  YOU SETS United We Stand (S/T zone 7)  [card 2 of 2 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 4400 / OPP 2950) ===
+  hand: YOU 0 / OPP 3   library: YOU 22 / OPP 18
+    YOU hand [partly unknown]: -
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 17)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 1 of 4 in hand]
+    effect: Jinzo
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's face-down Morphing Jar (zone 0)
+    YOU's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 21)
+  YOU draws 1  (hand now 2, library 20)
+  YOU draws 1  (hand now 3, library 19)
+  YOU draws 1  (hand now 4, library 18)
+  YOU draws 1  (hand now 5, library 17)
+  OPP draws 1  (hand now 1, library 16)
+  OPP draws 1  (hand now 2, library 15)
+  OPP draws 1  (hand now 3, library 14)
+  OPP draws 1  (hand now 4, library 13)
+  OPP draws 1  (hand now 5, library 12)
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 2 of 4 in hand]
+  OPP SETS Mage Power (S/T zone 8)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 4400 / OPP 2950) ===
+  hand: YOU 5 / OPP 2   library: YOU 17 / OPP 12
+    YOU hand [partly unknown]: -   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 16)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 8)  [card 2 of 6 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 3600
+    YOU special summons Morphing Jar to zone 0
+    effect: Jinzo
+  YOU SUMMONS Magician of Faith in monster zone 1  [card 3 of 5 in hand]
+  YOU ACTIVATES Mystic Box (S/T zone 9)  [card 2 of 4 in hand]
+    effect: Mystic Box
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Jinzo (zone 0)
+    effect: Mystical Space Typhoon
+  [main 2]
+  YOU ACTIVATES Last Will (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Morphing Jar to zone 0
+  YOU SETS Call Of The Haunted (S/T zone 7)  [card 1 of 4 in hand]
+  YOU SETS Ring of Destruction (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Call Of The Haunted
+    effect: Ceasefire
+    YOU loses 1000 LP -> 2600
+    OPP special summons Man-Eater Bug to zone 1
+    effect: Jinzo
+
+=== Turn 25: OPP   (LP YOU 2600 / OPP 2950) ===
+  hand: YOU 2 / OPP 2   library: YOU 16 / OPP 12
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 11)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 2  [card 2 of 3 in hand]
+    effect: Mage Power
+  OPP ACTIVATES United We Stand (S/T zone 5)  [card 1 of 2 in hand]
+    effect: United We Stand
+  OPP SETS Last Will (S/T zone 6)  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with Man-Eater Bug (zone 1) -> YOU's Morphing Jar (zone 0)
+    YOU's Morphing Jar (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2700 LP -> -100
+  [DUEL END]  final LP: YOU -100 / OPP 2950

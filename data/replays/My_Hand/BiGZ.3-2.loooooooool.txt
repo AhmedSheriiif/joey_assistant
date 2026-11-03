@@ -1,0 +1,295 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Giant Germ, Giant Rat, Kinetic Soldier, Slate Warrior
+    OPP hand [exact]: Dark Hole, Mask of Darkness, 2x Tribute to The Doomed, Zombyra the Dark
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Giant Rat, 2x Kinetic Soldier, Slate Warrior
+    OPP hand [exact]: Dark Hole, Mask of Darkness, 2x Tribute to The Doomed, Zombyra the Dark
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Zombyra the Dark in monster zone 0  [card 3 of 6 in hand]
+  OPP SETS Skull Lair (S/T zone 5)  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Zombyra the Dark (zone 0) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Zombyra the Dark
+    effect: Giant Germ
+    OPP loses 500 LP -> 7500
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7500) ===
+  hand: YOU 6 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Giant Rat, 2x Kinetic Soldier, Slate Warrior   (+1 unknown)
+    OPP hand [exact]: Dark Hole, Mask of Darkness, 2x Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kinetic Soldier in monster zone 2  [card 5 of 7 in hand]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 2) -> OPP's Zombyra the Dark (zone 0)
+    effect: Kinetic Soldier
+    OPP's Zombyra the Dark (zone 0) is destroyed in battle
+    OPP loses 1450 LP -> 6050
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 5050
+  YOU attacks DIRECTLY with Giant Germ (zone 1)
+    OPP loses 1000 LP -> 4050
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 6 / OPP 4   library: YOU 33 / OPP 34
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Giant Rat, Kinetic Soldier, Slate Warrior   (+2 unknown)
+    OPP hand [exact]: Dark Hole, Mask of Darkness, 2x Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Dark Hole
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  OPP SETS Tribute to The Doomed (S/T zone 6)  [card 3 of 3 in hand]
+  OPP SETS Tribute to The Doomed (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 6 / OPP 1   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Giant Rat, Kinetic Soldier, Slate Warrior   (+2 unknown)
+    OPP hand [exact]: Mask of Darkness
+  [draw phase]
+  YOU draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 7 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Swords of Revealing Light
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 32)
+  OPP draws 1  (hand now 2, library 31)
+  OPP draws 1  (hand now 3, library 30)
+  OPP draws 1  (hand now 4, library 29)
+  OPP draws 1  (hand now 5, library 28)
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  YOU draws 1  (hand now 3, library 29)
+  YOU draws 1  (hand now 4, library 28)
+  YOU draws 1  (hand now 5, library 27)
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's face-down Morphing Jar (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 6)  [card 4 of 5 in hand]
+  YOU SETS Dust Tornado (S/T zone 7)  [card 1 of 4 in hand]
+  YOU SETS Magic Cylinder (S/T zone 8)  [card 3 of 3 in hand]
+  YOU SETS Rush Recklessly (S/T zone 9)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 1 / OPP 5   library: YOU 27 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Ceasefire, Man-Eater Bug, Mirror Wall, Robbin' Goblin, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Robbin' Goblin (S/T zone 8)  [card 1 of 5 in hand]
+  OPP SETS Ceasefire (S/T zone 9)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Dust Tornado
+    effect: Dust Tornado
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 1 / OPP 3   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Dimensional Warrior, Mirror Wall, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 1 / OPP 3   library: YOU 26 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Dimensional Warrior, Mirror Wall, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+    OPP special summons Man-Eater Bug to zone 0
+  OPP SETS Mirror Wall (S/T zone 8)  [card 1 of 4 in hand]
+  OPP SETS Dimensional Warrior in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 4050) ===
+  hand: YOU 1 / OPP 2   library: YOU 26 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 1 of 2 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 1) -> OPP's Man-Eater Bug (zone 0)
+    effect: Mirror Wall
+    YOU's Bazoo the Soul-Eater (zone 1) is destroyed in battle
+    YOU loses 750 LP -> 7250
+  [main 2]
+    effect: Man-Eater Bug
+  YOU SETS Imperial Order (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7250 / OPP 4050) ===
+  hand: YOU 0 / OPP 2   library: YOU 25 / OPP 26
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7250 / OPP 4050) ===
+  hand: YOU 0 / OPP 3   library: YOU 25 / OPP 25
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Bazoo the Soul-Eater, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Mage Power (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7250 / OPP 4050) ===
+  hand: YOU 0 / OPP 3   library: YOU 24 / OPP 25
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Bazoo the Soul-Eater, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's face-down Man-Eater Bug (zone 0) is destroyed in battle
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 0)
+    effect: Magic Cylinder
+    OPP loses 1700 LP -> 2350
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7250 / OPP 2350) ===
+  hand: YOU 0 / OPP 3   library: YOU 24 / OPP 24
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Bazoo the Soul-Eater, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Skull Lair (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 7250 / OPP 2350) ===
+  hand: YOU 0 / OPP 3   library: YOU 23 / OPP 24
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Bazoo the Soul-Eater, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 0)
+    effect: Skull Lair
+  OPP attacks DIRECTLY with Sangan (zone 1)
+    YOU loses 1000 LP -> 6250
+  [main 2]
+  OPP SETS Bazoo the Soul-Eater in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6250 / OPP 2350) ===
+  hand: YOU 0 / OPP 3   library: YOU 23 / OPP 23
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Dream Clown, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Sangan (zone 1)
+    effect: Skull Lair
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 6250 / OPP 2350) ===
+  hand: YOU 0 / OPP 3   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: Dream Clown, Kycoo the Ghost Destroyer, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 2  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 2)
+    YOU loses 1800 LP -> 4450
+    effect: Kycoo the Ghost Destroyer
+  OPP attacks DIRECTLY with Sangan (zone 1)
+    YOU loses 1000 LP -> 3450
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 3450 / OPP 2350) ===
+  hand: YOU 0 / OPP 3   library: YOU 22 / OPP 22
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Dream Clown, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 21)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 1 of 1 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Sangan (zone 1)
+    effect: Rush Recklessly
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 2400 LP -> -50
+  [DUEL END]  final LP: YOU 3450 / OPP -50

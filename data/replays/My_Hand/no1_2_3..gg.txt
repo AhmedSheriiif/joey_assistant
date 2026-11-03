@@ -1,0 +1,231 @@
+  YOU draws 5  (hand now 5, library 36)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 39
+    YOU hand [exact]: Dust Tornado, Magic Drain, Man-Eater Bug, Rush Recklessly, Slate Warrior
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Dimensional Warrior, Mirror Wall, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  YOU SETS Magic Drain (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 35 / OPP 39
+    YOU hand [exact]: Rush Recklessly, Slate Warrior, Solemn Judgment
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Dimensional Warrior, Mirror Wall, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 35 / OPP 38
+    YOU hand [exact]: Rush Recklessly, Slate Warrior, Solemn Judgment
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Last Will, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 1)
+    OPP loses 1900 LP -> 6100
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 5650
+  [main 2]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Kunai with Chain (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 5650) ===
+  hand: YOU 1 / OPP 4   library: YOU 34 / OPP 38
+    YOU hand [exact]: Rush Recklessly
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Last Will, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's Man-Eater Bug (zone 0)
+    effect: Kunai with Chain
+  [main 2]
+  OPP SETS Last Will (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 5650) ===
+  hand: YOU 1 / OPP 3   library: YOU 34 / OPP 37
+    YOU hand [exact]: Rush Recklessly
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Gemini Elf in monster zone 2  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Gemini Elf (zone 2) -> OPP's Cure Mermaid (zone 0)
+    OPP's Cure Mermaid (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Slate Warrior (zone 1)
+    OPP loses 2400 LP -> 3250
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 2800
+  [main 2]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 2800) ===
+  hand: YOU 0 / OPP 3   library: YOU 33 / OPP 37
+    YOU hand [exact]: -
+    OPP (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 4 of 4 in hand]
+  OPP ACTIVATES Raigeki (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Raigeki
+    effect: Magic Drain
+    OPP special summons Cure Mermaid to zone 1
+    effect: Last Will
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Gemini Elf (zone 2)
+    effect: Rush Recklessly
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    OPP loses 700 LP -> 2100
+    effect: Slate Warrior
+  OPP attacks with Cure Mermaid (zone 1) -> YOU's Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    YOU loses 1150 LP -> 6850
+    effect: Last Will
+    OPP special summons Slate Warrior to zone 0
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6850 / OPP 2100) ===
+  hand: YOU 0 / OPP 4   library: YOU 33 / OPP 36
+    YOU hand [exact]: -
+    OPP (recorder) hand [partly unknown]: Aqua Spirit, Cure Mermaid   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  [battle phase]
+  YOU attacks with Gemini Elf (zone 2) -> OPP's Slate Warrior (zone 0)
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Slate Warrior to zone 0
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6850 / OPP 2100) ===
+  hand: YOU 1 / OPP 5   library: YOU 32 / OPP 36
+    YOU hand [exact]: Soul of Purity and Light
+    OPP (recorder) hand [partly unknown]: Aqua Spirit, Cure Mermaid   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 2  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Gemini Elf (zone 2)
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    YOU's Gemini Elf (zone 2) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Slate Warrior to zone 0
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Slate Warrior (zone 1)
+    YOU's Slate Warrior (zone 1) is destroyed in battle
+    effect: Slate Warrior
+  OPP attacks DIRECTLY with Cure Mermaid (zone 1)
+    YOU loses 1600 LP -> 5250
+  OPP attacks DIRECTLY with Cure Mermaid (zone 2)
+    YOU loses 1500 LP -> 3750
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 3750 / OPP 2100) ===
+  hand: YOU 1 / OPP 6   library: YOU 32 / OPP 35
+    YOU hand [exact]: Soul of Purity and Light
+    OPP (recorder) hand [partly unknown]: Aqua Spirit   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Last Will (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 3750 / OPP 2100) ===
+  hand: YOU 1 / OPP 6   library: YOU 31 / OPP 35
+    YOU hand [exact]: Soul of Purity and Light
+    OPP (recorder) hand [partly unknown]: Aqua Spirit   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 34)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 2900
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Cure Mermaid (zone 2)
+    YOU loses 1500 LP -> 2250
+  OPP attacks DIRECTLY with Cure Mermaid (zone 1)
+    YOU loses 1600 LP -> 650
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 500 LP -> 150
+  [main 2]
+  OPP ACTIVATES The Forceful Sentry (S/T zone 5)  [card 2 of 7 in hand]
+    effect: The Forceful Sentry
+  OPP SETS Man-Eater Bug in monster zone 3 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 150 / OPP 2900) ===
+  hand: YOU 1 / OPP 5   library: YOU 31 / OPP 34
+    YOU hand [exact]: Soul of Purity and Light
+    OPP (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Zombyra the Dark in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Zombyra the Dark (zone 0) -> OPP's Cure Mermaid (zone 1)
+    OPP's Cure Mermaid (zone 1) is destroyed in battle
+    OPP loses 500 LP -> 2400
+    effect: Zombyra the Dark
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 150 / OPP 2400) ===
+  hand: YOU 1 / OPP 5   library: YOU 30 / OPP 34
+    YOU hand [partly unknown]: Sangan, Soul of Purity and Light
+    OPP (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 3200
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 1  [card 1 of 6 in hand]
+    effect: Solemn Judgment
+    YOU loses 75 LP -> 75
+    effect: Man-Eater Bug
+  [battle phase]
+  OPP attacks DIRECTLY with Cure Mermaid (zone 2)
+    YOU loses 1500 LP -> -1425
+  [DUEL END]  final LP: YOU -1425 / OPP 3200

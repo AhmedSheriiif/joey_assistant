@@ -1,0 +1,399 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 35
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Mother Grizzly, Sangan, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Mystic Tomato, Premature Burial, The Shallow Grave, Time Machine
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Crush Card (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 37 / OPP 35
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Mother Grizzly, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Mystic Tomato, Premature Burial, The Shallow Grave, Time Machine
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Time Machine (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 37 / OPP 34
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Mother Grizzly, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, The Shallow Grave
+  [draw phase]
+  YOU draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 34
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, The Shallow Grave
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 33
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, The Shallow Grave
+  [draw phase]
+  YOU draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 33
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, The Shallow Grave
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 32
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, Right Leg of the Forbidden One, The Shallow Grave
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 2 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 32
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, Right Leg of the Forbidden One, The Shallow Grave
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 6   library: YOU 34 / OPP 31
+    YOU hand [exact]: Ekibyo Drakmord, Graceful Charity, Rush Recklessly, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, Right Arm of the Forbidden One, Right Leg of the Forbidden One, The Shallow Grave
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Mother Grizzly (zone 1)
+    OPP loses 1400 LP -> 6600
+  YOU attacks DIRECTLY with face-down Sangan (zone 0)
+    OPP loses 1000 LP -> 5600
+  [main 2]
+  YOU SETS Penguin Soldier in monster zone 2 (face-down)  [card 7 of 7 in hand]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 5600) ===
+  hand: YOU 5 / OPP 6   library: YOU 33 / OPP 31
+    YOU hand [exact]: Cure Mermaid, Ekibyo Drakmord, Graceful Charity, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Left Leg of the Forbidden One, Painful Choice, Premature Burial, Right Arm of the Forbidden One, Right Leg of the Forbidden One, The Shallow Grave
+  [draw phase]
+  OPP draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 8 of 8 in hand]
+    effect: Swords of Revealing Light
+    effect: Penguin Soldier
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 1 of 7 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mother Grizzly (zone 1)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    YOU's Mother Grizzly (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 1
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mother Grizzly (zone 1)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 5200
+    effect: Sangan
+    effect: Time Machine
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mother Grizzly (zone 1)
+    effect: Rush Recklessly
+    YOU's Mother Grizzly (zone 1) is destroyed in battle
+    YOU loses 300 LP -> 7700
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 1
+  [main 2]
+  OPP SETS Premature Burial (S/T zone 5)  [card 7 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7700 / OPP 5200) ===
+  hand: YOU 7 / OPP 6   library: YOU 33 / OPP 30
+    YOU hand [partly unknown]: Cure Mermaid, Ekibyo Drakmord, Graceful Charity, Slate Warrior, Vorse Raider   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Left Leg of the Forbidden One, Painful Choice, Right Arm of the Forbidden One, Right Leg of the Forbidden One, The Shallow Grave   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 32)
+  [standby]
+  [main 1]
+    effect: Crush Card
+    effect: Sangan
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 4 of 9 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 7, library 31)
+  YOU draws 1  (hand now 8, library 30)
+  YOU draws 1  (hand now 9, library 29)
+  YOU SETS Robbin' Goblin (S/T zone 5)  [card 6 of 9 in hand]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 1 of 8 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7700 / OPP 5200) ===
+  hand: YOU 6 / OPP 6   library: YOU 29 / OPP 30
+    YOU hand [partly unknown]: Cure Mermaid, Slate Warrior, Vorse Raider   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Left Leg of the Forbidden One, Painful Choice, Right Arm of the Forbidden One, Right Leg of the Forbidden One, The Shallow Grave   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Painful Choice (S/T zone 8)  [card 4 of 7 in hand]
+    effect: Painful Choice
+    effect: Premature Burial
+    OPP loses 800 LP -> 4400
+    OPP special summons Mystic Tomato to zone 1
+  OPP SETS Waboku (S/T zone 8)  [card 2 of 6 in hand]
+  OPP SETS The Shallow Grave (S/T zone 9)  [card 6 of 6 in hand]
+  OPP SETS Sinister Serpent in monster zone 2 (face-down)  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's face-down Morphing Jar (zone 0)
+    YOU's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 28)
+  YOU draws 1  (hand now 2, library 27)
+  YOU draws 1  (hand now 3, library 26)
+  YOU draws 1  (hand now 4, library 25)
+  YOU draws 1  (hand now 5, library 24)
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  [main 2]
+    effect: Waboku
+  OPP SETS Backup Soldier (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 5 / OPP 4   library: YOU 24 / OPP 24
+    YOU hand [partly unknown]: -   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 23)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  YOU ACTIVATES Tribute to The Doomed (S/T zone 7)  [card 3 of 6 in hand]
+    effect: Tribute to The Doomed
+  YOU SETS Robbin' Goblin (S/T zone 7)  [card 1 of 5 in hand]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Backup Soldier
+
+=== Turn 14: OPP   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 3 / OPP 4   library: YOU 23 / OPP 24
+    YOU hand [partly unknown]: -   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 23)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 2 (face-down)  [card 9 of 9 in hand]
+  OPP SETS Solemn Judgment (S/T zone 6)  [card 2 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Ekibyo Drakmord
+    effect: Sangan
+
+=== Turn 15: YOU   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 3 / OPP 7   library: YOU 23 / OPP 23
+    YOU hand [partly unknown]: -   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 22)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Dark Hole
+    effect: Witch of the Black Forest
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 1 / OPP 8   library: YOU 22 / OPP 23
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 9, library 22)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 9 in hand]
+  OPP SETS Time Machine (S/T zone 5)  [card 8 of 8 in hand]
+  OPP SETS Last Will (S/T zone 7)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 1 / OPP 6   library: YOU 22 / OPP 22
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 3 / OPP 6   library: YOU 21 / OPP 22
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 6 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 7700 / OPP 4400) ===
+  hand: YOU 3 / OPP 6   library: YOU 21 / OPP 21
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 20)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Tribute to The Doomed (S/T zone 8)  [card 4 of 4 in hand]
+    effect: Tribute to The Doomed
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Time Machine
+    OPP special summons Nimble Momonga to zone 0
+    OPP gains 1000 LP -> 5400
+    OPP special summons Nimble Momonga to zone 1
+  YOU attacks with face-down Giant Germ (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 6400
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 7700 / OPP 6400) ===
+  hand: YOU 3 / OPP 8   library: YOU 20 / OPP 21
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 9, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 3 of 9 in hand]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 5 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 7700 / OPP 6400) ===
+  hand: YOU 3 / OPP 6   library: YOU 20 / OPP 20
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 19)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  YOU SUMMONS Sinister Serpent in monster zone 2  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Sinister Serpent (zone 2) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7400
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down Sinister Serpent (zone 0)
+    effect: Waboku
+  [main 2]
+    YOU special summons Morphing Jar to zone 3
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 7700 / OPP 7400) ===
+  hand: YOU 3 / OPP 7   library: YOU 19 / OPP 20
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 19)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  OPP SETS Backup Soldier (S/T zone 8)  [card 5 of 8 in hand]
+  OPP SETS Mystic Tomato in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [battle phase]
+  OPP attacks with Sinister Serpent (zone 0) -> YOU's Sinister Serpent (zone 2)
+    effect: Robbin' Goblin
+    effect: Robbin' Goblin
+    effect: Solemn Judgment
+    OPP loses 3700 LP -> 3700
+    effect: Rush Recklessly
+    effect: Solemn Judgment
+    OPP loses 1850 LP -> 1850
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+    YOU's Sinister Serpent (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 7700 / OPP 1850) ===
+  hand: YOU 3 / OPP 6   library: YOU 19 / OPP 19
+    YOU hand [partly unknown]: -   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 18)
+    effect: Backup Soldier
+  [DUEL END]  final LP: YOU 7700 / OPP 1850

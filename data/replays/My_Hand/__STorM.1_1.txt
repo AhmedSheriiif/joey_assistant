@@ -1,0 +1,366 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 53)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 53
+    YOU (recorder) hand [exact]: Cannon Soldier, Dimensional Warrior, Mirror Force, Mystic Tomato, Wall of Illusion
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Trunade, Nobleman of Crossout, Slate Warrior, Waboku
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 53
+    YOU (recorder) hand [exact]: Cannon Soldier, Graceful Charity, Mystic Tomato, Wall of Illusion
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Trunade, Nobleman of Crossout, Slate Warrior, Waboku
+  [draw phase]
+  OPP draws 1  (hand now 6, library 52)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 4 of 6 in hand]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 6100
+  [main 2]
+  OPP SETS Waboku (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 52
+    YOU (recorder) hand [exact]: Cannon Soldier, Graceful Charity, Mystic Tomato, Wall of Illusion
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Giant Trunade
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 52
+    YOU (recorder) hand [exact]: Cannon Soldier, Graceful Charity, 2x Wall of Illusion
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Giant Trunade
+  [draw phase]
+  OPP draws 1  (hand now 4, library 51)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 51
+    YOU (recorder) hand [exact]: Cannon Soldier, Graceful Charity, 2x Wall of Illusion
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Giant Trunade, Magic Jammer
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 31)
+  YOU draws 1  (hand now 4, library 30)
+  YOU draws 1  (hand now 5, library 29)
+  YOU SETS Wall of Illusion in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Crush Card (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 29 / OPP 51
+    YOU (recorder) hand [exact]: Call Of The Haunted, Cannon Soldier, Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Giant Trunade, Magic Jammer
+  [draw phase]
+  OPP draws 1  (hand now 5, library 50)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Wall of Illusion (zone 1)
+    effect: Crush Card
+  [main 2]
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 3 of 5 in hand]
+  OPP SETS Magic Jammer (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 29 / OPP 50
+    YOU (recorder) hand [exact]: Call Of The Haunted, Cannon Soldier, Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Mystic Tomato (zone 0) -> OPP's Amazon Archer (zone 0)
+    effect: Waboku
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 28 / OPP 50
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade
+  [draw phase]
+  OPP draws 1  (hand now 4, library 49)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 48)
+  OPP draws 1  (hand now 3, library 47)
+  OPP draws 1  (hand now 4, library 46)
+  OPP SETS Aqua Madoor in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Mirror Force (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 28 / OPP 46
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade, Sangan   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Amazon Archer (zone 0)
+    OPP's Amazon Archer (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Slate Warrior in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 27 / OPP 46
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade, Sangan   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 45)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 27 / OPP 45
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade, Shining Angel   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 2 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 26 / OPP 45
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade, Shining Angel   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 44)
+  [standby]
+  [main 1]
+  OPP SETS Shining Angel in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 26 / OPP 44
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, 2x Ekibyo Drakmord, Magic Cylinder, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Ekibyo Drakmord (S/T zone 7)  [card 3 of 5 in hand]
+  YOU SETS Magic Cylinder (S/T zone 8)  [card 2 of 4 in hand]
+    effect: Slate Warrior
+  [battle phase]
+  YOU attacks with face-down Slate Warrior (zone 1) -> OPP's face-down Aqua Madoor (zone 1)
+    effect: Mirror Force
+    effect: Call Of The Haunted
+    YOU special summons Mystic Tomato to zone 1
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's face-down Shining Angel (zone 0)
+    OPP's Shining Angel (zone 0) is destroyed in battle
+    effect: Shining Angel
+    OPP special summons Shining Angel to zone 0
+  [main 2]
+  YOU SETS Blast Sphere in monster zone 3 (face-down)  [card 2 of 3 in hand]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 1 / OPP 4   library: YOU 25 / OPP 44
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 43)
+  [standby]
+  [main 1]
+  OPP SETS Magic Drain (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Morphing Jar in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 25 / OPP 43
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, Wall of Illusion   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Cure Mermaid, Giant Trunade   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's face-down Aqua Madoor (zone 1)
+    YOU loses 100 LP -> 6000
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Morphing Jar (zone 2)
+    OPP's Morphing Jar (zone 2) is destroyed in battle
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 42)
+  OPP draws 1  (hand now 2, library 41)
+  OPP draws 1  (hand now 3, library 40)
+  OPP draws 1  (hand now 4, library 39)
+  OPP draws 1  (hand now 5, library 38)
+  YOU draws 1  (hand now 1, library 23)
+  YOU draws 1  (hand now 2, library 22)
+  YOU draws 1  (hand now 3, library 21)
+  YOU draws 1  (hand now 4, library 20)
+  YOU draws 1  (hand now 5, library 19)
+  [main 2]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 6000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 19 / OPP 38
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Vorse Raider in monster zone 2  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Vorse Raider (zone 2) -> YOU's Mystic Tomato (zone 0)
+    effect: Magic Cylinder
+    OPP loses 1900 LP -> 6100
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Ekibyo Drakmord
+
+=== Turn 17: YOU   (LP YOU 6000 / OPP 6100) ===
+  hand: YOU 5 / OPP 5   library: YOU 19 / OPP 37
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 18)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's Vorse Raider (zone 2)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    OPP's Vorse Raider (zone 2) is destroyed in battle
+  [main 2]
+  YOU SETS Slate Warrior in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 6000 / OPP 6100) ===
+  hand: YOU 5 / OPP 5   library: YOU 18 / OPP 37
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 7)  [card 4 of 6 in hand]
+    effect: Fissure
+  OPP SETS Dust Tornado (S/T zone 7)  [card 5 of 5 in hand]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Ekibyo Drakmord
+
+=== Turn 19: YOU   (LP YOU 6000 / OPP 6100) ===
+  hand: YOU 5 / OPP 3   library: YOU 18 / OPP 36
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+    effect: Slate Warrior
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 8 of 8 in hand]
+  [battle phase]
+  YOU attacks with face-down Dimensional Warrior (zone 2) -> OPP's face-down Witch of the Black Forest (zone 0)
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with face-down Slate Warrior (zone 1)
+    OPP loses 2400 LP -> 3700
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> 1800
+  YOU attacks DIRECTLY with face-down Blast Sphere (zone 3)
+    OPP loses 1400 LP -> 400
+  [main 2]
+  YOU SETS Ekibyo Drakmord (S/T zone 6)  [card 4 of 7 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 7)  [card 1 of 6 in hand]
+    effect: Monster Reborn
+    effect: Magic Jammer
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 20: OPP   (LP YOU 6000 / OPP 400) ===
+  hand: YOU 5 / OPP 3   library: YOU 17 / OPP 36
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 3 of 4 in hand]
+  OPP ACTIVATES United We Stand (S/T zone 6)  [card 2 of 3 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Blast Sphere (zone 3)
+    effect: Mirror Force
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 6000 / OPP 400) ===
+  hand: YOU 5 / OPP 1   library: YOU 17 / OPP 35
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 16)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 1)
+    OPP loses 2400 LP -> -2000
+  [DUEL END]  final LP: YOU 6000 / OPP -2000

@@ -1,0 +1,563 @@
+  YOU draws 5  (hand now 5, library 63)
+  OPP draws 5  (hand now 5, library 62)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 63 / OPP 62
+    YOU (recorder) hand [exact]: Morphing Jar, Rush Recklessly, Sangan, The Rock Spirit, Torrential Tribute
+    OPP hand [exact]: Amazon Archer, Call Of The Haunted, Dust Tornado, Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 6, library 62)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 62 / OPP 62
+    YOU (recorder) hand [exact]: Morphing Jar, Rush Recklessly, The Rock Spirit, Torrential Tribute
+    OPP hand [exact]: Amazon Archer, Call Of The Haunted, Dust Tornado, Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 6, library 61)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Amazon Archer (zone 0) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 62 / OPP 61
+    YOU (recorder) hand [partly unknown]: Morphing Jar, Rush Recklessly, The Rock Spirit, Torrential Tribute   (+1 unknown)
+    OPP hand [exact]: Call Of The Haunted, Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 6, library 61)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Amazon Archer (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    OPP's Amazon Archer (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Rush Recklessly (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 3   library: YOU 61 / OPP 61
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Call Of The Haunted, Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 4, library 60)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 2   library: YOU 61 / OPP 60
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 5, library 60)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SUMMONS Dream Clown in monster zone 0  [card 4 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 3 / OPP 2   library: YOU 60 / OPP 60
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 3, library 59)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Dream Clown (zone 0)
+    effect: Rush Recklessly
+    OPP's Kycoo the Ghost Destroyer (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 6500
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6500) ===
+  hand: YOU 3 / OPP 1   library: YOU 60 / OPP 59
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 4, library 59)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Dream Clown (zone 0)
+    OPP loses 1200 LP -> 5300
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 5300) ===
+  hand: YOU 3 / OPP 1   library: YOU 59 / OPP 59
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 2, library 58)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 4500
+    OPP special summons Kycoo the Ghost Destroyer to zone 0
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Dream Clown (zone 0)
+    YOU's Dream Clown (zone 0) is destroyed in battle
+    YOU loses 600 LP -> 7400
+    effect: Kycoo the Ghost Destroyer
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7400 / OPP 4500) ===
+  hand: YOU 3 / OPP 1   library: YOU 59 / OPP 58
+    YOU (recorder) hand [partly unknown]: Morphing Jar, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Wall of Illusion
+  [draw phase]
+  YOU draws 1  (hand now 4, library 58)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Magician of Faith
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 8)  [card 1 of 3 in hand]
+    effect: Mystical Space Typhoon
+    YOU special summons Dream Clown to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Dream Clown (zone 0)
+    effect: Call Of The Haunted
+    OPP special summons Kycoo the Ghost Destroyer to zone 0
+  [main 2]
+  YOU SETS Morphing Jar in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7400 / OPP 4500) ===
+  hand: YOU 1 / OPP 1   library: YOU 58 / OPP 58
+    YOU (recorder) hand [partly unknown]: The Rock Spirit
+    OPP hand [exact]: Wall of Illusion
+  [draw phase]
+  OPP draws 1  (hand now 2, library 57)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Magician of Faith (zone 1)
+    YOU's face-down Magician of Faith (zone 1) is destroyed in battle
+    YOU loses 1500 LP -> 5900
+  [main 2]
+  OPP SETS Wall of Illusion in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5900 / OPP 4500) ===
+  hand: YOU 1 / OPP 1   library: YOU 58 / OPP 57
+    YOU (recorder) hand [partly unknown]: The Rock Spirit
+    OPP hand [exact]: Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 2, library 57)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 8)  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 0) -> OPP's face-down Wall of Illusion (zone 1)
+    YOU loses 150 LP -> 5750
+    effect: Wall of Illusion
+    -> Wall of Illusion returns YOU's attacking Dream Clown to its owner's hand (damage still counts)
+  [main 2]
+    effect: Morphing Jar
+    effect: Torrential Tribute
+  YOU draws 1  (hand now 1, library 56)
+  YOU draws 1  (hand now 2, library 55)
+  YOU draws 1  (hand now 3, library 54)
+  YOU draws 1  (hand now 4, library 53)
+  YOU draws 1  (hand now 5, library 52)
+  OPP draws 1  (hand now 1, library 56)
+  OPP draws 1  (hand now 2, library 55)
+  OPP draws 1  (hand now 3, library 54)
+  OPP draws 1  (hand now 4, library 53)
+  OPP draws 1  (hand now 5, library 52)
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Dust Tornado
+  OPP SETS Seven Tools of the Bandit (S/T zone 6)  [card 4 of 5 in hand]
+
+=== Turn 12: OPP   (LP YOU 5750 / OPP 4500) ===
+  hand: YOU 4 / OPP 4   library: YOU 52 / OPP 52
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Ceasefire, Greenkappa, Swords of Revealing Light, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 51)
+  [standby]
+  [main 1]
+    OPP special summons Kycoo the Ghost Destroyer to zone 0
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6750
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS Greenkappa in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 6750 / OPP 4500) ===
+  hand: YOU 5 / OPP 3   library: YOU 52 / OPP 51
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Giant Rat, Swords of Revealing Light, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 51)
+  [standby]
+  [main 1]
+  YOU SETS Amazon Archer in monster zone 2 (face-down)  [card 3 of 6 in hand]
+    effect: Ceasefire
+    effect: Seven Tools of the Bandit
+    OPP loses 1000 LP -> 3500
+    YOU special summons Nimble Momonga to zone 3
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 5 in hand]
+  YOU ACTIVATES Mage Power (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 3) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    OPP's Kycoo the Ghost Destroyer (zone 0) is destroyed in battle
+    OPP loses 1200 LP -> 2300
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6750 / OPP 2300) ===
+  hand: YOU 3 / OPP 3   library: YOU 51 / OPP 51
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Giant Rat, Swords of Revealing Light, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 50)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+  OPP SUMMONS Giant Rat in monster zone 0  [card 2 of 4 in hand]
+    effect: Ceasefire
+    YOU loses 3000 LP -> 3750
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Amazon Archer (zone 2)
+    YOU's face-down Amazon Archer (zone 2) is destroyed in battle
+  OPP attacks with face-down Greenkappa (zone 1) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 4750
+  [main 2]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 1 of 3 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 4750 / OPP 2300) ===
+  hand: YOU 4 / OPP 2   library: YOU 51 / OPP 50
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Sangan, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 50)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 4750 / OPP 2300) ===
+  hand: YOU 4 / OPP 2   library: YOU 50 / OPP 50
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Sangan, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 49)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Greenkappa (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 5750
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Mother Grizzly (zone 1)
+    YOU's Mother Grizzly (zone 1) is destroyed in battle
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  [main 2]
+  OPP SUMMONS Mother Grizzly in monster zone 2  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5750 / OPP 2300) ===
+  hand: YOU 6 / OPP 2   library: YOU 50 / OPP 49
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [exact]: Sangan, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 49)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 6550
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 1 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 6550 / OPP 2300) ===
+  hand: YOU 6 / OPP 2   library: YOU 49 / OPP 49
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [exact]: Sangan, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 48)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 2) -> YOU's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 2) is destroyed in battle
+    OPP loses 100 LP -> 2200
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 2
+  OPP attacks with Mother Grizzly (zone 2) -> YOU's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 2) is destroyed in battle
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Mystic Tomato (zone 1)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with Greenkappa (zone 1) -> YOU's Mystic Tomato (zone 0)
+    OPP's Greenkappa (zone 1) is destroyed in battle
+    OPP loses 350 LP -> 1850
+    effect: Wall of Illusion
+    -> Wall of Illusion returns OPP's attacking Greenkappa to its owner's hand (damage still counts)
+  [main 2]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 6550 / OPP 1850) ===
+  hand: YOU 7 / OPP 2   library: YOU 49 / OPP 48
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 48)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 8 in hand]
+  YOU SETS Mystic Tomato in monster zone 1 (face-down)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 6550 / OPP 1850) ===
+  hand: YOU 6 / OPP 2   library: YOU 48 / OPP 48
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 47)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 6550 / OPP 1850) ===
+  hand: YOU 6 / OPP 2   library: YOU 48 / OPP 47
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 47)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons Mystic Tomato to zone 2
+    effect: Amazon Archer
+    effect: Mystical Space Typhoon
+    OPP loses 1200 LP -> 650
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 3) -> OPP's face-down Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 3   library: YOU 47 / OPP 47
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 46)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 3   library: YOU 47 / OPP 46
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 46)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 3) -> OPP's face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP's 4-Starred Ladybug of Doom (zone 1) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 3   library: YOU 46 / OPP 46
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 45)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 2   library: YOU 46 / OPP 45
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 45)
+  [standby]
+  [main 1]
+  YOU SETS Last Will (S/T zone 6)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 2   library: YOU 45 / OPP 45
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 44)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 3   library: YOU 45 / OPP 44
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 44)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 7)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 6550 / OPP 650) ===
+  hand: YOU 6 / OPP 3   library: YOU 44 / OPP 44
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 43)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with face-down Wall of Illusion (zone 0)
+    YOU loses 1000 LP -> 5550
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 5550 / OPP 650) ===
+  hand: YOU 6 / OPP 4   library: YOU 44 / OPP 43
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 43)
+  [standby]
+  [main 1]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 5550 / OPP 650) ===
+  hand: YOU 6 / OPP 4   library: YOU 43 / OPP 43
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 42)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 1  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 1) -> YOU's face-down Greenkappa (zone 0)
+    effect: Mirror Wall
+    OPP loses 200 LP -> 450
+    effect: Greenkappa
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 31: YOU   (LP YOU 5550 / OPP 450) ===
+  hand: YOU 6 / OPP 4   library: YOU 43 / OPP 42
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 42)
+  [standby]
+    effect: Mirror Wall
+    YOU loses 2000 LP -> 3550
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 7 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Greenkappa (zone 0) -> OPP's Giant Rat (zone 1)
+    YOU's Greenkappa (zone 0) is destroyed in battle
+    YOU loses 50 LP -> 3500
+    effect: Last Will
+    YOU special summons Greenkappa to zone 0
+  YOU attacks with Greenkappa (zone 0) -> OPP's Giant Rat (zone 1)
+    OPP's Giant Rat (zone 1) is destroyed in battle
+    OPP loses 800 LP -> -350
+  [DUEL END]  final LP: YOU 3500 / OPP -350

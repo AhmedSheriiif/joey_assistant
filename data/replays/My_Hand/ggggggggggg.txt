@@ -1,0 +1,398 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 55)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 55
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Call Of The Haunted, Fissure, Swords of Revealing Light, Waboku
+    OPP hand [exact]: Gravekeeper's Servant, Jar of Greed, Needle Worm, 2x Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Waboku (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 37 / OPP 55
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Call Of The Haunted, Fissure, Swords of Revealing Light
+    OPP hand [exact]: Gravekeeper's Servant, Jar of Greed, Needle Worm, 2x Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 54)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Jar of Greed (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 37 / OPP 54
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Call Of The Haunted, Fissure, Swords of Revealing Light
+    OPP hand [exact]: Gravekeeper's Servant, Needle Worm, Nimble Momonga, Prevent Rat
+  [draw phase]
+  YOU draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 54
+    YOU (recorder) hand [exact]: Call Of The Haunted, Cannon Soldier, Fissure, Swords of Revealing Light
+    OPP hand [exact]: Gravekeeper's Servant, Needle Worm, Nimble Momonga, Prevent Rat
+  [draw phase]
+  OPP draws 1  (hand now 5, library 53)
+  [standby]
+  [main 1]
+  OPP SETS Needle Worm in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Gravekeeper's Servant (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 36 / OPP 53
+    YOU (recorder) hand [exact]: Call Of The Haunted, Cannon Soldier, Fissure, Swords of Revealing Light
+    OPP hand [exact]: Mystical Elf, Nimble Momonga, Prevent Rat
+  [draw phase]
+  YOU draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Swords of Revealing Light
+    effect: Needle Worm
+  YOU SUMMONS Cannon Soldier in monster zone 2  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 2) -> OPP's face-down Needle Worm (zone 1)
+    OPP's face-down Needle Worm (zone 1) is destroyed in battle
+  [main 2]
+  YOU SETS Solemn Judgment (S/T zone 7)  [card 3 of 3 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 8)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 35 / OPP 53
+    YOU (recorder) hand [exact]: Fissure
+    OPP hand [exact]: Mystical Elf, Nimble Momonga, Prevent Rat
+  [draw phase]
+  OPP draws 1  (hand now 4, library 52)
+  [standby]
+  [main 1]
+    effect: Gravekeeper's Servant
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Upstart Goblin (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 2   library: YOU 35 / OPP 52
+    YOU (recorder) hand [exact]: Fissure
+    OPP hand [exact]: Mystical Elf, Prevent Rat
+  [draw phase]
+  YOU draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Fissure (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Fissure
+  YOU SETS Dust Tornado (S/T zone 9)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with face-down Blast Sphere (zone 0) -> OPP's face-down Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    OPP special summons Nimble Momonga to zone 0
+  YOU attacks with Cannon Soldier (zone 2) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 10000
+    effect: Call Of The Haunted
+    YOU special summons a monster to zone 3
+  YOU attacks DIRECTLY with unknown monster (zone 3)
+    OPP loses 1400 LP -> 8600
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 8600) ===
+  hand: YOU 0 / OPP 4   library: YOU 34 / OPP 52
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: Mystical Elf, Prevent Rat   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 51)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 3 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Prevent Rat in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 8600) ===
+  hand: YOU 0 / OPP 3   library: YOU 34 / OPP 51
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: Mystical Elf   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 33)
+  [standby]
+  [main 1]
+    effect: Dust Tornado
+  [battle phase]
+  YOU attacks with unknown monster (zone 3) -> OPP's face-down Prevent Rat (zone 0)
+    YOU loses 600 LP -> 7400
+  [main 2]
+  YOU SETS Windstorm of Etaqua (S/T zone 9)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7400 / OPP 8600) ===
+  hand: YOU 0 / OPP 3   library: YOU 33 / OPP 51
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: Mystical Elf   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 50)
+  [standby]
+  [main 1]
+    effect: Jar of Greed
+  OPP draws 1  (hand now 5, library 49)
+  OPP SETS Mystical Elf in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Jar of Greed (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7400 / OPP 8600) ===
+  hand: YOU 0 / OPP 3   library: YOU 33 / OPP 49
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Mask of Darkness in monster zone 4 (face-down)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with unknown monster (zone 3) -> OPP's face-down Mystical Elf (zone 1)
+    YOU loses 600 LP -> 6800
+  YOU attacks with Cannon Soldier (zone 2) -> OPP's Prevent Rat (zone 0)
+    effect: Windstorm of Etaqua
+    OPP's Prevent Rat (zone 0) is destroyed in battle
+    OPP loses 900 LP -> 7700
+  YOU attacks with Blast Sphere (zone 0) -> OPP's Mystical Elf (zone 1)
+    OPP's Mystical Elf (zone 1) is destroyed in battle
+    OPP loses 600 LP -> 7100
+  YOU attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP loses 800 LP -> 6300
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6800 / OPP 6300) ===
+  hand: YOU 0 / OPP 3   library: YOU 32 / OPP 49
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 48)
+  [standby]
+  [main 1]
+    effect: Upstart Goblin
+  OPP draws 1  (hand now 5, library 47)
+    YOU gains 1000 LP -> 7800
+  OPP SETS Solemn Wishes (S/T zone 7)  [card 3 of 5 in hand]
+  OPP SETS Earthbound Spirit in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7800 / OPP 6300) ===
+  hand: YOU 0 / OPP 3   library: YOU 32 / OPP 47
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 2) -> OPP's face-down Earthbound Spirit (zone 0)
+    YOU loses 600 LP -> 7200
+  [main 2]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Mask of Darkness
+  YOU SETS Ceasefire (S/T zone 9)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+    effect: Solemn Wishes
+    effect: Solemn Judgment
+    YOU loses 3600 LP -> 3600
+
+=== Turn 14: OPP   (LP YOU 3600 / OPP 6300) ===
+  hand: YOU 0 / OPP 3   library: YOU 31 / OPP 47
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 46)
+  [standby]
+  [main 1]
+    effect: Jar of Greed
+  OPP draws 1  (hand now 5, library 45)
+  OPP SETS Gravity Bind (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Magic Jammer (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 3600 / OPP 6300) ===
+  hand: YOU 0 / OPP 3   library: YOU 31 / OPP 45
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 2500 LP -> 3800
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 3300
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 2800
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 2300
+    effect: Cannon Soldier
+  YOU ACTIVATES Scapegoat (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Scapegoat
+    effect: Magic Jammer
+    OPP loses 500 LP -> 1800
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 3   library: YOU 30 / OPP 45
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 44)
+  [standby]
+  [main 1]
+  OPP SETS Needle Worm in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 3   library: YOU 30 / OPP 44
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Kunai with Chain (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 3   library: YOU 29 / OPP 44
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 43)
+  [standby]
+  [main 1]
+    effect: Needle Worm
+    effect: Torrential Tribute
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 3   library: YOU 29 / OPP 43
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 3   library: YOU 28 / OPP 43
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 42)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  OPP SETS Solemn Wishes (S/T zone 7)  [card 2 of 4 in hand]
+  OPP SETS Aqua Madoor in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 3600 / OPP 1800) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 42
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Mask of Darkness (zone 0)
+    effect: Kunai with Chain
+    OPP's face-down Mask of Darkness (zone 0) is destroyed in battle
+    OPP loses 600 LP -> 1200
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+    effect: Solemn Wishes
+    effect: Dust Tornado
+
+=== Turn 22: OPP   (LP YOU 3600 / OPP 1200) ===
+  hand: YOU 0 / OPP 2   library: YOU 27 / OPP 42
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 41)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 3600 / OPP 1200) ===
+  hand: YOU 0 / OPP 2   library: YOU 27 / OPP 41
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Aqua Madoor (zone 1)
+  YOU ACTIVATES Rush Recklessly (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Rush Recklessly
+    OPP's Aqua Madoor (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 3600 / OPP 1200) ===
+  hand: YOU 0 / OPP 2   library: YOU 26 / OPP 41
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 40)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 3600 / OPP 1200) ===
+  hand: YOU 0 / OPP 3   library: YOU 26 / OPP 40
+    YOU (recorder) hand [partly unknown]: Blast Sphere
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Crush Card (S/T zone 6)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1500 LP -> -300
+  [DUEL END]  final LP: YOU 3600 / OPP -300

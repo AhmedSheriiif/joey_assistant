@@ -1,0 +1,1115 @@
+deck_id,name,level,attribute,type,atk,def,passcode,description,yugi,kaiba,joey,playable
+1504,Earthbound Spirit,4,Earth,Fiend,500,2000,1112674407,e all sent to your Graveyard immediately.,0,0,1,1
+614,Armored Starfish,4,Water,Aqua,850,1400,2287293207,position with its sharp claws.,1,0,0,1
+50,Armored Lizard,4,Earth,Reptile,1500,1200,2282047509,ntended target.,0,1,0,1
+171,Armaill,3,Earth,Warrior,700,1300,2167674195,A strange warrior who manipulates three deadly blades with both hands and his tail.,1,0,0,1
+123,Ancient Tool,5,Dark,Machine,1700,1400,2524141641,A destructive machine discovered in the Ruins of the Ancients.,0,0,0,0
+261,The Little Swordsman of Aile,3,Water,Warrior,800,1300,1352208421,Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.,0,1,0,1
+1330,Bite Shoes,2,Dark,Fiend,500,300,2200441424,FLIP: Change the Attack or Defense Position of 1 face-up monster on the field. The card must remain face-up.,0,0,1,1
+150,Rhaimundos of the Red Sword,4,Earth,Warrior,1200,1300,1949319266,"Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",0,0,0,0
+445,Aqua Snake,3,Water,Aqua,1050,900,1181106962,This monster hypnotizes an opponent with the ball on its tail and drags them to a watery doom.,0,0,0,0
+441,Aqua Dragon,,,,,,692393606,"""Fairy Dragon"" + ""Amazon of the Seas"" + ""Zone Eater""",0,0,0,0
+1178,Aqua Chorus,,,,,,941822869,"If there are Monster Cards of the same name on the field, the ATK and DEF of those cards are increased by 500 points.",0,0,1,1
+212,Aqua Madoor,4,Water,Spellcaster,1200,2000,1469211525,A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.,1,0,0,1
+266,Unknown Warrior of Fiend,3,Dark,Warrior,1000,500,369178263,The speed of this warrior creates an intense vacuum that can slice through a monster's hide.,0,0,0,0
+673,Beastly Mirror Ritual,,,,,,4294967295,"This card is used to Ritual Summon ""Fiend's Mirror"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,0,0,0
+320,Malevolent Nuzzler,,,,,,360077721,"A monster equipped with this card increases its ATK by 700 points. When this card is sent from the field to the Graveyard, you can pay 500 Life Points to place it on top of your Deck.",0,1,0,1
+1204,Skull Dice,,,,,,409080320,Roll 1 six-sided die. The result is multiplied by 100 points and subtracted from the ATK and DEF of all monsters in your opponent's control until the end of your turn. Monsters summoned after this card's activation are excluded.,0,0,1,1
+161,Tainted Wisdom,3,Dark,Fiend,1250,800,72380968,"When this card is changed from Attack Position to Defense Position, shuffle your own Deck.",0,1,0,1
+610,Hiro's Shadow Scout,2,Dark,Fiend,650,500,1748010625,FLIP: Your opponent draws 3 cards. Both players check the cards and any Spell Cards among them must be immediately discarded to the Graveyard.,0,1,0,1
+1037,Exile of the Wicked,,,,,,1481732646,Destroys all face-up Fiend-Type monsters on the field.,0,1,0,1
+1230,Nightmare's Steelcage,,,,,,2019129176,"For 2 of your opponent's turns, all monsters on the field cannot attack. Following the second turn, this card is destroyed.",0,0,1,1
+126,Ansatsu,5,Earth,Warrior,1700,1200,156710472,A silent and deadly warrior specializing in assassinations.,1,0,0,1
+1159,The Shallow Grave,,,,,,55067459,Each player takes 1 Monster Card from his/her respective Graveyard and Special Summons them on the field in face-down Defense Position.,0,1,1,1
+639,Acid Crawler,3,Earth,Insect,900,700,1401247351,A giant caterpillar that secretes an acid mist that melts anything.,0,0,0,0
+77,Axe Raider,4,Earth,Warrior,1700,1150,1699950664,An axe-wielding monster of tremendous strength and agility.,0,0,1,1
+594,Fiend Reflection #1,4,Wind,Winged Beast,1300,1400,1979877224,This monster can draw its enemies into mirror world that renders them helpless.,0,0,0,0
+1432,Amazon Archer,4,Earth,Warrior,1400,1000,59934353,Offer 2 monsters on your side of the field as a Tribute to inflict 1200 points of Direct Damage to your opponent's Life Points. Monsters used for a Tribute Summon or that are offered as Tributes due to other cards' effects are excluded.,0,0,1,1
+688,Reverse Trap,,,,,,2518901367,All increases and decreases to ATK and DEF are reversed for the turn in which this card is activated.,1,0,0,1
+483,Ameba,1,Water,Aqua,300,350,1396905877,"When this card is face-up on the field and control shifts to your opponent, inflict 2000 points of Direct Damage to your opponent's Life Points. This effect can only be used once as long as this card remains face-up on the field.",0,1,0,1
+179,Arlownay,3,Earth,Plant,800,1000,1770352660,"A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.",0,0,0,0
+167,Darkfire Dragon,4,Dark,Dragon,1500,1250,1679394839,"""Firegrass"" + ""Petit Dragon""",1,0,0,1
+37,Gaia The Fierce Knight,7,Earth,Warrior,2300,2100,947926534,A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.,1,0,0,1
+2037,Gaia The Fierce Knight,7,Earth,Warrior,2300,2100,1613783040,A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.,0,0,0,0
+1538,The Dark Door,,,,,,1197826096,Both players can only attack with 1 monster during their respective Battle Phases.,0,0,1,1
+9,Blackland Fire Dragon,4,Dark,Dragon,1500,800,1380144775,"A dragon that dwells in the depths of darkness, its vulnerability lies in its poor eyesight.",0,1,0,1
+1332,Invitation to a Dark Sleep,5,Dark,Spellcaster,1500,1800,2304141138,"When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",0,1,0,1
+232,Dark Titan of Terror,4,Dark,Fiend,1300,1100,1766082953,"A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.",0,0,0,0
+1242,Beast of Gilfer,6,Dark,Fiend,2200,2500,1617963088,"When this card is sent to the Graveyard, it can be treated as an Equip Spell Card and can be used to equip 1 monster on the field. The ATK of a monster equipped with this card decreases by 500 points.",0,0,1,1
+29,Zombie Warrior,3,Dark,Zombie,1200,900,1620194097,"""Skull Servant"" + ""Battle Warrior""",0,0,0,0
+195,Arma Knight,4,Water,Aqua,1000,1200,1360467254,An ammonite warrior that has protected the seas throughout history.,0,0,0,0
+514,The Statue of Easter Island,4,Earth,Rock,1100,1400,2552636944,A stone monument from Easter Island that launches laser blasts from its rock-hewn lips.,0,0,1,1
+264,The Furious Sea King,3,Water,Aqua,800,700,117928216,"Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",1,0,0,1
+568,Drooling Lizard,3,Earth,Reptile,900,800,2536584470,A blood-sucking snake in human form that attacks any living being that passes nearby.,1,0,0,1
+1418,Mask of Restrict,,,,,,1687376937,"No matter what the situation, neither player can offer any monster as a Tribute.",0,0,1,1
+398,Swordsman from a Foreign Land,1,Earth,Warrior,250,250,1347757445,A monster attacked by this card will be destroyed at the End Phase of the fifth turn after the attack.,0,0,0,0
+559,Invader from Another Dimension,4,Dark,Fiend,950,1400,352929064,An extraterrestrial monster that came from a distant galaxy.,0,0,0,0
+255,Dimensional Warrior,4,Earth,Warrior,1200,1000,2150695991,"When this card Attacks or is attacked, both this card and the opposing monster are removed from play and cannot return during the current Duel.",0,0,1,1
+624,Fairy of the Fountain,4,Water,Aqua,1600,1100,372528769,This fairy protects a fountain from any who seek to muddy its waters.,0,0,0,0
+1526,The Last Warrior from Another Planet,7,Earth,Warrior,2350,2300,2291599750,"""Zombyra the Dark"" + ""Maryokutai"". When this card is Special Summoned, destroy all monsters on your side of the field except this card. As long as this card remains face-up on the field, both player cannot Summon (including Flip Summon or Special Summon) any monster.",0,0,1,1
+1177,Windstorm of Etaqua,,,,,,960918617,Change the battle positions of all face-up monsters on your opponent's side of the field.,0,1,1,1
+1071,Delinquent Duo,,,,,,623932996,Pay 1000 Life Points. Randomly select and discard 1 card from your opponent's hand. Your opponent then selects and discards another card from his/her hand.,0,1,1,1
+1059,Share the Pain,,,,,,1225229142,Offer 1 monster on your side of the field as a Tribute. Your opponent must select 1 monster on his/her side of the field and offer it as a Tribute.,0,1,0,1
+1146,The Regulation of Tribe,,,,,,2573478144,"Select 1 Type of monster. Any monster of the selected Type cannot attack. To keep this card in effect, you must offer 1 monster from the field as a Tribute at each of your Standby Phases. If you cannot, this card is destroyed.",0,0,1,1
+313,Horn of the Unicorn,,,,,,1181811812,"A monster equipped with this card increases its ATK and DEF by 700 points. When this card is sent from the field to the Graveyard, it returns to the top of your Deck.",0,1,0,1
+1422,Lightning Blade,,,,,,560472661,This card can only be equipped to Warrior-Type monsters. Increases the ATK of the equipped monster by 800 points and decreases the ATK of all WATER monsters on the field by 500 points.,0,0,1,1
+587,Living Vase,3,Earth,Plant,900,1100,117649972,A living vase that bites enemies and blinds them with a blast of pollen from its flower.,0,0,0,0
+228,Hourglass of Life,2,Light,Fairy,700,600,2234939400,This creature grants power instead of shortening life.,0,0,0,0
+111,That Which Feeds on Life,4,Dark,Fiend,1200,1000,1383478866,A monster that feeds on the energy of other creatures.,0,0,0,0
+533,Minar,3,Earth,Insect,850,750,2459456306,"When this card is sent directly from your hand to the Graveyard by your opponent's card effect, inflict 1000 points of Direct Damage to your opponent's Life Points.",0,1,0,1
+603,Obese Marmot of Nefariousness,3,Earth,Beast,750,800,1379234134,An ill-mannered field mouse that will sink its fangs into anything.,0,0,0,0
+41,Illusionist Faceless Mage,5,Dark,Spellcaster,1200,2200,90788904,Manipulates enemy attacks with the power of illusion.,0,1,0,1
+641,Mystical Sheep #1,3,Earth,Beast,1150,900,1712538928,You can substitute this card for any 1 Fusion-Material Monster. You cannot substitute for any other Fusion-Material Monsters in the current Fusion.,0,1,0,1
+958,Black Illusion Ritual,,,,,,1768440385,"This card is used to Ritual Summon ""Relinquished"". You must also offer monsters whose total Level Stars equal 1 or more from the field or your hand as a Tribute.",0,1,0,1
+1518,The Rock Spirit,4,Earth,Rock,1700,1000,945172598,This monster can only be Special Summoned by removing 1 EARTH monster in your Graveyard from play. Increase the ATK of this monster by 300 points during your opponent's Battle Phase.,0,0,1,1
+455,Minomushi Warrior,4,Earth,Rock,1300,1200,1732871750,A rock warrior that wields a heavy blade carved from stone.,0,0,0,0
+476,Alinsection,3,Earth,Insect,950,700,2219348592,A stag beetle with saw-like head and arms.,0,0,0,0
+761,Insect Queen,7,Earth,Insect,2200,2400,891834769,"This card cannot attack unless you offer 1 of your monsters on the field as a Tribute. The ATK of this card increases by 200 points for each Insect-Type monster on the field. When this card destroys an enemy monster, you can place an ""Insect Monster Token"" (face-up Attack Position/Insect-Type/EARTH/1 Star/ATK 100/DEF 100) on the field at the end of your turn.",0,0,1,1
+24,Horn Imp,4,Dark,Fiend,1300,1000,93611625,"A small fiend that dwells in the dark, its single horn makes it a formidable opponent.",0,0,0,0
+1528,Destiny Board,,,,,,941891988,"At the end of each of your opponent's turns, place 1 ""Spirit Message"" card from your hand or your Deck face-up to the field. If it is from your Deck, then shuffle your Deck. If ""Spirit Message"" cards ""I"", ""N"", ""A"" and ""L"" are all on the field in their proper order, you are declared the winner. If any of the cards are destroyed or removed from the field while constructing the message, they are all sent to your Graveyard immediately.",0,1,0,1
+649,Whiptail Crow,4,Dark,Fiend,1650,1600,2221250961,Attacks from the skies with a whip-like tail.,0,1,0,1
+495,Wilmee,4,Earth,Beast,1000,1200,2215655826,A rabid rabbit that tears its way through opposition with its sharp claws.,0,0,0,0
+463,Wing Eagle,5,Wind,Winged Beast,1800,1500,1100034375,This flying creature never misses an intended target.,0,0,0,0
+263,Wing Egg Elf,3,Light,Fairy,500,1300,69687448,This fairy in an eggshell uses massive wings to blow back almost any projectile attack.,0,0,0,0
+269,Wetha,3,Water,Aqua,1000,900,1748329622,A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.,0,0,0,0
+129,Weather Control,2,Light,Fairy,600,400,1362175031,This creature controls weather and is often the cause of mountain storms.,0,0,0,0
+582,Weather Report,4,Water,Aqua,950,1500,1161168242,"FLIP: Destroys all opponent's face-up ""Swords of Revealing Light"" on the field. If ""Swords of Revealing Light"" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",0,1,0,1
+262,Rock Ogre Grotto #2,3,Earth,Rock,700,1400,2570459490,"A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.",0,0,0,0
+242,Water Element,3,Water,Aqua,900,700,1193767683,"A spirit that dwells in water, this creature generates a mist to cloud the vision of foes.",0,0,0,0
+434,Water Girl,4,Water,Aqua,1250,1000,1346371925,A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.,0,0,0,0
+1126,Umiiruka,,,,,,697735554,Increases the ATK of all WATER monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+368,Wall Shadow,7,Dark,Warrior,1605,440,4294967295,"You cannot Normal Summon this monster. This card can only be Special Summoned by offering ""Labyrinth Wall"" equipped with ""Magical Labyrinth"" as a Tribute. No other Tribute Monsters are necessary.",0,0,1,1
+400,Ushi Oni,6,Dark,Fiend,2150,1950,1402168392,"A bull fiend restored by the dark arts, this monster appears out of a jar.",0,1,0,1
+433,Beautiful Beast Trainer,5,Earth,Warrior,1750,1500,1097425193,A rare female beast-master with a very dangerous whip.,0,0,0,0
+230,Wood Clown,3,Earth,Warrior,800,1200,1443975447,A creature with a wicked smile and a lethal sickle.,0,0,0,0
+1074,Tailor of the Fickle,,,,,,1930716227,Select 1 equipped Equip Card and switch it to another correct target.,0,1,0,1
+625,Amazon of the Seas,4,Water,Fish,1300,1400,344036887,A mermaid who serves as herald of the Sea King and guards the sanctuary.,0,0,0,0
+333,Umi,,,,,,1428189218,"Increases the ATK and DEF of all Fish, Sea Serpent, Thunder, and Aqua-Type monsters by 200 points. Also decreases the ATK and DEF of all Machine and Pyro-Type monsters by 200 points.",1,0,1,1
+444,Guardian of the Sea,4,Water,Aqua,1300,1000,831079557,A merman warrior that relentlessly attacks those who pollute the seas with their presence.,0,0,0,0
+431,Waterdragon Fairy,3,Water,Aqua,1100,700,2556789606,A water fairy that is said to be able to summon a giant sea serpent.,0,0,0,0
+241,Candle of Fate,2,Dark,Fiend,600,600,374630727,Decides the fate of an opponent when the candle on its fingertip burns out.,0,0,0,0
+471,Air Eater,6,Wind,Fiend,2100,1600,1765225736,"A monster that feeds on oxygen, suffocating any who stand near.",0,0,0,0
+663,Eternal Draught,,,,,,677994582,Destroys all Fish-Type monsters on the field.,0,0,0,0
+1548,Ekibyo Drakmord,,,,,,2571343209,"A monster equipped with this card cannot attack. Destroys the equipped monster at the end of the 2nd turn of the player controlling the monster. At that time, this card is returned to the owner's hand.",0,0,1,1
+1205,Exchange,,,,,,1751536901,"Both players show their hands to each other. You both select 1 card from each other's hand and add it your own. When the cards are sent to the Graveyard, they are placed in the Graveyard of the original owner.",0,1,0,1
+705,Serpent Night Dragon,7,Dark,Dragon,2350,2400,4294967295,A dragon created from the soul of a wicked knight.,0,1,0,1
+1414,Chosen One,,,,,,2491713569,"Select 1 Monster Card and 2 non-Monster Cards from your hand. Your opponent randomly selects 1 of the 3 cards. If it is the Monster Card, it is immediately Special Summoned in face-up Attack or Defense Position and the remaining 2 cards are sent to the Graveyard. If it is not a Monster Card, all 3 cards are sent to the Graveyard.",0,0,1,1
+529,Eldeen,3,Light,Spellcaster,950,1000,2239182342,The cane of this monster is the source of many powerful spells.,0,0,0,0
+40,Celtic Guardian,4,Earth,Warrior,1400,1200,1445074321,"An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",1,0,0,1
+2040,Celtic Guardian,4,Earth,Warrior,1400,1200,1343230096,"An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",0,0,0,0
+306,Elf's Light,,,,,,2003994937,A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,0,0,1,1
+44,Oscillo Hero #2,3,Light,Thunder,1000,500,323170855,A creature that electrocutes opponents with bolts of lightning.,0,1,0,1
+462,Electric Snake,3,Light,Thunder,800,900,910438929,"When this card is sent directly from your hand to the Graveyard by your opponent's card effect, you can draw 2 cards from your Deck.",0,1,0,1
+1015,Reinforcements,,,,,,2269348119,Increase 1 selected monster's ATK by 500 points during the turn this card is activated.,1,0,0,1
+252,Fairywitch,3,Dark,Spellcaster,800,1000,2013730359,"Though destined to be a fairy, this creature chose the way of the witch instead.",0,0,0,0
+432,Ancient Elf,4,Light,Spellcaster,1450,1200,101851795,This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.,1,0,0,1
+395,Ocubeam,5,Light,Fairy,1550,1650,947980422,"Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.",0,0,1,1
+1045,Robbin' Goblin,,,,,,915875720,"Each time 1 of your monsters inflicts damage to your opponent's Life Points, 1 card is randomly selected from your opponent's hand and discarded to the Graveyard.",0,1,0,1
+1033,Royal Decree,,,,,,2434811217,"As long as this card remains face-up on the field, negate the effects of all Trap Cards except this card on the field.",0,1,0,1
+1530,Royal Command,,,,,,1174574387,Negates the activation and effects of all Flip Effect monsters.,0,0,1,1
+1154,Imperial Order,,,,,,1929802849,"As long as this card remains face-up on the field, negate the effects of all Spell Cards. Pay 700 Life Points during each of your Standby Phases. If you cannot, this card is destroyed.",0,1,1,1
+279,Protector of the Throne,4,Earth,Warrior,800,1500,1444153104,"While the king is away, this queen protects his throne with a mighty defense.",0,1,0,1
+640,Invader of the Throne,4,Earth,Warrior,1350,1700,1734477059,FLIP: Select 1 opponent's monster and switch control of it with this card. This effect cannot be activated during the Battle Phase.,0,1,0,1
+512,Guardian of the Throne Room,4,Light,Machine,1650,1600,2241431367,"A robot guard built to protect throne rooms, it is armed with homing missiles.",0,1,0,1
+1070,Confiscation,,,,,,374552343,Pay 1000 Life Points to look at your opponent's hand. Select 1 card and discard it to the Graveyard.,0,1,0,1
+1061,Heavy Storm,,,,,,1446338841,Destroys all Spell and Trap Cards on the field.,0,1,0,1
+60,Wolf,3,Earth,Beast,1200,800,158679369,A rare wolf that can follow the slightest scent of an enemy.,0,0,0,0
+595,Ghoul with an Appetite,4,Dark,Zombie,1600,1200,1968776853,A monster with a very big appetite that has never been satisfied.,0,0,0,0
+1149,Major Riot,,,,,,1195902729,You can activate this card when 1 or more of your monsters are returned from the field to your hand. Return all Monster Cards on the field to your respective hands. Both you and your opponent can then Special Summon from your hand the same number of Monster Cards on the field in face-down Defense Position.,0,0,1,1
+130,Octoberser,5,Water,Aqua,1600,1400,1718772596,"With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.",0,0,1,1
+558,Oscillo Hero,3,Earth,Warrior,1250,700,1985087106,A strange warrior from another dimension.,0,1,0,1
+1002,Trap Hole,,,,,,1684611076,"If the ATK of a monster summoned by your opponent (excluding Special Summon) is 1000 points or more, the monster is destroyed.",1,0,0,1
+298,Sonic Maid,3,Earth,Warrior,1200,900,1495307320,"A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.",0,1,0,1
+675,Commencement Dance,,,,,,4294967295,"This card is used to Ritual Summon ""Performance of Sword"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+1545,Bait Doll,,,,,,2236618247,"Force the activation of 1 face-down Trap Card.  If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard).  The Deck is then shuffled.",0,0,1,1
+1309,Oni Tank T-34,4,Earth,Machine,1400,1700,2490995302,An armored tank possessed by a fiend that will pursue enemies until they're crushed.,0,0,1,1
+351,Kanan the Swordmistress,4,Earth,Warrior,1400,1400,4294967295,"A lady warrior armed with sword and shield, she floats like a butterfly and stings like a bee.",0,0,0,0
+1348,Souls of the Forgotten,2,Dark,Fiend,900,200,268472836,A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.,0,0,1,1
+283,Tao the Chanter,3,Earth,Spellcaster,1200,900,376775750,"Master of Yin and Yang, this wizard handles a delicate balance of spells and counterspells.",0,0,0,0
+1552,Vengeful Bog Spirit,,,,,,1443373717,All monsters on the field cannot attack in the same turn that they are summoned (includes Flip Summon and Special Summon).,0,0,1,1
+4,Ryu-Kishin,3,Dark,Fiend,1000,500,2519871509,A very elusive creature that looks like a harmless statue until it attacks.,0,0,0,0
+376,Ryu-Kishin Powered,4,Dark,Fiend,1600,1200,874078500,A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.,0,1,0,1
+38,Curse of Dragon,5,Dark,Dragon,2000,1500,1133848360,A wicked dragon that taps into dark forces to execute a powerful attack.,1,0,0,1
+83,Reaper of the Cards,5,Dark,Fiend,1380,1930,962659891,"FLIP: Destroys 1 Trap Card on the field. If this card's target is face-down, flip it face-up. If the card is a Trap Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not activated.",1,0,0,1
+795,Garnecia Elefantis,7,Earth,Beast-Warrior,2400,2000,2441185353,A monster so heavy that each step rocks the earth.,0,0,1,1
+1125,Gaia Power,,,,,,541415766,Increases the ATK of all EARTH monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+1501,The Portrait's Secret,4,Earth,Fiend,1200,1500,1930908722,"A portrait cursed by the artist, it is said to bring ill fortune to anyone who owns it.",0,0,1,1
+426,Kaiser Dragon,7,Light,Dragon,2300,2000,845436564,"""Winged Dragon, Guardian of the Fortress #1"" + ""Fairy Dragon""",0,0,0,0
+1342,Skull Mariner,4,Water,Warrior,1600,900,1347888645,A pirate ship that appears out of the mist and sinks any seagoing vessels.,0,0,1,1
+1535,Destruction Punch,,,,,,308568325,"When the ATK of an attacking monster on your opponent's side of the field is lower than the DEF of the attacked Defense Position monster on your side of the field, destroy the attacking monster. Damage calculation is applied normally.",0,0,1,1
+548,Frog The Jam,2,Water,Aqua,700,500,2240373608,"A slime with the head of a frog, it attacks by croaking terribly.",0,1,0,1
+346,Tremendous Fire,,,,,,4294967295,Inflicts 1000 points of Direct Damage to your opponent's Life Points and 500 points of Direct Damage to your Life Points.,0,1,0,1
+156,Firegrass,2,Earth,Plant,700,600,1161111891,A fire-breathing plant found growing near volcanoes.,1,0,0,1
+114,Kamionwizard,4,Dark,Spellcaster,1300,1100,1950372929,"""Mystical Elf"" + ""Curtain of the Dark Ones""",0,0,0,0
+720,Dark Magic Ritual,,,,,,4294967295,"This card is used to Ritual Summon ""Magician of Black Chaos"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,1,1
+363,Black Luster Soldier,8,Earth,Warrior,3000,2500,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Black Luster Ritual"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+669,Black Luster Ritual,,,,,,4294967295,"This card is used to Ritual Summon ""Black Luster Soldier"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+1163,Morphing Jar #2,3,Earth,Rock,800,700,1617105017,FLIP: Return all Monster Cards on the field to their respective Decks and shuffle them. You and your opponent then pick up cards until you both have the same number of Monster Cards (Level 4 or lower) that were returned to each Deck. Special Summon the monsters on the field in face-down Defense Position. Any other cards picked up are discarded to the Graveyard.,0,0,1,1
+1347,Science Soldier,3,Dark,Warrior,800,800,304698215,Soldiers equipped with state-of-the-art weaponry to face unknown creatures.,0,0,1,1
+305,Insect Armor with Laser Cannon,,,,,,941967619,An Insect-Type monster equipped with this card increases its ATK by 700 points.,0,0,0,0
+323,Invigoration,,,,,,859912088,An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,0,0,0,0
+149,Akihiron,5,Water,Aqua,1700,1400,1766101046,"This strange creature hides in the deep, dark corners of the seven seas.",0,0,0,0
+99,Battle Warrior,3,Earth,Warrior,700,1000,554259797,A warrior that fights with his bare hands.,0,0,1,1
+1039,Restructer Revolution,,,,,,1636389273,Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.,0,0,0,0
+1409,Gadget Soldier,6,Fire,Machine,1800,2000,2031560838,A rust-free machine warrior born to battle.,0,1,1,1
+105,Spirit of the Winds,5,Wind,Spellcaster,1700,1400,2169987412,A spirit of the wind that calls up a storm when it's in a bad mood.,0,0,0,0
+1519,Garuda the Wind Spirit,4,Wind,Winged Beast,1600,1200,1996980242,"This monster can only be Special Summoned by removing 1 WIND monster in your Graveyard from play. As long as this monster remains face-up on the field, you may change the battle position of 1 of your opponent's face-up Monster Cards at each End Phase of your opponent's turn.",0,0,1,1
+143,Djinn the Watcher of the Wind,3,Wind,Spellcaster,700,900,87393431,This creature generates gale-force winds and tornadoes to blow its enemies away.,0,0,0,0
+88,Catapult Turtle,5,Water,Aqua,1000,2000,2440655509,Offer 1 monster on your side of the field as a Tribute to inflict Direct Damage equal to half of the Tribute monster's ATK to your opponent's Life Points.  Monsters used for a Tribute Summon or that are offered as Tributes due to other cards' effects are excluded.,0,1,0,1
+405,Yaiba Robo,4,Dark,Machine,1000,1300,693383440,A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.,0,0,0,0
+1310,Overdrive,4,Earth,Machine,1600,1500,51785986,An all-terrain armored vehicle armed with a heavy-duty machine gun.,0,0,1,1
+450,Kanikabuto,3,Water,Aqua,650,900,37163140,A monster crab with huge claws for clipping enemies to little pieces.,0,0,0,0
+475,Ganigumo,2,Earth,Insect,600,800,1986155316,A crab that binds its enemies with a sticky web and attacks them with its sharp claws.,0,0,0,0
+534,Kamakiriman,4,Earth,Insect,1150,1400,1082495592,A man-shaped mantis with two razor-sharp scythes.,0,0,0,0
+1509,Lightning Conger,3,Water,Thunder,350,750,554919719,This massive eel generates huge charges of electricity and unleashes them as thunderbolts.,0,0,1,1
+461,The Immortal of Thunder,4,Light,Thunder,1500,1300,946311812,"FLIP: You gain 3000 Life Points. After this card is flipped, you lose 5000 Life Points when it is sent from the field to the Graveyard.",0,0,1,1
+662,Breath of Light,,,,,,588386336,Destroys all Rock-Type monsters on the field.,0,0,0,0
+1028,Solemn Judgment,,,,,,654328385,"Pay half of your Life Points when your opponent either activates a Spell or Trap Card or summons a monster (including Special Summon) to negate the action and destroy the Spell Card, Trap Card, or summoned monster.",0,1,0,1
+1305,Solemn Wishes,,,,,,1751725109,You gain 500 Life Points when you draw a card (or cards).,0,0,1,1
+691,Turtle Oath,,,,,,4294967295,"This card is used to Ritual Summon ""Crab Turtle"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,1,0,1
+1410,Grand Tiki Elder,4,Dark,Fiend,1500,800,1952737043,A masked monster that wields the most deadly of curses.,0,0,1,1
+181,Masked Clown,2,Dark,Warrior,500,700,303257719,This warrior's fatal dance is performed with a lethal sickle.,0,0,0,0
+1257,,8,Dark,Fiend,3300,2500,898208840,,0,0,0,0
+1416,Curse of the Masked Beast,,,,,,1198667668,"This card is used to Ritual Summon ""The Masked Beast"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,1,1
+1411,The Masked Beast,8,Dark,Fiend,3200,1800,323225161,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Curse of the Masked Beast"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,1,1
+219,Masked Sorcerer,4,Dark,Spellcaster,900,1400,647043088,"When you inflict damage to your opponent's Life Points with this card, draw 1 card from your Deck.",0,1,0,1
+409,Mechanical Spider,2,Earth,Machine,400,500,2256889925,Any DARK monster attacked by this card is automatically destroyed. Damage calculations apply.,0,0,0,0
+576,Crow Goblin,5,Wind,Winged Beast,1850,1600,1904712055,"A clever long-nosed goblin, he is a force to be reckoned with.",0,0,0,0
+1136,Armored Glass,,,,,,142706230,You can activate this card when a monster is equipped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated.,0,0,1,1
+1112,Karate Man,3,Earth,Warrior,1000,1000,2173839395,"Once per turn, the original ATK of this card can be doubled. When this effect is applied, the card is immediately destroyed at the end of the turn.",0,0,1,1
+67,Garoozis,5,Fire,Beast-Warrior,1800,1500,1953535764,An axe-swinging beast-warrior with the head of a dragon.,0,1,0,1
+482,Garvas,6,Earth,Beast,2000,1700,1158117481,A wicked beast that resembles a winged lion.,0,0,0,0
+42,Karbonala Warrior,4,Earth,Warrior,1500,1200,1659988,"""M-Warrior #1"" + ""M-Warrior #2""",1,0,0,1
+715,Garma Sword,7,Dark,Warrior,2550,2150,2218886288,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Garma Sword Oath"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+696,Garma Sword Oath,,,,,,1886738296,"This card is used to Ritual Summon ""Garma Sword"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+27,Rock Ogre Grotto #1,3,Earth,Rock,800,1200,392791144,"Protected by a solid body of rock, this monster throws a bone-shattering punch.",0,1,0,1
+517,Boulder Tortoise,6,Water,Aqua,1450,2200,1073763337,A stone turtle that is nearly indestructible.,0,0,0,0
+73,Giant Soldier of Stone,3,Earth,Rock,1300,2000,1217921811,A giant warrior made of stone. A punch from this creature has earth-shaking results.,1,0,0,1
+618,Rock Spirit,5,Earth,Spellcaster,1650,1900,1166442882,"Although it looks weak, this monster is one of the more powerful boulder spirits.",0,0,0,0
+635,Blue-Winged Crown,4,Wind,Winged Beast,1600,1200,912537921,"With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",0,1,0,1
+454,Barrel Rock,4,Earth,Rock,1000,1300,1751664400,"Shouldering a pair of machine guns, this monster is unstoppable.",0,0,0,0
+191,Key Mace,1,Light,Fairy,400,300,2492633601,A small fairy whose cute appearance melts the heart of its enemies.,0,0,0,0
+406,Machine King,6,Earth,Machine,2200,2000,604074054,Increase the ATK of this card by 100 points for each face-up Machine-Type monster on the field.,0,0,1,1
+324,Machine Conversion Factory,,,,,,848786981,A Machine-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+407,Giant Mech-Soldier,6,Earth,Machine,1750,1900,848832882,This monster swings an earth-shaking axe that cannot be blocked by a common sword.,0,0,0,0
+412,Cyber Soldier,5,Dark,Machine,1500,1700,2555414084,"Guardian of the Machine Master, it crushes opposition by rolling over them.",0,0,0,0
+411,Giga-Tech Wolf,4,Fire,Machine,1200,1400,2299741960,An iron wolf with razor-sharp fangs that can penetrate any armor.,0,1,0,1
+418,Giganto,5,Dark,Machine,1700,1800,1746428467,A massive monster that swings a huge steel ball to destroy anything in its path.,0,0,0,0
+762,Parasite Paracide,2,Earth,Insect,500,300,1226150183,"FLIP: Put this card face-up in your opponent's Deck and shuffle it. When your opponent draws this card, it is immediately Special Summoned on your opponent's side of the field face-up in Defense Position and inflicts 1000 points of Direct Damage to your opponent's Life Points. From this point, all face-up Monster Cards on your opponent's side of the field are treated as Insect-Type monsters as long as this card remains face-up on the field.",0,0,1,1
+1549,Miracle Dig,,,,,,137638918,"If there are 5 or more of your monsters that have been removed from play in the current Duel, return 3 of them to the Graveyard.",0,0,1,1
+275,Ray & Temperature,3,Light,Fairy,1000,1000,966013061,The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.,1,0,0,1
+7,Mushroom Man,2,Earth,Plant,800,600,135665684,"Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.",0,0,0,0
+428,Goddess of Whim,3,Light,Fairy,950,700,2157024615,Toss a coin and call Heads or Tails. Call it right and this card's ATK will be doubled during this turn. Call it wrong and it will be halved during this turn.,0,1,0,1
+89,Gyakutenno Megami,6,Light,Fairy,1800,2000,2418020913,This fairy uses her mystical power to protect the weak and provide spiritual support.,0,0,0,0
+498,Kattapillar,1,Earth,Insect,250,300,1184110465,"Attacks enemies by spitting thin, sticky webs.",0,0,0,0
+251,Nekogal #1,3,Earth,Beast,1100,900,1662023169,"Deceptively cute, this feline fairy has a set of fast and lethal claws.",0,0,0,0
+626,Nekogal #2,6,Earth,Beast-Warrior,1900,2000,321008963,A fast and lethal creature with very dangerous claws.,0,0,0,0
+511,Cannon Soldier,4,Dark,Machine,1400,1300,2151823377,Offer 1 monster on your side of the field as a Tribute to inflict 500 points of Direct Damage to your opponent's Life Points. Monsters used for a Tribute Summon or that are offered as Tributes due to other cards' effects are excluded.,0,1,0,1
+1303,Gamble,,,,,,2251764023,"You can activate this card when your opponent's hand has 6 or more cards and your hand contains 2 or less. Toss a coin and call it. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.",0,0,1,1
+66,Perfectly Ultimate Great Moth,8,Earth,Insect,3505,440,4294967295,"This monster is summoned by offering ""Petit Moth"" as a Tribute on the 6th of your turns after it has been equipped with ""Cocoon of Evolution"".",0,0,1,1
+54,Giant Flea,4,Earth,Insect,1500,1200,874935873,A massive flea that feeds on the blood of its enemies.,0,1,0,1
+1183,Seal of the Ancients,,,,,,2576711831,"At the cost of 1000 of your own Life Points, flip all of your opponent's face-down cards face-up. After seeing the cards, return them to their original positions (card effects are not activated).",0,0,1,1
+13,Battle Steer,5,Earth,Beast-Warrior,1800,1300,2036605976,"A bull monster often found in the woods, it charges enemy monsters with a pair of deadly horns.",0,1,0,1
+1142,Forced Requisition,,,,,,2017038964,"You can activate this card when you discard from your hand. Every time you discard from your hand, your opponent must also discard the same number of cards from his/her hand.",0,0,1,1
+1420,Mask of Brutality,,,,,,404767618,"A monster equipped with this card increases its ATK by 1000 points and decreases its DEF by 1000 points. Pay 1000 Life Points during each of your Standby Phases. If you cannot, this card is destroyed.",0,0,1,1
+567,Anthrosaurus,3,Earth,Dinosaur,1000,850,2554695817,Man-like dinosaur with a high I.Q. that is lacking in strength.,0,0,0,0
+545,Wow Warrior,4,Water,Fish,1250,900,906327401,"A fish with arms, legs, and some very sharp teeth.",0,0,1,1
+656,Megamorph,,,,,,1499726882,"If your Life Points are lower than your opponent's, the original ATK of a monster equipped with this card is doubled. If your Life Points are higher, the original ATK is halved.",0,1,0,1
+521,Monstrous Bird,6,Wind,Winged Beast,2000,1900,119632181,Few have set eyes on this dive-bombing bird and lived to tell the tale.,0,0,0,0
+1108,Giant Rat,4,Earth,Beast,1400,1450,544276887,"When this card is sent to the Graveyard as a result of battle, you may select 1 EARTH monster with an ATK of 1500 or less from your Deck and Special Summon it to the field (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+177,Claw Reacher,3,Dark,Fiend,1000,800,1451368769,Stretching arms and razor-sharp claws make this monster a formidable opponent.,1,0,0,1
+474,Sinister Serpent,1,Water,Reptile,300,250,1896944392,"During your Standby Phase, if a ""Sinister Serpent"" exists in your Graveyard, you can return the ""Sinister Serpent"" to your hand.",0,0,1,1
+1123,Mystic Tomato,4,Dark,Plant,1400,1100,1997668739,"When this card is sent to the Graveyard as a result of battle, you may select 1 DARK monster with an ATK of 1500 or less from your Deck and Special Summon it to the field (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+200,Frenzied Panda,4,Earth,Beast,1200,1000,377848216,A savage beast that carries a big bamboo stick for beating down its enemies.,1,0,0,1
+52,Killer Needle,4,Wind,Insect,1200,1000,2442762120,A huge bee with exceptional strength that's particularly dangerous in a swarm.,0,1,0,1
+645,Gruesome Goo,3,Water,Aqua,1300,700,590635621,A slime boss that is definitely tougher than it looks.,0,0,0,0
+404,Saber Slasher,5,Dark,Machine,1450,1500,269783411,A lethal engine of destruction that wields a well-honed blade.,0,0,0,0
+1335,Girochin Kuwagata,4,Wind,Insect,1700,1000,2483118724,"Despite its small size, this monster has powerful jaws that can rip metal to shreds.",0,0,1,1
+563,Great Mammoth of Goldfine,6,Dark,Zombie,2200,1800,824205908,"""The Snake Hair"" + ""Dragon Zombie""",0,0,0,0
+278,King Fog,3,Dark,Fiend,1000,900,1097361540,A fiend that dwells in a blinding curtain of smoke.,1,0,0,1
+1162,Prohibition,,,,,,1427272003,"When you play this card, declare the name of 1 card. As long as this card remains on the field, the declared card cannot be played. The cards which are already on the field before this card's activation are excluded.",0,0,1,1
+1139,Metal Detector,,,,,,543515765,You can activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated.,0,0,1,1
+311,Silver Bow and Arrow,,,,,,2574537985,A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1099,Mirror Wall,,,,,,2157524258,"Decrease the ATK of all your opponent's attacking monsters by half. You must pay 2000 Life Points during each of your Standby Phases.  If you cannot, this card is destroyed.",0,0,1,1
+467,Queen Bird,5,Wind,Winged Beast,1200,2000,34998387,This monster attacks enemies using its huge beak.,0,1,0,1
+353,Stuffed Animal,3,Earth,Warrior,1200,900,1669465713,"It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",0,1,0,1
+650,Kunai with Chain,,,,,,2298820919,"You can shift an opponent's monster in Attack Position to Defense Position. In addition, you can increase the ATK of 1 of your own monsters by 500 points.",0,0,1,1
+490,Peacock,5,Wind,Winged Beast,1700,1500,1665294880,A large peacock that launches its feathers in a lethal attack.,0,1,0,1
+1081,Painful Choice,,,,,,1108941172,Select 5 cards from your Deck and show them to your opponent. Your opponent must select 1 card that will be added to your hand. Discard the remaining cards to the Graveyard.,0,1,0,1
+589,Beaked Snake,3,Earth,Reptile,800,900,338759686,This monster wraps itself around an opponent and pecks away with its huge beak.,0,0,0,0
+1503,Headless Knight,4,Earth,Fiend,1450,1700,2151695109,A haunted spirit of a falsely accused knight who wanders in search of truth and justice.,0,0,1,1
+220,Kumootoko,3,Earth,Insect,700,1400,624371798,"A massive, intelligent spider that traps enemies with webbing.",1,0,0,1
+70,Jellyfish,4,Water,Aqua,1200,1500,2517927188,"An almost invisible, semi-transparent jellyfish that drifts in the sea.",0,1,0,1
+527,Togex,5,Earth,Beast,1600,1800,831096627,An agile monster that rolls up to ram its opponents.,0,0,0,0
+76,Grappler,4,Water,Reptile,1300,1200,1348636674,A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.,0,0,0,0
+1323,Gravity Bind,,,,,,1915188357,All monsters of Level 4 or higher cannot attack. Their positions may still be changed.,0,0,1,1
+709,Crab Turtle,8,Water,Aqua,2550,2500,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Turtle Oath"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,1,0,1
+546,Griggle,1,Earth,Plant,350,300,826635413,"When this card is face-up on the field and control shifts to your opponent, you gain 3000 Life Points. This effect can only be used once as long as this card remains face-up on the field.",0,1,0,1
+1119,Mother Grizzly,4,Water,Beast-Warrior,1400,1000,1352106839,"When this card is sent to the Graveyard as a result of battle, you may select 1 WATER monster with an ATK of 1500 or less from your Deck and Special Summon it to the field in face-up Attack Position (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+47,Sangan,3,Dark,Fiend,1000,600,1696669734,"When this card is sent from the field to the Graveyard, move 1 monster with an ATK of 1500 or less from your Deck to your hand. Your Deck is then shuffled.",0,1,1,1
+45,Griffore,4,Earth,Beast,1200,1500,311722579,This monster's tough hide deflects almost any attack.,0,0,0,0
+1062,Gryphon Wing,,,,,,1367433301,"When your opponent activates ""Harpie's Feather Duster"", all of your opponent's Spell and Trap Cards are destroyed in place of your own.",0,0,1,1
+57,Kuriboh,1,Dark,Fiend,300,200,1459643456,Discard this card from your hand to the Graveyard to make the damage inflicted to your Life Points by 1 opponent's monster 0. This effect must be activated during your opponent's Battle Phase.,1,0,0,1
+506,Crazy Fish,4,Water,Fish,1600,1200,338719059,A flying fish that attacks with its pointed head.,0,0,0,0
+606,Great Bill,4,Earth,Beast,1250,1300,18442581,This beast has a mouth that will swallow anything.,0,0,0,0
+59,Great White,4,Water,Fish,1600,800,9978387,A giant white shark with razor-sharp teeth.,1,0,0,1
+56,Great Moth,8,Earth,Insect,2600,2500,4294967295,"This monster can only be Special Summoned by offering ""Petit Moth"" as a Tribute on the 4th of your turns after ""Petit Moth"" has been equipped with ""Cocoon of Evolution"".",0,1,0,1
+710,Mikazukinoyaiba,7,Dark,Dragon,2200,2350,4294967295,A dragon warrior of the moon armed with a crescent sword.,0,1,0,1
+5,Feral Imp,4,Dark,Fiend,1300,1400,2435332417,"A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",1,0,0,1
+1433,Crimson Sentry,4,Fire,Warrior,1500,1200,42546472,Offer this face-up card as a Tribute to return 1 of your monsters destroyed in battle during this turn to the bottom of your Deck.,0,0,1,1
+286,Ogre of the Black Shadow,4,Earth,Beast-Warrior,1200,1400,621810245,An ogre possessed by the powers of the dark. Few can withstand its rapid charge.,0,0,0,0
+564,Man-eating Black Shark,5,Water,Fish,2100,1300,913339008,"""Sea Kamen"" + ""Gruesome Goo"" + ""Amazon of the Seas""",0,0,0,0
+573,Witch of the Black Forest,4,Dark,Spellcaster,1100,1200,1661141368,"When this card is sent from the field to the Graveyard, move 1 monster with a DEF of 1500 or less from your Deck to your hand. Your Deck is then shuffled.",0,1,1,1
+75,Krokodilus,4,Water,Reptile,1100,1200,1378242934,A vicious crocodile with great intelligence.,0,0,0,0
+205,Twin Long Rods #1,3,Water,Aqua,900,700,2190891104,"With whip-like arms, this creature can attack enemies from a distance.",0,0,0,0
+1220,Soul Exchange,,,,,,2270232680,Select an opponent's monster and use it as a Tribute in place of one of your own. You must skip your Battle Phase for the turn in which this card is activated.,0,1,0,1
+1212,Dark Magic Curtain,,,,,,1116960921,"When this card is activated, you cannot summon any monster in the same turn (including Flip Summon and Special Summon). You can Special Summon 1 ""Dark Magician"" from your Deck at the cost of half your Life Points.",0,0,1,1
+103,Curtain of the Dark Ones,2,Dark,Spellcaster,600,500,124191266,"A curtain that a spellcaster made, it is said to raise a dark power.",0,0,0,0
+532,Kwagar Hercules,6,Earth,Insect,1900,1700,2470515861,"""Kuwagata Alpha"" + ""Hercules Beetle""",0,1,0,1
+479,Kuwagata Alpha,4,Earth,Insect,1250,1000,857899104,A very vicious stag beetle that goes for the head.,0,1,0,1
+373,Gate Guardian,11,Dark,Warrior,3755,840,4294967295,"This card can only be Special Summoned by offering ""Sanga of the Thunder"", ""Kazejin"" and ""Suijin"" on your side of the field as a Tribute.",0,1,0,1
+285,Gatekeeper,5,Dark,Machine,1500,1800,544437017,An indestructible machine created for the sole purpose of protecting entrances.,0,0,0,0
+505,Gale Dogra,2,Earth,Insect,650,600,361964054,"At the cost of 3000 Life Points, you can discard 1 monster from your Fusion Deck to the Graveyard.",0,0,0,0
+1425,Torrential Tribute,,,,,,2267371603,You can activate this card when a monster is Summoned (including Flip Summon and Special Summon). Destroy all monsters on the field.,0,0,1,1
+1049,Wall of Illusion,4,Dark,Fiend,1000,1850,2203227155,The monster attacking this creature is returned to its owner's hand. Any damage resulting from the attack is calculated normally.,1,0,0,1
+1522,Dreamsprite,2,Light,Plant,300,200,2507237384,"When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",0,0,1,1
+1161,Inspection,,,,,,1450517014,"hase, you can randomly select 1 card in your opponent's hand and look at it at the cost of 500 Life Points.",0,0,1,1
+1048,The Stern Mystic,4,Light,Spellcaster,1500,1200,2289128839,"FLIP: All face-down cards on the field are turned face-up, and then returned to their original positions. No card effects are activated when cards are turned face-up.",1,0,0,1
+746,Gazelle the King of Mythical Beasts,4,Earth,Beast,1500,1200,2559017221,This monster moves so fast that it looks like an illusion to mortal eyes.,0,1,1,1
+1512,Summoner of Illusions,3,Light,Spellcaster,800,900,38364180,FLIP: Offer 1 monster on your side of the field as a Tribute (excluding this monster). Special Summon 1 Fusion Monster Card from your Fusion Deck. The Fusion Monster is destroyed at the end of the turn this card is activated.,0,0,1,1
+90,Mystic Horseman,4,Earth,Beast,1300,1550,90657128,"Half man and half horse, this monster is known for its extreme speed.",0,1,0,1
+1448,Scroll of Bewitchment,,,,,,2501915920,Select 1 Attribute when you activate this card. Change the Attribute of the equipped monster to the one you select.,0,0,1,1
+1077,The Forceful Sentry,,,,,,2241364546,"Look at your opponent's hand, then select 1 card and return it to his/her Deck. The Deck is then shuffled.",0,1,0,1
+960,Negate Attack,,,,,,1934962964,"When your opponent attacks with a monster, all attacks are negated and your opponent's Battle Phase ends.",0,1,0,1
+1043,Block Attack,,,,,,570722341,Select 1 of your opponent's monsters and shift it to Defense Position.,0,1,0,1
+250,Enchanting Mermaid,3,Water,Fish,1200,900,1701394293,A beautiful mermaid that lures voyagers to a watery grave.,1,0,0,1
+1068,Snatch Steal,,,,,,57055301,Take control of 1 of your opponent's face-up monsters. Your opponent gains 1000 Life Points at each of his/her Standby Phases.,0,1,1,1
+556,Steel Ogre Grotto #1,5,Earth,Machine,1400,1800,1646597929,A steel idol worshipped in the Land of Machines.,1,0,0,1
+330,Wasteland,,,,,,54936099,"Increases the ATK and DEF of all Dinosaur, Zombie, and Rock-Type monsters by 200 points.",1,0,1,1
+466,Crimson Sunbird,6,Fire,Winged Beast,2300,1800,2472896838,"""Faith Bird"" + ""Skull Red Bird""",0,0,0,0
+637,Queen of Autumn Leaves,5,Earth,Plant,1800,1500,1234704132,"Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.",0,1,0,1
+1447,Jar of Greed,,,,,,2156107395,Draw 1 card from your Deck.,0,0,1,1
+1010,Pot of Greed,,,,,,574952533,Draw 2 cards from your Deck.,1,0,0,1
+276,Gorgon Egg,3,Dark,Fiend,300,1300,1194359057,The gorgon egg's massive eyes are said to reflect the fate of its enemies.,0,0,0,0
+202,Phantom Ghost,2,Dark,Zombie,600,800,538058849,A vengeful spirit made up of many restless souls.,0,0,0,0
+98,Pumpking the King of Ghosts,6,Dark,Zombie,1800,2000,307369257,"If ""Castle of Dark Illusions"" is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as this ""Castle of Dark Illusions"" remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.",0,1,0,1
+430,Ice Water,3,Water,Aqua,1150,900,2475000864,A very aggressive mermaid that attacks enemies with the spikes growing from its body.,0,0,0,0
+478,Cockroach Knight,3,Earth,Insect,800,900,943079731,"When this card has been sent to the Graveyard, it is returned to the top of the Deck.",0,1,0,1
+53,Gokibore,4,Earth,Insect,1200,1400,812660245,"A large, spherical roach that attacks its enemies by rolling over them.",0,0,0,0
+1202,Dark Sage,9,Dark,Spellcaster,2805,640,57882514,"When you activate the effect of ""Time Wizard"" and call it right, you can summon this card from either your hand or your Deck by offering 1""Dark Magician"" as a Tribute.  Then move 1 Spell Card from your Deck to your hand and shuffle your Deck.",0,0,0,0
+537,Niwatori,3,Earth,Winged Beast,900,800,1498644487,Swallows enemies whole and uses their essence as energy.,0,1,0,1
+1027,Change of Heart,,,,,,672727812,Select and control 1 opposing monster (regardless of position) on the field until the end of your turn.,1,1,1,1
+707,Cosmo Queen,8,Dark,Spellcaster,2900,2450,4294967295,Queen of the galaxies and mistress of the stars.,0,1,0,1
+1018,Ancient Telescope,,,,,,908527895,See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.,0,0,0,0
+629,Ancient Lizard Warrior,4,Earth,Reptile,1400,1100,1896227651,"Before the dawn of man, this lizard warrior ruled supreme.",0,1,0,1
+258,Ancient Sorcerer,4,Dark,Spellcaster,1000,1300,940933686,"Armed with an array of spell wands, this creature is capable of multiple attacks.",0,0,0,0
+1124,Kotodama,3,Earth,Fairy,0,1600,577257497,"As long as this card remains face-up on the field, monsters of the same name cannot exist on the field at the same time (face-down cards not included). If a card of the same name is summoned in a later turn, that card is destroyed. If 2 cards of the same name are played at the same time, both cards are destroyed.",0,0,1,1
+184,Eyearmor,2,Earth,Warrior,600,500,2467778916,This warrior transforms into various creatures to confuse enemies in battle.,0,0,0,0
+1344,Goblin Attack Force,4,Earth,Warrior,2300,0,1686463864,"When this card attacks, it is changed to Defense Position at the end of the Battle Phase. This position cannot be changed during your next turn.",0,0,1,1
+1302,Minor Goblin Official,,,,,,2273349889,You can activate this card when your opponent's Life Points are 3000 or less. Inflict 500 points of Direct Damage to your opponent's Life Points during each of his/her Standby Phases.,0,0,1,1
+339,Goblin's Secret Remedy,,,,,,629704209,Increases your Life Points by 600 points.,1,0,0,1
+420,Cyber Commander,2,Dark,Machine,750,700,302333958,A strike force equipped with rocket launchers and bazookas.,0,0,0,0
+417,Golgoil,4,Earth,Machine,900,1600,1348555271,An iron giant that appears from a dimensional rift.,0,0,0,0
+484,Korogashi,2,Earth,Insect,550,400,2559858226,This monster rolls a massive hunk of manure to crush its opponent.,0,0,0,0
+46,Torike,3,Earth,Beast,1200,600,556827008,"Although a poor defender, this monster's sharp horn gives it an edge when attacking.",0,0,0,0
+1046,Germ Infection,,,,,,814245412,The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases.,0,1,0,1
+2,Hitotsu-Me Giant,4,Earth,Beast-Warrior,1200,1000,2454067318,"A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",1,0,0,1
+1079,Mystical Space Typhoon,,,,,,965095685,Destroy 1 Spell or Trap Card on the field.,0,1,1,1
+1540,Cyclon Laser,,,,,,541608197,"This card can only be used to equip ""Gradius"". Increases the ATK of ""Gradius"" by 300 points. When ""Gradius"" attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",0,0,1,1
+291,Psychic Kappa,2,Water,Aqua,400,1000,2149681415,An amphibian with a myriad of powers to shield it from enemy attacks.,0,0,1,1
+1067,Final Destiny,,,,,,68770072,Discard 5 cards from your hand to destroy all the cards on the field.,0,1,0,1
+1106,Cyber Jar,3,Dark,Rock,900,900,373494324,FLIP: Destroys all monsters on the field (including this monster). Both players then pick up (not Draw) 5 cards from the top of their respective Decks and show the cards to each other. Immediately Special Summon any Monster Cards of Level 4 or lower among them on the field in face-up Attack Position or face-down Defense Position. The rest of the cards picked up are placed in the players' hands.,0,1,0,1
+316,Cyber Shield,,,,,,1682252387,"Increases the ATK of either ""Harpie Lady"" or ""Harpie Lady Sisters"" by 500 points.",0,0,0,0
+798,Cyber-Tech Alligator,5,Wind,Machine,2500,1600,1130722888,A winged dragon brought back to life by means of modern technology.,0,0,1,1
+1253,Kinetic Soldier,3,Earth,Machine,1350,1800,1932559737,"When this card battles with a Warrior-Type monster, increase the ATK and DEF of this monster by 2000 points only during damage calculation.",0,0,1,1
+440,Mech Bass,5,Water,Machine,1800,1500,543692624,This monster carries a devastating plasma cannon on its powerful back.,0,0,0,0
+970,Mesmeric Control,,,,,,69821512,When this card is played your opponent cannot change the position of monsters during his/her next turn.,0,1,0,1
+1334,Thousand-Eyes Restrict,1,Dark,Spellcaster,0,0,429412707,"""Relinquished"" + ""Thousand-Eyes Idol"".  As long as this card remains face-up on the field, other monsters cannot change their positions or attack. This monster can take on the ATK and DEF of 1 opponent's monster on the field (a face-down monster results in an ATK and DEF of 0). Treat the selected monster as an Equip Spell Card and use it to equip ""Thousand-Eyes Restrict"". You may use this effect only once per turn and can equip ""Thousand-Eyes Restrict"" with only 1 monster at a time.",0,1,0,1
+68,Thousand Dragon,7,Wind,Dragon,2400,2000,4294967295,"""Time Wizard"" + ""Baby Dragon""",0,1,1,1
+2068,Thousand Dragon,7,Wind,Dragon,2400,2000,4294967295,"""Time Wizard"" + ""Baby Dragon""",0,0,0,0
+1211,Thousand Knives,,,,,,1125529955,"You can activate this card when you have ""Dark Magician"" on your side of the field. Destroy 1 monster on your opponent's side of the field.",0,1,1,1
+620,Succubus Knight,5,Dark,Warrior,1650,1300,1494427989,A warrior wizard adept in casting bone-chilling spells.,1,0,0,1
+730,Relinquished,1,Dark,Spellcaster,0,0,1712612196,"This monster can take on the ATK and DEF of 1 opponent's monster on the field (a face-down monster results in an ATK and DEF of 0). Treat the selected monster as an Equip Spell Card and use it to equip ""Relinquished"". You may use this effect only once per turn and can equip ""Relinquished"" with only 1 monster at a time. When your opponent's monster attacks this monster with an ATK higher than ""Relinquished"", the equipped monster is destroyed instead of ""Relinquished"". Any Life Point damage you receive from the attacking monster when ""Relinquished"" is equipped is also inflicted on your opponent.",0,1,0,1
+1094,Dust Tornado,,,,,,1764231264,Destroy 1 Spell or Trap Card on your opponent's side of the field. You can then Set 1 Spell or Trap Card from your hand. This card can only be activated if it is a Quick-Play Spell Card.,0,0,1,1
+178,Phantom Dewan,2,Dark,Spellcaster,700,600,1345937527,A sorcerer that can paralyze an enemy with a single curse.,0,0,0,0
+1255,Electromagnetic Bagworm,3,Light,Insect,200,1400,1128829191,FLIP: Gives you control of one of your opponent's Machine-Type monsters until your next End Phase. Any monster which destroys this card during battle has their  ATK and DEF reduced by 500 points.,0,0,1,1
+272,Ancient Tree of Enlightenment,3,Earth,Plant,600,1500,2249802374,This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.,0,0,0,0
+464,Punished Eagle,6,Wind,Winged Beast,2100,1800,1076981876,"""Blue-Winged Crown"" + ""Niwatori""",0,1,0,1
+571,Empress Judge,6,Earth,Warrior,2100,1700,360063765,"""Queen's Double"" + ""Hibikime""",0,1,0,1
+162,Lisark,4,Earth,Beast,1300,1300,151462229,A creature with sapphire eyes that mesmerizes and confuses enemies.,0,0,0,0
+555,The Wandering Doomed,2,Dark,Zombie,800,600,1418229907,A monster that wanders the edges of the netherworld.,0,0,0,0
+653,Salamandra,,,,,,25765426,A FIRE monster equipped with this card increases its ATK by 700 points.,0,0,1,1
+451,Zarigun,2,Water,Aqua,600,700,8673552,A lethal crawfish with extremely dangerous claws.,0,0,0,0
+233,Beautiful Headhuntress,4,Earth,Warrior,1600,800,1687521558,A vicious creature that has decapitated numerous enemy monsters.,0,1,0,1
+210,Kaminarikozou,2,Wind,Thunder,700,600,2282311957,"This monster stores electricity within its body, unleashing it with lethal effect.",0,0,0,0
+424,Thunder Dragon,5,Light,Thunder,1600,1500,694581297,"Discard this card from your hand to the Graveyard to add up to 2 ""Thunder Dragon"" cards from your Deck to your hand. Your Deck is then shuffled. This effect is activated only during a Main Phase.",0,1,0,1
+336,Raigeki,,,,,,1996773394,Destroys all of your opponent's monsters on the field.,1,0,0,1
+530,Mystical Sand,6,Earth,Rock,2100,1700,2148824370,"""Giant Soldier of Stone"" + ""Ancient Elf""",0,0,0,0
+516,Sand Stone,5,Earth,Rock,1300,1600,1092158835,"Appears from underground and attacks with long, snake-like tentacles.",1,0,0,1
+659,Stain Storm,,,,,,1631072801,Destroys all Machine-Type monsters on the field.,0,0,0,0
+448,"30,000-Year White Turtle",5,Water,Aqua,1250,2100,2554360081,"A huge turtle that has existed for over 30,000 years.",0,0,0,0
+473,Sea Kamen,4,Water,Aqua,1100,1300,1650750577,A merciless monster that tears opponents to shreds with razor-like claws.,0,0,0,0
+442,Sea King Dragon,,,,,,613508387,"Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.",0,0,0,0
+446,Giant Red Seasnake,4,Water,Aqua,1800,800,2232845144,A sea-dwelling snake that attacks passing enemies with its sharp teeth.,0,1,0,1
+403,Tatsunootoshigo,5,Earth,Beast,1350,1600,287806023,A stallion-fish that races across the ocean floor.,0,0,0,0
+213,Kagemusha of the Blue Flame,2,Earth,Warrior,800,400,857096213,"Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",1,0,0,1
+80,Crawling Dragon #2,4,Earth,Dinosaur,1600,1200,395782200,A powerful dragon with teeth that can grind almost anything to dust.,0,1,0,1
+1032,Just Desserts,,,,,,2458125860,Inflict 500 points of Direct Damage to your opponent's Life Points for each monster your opponent has on the field.,0,0,0,0
+118,Trial of Nightmare,4,Dark,Fiend,1300,900,561349239,This fiend passes judgment on enemies that are locked in coffins.,1,0,0,1
+845,Valkyrion the Magna Warrior,8,Earth,Rock,3505,1290,963982453,"This card can only be Special Summoned by offering ""Alpha the Magnet Warrior"", ""Beta the Magnet Warrior"", and ""Gamma the Magnet Warrior"" from your hand or the field as a Tribute.  If ""Alpha the Magnet Warrior"", ""Beta the Magnet Warrior"", and ""Gamma the Magnet Warrior"" exist in the Graveyard, you can offer this card as a Tribute to Special Summon these 3 cards to the field.",0,0,1,1
+1008,Monster Reborn,,,,,,407336579,Select 1 Monster Card from either your opponent's or your own Graveyard and place it on the field under your control in Attack or Defense Position (face-up). This is considered a Special Summon.,1,1,1,1
+134,Fiend's Hand,2,Dark,Zombie,600,600,671383634,Arms that reach out from the Swamp of Chaos to drag down the unwary.,0,0,0,0
+1421,Return of the Doomed,,,,,,393708057,Discard 1 Monster Card from your hand to the Graveyard. Return 1 of your monsters that is sent to your Graveyard during this turn as a result of battle to your hand at the end of this turn.,0,0,1,1
+1451,Offerings to the Doomed,,,,,,117711641,Destroys 1 face-up monster. Skip your next Draw Phase.,0,0,1,1
+1023,Tribute to The Doomed,,,,,,1637381497,Discard 1 card from your hand to the Graveyard to destroy 1 Monster Card on the field (regardless of its position).,0,1,1,1
+744,Panther Warrior,4,Earth,Beast-Warrior,2000,1600,1146094402,This card cannot attack unless you offer 1 of your monsters on the field as a Tribute.,0,0,1,1
+1250,,7,Dark,Warrior,2300,2100,1116755990,,0,0,0,0
+152,Dokuroizo the Grim Reaper,3,Dark,Zombie,900,1200,2166917157,A messenger of doom that steals a soul with a single blow.,0,0,0,0
+1349,Dokuroyaiba,3,Fire,Fiend,1000,400,693580336,A boomerang with brains that will pursue a target to the ends of the earth.,0,0,1,1
+110,Doma The Angel of Silence,5,Dark,Fairy,1600,1400,1462343446,This fairy rules over the end of existence.,1,0,0,1
+660,Crush Card,,,,,,1887793751,"Offer 1 DARK monster with an ATK of 1000 or less on your side of the field as a Tribute. You and your opponent check all monsters on your opponent's side of the field, your opponent's hand, and all cards during your opponent's next 3 turns he/she draws and destroy all monsters with an ATK of 1500 or higher.",0,1,0,1
+1213,Mystic Box,,,,,,1346664229,Destroys 1 opponent's monster and grants control of 1 of your monsters on the field to your opponent.,0,0,1,1
+1541,"Spirit Message ""I""",,,,,,674597169,"This card can only be placed on the field when ""Destiny Board"" is active.",0,1,0,1
+1544,"Spirit Message ""L""",,,,,,2164856624,"This card can only be placed on the field when ""Destiny Board"" is active.",0,1,0,1
+1542,"Spirit Message ""N""",,,,,,863316071,"This card can only be placed on the field when ""Destiny Board"" is active.",0,1,0,1
+1543,"Spirit Message ""A""",,,,,,841119636,"This card can only be placed on the field when ""Destiny Board"" is active.",0,1,0,1
+1338,4-Starred Ladybug of Doom,3,Wind,Insect,800,1200,1179031939,FLIP: Destroys all face-up Level 4 monsters on your opponent's side of the field.,0,0,1,1
+1320,Ground Collapse,,,,,,2569621648,Select 2 Monster Card Zones on the field (you cannot select a zone occupied by a Monster Card). The selected zones cannot be used as long as this card remains face-up on the field.,0,0,1,1
+1444,The Forgiving Maiden,4,Light,Fairy,850,2000,940116100,Offer this face-up card as a Tribute to return 1 of your monsters destroyed in battle during this turn to your hand.,0,0,1,1
+1047,Paralyzing Potion,,,,,,1227167056,A non Machine-Type monster equipped with this card cannot attack.,0,1,0,1
+1317,Shift,,,,,,621172313,"You can activate this card when your opponent designates 1 monster on your side of the field as the target of a Spell, Trap, or battle attack. Change the target to a different monster on your side of the field.",0,0,1,1
+1345,Island Turtle,4,Water,Aqua,1100,2000,1747059716,A huge turtle that is often mistaken for an island.,0,0,1,1
+1064,Curse of Fiend,,,,,,1191462674,"Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.",0,1,0,1
+22,The Wicked Worm Beast,3,Earth,Beast,1400,700,2438408198,This card is returned to your hand at the end of your turn.,0,0,1,1
+1114,Giant Germ,2,Dark,Fiend,1000,100,2492012437,"When this card is sent to the Graveyard as a result of battle, inflict 500 points of Direct Damage to your opponent's Life Points. You can also take cards of the same name from your Deck and Special Summon them to the field in face-up Attack Position. The Deck is then shuffled.",0,1,1,1
+1408,Shining Abyss,4,Light,Fairy,1600,1800,1462972551,This monster employs the powers of both Light and Darkness.,0,0,1,1
+1117,Shining Angel,4,Light,Fairy,1400,800,1180931477,"When this card is sent to the Graveyard as a result of battle, you can select 1 LIGHT monster with an ATK of 1500 or less from your Deck and Special Summon it to the field in face-up Attack Position (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+667,Bright Castle,,,,,,2307164034,Increases the ATK of all LIGHT monsters by 700 points.,0,0,0,0
+1129,Luminous Spark,,,,,,1198552961,Increases the ATK of all LIGHT monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+100,Wings of Wicked Flame,2,Fire,Pyro,700,600,642159762,Crimson wings of fire make this a very lethal creature.,0,0,0,0
+1415,Mask of Weakness,,,,,,153454679,This card can only be activated in the Battle Phase. Select 1 attacking monster and decrease the selected monster's ATK by 700 points during the turn this card is activated.,0,0,1,1
+1012,Burning Spear,,,,,,1970836248,A FIRE monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,0,0,1,1
+183,Genin,3,Light,Spellcaster,600,900,637548361,A creature that defeats its enemies using sleight-of-hand.,0,0,0,0
+1051,Baron of the Fiend Sword,4,Dark,Fiend,1550,800,2522165894,An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.,1,0,0,1
+164,The Judgement Hand,3,Earth,Warrior,1400,700,305463336,An all-powerful hand that delivers ruthless attacks.,0,1,0,1
+32,Judge Man,6,Earth,Warrior,2200,1500,2184581424,This club-wielding warrior battles to the end and will never surrender.,0,1,0,1
+367,Shadow Ghoul,5,Dark,Zombie,1600,1300,4294967295,Increase the ATK of this monster by 100 points for each monster in your own Graveyard.,0,1,0,1
+106,Kageningen,2,Dark,Warrior,800,600,2416205952,"Uses both its physical and shadow forms to attack, making it a difficult monster to overcome.",0,0,0,0
+716,Javelin Beetle,8,Earth,Insect,2450,2550,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Javelin Beetle Pact"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+695,Javelin Beetle Pact,,,,,,4294967295,"This card is used to Ritual Summon ""Javelin Beetle"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+413,Shovel Crusher,3,Earth,Machine,900,1200,2466289009,"Armed with a pair of shovels, this monster will destroy anything that stands in its way.",0,0,0,0
+131,The 13th Grave,3,Dark,Zombie,1200,900,1680343808,A zombie that suddenly appeared from plot #13  - an empty grave.,1,0,0,1
+1042,Sword of Deep-Seated,,,,,,341002648,"A Monster Card equipped with this card increases its ATK and DEF by 500 points.  When this card is sent to the Graveyard, place it on top of your Deck.",0,1,0,1
+1534,Deal of Phantom,,,,,,1663505001,Select 1 monster face-up on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monster is applied when this card is activated.,0,0,1,1
+1419,Mask of the Accursed,,,,,,1938003030,"The monster equipped with this card cannot attack. In addition, the player controlling the equipped monster must take damage of 500 Life Points during each of your Standby Phases.",0,0,1,1
+319,Stop Defense,,,,,,387977315,"Select 1 of your opponent's monsters and switch it to Attack Position. If the card is face-down, flip it face-up. If the card has a flip effect, it is activated immediately.",1,0,0,1
+1520,Gilasaurus,3,Earth,Dinosaur,1400,400,2185529669,"You may treat the Normal Summon of this card as a Special Summon. If you select Special Summon, your opponent may select a Monster Card from his/her Graveyard and Special Summon the monster to the field.",0,0,1,1
+1031,Horn of Heaven,,,,,,2291336856,Offer 1 of your own monsters on the field as a Tribute to negate the summon (including Special Summon) of a monster and destroy it.,0,1,0,1
+655,Eternal Rest,,,,,,1142097301,Destroys all monsters equipped with Equip Cards.,0,1,0,1
+1016,Castle Walls,,,,,,2459115588,Increase a selected monster's DEF by 500 points during the turn this card is activated.,1,0,0,1
+1510,Jowgen the Spiritualist,3,Light,Spellcaster,200,1300,1766950209,"Randomly discard 1 card from your hand to the Graveyard to destroy all Special Summoned monsters on the field. In addition, as long as this card remains face-up on the field, no monsters can be Special Summoned.",0,0,1,1
+634,Queen's Double,1,Earth,Warrior,350,300,2534707205,This monster may attack your opponent's Life Points directly.,0,1,0,1
+1440,Empress Mantis,6,Wind,Insect,2200,1400,293896536,Queen of an army of giant mantises whose command moves legions.,0,0,1,1
+366,Jirai Gumo,4,Earth,Insect,2200,100,120616852,"When you attack with this card, toss a coin and call it. If you call it right, attack normally. If you call it wrong, reduce your Life Points by half before attacking.",0,1,0,1
+458,Tripwire Beast,4,Earth,Thunder,1200,1300,690160709,This creature attacks with electromagnetic waves.,1,0,0,1
+1306,Skull Invitation,,,,,,311890840,"Every time a card is sent to the Graveyard, inflict 300 points of Direct Damage to its owner's Life Points per card.",0,0,1,1
+1532,Skull Lair,,,,,,1496347398,Remove any number of cards in your Graveyard from play. Destroy 1 face-up monster on the field whose Level Stars are equal to the number of the cards you removed from play.,0,0,1,1
+1505,The Earl of Demise,5,Dark,Fiend,2000,700,2492897382,"This gentlemanly creature is extremely wicked, feared by man and fiend alike.",0,0,1,1
+1058,Ring of Magnetism,,,,,,878723872,"This card can only be equipped to a monster on your side of the field. The monster equipped with this card decreases its ATK and DEF by 500 points. In addition, all the monsters on your opponent's side of the field must attack the monster equipped with this card if they choose to attack.",0,1,0,1
+64,Silver Fang,3,Earth,Beast,1200,800,2423272848,"A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",1,0,0,1
+1001,Fissure,,,,,,377518182,Destroys 1 opponent's face-up monster with the lowest ATK.,1,0,0,1
+578,Abyss Flower,2,Earth,Plant,750,400,611399744,A rarely seen flower that blossoms quietly on the edge of darkness.,0,0,0,0
+168,Dark King of the Abyss,3,Dark,Fiend,1200,800,1934964563,It's said that this King of the Netherworld once had the power to rule over the dark.,1,0,0,1
+436,Deepsea Shark,5,Water,Fish,1900,1600,1664309544,"""Bottom Dweller"" + ""Tongyo""",0,1,0,1
+1329,Deepsea Warrior,5,Water,Warrior,1600,1800,1954681380,"When ""Umi"" is face-up on the field, this card is unaffected by any Spell Cards.",0,0,1,1
+71,Cocoon of Evolution,3,Earth,Insect,0,2000,4294967295,"You may treat this card as an Equip Spell Card on a face-up ""Petit Moth"" on the field.  When equipped, the ATK and DEF of ""Petit Moth"" becomes the same as ""Cocoon of Evolution"".",0,1,0,1
+108,Goddess with the Third Eye,4,Light,Fairy,1200,1000,70404435,You can substitute this card for any 1 Fusion-Material Monster. You cannot substitute for any other Fusion-Material Monsters in the current Fusion.,0,1,0,1
+438,Bottom Dweller,5,Water,Fish,1650,1700,2002860161,This is one sea creature whose wrath is something monsters fear to face.,0,1,0,1
+1093,The Eye of Truth,,,,,,1614899508,"As long as this card remains face-up on the field, your opponent must show his/her hand. Your opponent increases his/her Life Points by 1000 points at each of his/her Standby Phases if he/she has a Spell Card in his/her hand.",0,0,1,1
+751,Jinzo,6,Dark,Machine,2400,1500,324360311,"As long as this card remains face-up on the field, all Trap Cards cannot be activated. The effects of all face-up Trap Cards are also negated.",0,0,1,1
+421,Jinzo #7,2,Dark,Machine,500,400,294813746,This monster may attack your opponent's Life Points directly.,0,1,0,1
+372,Suijin,7,Water,Aqua,2500,2400,4294967295,Reduce the ATK of an opponent's monster attacking this card to 0. This effect can be used only once. The card's owner chooses when to activate this effect.,0,1,0,1
+399,Emperor of the Land and Sea,5,Water,Reptile,1800,1500,1426466065,A reptilian monster that sprays fire in every direction.,0,0,0,0
+638,Amphibious Bugroth,5,Water,Aqua,1850,1300,1412962112,"""Ground Attacker Bugroth"" + ""Guardian of the Sea""",0,0,0,0
+355,Super War-Lion,7,Earth,Beast,2300,2100,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""War-Lion Ritual"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+491,Hoshiningen,2,Light,Fairy,500,700,2006540903,"As long as this card remains face-up on the field, increase the ATK of all LIGHT monsters by 500 points and decrease the ATK of all DARK monsters by 400 points.",0,1,0,1
+423,Sky Dragon,6,Wind,Dragon,1900,1800,612378773,A flying dragon with four wings housing some very dangerous blades.,0,1,0,1
+465,Skull Red Bird,4,Wind,Winged Beast,1550,1200,2485657616,This monster swoops down and attacks with a rain of knives stored in its wings.,1,0,0,1
+706,Skull Knight,7,Dark,Spellcaster,2650,2250,4294967295,"""Tainted Wisdom"" + ""Ancient Brain""",0,1,0,1
+718,Dokurorider,6,Dark,Zombie,1900,1850,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Revival of Dokurorider"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+698,Revival of Dokurorider,,,,,,4294967295,"This card is used to Ritual Summon ""Dokurorider"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+539,Skelengel,2,Light,Fairy,900,400,1648781664,FLIP: You can draw 1 card from your deck.,0,0,1,1
+544,Skelgon,6,Dark,Zombie,1700,1900,676869426,"""The Snake Hair"" + ""Blackland Fire Dragon""",0,0,0,0
+598,Violent Rain,4,Water,Aqua,1550,800,925041812,This monster can call up sudden torrents of battering rain.,0,0,0,0
+472,Vermillion Sparrow,5,Fire,Pyro,1900,1500,1663268149,"""Rhaimundos of the Red Sword"" + ""Fireyarou""",0,0,0,0
+523,Star Boy,2,Water,Aqua,550,500,270082056,"As long as this card remains face-up on the field, increase the ATK of all WATER monsters by 500 points and decrease the ATK of all FIRE monsters by 400 points.",0,1,0,1
+209,Hinotama Soul,2,Fire,Pyro,600,500,2568455574,An intensely hot flame creature that rams anything standing in its way.,1,0,0,1
+256,Stone Armadiller,3,Earth,Rock,800,1200,891831139,"With a body armored by rock-hard fur, this monster features excellent defense capabilities.",0,0,0,0
+456,Stone Ghost,4,Earth,Rock,1200,1000,1922442866,"With a head that erupts when angered, this monster launches a dangerous shower of boulders.",0,0,0,0
+631,Stone Ogre Grotto,5,Earth,Rock,1600,1500,2235105813,A behemoth shaped by giant boulders.,0,0,1,1
+425,Stone D.,7,Earth,Rock,2000,2300,924260200,A dragon formed by huge boulders that are also used to attack the enemy.,0,0,0,0
+619,Snakeyashi,4,Earth,Plant,1000,1200,1143177257,This monster is formed by several serpents that break off to individually attack nearby enemies.,0,0,0,0
+447,Spike Seadra,,,,,,2573415045,"Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",1,0,0,1
+1331,Spikebot,5,Dark,Machine,1800,1700,2266583431,"A mechanical soldier created by a wicked sorcerer, it attacks with the two steel balls attached to its arms.",0,0,1,1
+1115,Nimble Momonga,2,Earth,Beast,1000,100,158750242,"When this card is sent to the Graveyard as a result of battle, increase your Life Points by 1000 points. You can also take cards of the same name from your Deck and Special Summon them to the field in face-down Defense Position. The Deck is then shuffled.",0,1,1,1
+206,Droll Bird,2,Wind,Winged Beast,600,500,2268305303,A monster that shocks its enemies with its massive beak and ear-piercing wails.,0,0,0,0
+735,Blast Sphere,4,Dark,Machine,1400,1400,572862502,"When your opponent attacks this monster in face-down Defense Position, this card is treated as an Equip Card and is used to equip the attacking monster (damage is not calculated). The equipped monster and this card are destroyed during your opponent's next Standby Phase. Your opponent then receives Direct Damage equal to the equipped monster's ATK.",0,0,1,1
+1508,Spherous Lady,3,Earth,Rock,400,1400,2417103442,Many have been deceived by the beauty of this vampire.,0,0,1,1
+1426,Jam Breeding Machine,,,,,,1610774305,"During each of your Standby Phases, Special Summon 1 ""Slime Token"" (face-up Attack Position/Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) to your side of the field. As long as this card remains face-up on the field, you cannot Summon  (including Flip Summon and Special Summon) any other monster.",0,0,1,1
+281,Mystical Sheep #2,3,Earth,Beast,800,1000,155338371,A monstrous sheep with a long tail for hypnotizing enemies.,1,0,0,1
+722,Slot Machine,7,Dark,Machine,2000,2300,2205710595,The machine's ability is said to vary according to its slot results.,0,0,1,1
+1069,Chorus of Sanctuary,,,,,,402798721,Increases the DEF of all Defense Position monsters by 500 points.,0,1,0,1
+1429,Card of Safe Return,,,,,,2150864215,"When a monster is Special Summoned to the field from your Graveyard, you can draw 1 card from your Deck.",0,0,1,1
+1445,St. Joan,7,Light,Fairy,2800,2000,844502817,"""The Forgiving Maiden"" + ""Marie the Fallen One""",0,0,1,1
+1170,Kiseitai,2,Dark,Fiend,300,800,963126788,"When your opponent's monster attacks this card in face-down Defense Position, the attacking monster is equipped with this card (damage calculations are canceled). Treat this card as an Equip Spell Card. During each of your opponent's Standby Phases, increase your Life Points by half of the ATK of the monster equipped with this card.",0,0,1,1
+1152,Respect Play,,,,,,1611830536,"During their respective turns, each player must show their opponent their hand.",0,0,1,1
+1151,Light of Intervention,,,,,,1366460002,Monster Cards cannot be played face-down. Monsters Set in Defense Position are played face-up on the field and are considered summoned.,0,0,1,1
+133,Mystical Capture Chain,2,Light,Fairy,700,700,2018922851,"A mystical chain that binds enemies, rendering them immobile.",0,0,0,0
+1056,Mirror Force,,,,,,1649871172,"When an opponent's monster attacks, negate the attack and destroy all opponent's monsters in Attack Position.",1,0,0,1
+1247,Mystical Refpanel,,,,,,959796789,Transfer the effects of a Spell Card that targets 1 player to another player.,0,0,0,0
+621,Ill Witch,5,Light,Spellcaster,1600,1500,1482713217,This monster blasts enemies with unexpected bursts of wind.,0,0,0,0
+124,Faith Bird,4,Wind,Winged Beast,1500,1100,2502121589,This long-tailed bird blinds its enemies with mystical light.,0,1,0,1
+427,Magician of Faith,1,Light,Spellcaster,300,400,2164282929,FLIP: Select 1 Spell Card from your Graveyard and return it to your hand.,0,1,0,1
+1137,World Suppression,,,,,,389096722,You can activate this card when a Field Spell Card is activated.  Negate the Field Spell Card during the turn this card is activated.,0,0,1,1
+1343,The All-Seeing White Tiger,3,Wind,Beast,1300,500,1436034610,A proud ruler of the jungle that some fear and others respect.,0,0,1,1
+796,Total Defense Shogun,6,Dark,Warrior,1550,2500,2418161525,"When this card is summoned (excluding Special Summon), it is placed on the field in Defense Position. This card can attack without being shifted to Attack Position. Damage results are calculated normally.",0,0,1,1
+962,7 Completed,,,,,,646125958,A Machine-Type monster equipped with this card increases either its ATK or DEF by 700 points. You cannot change your choice as long as this card remains face-up on the field.,0,0,1,1
+1179,Sebek's Blessing,,,,,,1131696930,You can activate this card when your Monster Card inflicts Direct Damage to your opponent's Life Points. Increase your own Life Points by an amount equal to the Direct Damage you inflicted to your opponent.,0,0,1,1
+163,Lord of Zemia,4,Dark,Fiend,1300,1000,394813825,A wicked entity that manipulates enemies towards a path of destruction.,0,0,0,0
+359,Zera The Mant,8,Dark,Fiend,2800,2300,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Zera Ritual"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+670,Zera Ritual,,,,,,4294967295,"This card is used to Ritual Summon ""Zera The Mant"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,0,0
+1121,Ceremonial Bell,3,Light,Spellcaster,0,1850,1669603872,"As long as this card remains face-up on the field, you and your opponent must show your respective hands to each other.",0,0,1,1
+1324,Type Zero Magic Crusher,,,,,,2171872033,"For each Spell Card that you discard from your hand, inflict 500 points of Direct Damage to your opponent's Life Points.",0,0,1,1
+1333,Thousand-Eyes Idol,1,Dark,Spellcaster,0,0,273748519,"A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",0,1,0,1
+1328,Drill Bug,2,Earth,Insect,1100,200,2033546120,"When this card inflicts damage to your opponent's Life Points, you may take 1 ""Parasite Paracide"" card from your Deck, shuffle the Deck, and place ""Parasite Paracide"" face-down on top of the Deck.",0,0,1,1
+652,Warrior Elimination,,,,,,2453243792,Destroys all Warrior-Type monsters on the field.,0,0,0,0
+1109,Senju of the Thousand Hands,4,Light,Fairy,1400,1000,957890595,"When this card is summoned to the field (excluding Special Summon), you may move 1 Ritual Monster Card from your Deck to your hand. The Deck is then shuffled.",0,1,0,1
+617,Warrior of Tradition,6,Earth,Warrior,1900,1700,926499158,"""Sonic Maid"" + ""Beautiful Headhuntress""",0,1,0,1
+702,Sengenjin,8,Earth,Beast-Warrior,2750,2500,4294967295,An unstoppable savage that carries a Millennium Item.,0,0,0,0
+452,Millennium Golem,6,Earth,Rock,2000,2200,1432721479,"For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",0,0,0,0
+361,Millennium Shield,5,Earth,Warrior,5,440,1093140786,"A Millennium item, it's rumored to block any strong attack.",0,1,0,1
+332,Sogen,,,,,,1451438470,Increases the ATK and DEF of all Beast-Warrior and Warrior-Type monsters by 200 points.,1,0,1,1
+1232,Multiply,,,,,,573730880,"Offer 1 face-up ""Kuriboh"" as a Tribute. Place a ""Kuriboh Token"" (Fiend-Type/DARK/1 Star/ATK 300/DEF 200) in Defense Position on each open Monster Card Zone. These tokens cannot be used as Tribute Monsters.",0,0,1,1
+612,Twin-Headed Thunder Dragon,7,Light,Thunder,2800,2100,1965585748,"""Thunder Dragon"" + ""Thunder Dragon""",0,1,0,1
+470,Soul Hunter,6,Dark,Fiend,2200,1800,277907058,"""Lord of the Lamp"" + ""Invader from Another Dimension""",0,0,0,0
+10,Sword Arm of Dragon,6,Earth,Dinosaur,1750,2030,1720714771,"With a body covered in sword-like thorns, nothing dares stand in the way of this charging monster.",0,0,0,0
+1327,Sword Hunter,7,Earth,Warrior,2450,1700,1632908369,"A monster destroyed by this card becomes an Equip Spell Card. Equip ""Sword Hunter"" with the card to increase the ATK of this monster by 200 points. The equipped card remains on the field until this card is destroyed.",0,0,1,1
+392,Zone Eater,1,Water,Aqua,250,200,2231832710,A monster attacked by this card will be destroyed at the End Phase of the fifth turn after the attack.,0,0,0,0
+1122,Sonic Bird,4,Wind,Winged Beast,1400,1000,2020696407,"When this card is summoned (excluding Special Summon), you may move 1 Ritual Spell Card from your Deck to your hand.  The Deck is then shuffled.",0,1,1,1
+1437,Spirit of the Breeze,3,Wind,Fairy,0,1800,1761629011,"As long as this card remains on your side of the field in face-up Attack Position, increase your Life Points by 1000 points during each of your Standby Phases.",0,0,1,1
+477,Insect Soldiers of the Sky,3,Wind,Insect,1000,800,697630983,The ATK of this card increases by 1000 points whenever it attacks a WIND monster.,0,0,1,1
+218,Solitude,3,Earth,Beast-Warrior,1050,1000,289438084,This beast-warrior swings a massive scythe that feeds on the souls of the slain.,0,0,0,0
+1096,Solomon's Lawbook,,,,,,1913997091,Skip your own Standby Phase.,0,0,1,1
+196,Mech Mole Zombie,2,Dark,Zombie,500,400,1431589987,This creature attacks by launching missile-like arms.,0,0,0,0
+287,Dark Artist,3,Dark,Fiend,600,1400,1929400946,The DEF of this monster is decreased by half when attacked by LIGHT monsters.,0,0,0,0
+729,Dark-Eyes Illusionist,2,Dark,Spellcaster,0,1400,1383539768,"FLIP : As long as this card remains on the field, 1 designated monster cannot attack.",0,0,1,1
+550,Dark Elf,4,Dark,Spellcaster,2000,800,2457223457,This card requires a cost of 1000 of your own Life Points to attack.,0,1,0,1
+86,Dark Chimera,5,Dark,Fiend,1610,1460,2286302258,A fire-breathing monster that dwells in the netherworld.,0,0,0,0
+208,Winged Cleaver,2,Earth,Insect,700,700,2186876729,Few can withstand the scythe-like arms of this dangerous creature.,0,0,0,0
+112,Dark Gray,3,Earth,Beast,800,900,949556489,"Entirely gray, this beast has rarely been seen by mortal eyes.",1,0,0,1
+180,Dark Shade,3,Wind,Fiend,1000,1000,73800000,A crystal monster that unleashes a brilliant light to blind enemies.,0,0,0,0
+1113,Dark Zebra,4,Earth,Beast,1800,400,2521331801,"If this is the only card in your control during your Standby Phase, it is automatically placed in Defense Position. You cannot change the position of this card during the same turn.",0,0,1,1
+1130,Mystic Plasma Zone,,,,,,2249659928,Increases the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+244,Meda Bat,2,Dark,Fiend,800,400,2484150646,"An eyeball fiend created by a servant of the wicked, it uses ""Dark Blasts"" to blow away its enemies.",1,0,0,1
+1514,Dark Necrofear,8,Dark,Fiend,2205,240,2240905777,"This card can only be Special Summoned by removing 3 Fiend-Type monsters in your Graveyard from play. When this card is destroyed in battle or by your opponent's card effect, it is treated as an Equip Spell Card at the end of the turn. Equip 1 of your opponent's monsters with this card. As long as it is equipped with this card, you control the equipped monster.",0,0,1,1
+1308,Dark Bat,3,Wind,Winged Beast,1000,1000,1117062247,Bats from the netherworld that use their hyper senses to detect their enemies.,0,0,1,1
+1523,Zombyra the Dark,4,Dark,Warrior,2100,500,1445218184,"This card cannot attack a player directly. Each time this card destroys a monster in battle, decrease the ATK of this card by 200 points.",0,0,1,1
+1116,Spear Cretin,2,Dark,Fiend,500,500,135484760,"FLIP: After this card is flipped, when it is sent to the Graveyard, both you and your opponent select 1 monster from your respective Graveyards and Special Summon it on the field in face-up Attack Position or face-down Defense Position (no Tribute is required for monsters of Level 5 or more).",0,0,1,1
+122,Dark Plant,1,Dark,Plant,300,400,1110841619,This mutant flower draws its power from pollutants and the dark forces.,0,0,0,0
+172,Dark Prisoner,3,Dark,Fiend,600,1000,2424329609,This monster bends light to hide its image from the eyes of opponents.,0,0,0,0
+383,Dark Rabbit,4,Dark,Beast,1100,1500,51652249,"A cartoon rabbit that quickly leaps all over the place, making it a difficult target.",0,0,0,0
+192,Turtle Tiger,4,Water,Aqua,1000,1500,1211314487,A tiger encased in a protective shell that attacks with razor-sharp fangs.,1,0,0,1
+502,Turtle Raccoon,3,Water,Aqua,700,900,1394164759,"A cunning raccoon protected by a solid turtle shell, it attacks with deception.",0,0,0,0
+519,Turtle Bird,6,Water,Aqua,1900,1700,1419022962,"An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",0,0,1,1
+170,Big Eye,4,Dark,Fiend,1200,1000,2273539606,"FLIP: See the 5 cards from the top of your Deck, arrange them in any order desired, and replace them on top of the Deck.",0,1,0,1
+325,Raise Body Heat,,,,,,2272798289,A Dinosaur-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+63,Tiger Axe,4,Earth,Beast-Warrior,1300,1100,655980873,A fast and powerful axe-wielding beast-warrior.,0,0,1,1
+2063,Tiger Axe,4,Earth,Beast-Warrior,1300,1100,2423296064,A fast and powerful axe-wielding beast-warrior.,0,0,0,0
+1312,Cold Wave,,,,,,52586592,"This card can only be activated at the start of Main Phase 1. Until your next Draw Phase, neither you nor your opponent can activate or Set any Spell or Trap Cards.",0,0,1,1
+166,Ancient Jar,1,Earth,Rock,400,200,639781249,A very fragile jar that contains something ancient and dangerous.,0,0,0,0
+422,Dice Armadillo,5,Earth,Machine,1650,1800,355699049,An armadillo monster that rolls up to form a dice-like shape.,0,0,0,0
+543,Dharma Cannon,2,Dark,Machine,900,500,594646678,A monstrous creature whose body is lined with cannons that never miss their targets.,0,1,0,1
+12,Tyhone,4,Wind,Winged Beast,1200,1400,1881703538,"Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",1,0,0,1
+731,Jigen Bakudan,2,Fire,Pyro,200,1000,1694499472,"FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",0,1,0,1
+736,Hyozanryu,7,Light,Dragon,2105,240,829569378,A dragon created from a massive diamond that sparkles with blinding light.,0,1,0,1
+580,Takuhee,4,Wind,Winged Beast,1450,1000,839390979,This bird is known far and wide as a harbinger of doom.,0,1,0,1
+352,Takriminos,,,,,,1748371268,A member of a race of sea serpents that freely travels through the sea.,0,1,0,1
+125,Orion the Battle King,5,Light,Fairy,1800,1500,2417006338,None have lived to tell tales of this powerful battle fairy.,0,0,0,0
+1446,Marie the Fallen One,5,Dark,Fiend,1700,1200,2173917015,"As long as this card exists in your Graveyard, increase your Life Points by 200 points during each of your Standby Phases.",0,0,1,1
+1076,The Reliable Guardian,,,,,,2265006870,Increase 1 monster's DEF by 700 points during the turn this card is activated.,0,1,0,1
+1024,Soul Release,,,,,,8746245,Select up to 5 cards from either you or your opponent's Graveyard and remove them from the current Duel.,0,0,1,1
+245,One Who Hunts Souls,4,Earth,Beast-Warrior,1100,1000,157442051,This dangerous creature brandishes a soul-sucking sword.,0,0,0,0
+1513,Bazoo the Soul-Eater,4,Earth,Beast,1600,900,288691008,You can remove up to 3 cards in your Graveyard from play to increase the ATK of this monster by 300 points for each card removed from play until the end of your opponent's next turn. This effect can only be used once during your turn.,0,0,1,1
+542,Tongyo,4,Water,Fish,1350,800,606099305,This monster captures other fish with its long tongue and sucks the energy out of them.,0,1,0,1
+1449,United We Stand,,,,,,2474079318,"For every face-up monster you control, increase the ATK and DEF of the equipped monster by 800 points.",0,0,1,1
+632,Winged Egg of New Life,5,Light,Fairy,1400,1700,2222997826,Legend has it that this creature can fortell the birth of children.,0,0,0,0
+374,Dungeon Worm,5,Earth,Insect,1800,1500,2156012113,"Hidden under the floors of a labyrinth, it swallows any who pass above.",0,0,0,0
+394,Dancing Elf,1,Wind,Fairy,300,200,2570360921,An elf that dances across the sky with wings of razor-sharp blades.,0,1,0,1
+700,Performance of Sword,6,Earth,Warrior,1950,1850,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Commencement Dance"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+1438,Dancing Fairy,4,Wind,Fairy,1700,1000,1666290320,"As long as this card remains on your side of the field in face-up Defense Position, increase your Life Points by 1000 points during each of your Standby Phases.",0,0,1,1
+969,Chain Destruction,,,,,,2508727297,"You can activate this card when a monster with an ATK of 2000 points or less is summoned (including Special Summon). This monster is not destroyed, but all Monster Cards of the same name in the summoning player's hand and Deck are destroyed. The summoning player's Deck is then shuffled.",0,0,1,1
+531,Gemini Elf,4,Earth,Spellcaster,1900,900,2550142057,Elf twins that alternate their attacks.,0,0,1,1
+288,Change Slime,1,Water,Aqua,400,300,2017956120,A slime that can morph and adopt the shape and size of any monster it chooses.,0,0,0,0
+1097,Earthshaker,,,,,,2002945632,Select 2 Monster Card Attributes. Your opponent then selects 1 of the 2 Attributes and destroys all face-up monsters with that Attribute on the field.,0,0,1,1
+1527,Collected Power,,,,,,1196774919,"Select 1 face-up monster on the field. Equip this monster with all face-up Equip Cards on the field. If the target of the Equip Card is not correct, destroy the Equip Card.",0,0,1,1
+1017,Ultimate Offering,,,,,,2436915328,"At the cost of 500 Life Points per monster, a player is allowed an extra Normal Summon or Set.",0,0,1,1
+708,Chakra,7,Dark,Fiend,2450,2000,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Resurrection of Chakra"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+693,Resurrection of Chakra,,,,,,4294967295,"This card is used to Ritual Summon ""Chakra"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+345,Ookazi,,,,,,2570539545,Inflicts 800 points of Direct Damage to your opponent's Life Points.,0,0,0,0
+1339,Gradius,4,Light,Machine,1200,800,1361221904,A high-performance jet fighter with power capsules for variable attack capabilities.,0,0,1,1
+341,Dian Keto the Cure Master,,,,,,4294967295,Increases your Life Points by 1000 points.,1,0,0,1
+93,Crawling Dragon,5,Earth,Dragon,1600,1400,1463896423,"This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.",0,1,0,1
+1529,Dark Spirit of the Silent,,,,,,1369004435,"This card can only be activated during your opponent's Battle Step. Negate the attack of 1 monster and select another 1 of your opponent's face-up monsters and have it attack. If the new targeted attacking monster is in face-up Defense Position, change it to Attack Position.",0,0,1,1
+605,Twin Long Rods #2,3,Water,Aqua,850,700,102918441,An amphibious creature with two whip-like tails.,0,1,0,1
+1066,Toll,,,,,,1496842370,"As long as this card remains face-up on the field, both you and your opponent must pay 500 Life Points per monster to attack.",0,1,0,1
+217,Two-Mouth Darkruler,3,Earth,Dinosaur,900,700,1934831703,"A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",1,0,0,1
+630,Maiden of the Moonlight,4,Light,Spellcaster,1500,1300,1888707193,A sorcerer blessed by lunar light with powers far beyond mortal comprehension.,0,1,0,1
+289,Moon Envoy,4,Light,Warrior,1100,1000,2006224965,Many have fallen victim to this lunar warrior's crescent pike.,0,0,0,0
+259,Lunar Queen Elzaim,3,Light,Fairy,750,1100,1191321954,"A lovely creature guarded by the moon, her lunar curtain can block just about any attack.",0,0,0,0
+1346,Wingweaver,7,Light,Fairy,2750,2400,393364529,A six-winged fairy who prays for peace and hope.,0,0,1,1
+39,Dragon Piper,3,Fire,Pyro,200,1800,1379235413,"FLIP: Destroys ""Dragon Capture Jar"", and turns all face-up Dragon-Type monsters to Attack Position.",0,1,0,1
+265,Princess of Tsurugi,3,Wind,Warrior,900,700,386938705,FLIP: Inflicts 500 points of Direct Damage to your opponent's Life Points for each Spell and Trap Card your opponent has on the field.,0,1,0,1
+443,Turu-Purun,2,Water,Aqua,450,500,842138969,"A strange, one-eyed monster that can fell an enemy with a single stab of its spear.",0,1,0,1
+575,Giant Scorpion of the Tundra,3,Earth,Insect,1100,1000,1714896961,"An extraordinary blue scorpion found in the tundra, not in the desert.",0,0,0,0
+1145,DNA Surgery,,,,,,2165534836,"Select 1 Type of monster. As long as this card remains on the field, all face-up Monster Cards will be treated as the Type you selected.",0,0,1,1
+389,Launcher Spider,7,Fire,Machine,2200,2500,1998795399,A mechanical spider with rocket launchers capable of random fire.,0,1,0,1
+2389,Launcher Spider,7,Fire,Machine,2200,2500,540045440,A mechanical spider with rocket launchers capable of random fire.,0,0,0,0
+642,Disk Magician,4,Dark,Machine,1350,1000,359220342,This monster hides in a saucer and only appears when executing an attack.,0,1,0,1
+1150,Ceasefire,,,,,,1451574838,Flip all face-down Monster Cards on the field face-up (Flip Effects are not activated). Inflict 500 points of Direct Damage to your opponent's Life Points for each Effect Monster Card on the field.,0,0,1,1
+158,Dig Beak,2,Earth,Beast,500,800,1116116009,"This creature rolls up its long, snake-like body and uses its beak to attack.",0,0,0,0
+1428,Jam Defender,,,,,,2189841697,"Each time a monster on your opponent's side of the field attacks a monster on your side of the field and you have ""Revival Jam"" face-up on the field, you can change the attack target to ""Revival Jam"".",0,0,1,1
+260,Wicked Mirror,2,Dark,Fiend,700,600,1896027413,"A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.",0,0,0,0
+303,Axe of Despair,,,,,,630743360,"A monster equipped with this card increases its ATK by 1000 points. When this card is sent from the field to the Graveyard, you can offer 1 monster from the field as a Tribute to place it on top of your Deck.",0,1,0,1
+21,Summoned Skull,6,Dark,Fiend,2500,1200,1376811120,"A fiend with dark powers for confusing the enemy.  Among the Fiend-Type monsters, this monster boasts considerable force.",1,0,0,1
+201,Air Marmot of Nefariousness,2,Earth,Beast,400,600,597002357,A horned beaver that dive-bombs enemies with acorns.,0,0,0,0
+1128,Rising Air Current,,,,,,847869765,Increases the ATK of all WIND monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+225,Skull Stalker,3,Dark,Warrior,900,800,2420737108,"Swift and deadly, this monsters grabs victims with its claws and attacks with a poison stinger.",0,0,0,0
+1053,Sorcerer of the Doomed,4,Dark,Spellcaster,1450,1200,8593737,"A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",1,0,0,1
+520,Skullbird,6,Wind,Winged Beast,1900,1700,1651782152,"""Takuhee"" + ""Temple of Skulls""",0,0,0,0
+1307,Bubonic Vermin,3,Earth,Beast,900,600,1749618694,"FLIP: You can take 1 ""Bubonic Vermin"" card from your Deck and Special Summon it on the field in face-down Defense Position. The Deck is then shuffled.",0,0,1,1
+239,The Drdek,3,Dark,Fiend,700,800,1967494152,A bipedal eyeball that seldom misses an enemy with its lethal talons.,0,0,0,0
+538,Corroding Shark,3,Dark,Zombie,1100,700,1728063796,A zombie shark that can deliver its lethal curse with a spell.,0,1,0,1
+1351,Gearfried the Iron Knight,4,Earth,Warrior,1800,1600,87507456,Any Equip Card this card is equipped with is automatically destroyed.,0,0,1,1
+393,Steel Scorpion,1,Earth,Machine,250,300,2224576787,"A non Machine-Type Monster attacking ""Steel Scorpion"" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",0,1,0,1
+734,Steel Ogre Grotto #2,6,Earth,Machine,1900,2200,662999184,A mechanized iron doll with tremendous strength.,0,0,1,1
+69,Fiend Kraken,4,Water,Aqua,1200,1400,2171028855,A giant squid that drags its enemies to a watery grave.,0,0,0,0
+522,The Bistro Butcher,4,Dark,Fiend,1800,1000,376967281,"When this card inflicts damage to your opponent, your opponent must draw 2 cards from his/her Deck.",0,1,0,1
+284,Serpent Marauder,2,Earth,Reptile,700,600,287732866,"A snake with a single eye that can chill the enemy, freezing them on the spot.",0,0,0,0
+364,Fiend's Mirror,6,Dark,Fiend,2100,1800,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Beastly Mirror Ritual"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,0,0,0
+390,Zoa,7,Dark,Fiend,2600,1900,1913860388,"A monster whose full potential can be achieved when outfitted with ""Metalmorph"".",0,1,0,1
+140,Spiked Snail,3,Dark,Insect,700,1300,1196492696,"A very fast, bipedal snail with a pair of lethal arms.",0,0,0,0
+30,Koumori Dragon,4,Dark,Dragon,1500,1200,2034463335,"A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",0,0,0,0
+419,Cyber-Stein,2,Dark,Machine,700,500,1666777449,"At the cost of 5000 of your own Life Points, you can Special Summon 1 Fusion Monster from your Fusion Deck in face-up Attack Position.",0,0,1,1
+384,Bickuribox,7,Dark,Fiend,2300,2000,39150885,"""Crass Clown"" + ""Dream Clown""",0,1,0,1
+1221,Card Destruction,,,,,,1931774322,Both players must discard their entire hands and draw the same number of cards that they discarded from their respective Decks.,1,0,0,1
+107,Graveyard and the Hand of Invitation,3,Dark,Zombie,700,900,2504329511,A graveyard that serves as a power source for zombies.,0,0,0,0
+794,Dunames Dark Witch,4,Light,Fairy,1800,1050,2184464658,"Even when the odds are against this brave fairy, this monster will engage in battle and never run away.",0,0,1,1
+609,Electric Lizard,3,Earth,Thunder,850,800,592676693,"A non Zombie-Type monster attacking ""Electric Lizard"" cannot attack on its following turn.",0,1,0,1
+686,Goblin Fan,,,,,,2308314116,"As long as this card remains face-up on the field, destroy all Flip Summoned monsters of Level 2 or lower. At that time, their effects are not activated.",0,1,0,1
+315,Electro-Whip,,,,,,1342538295,A Thunder-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+340,Soul of the Pure,,,,,,606700871,Increases your Life Points by 800 points.,0,1,0,1
+1203,Graceful Dice,,,,,,158667636,Roll 1 six-sided die. The result is multiplied by 100 points and added to the ATK and DEF of all monsters you control until the end of your turn. Monsters summoned after this card's activation are excluded.,0,0,1,1
+1073,Fairy's Hand Mirror,,,,,,2033673495,Switch the opponent's Spell Card effect that specifically designates 1 monster as a target to another correctly targeted monster.,0,1,0,1
+968,Graceful Charity,,,,,,1226069881,"Draw 3 cards from your Deck, then discard any 2 cards from your hand.",1,0,0,1
+102,Job-Change Mirror,3,Dark,Fiend,800,1300,963851093,A wicked mirror that blocks off the damaging effects of an attack.,0,0,0,0
+300,Legendary Sword,,,,,,289506657,A Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+292,Masaki the Legendary Swordsman,4,Earth,Warrior,1100,1100,2574395460,Legendary swordmaster Masaki is a veteran of over 100 battles.,1,0,0,1
+1326,The Legendary Fisherman,5,Water,Warrior,1850,1600,3367939,"When ""Umi"" is face-up on the field, this card is unaffected by any Spell Cards and cannot be attacked by your opponent's monsters.",0,0,1,1
+588,Tentacle Plant,2,Water,Plant,500,600,106197344,This monster reaches out with a long blue tendril and grabs anything that wanders nearby.,0,0,0,0
+600,Tenderness,3,Light,Fairy,700,1400,1079087959,An adorable fairy that celebrates the gift of love.,0,0,0,0
+380,Toon Alligator,4,Water,Reptile,800,1600,1093679193,An alligator monster straight from the cartoons.,0,0,0,0
+728,Toon Summoned Skull,6,Dark,Fiend,2500,1200,1395033233,"This card cannot be summoned unless ""Toon World"" is on the field. This card cannot attack in the same turn that it is summoned. Pay 500 Life Points each time this monster attacks. When ""Toon World"" is destroyed, this card is also destroyed. If your opponent doesn't control a Toon monster on the field, this card may inflict Direct Damage to your opponent's Life Points. If a Toon monster is on your opponent's side of the field, your attacks must target the Toon monster.",0,0,1,1
+726,Manga Ryu-Ran,7,Fire,Dragon,2205,40,1234384440,"This card cannot be summoned unless ""Toon World"" is on the field. This card cannot attack in the same turn that it is summoned. Pay 500 Life Points each time this monster attacks. When ""Toon World"" is destroyed, this card is also destroyed. If your opponent doesn't control a Toon monster on the field, this card may inflict Direct Damage to your opponent's Life Points. If a Toon monster is on your opponent's side of the field, your attacks must target the Toon monster.",0,0,1,1
+727,Toon Mermaid,4,Water,Aqua,1400,1500,1216955749,"This card cannot be summoned unless ""Toon World"" is on the field. This card cannot attack in the same turn that it is summoned. Pay 500 Life Points each time this monster attacks. When ""Toon World"" is destroyed, this card is also destroyed. If your opponent doesn't control a Toon monster on the field, this card may inflict Direct Damage to your opponent's Life Points. If a Toon monster is on your opponent's side of the field, your attacks must target the Toon monster.",0,0,1,1
+954,Toon World,,,,,,60237077,This card is activated by paying 1000 of your Life Points.,0,0,1,1
+1030,Seven Tools of the Bandit,,,,,,1888780547,Pay 1000 of your Life Points to negate the activation of a Trap Card and destroy it.,0,1,0,1
+109,Hero of the East,3,Earth,Warrior,1100,1000,141727881,A sword-swinging samurai from the Far East.,0,0,0,0
+139,Toad Master,3,Water,Aqua,1000,1000,1209296738,"A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.",0,0,0,0
+1060,Stim-Pack,,,,,,1196696195,A monster equipped with this card increases its ATK by 700 points. Its ATK is then decreased by 200 points at each of its Standby Phases.,0,1,0,1
+950,Time Machine,,,,,,2524354688,"When 1 monster is sent to the Graveyard as a result of battle, you can return it to the field in the same battle position as a Special Summon.",0,0,1,1
+1090,Time Seal,,,,,,140980533,Your opponent skips the Draw Phase of his/her next turn.,0,0,1,1
+15,Time Wizard,2,Light,Spellcaster,500,400,575824497,"Toss a coin and call Heads or Tails. If you call it right, your opponent's monsters on the field are destroyed. If you call it wrong, your own monsters on the field are destroyed and you lose Life Points equal to half the total ATK of the destroyed monsters.  This card can be used only during your own turn, once per turn.",0,1,1,1
+142,Necrolancer the Timelord,3,Dark,Spellcaster,800,900,2420655457,One-eyed Necrolancer leads an attack from a dimensional ring that can appear from nowhere.,0,0,0,0
+1082,Snake Fang,,,,,,1365268736,Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.,0,1,0,1
+145,Temple of Skulls,4,Dark,Zombie,900,1300,35877632,A mysterious temple of skulls and bones that sucks in unwary enemies.,0,0,0,0
+661,Eradicating Aerosol,,,,,,358969748,Destroys all Insect-Type monsters on the field.,0,0,0,0
+1075,Rush Recklessly,,,,,,1918960752,Increase 1 monster's ATK by 700 points during the turn this card is activated.,0,1,0,1
+1134,Gust,,,,,,1704134515,You can activate this card when 1 or more of your Spell Cards are destroyed and sent from the field to the Graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap Card on the field.,0,0,1,1
+1013,Gust Fan,,,,,,1880699477,A WIND monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,0,0,1,1
+585,Greenkappa,3,Dark,Warrior,650,900,2467332961,FLIP : Select 2 face-down Spell or Trap Cards on the field and destroy them.,0,0,1,1
+222,Roaring Ocean Snake,6,Water,Aqua,2100,1800,946144793,"""Mystic Lamp"" + ""Hyosube""",0,1,0,1
+360,Flying Penguin,4,Water,Aqua,1200,1000,847405573,A very rare penguin that takes to the air with ears shaped like wings.,0,1,0,1
+104,Tomozaurus,2,Earth,Dinosaur,500,400,1450722630,"Small but vicious, this monster even attacks its own kind.",0,0,0,0
+704,Tri-Horned Dragon,8,Dark,Dragon,2850,2350,4294967295,An unworthy dragon with three sharp horns sprouting from its head.,1,0,0,1
+569,Trakadon,3,Earth,Dinosaur,1300,800,42480706,A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.,0,0,0,0
+1550,Dragonic Attack,,,,,,40977202,This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.,0,0,1,1
+501,D. Human,4,Earth,Warrior,1300,1100,1501103489,"Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",0,0,0,0
+725,Ryu-Ran,7,Fire,Dragon,2205,40,21140994,A vicious little dragon sheltered in an egg that looks deceptively harmless.,0,1,0,1
+499,Dragon Seeker,6,Dark,Fiend,2000,2100,1161123368,"When this card is Summoned (excluding Special Summon), destroy 1 face-up Dragon-Type monster on the field.",0,1,0,1
+137,Dragon Statue,3,Earth,Warrior,1100,900,896997641,A stone warrior with the heart of a dragon.,0,0,0,0
+328,Dragon Capture Jar,,,,,,2572289104,All Dragon-Type monsters on the field are switched to Defense Position and remain in this position as long as this card is active.,1,0,0,1
+96,Dragon Zombie,3,Dark,Zombie,1600,0,1764058982,A dragon revived by sorcery. Its breath is highly corrosive.,1,0,0,1
+812,Alligator's Sword Dragon,5,Wind,Dragon,1700,1500,2187933187,"""Baby Dragon"" + ""Alligator's Sword"".  You can Inflict Direct Damage to your opponent's Life Points with this card if the only Attributes of Monster Cards on your opponent's side of the field are EARTH, WATER, or FIRE.",0,0,1,1
+314,Dragon Treasure,,,,,,1364738817,A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1120,Flying Kamakiri #1,4,Wind,Insect,1400,900,1699251076,"When this card is sent to the Graveyard as a result of battle, you may select 1 WIND monster with an ATK of 1500 or less from your Deck and Special Summon it to the field in face-up Attack Position (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+966,The Flute of Summoning Dragon,,,,,,1949407043,Playing this card when you have a Lord of D. card face-up on the field allows you to play up to 2 Dragon-Type cards from your hand as a Special Summon.,0,0,1,1
+223,Trap Master,3,Earth,Warrior,500,1100,1192379974,"FLIP: Destroys 1 Trap Card on the field. If this card's target is face-down, flip it face-up. If the card is a Trap Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not activated.",1,0,0,1
+215,Dryad,4,Earth,Spellcaster,1200,1400,1768329604,A spirit of the forest powered by the surrounding trees and wildlife.,0,0,0,0
+119,Dream Clown,3,Earth,Warrior,1200,900,810688787,"When this card is changed from Attack Position to Defense Position, select and destroy 1 monster on your opponent's side of the field.",0,1,0,1
+6,"Winged Dragon, Guardian of the Fortress #1",4,Wind,Dragon,1400,1200,6912391,A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.,1,0,0,1
+1423,Tornado Wall,,,,,,894525464,"This card can only be activated when ""Umi"" is active on the field. As long as ""Umi"" remains face-up on the field, any damage to your Life Points becomes 0. When ""Umi"" is destroyed or removed from the field, this card is also destroyed.",0,0,1,1
+1521,Tornado Bird,4,Wind,Winged Beast,1100,1000,2150705265,FLIP: Return 2 Spell or Trap Cards on the field to the hands of their owner.,0,0,1,1
+299,Kurama,3,Wind,Winged Beast,800,800,72904837,A vicious bird that attacks from the skies with its whip-like tail.,1,0,0,1
+636,Trent,5,Earth,Plant,1500,1800,1073838200,"A guardian of the woods, this massive tree is believed to be immortal.",0,1,0,1
+204,Dorover,3,Water,Aqua,900,800,859838756,This ugly monster emits a highly poisonous gas.,0,0,0,0
+194,Doron,2,Earth,Warrior,900,500,1382446336,This monster splits in two and attacks from opposite sides.,0,0,0,0
+151,The Melting Red Shadow,2,Water,Aqua,500,700,1937869208,"This monster melts away to materialize under its enemies, taking them by surprise.",0,0,0,0
+622,The Thing That Hides in the Mud,4,Earth,Rock,1200,1300,1644632088,This monster melts its way underground to attack enemies from below.,0,0,0,0
+115,Nightmare Scorpion,3,Earth,Insect,900,800,1932616840,"A creature that generates nightmares to haunt an opponent, it attacks with four poisonous tails",0,0,0,0
+633,Night Lizard,4,Water,Aqua,1150,1300,2552709240,A lizard warrior protected by a hide of very tough emerald scales.,0,0,0,0
+541,Misairuzame,5,Water,Fish,1400,1600,377755443,A missile-launching fish protected by deadly spikes.,1,0,0,1
+165,Mysterious Puppeteer,4,Earth,Warrior,1000,1500,562104660,"As long as this card remains face-up on the field, the Life Points of this card's controller increase by 500 points for each additional monster summoned (excluding Special Summon, but including your opponent's monsters).",0,0,1,1
+136,Mystery Hand,2,Dark,Fiend,500,500,540047714,This monster twists reality and reaches between dimensions to attack its enemies.,0,0,0,0
+1065,Upstart Goblin,,,,,,2038969968,Draw 1 card from your Deck. Your opponent gains 1000 Life Points.,0,1,0,1
+489,Needle Ball,2,Dark,Fiend,750,700,604119956,FLIP: You can inflict 1000 points of Direct Damage to your opponent's Life Points at the cost of 2000 of your own Life Points.,0,0,0,0
+561,Needle Worm,2,Earth,Insect,750,600,674661505,FLIP: Discard 5 cards from the top of your opponent's Deck to his/her Graveyard.,0,1,0,1
+689,Fake Trap,,,,,,24117763,"When your opponent uses a Spell, Trap, or Effect Monster Card to destroy your Trap Card(s), this card can be destroyed as a substitute for your Trap Card(s).",0,1,0,1
+31,Two-Headed King Rex,4,Earth,Dinosaur,1600,1200,1956188564,A powerful monster whose two heads attack as one.,0,1,0,1
+358,Three-Legged Zombies,3,Dark,Zombie,1100,800,960787251,"A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",0,1,0,1
+1254,Slate Warrior,4,Wind,Fiend,1900,400,2506384248,FLIP: Increase the ATK/DEF of this card by 500 points. Any monster that destroys this card must decrease its ATK and DEF by 500 points.,0,0,1,1
+257,Beastking of the Swamps,4,Water,Aqua,1000,1100,879248025,You can substitute this card for any 1 Fusion-Material Monster. You cannot substitute for any other Fusion-Material Monsters in the current Fusion.,0,1,0,1
+681,Eatgaboon,,,,,,662984514,"If the ATK of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",0,1,0,1
+525,Neck Hunter,6,Dark,Fiend,1750,1900,608307312,A fiend that wields a mean sickle and fires devastating beams from its eyes.,0,0,0,0
+128,Nemuriko,3,Dark,Spellcaster,800,700,2285147792,A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.,1,0,0,1
+120,Sleeping Lion,4,Earth,Beast,700,1700,872947776,A very vicious creature that's best left sleeping.,0,0,0,0
+680,House of Adhesive Tape,,,,,,674695189,"If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",0,1,0,1
+224,Fiend Sword,4,Dark,Warrior,1400,800,2186839330,Whoever resists the curse of this blade will gain untold power.,0,0,0,0
+480,Burglar,3,Earth,Beast,850,800,1098459398,A wily rat armed with a huge left claw.,0,0,0,0
+280,Mystic Clown,4,Dark,Fiend,1500,1000,1409353287,Nothing can stop the mad attack of this powerful creature.,1,0,0,1
+155,Hard Armor,3,Earth,Warrior,300,1200,805439008,A living suit of armor that attacks enemies with a bone-jarring tackle.,1,0,0,1
+1174,Harpie's Brother,4,Wind,Winged Beast,1800,600,2418234160,"With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.",0,0,1,1
+1167,Darkfire Soldier #1,4,Fire,Pyro,1700,1150,2172925957,An explosive expert from a special elite force.,0,0,1,1
+1127,Molten Destruction,,,,,,876820505,Increases the ATK of all FIRE monsters by 500 points and decreases their DEF by 400 points.,0,1,0,1
+553,Lava Battleguard,5,Earth,Warrior,1550,1800,1077950752,"Increase the ATK of this card by 500 points for each face-up ""Swamp Battleguard"" on your side of the field.",0,1,0,1
+11,Swamp Battleguard,5,Earth,Warrior,1800,1500,1698121024,"Increase the ATK of this monster by 500 points for every face-up ""Lava Battleguard"" on your side of the field.",0,1,0,1
+385,Harpie's Pet Dragon,7,Wind,Dragon,2000,2500,369230930,"Increases the ATK and DEF of this card by 300 points for each face-up ""Harpie Lady"" on the field.",0,0,1,1
+671,Harpie's Feather Duster,,,,,,105190424,Destroys all of your opponent's Spell and Trap Cards on the field.,0,1,1,1
+61,Harpie Lady,4,Wind,Winged Beast,1300,1400,320962934,This human-shaped animal with wings is beautiful to watch but deadly in battle.,0,1,0,1
+1249,Cyber Harpie,4,Wind,Winged Beast,1800,1300,2238001536,"This card is treated as ""Harpie Lady"".",0,0,0,0
+62,Harpie Lady Sisters,6,Wind,Winged Beast,1950,2100,308420626,"This monster can only be Special Summoned with the Spell Card ""Elegant Egotist"".",0,1,0,1
+169,Spirit of the Harp,4,Light,Fairy,800,2000,2013689728,A spirit that soothes the soul with the music of its heavenly harp.,1,0,0,1
+1443,Bio-Mage,3,Light,Fairy,1150,1000,694708568,A mysterious priest created as a result of the latest advances in biotechnology.,0,0,1,1
+294,Bio Plant,3,Dark,Fiend,600,1300,1107650311,A monster created from a major accident in an underground lab.,0,0,0,0
+611,Lady of Faith,3,Light,Spellcaster,1100,800,1988179223,Soothes the souls of others by chanting a mysterious spell.,0,1,0,1
+1091,Graverobber,,,,,,391409761,"Select 1 Spell Card from your opponent's Graveyard. You can use it as your own Spell Card in your hand until the end of the turn. If you activate it, you take 2000 points of damage.",0,0,1,1
+1533,Graverobber's Retribution,,,,,,1685484339,"During each of your Standby Phases, inflict 100 points of Direct Damage to your opponent's Life Points for each of your opponent's Monster Cards that have been removed from play.",0,0,1,1
+268,Versago the Destroyer,3,Dark,Fiend,1100,900,1620321616,You can substitute this card for any 1 Fusion-Material Monster. You cannot substitute for any other Fusion-Material Monsters in the current Fusion.,0,1,0,1
+453,Destroyer Golem,4,Earth,Rock,1500,1000,1410418803,A golem with a massive right hand for crushing its victims.,0,1,0,1
+939,Ring of Destruction,,,,,,1716934019,Destroy 1 face-up Monster Card and inflict Direct Damage equal to the destroyed card's ATK to the Life Points of both you and your opponent.,0,1,0,1
+308,Steel Shell,,,,,,2164274946,A WATER monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,0,0,1,1
+1021,Call of the Grave,,,,,,1476499222,"You can activate this card when your opponent activates ""Monster Reborn"". Negate the effect of ""Monster Reborn"".",0,1,0,1
+1011,Gravedigger Ghoul,,,,,,1730303106,Select 2 Monster Cards from your opponent's Graveyard. These Monster Cards are removed from play for the remainder of the Duel.,0,1,0,1
+1063,Gravekeeper's Servant,,,,,,657028630,"Each time your opponent attacks with a monster, the opponent must send 1 card from the top of his/her Deck to the Graveyard.",0,1,0,1
+1140,Numinous Healer,,,,,,621155074,"You can activate this card when you take damage to your Life Points. Increase your Life Points by 1000 points. In addition, increase your Life Points by 500 points per card if there are additional ""Numinous Healer"" cards in the Graveyard.",0,0,1,1
+1337,Bombardment Beetle,2,Wind,Insect,400,900,1218003031,"FLIP: Flip 1 face-down Defense Position Monster Card on your opponent's side of the field face-up. If the flipped card is an Effect Monster Card, immediately destroy it without activating its effect. If the card is not an Effect Monster Card, return it to its original position.",0,0,1,1
+1304,Attack and Receive,,,,,,1134061667,"You can activate this card when you take damage to your Life Points. Inflict 700 points of Direct Damage to your opponent's Life Points. In addition, inflict 300 points of Direct Damage to your opponent's Life Points per card if there are additional ""Attack and Receive""cards in your Graveyard.",0,0,1,1
+1005,Two-Pronged Attack,,,,,,108234883,Select and destroy 2 of your monsters and 1 of your opponent's monsters.,1,0,0,1
+808,Buster Blader,7,Earth,Warrior,2600,2300,825760120,The ATK of this card increases by 500 points for every Dragon-Type monster on your opponent's side of the field and Graveyard.,0,0,1,1
+1537,The Emperor's Holiday,,,,,,352403560,Negate the effects of all Equip Cards.,0,0,1,1
+1044,The Unhappy Maiden,1,Light,Spellcaster,0,100,659564369,"When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",0,1,0,1
+410,Bat,1,Wind,Machine,300,350,2170685298,A mechanical bat that drops blasts from its wings.,0,0,0,0
+197,Happy Lover,2,Light,Fairy,800,500,1677788057,A little fairy that fires beams of happiness from the heart-shaped jewel on its forehead.,0,0,0,0
+579,Patrol Robo,3,Earth,Machine,1100,900,592541558,"During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.",0,0,1,1
+236,Haniwa,2,Earth,Rock,500,500,592849028,An earthen figure that protects the tomb of an ancient ruler.,0,0,0,0
+540,Hane-Hane,2,Earth,Beast,450,500,295110663,FLIP: Select 1 Monster Card on the field (regardless of position) and return it to its owner's hand.,1,0,0,1
+211,Meotoko,2,Earth,Beast,700,600,1344701267,A huge monster with a single eye that fires a deadly beam.,0,0,0,0
+1240,Berfomet,5,Dark,Fiend,1400,1800,2440110199,"When this card is summoned (excluding Special Summon), you can add 1 ""Gazelle the King of Mythical Beasts"" from your Deck to your hand.",0,0,1,1
+1160,Premature Burial,,,,,,311001712,"Pay 800 Life Points. Select 1 Monster Card from your Graveyard, Special Summon it on the field in face-up Attack Position, and equip it with this card. When this card is destroyed, the monster is also destroyed.",0,1,1,1
+1336,Hayabusa Knight,3,Earth,Warrior,1000,700,861405473,This monster can attack twice during the same Battle Phase.,0,0,1,1
+593,Rose Spectre of Dunn,6,Dark,Plant,2000,1800,1901217842,"""Feral Imp"" + ""Snakeyashi""",0,0,0,0
+1080,Giant Trunade,,,,,,1211265090,Returns all Spell and Trap Cards on the field to the respective owner's hands.,0,1,1,1
+173,Hurricail,2,Wind,Spellcaster,900,200,891749397,A tornado that ravages the wastelands with sharp winds that can cut to the bone.,0,0,0,0
+85,Barox,5,Dark,Fiend,1380,1530,1929741318,"""Frenzied Panda"" + ""Ryu-Kishin""",0,0,0,0
+382,Parrot Dragon,5,Wind,Dragon,2000,1300,2552788578,A dragon from the cartoons that's more dangerous than it appears to be.,0,1,0,1
+1407,Amphibian Beast,6,Water,Fish,2400,2000,2199074663,"On land or in the sea, the speed of this monster is unmatchable.",0,0,1,1
+701,Hungry Burger,6,Dark,Warrior,2000,1850,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Hamburger Recipe"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+613,Hunter Spider,5,Earth,Insect,1600,1400,2148799616,This monster feeds on whatever it catches in its web.,0,1,0,1
+685,Widespread Ruin,,,,,,1145664887,"When your opponent attacks with a monster, destroy his/her Attack Position monster with the highest ATK.",0,0,0,0
+676,Hamburger Recipe,,,,,,4294967295,"This card is used to Ritual Summon ""Hungry Burger"". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",0,1,0,1
+344,Final Flame,,,,,,2168460147,Inflicts 600 points of Direct Damage to your opponent's Life Points.,1,0,0,1
+510,Bean Soldier,4,Earth,Plant,1400,1300,1895930244,A plant-warrior that attacks with seeds and sword.,0,1,0,1
+347,Swords of Revealing Light,,,,,,52703346,"Counting from your opponent's turn, none of your opponent's monsters can attack for 3 turns of his/her own. When this card is activated, opponent's face-down monsters at that time are turned face-up, but remain in Defense Position. Any effects the monsters may have are immediately activated.",1,0,0,1
+1107,Banisher of the Light,3,Light,Fairy,100,2000,629166689,"As long as this card remains face-up on the field, any card sent to the Graveyard is removed from play.",0,0,1,1
+312,Horn of Light,,,,,,119625016,"A monster equipped with this card increases its DEF by 800 points. When this card is sent from the field to the Graveyard, you can pay 500 Life Points to place it on top of your Deck.",0,1,0,1
+964,Lightforce Sword,,,,,,879777865,"Select 1 card at random from your opponent's hand. Keep it face-down and place it outside of the field. During your opponent's 4th turn, the card is returned to his/her hand in the Standby Phase.",0,0,1,1
+1439,Fairy Guardian,3,Wind,Fairy,1000,1000,1922515234,Offer this face-up card as a Tribute to return 1 Spell Card sent to your Graveyard by your opponent during this turn to the bottom of your Deck.,0,0,1,1
+322,Book of Secret Arts,,,,,,408377745,A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1442,Hysteric Fairy,4,Light,Fairy,1800,500,611461409,Offer 2 monsters on your side of the field as a Tribute to increase your Life Points by 1000 points. Monsters used for a Tribute Summon or that are offered as Tributes due to other cards' effects are excluded.,0,0,1,1
+48,Big Insect,4,Earth,Insect,1200,1500,1952997459,"A giant ant that dwells in the jungle, it is powerful whether attacking or defending.",0,0,0,0
+1201,Big Shield Gardna,4,Earth,Warrior,105,40,2214798437,"When this card is face-down and targeted by a Spell Card whose effect targets only 1 monster the Spell Card is negated and this card is turned face-up in Defense Position. When this card is attacked, it is shifted to Attack Position following the Damage step.",0,0,1,1
+1434,Fire Princess,4,Fire,Pyro,1300,1500,1176925540,Inflict 500 points of Direct Damage to your opponent's Life Points each time you increase your own Life Points.,0,0,1,1
+1166,Twin-Headed Fire Dragon,6,Fire,Pyro,2200,1700,1917294712,Two dragons fused as one from the effects of the Big Bang.,0,0,1,1
+74,Man-Eating Plant,2,Earth,Plant,800,600,1132008009,A meat-eating plant that is attractive to the eye but dangerous when approached.,0,0,0,0
+1052,Man-Eating Treasure Chest,4,Dark,Fiend,1600,1000,87454227,A monster disguised as a treasure chest that is known to attack the unwary adventurer.,1,0,0,1
+500,Man-Eater Bug,2,Earth,Insect,450,600,1344431444,FLIP: Destroys 1 monster on the field (regardless of position).,1,0,0,1
+226,Hitodenchak,2,Water,Aqua,600,700,2256957766,A rabid starfish that spits a lethal acid that can melt almost anything.,0,0,0,0
+342,Sparks,,,,,,1966477430,Inflicts 200 points of Direct Damage to your opponent's Life Points.,1,0,0,1
+648,Hibikime,4,Earth,Warrior,1450,1000,1964527716,Confuses enemy monsters with a noise that is harsh to the ears.,0,1,0,1
+1402,Humanoid Slime,4,Water,Aqua,800,2000,336822854,This slime apparently has some human genes in its genetic makeup.,0,0,1,1
+1404,Humanoid Worm Drake,7,Water,Aqua,2200,2000,654401541,"""Worm Drake"" + ""Humanoid Slime""",0,0,1,1
+249,Hyo,3,Water,Warrior,800,1200,1445173304,None can survive the cold touch of this sub-zero warrior.,0,0,0,0
+1111,Flash Assailant,4,Dark,Fiend,2000,2000,2181400982,Decrease the ATK and DEF of this card by 400 points for every card in your hand.,0,0,1,1
+646,Hyosube,4,Water,Aqua,1500,900,578818306,"This amphibian is strong on the attack, but leaves much to be desired when defending.",0,1,0,1
+1022,Anti Raigeki,,,,,,1463957058,"When your opponent activates ""Raigeki"", all of your opponent's monsters are destroyed in place of your own.",1,0,0,1
+1141,Appropriate,,,,,,882004808,"You can activate this card when your opponent draws a card outside of his/her Draw Phase. After activation, every time your opponent draw a card out side of his her Draw Phase, draw 2 cards from your Deck.",0,0,1,1
+175,Fire Eye,2,Fire,Pyro,800,600,1112884104,An eye engulfed in flames that flaps its wings to create hot blasts of air.,0,0,0,0
+713,Firewing Pegasus,6,Fire,Beast,2250,1800,4294967295,A heavenly stallion soaring through the skies on crimson wings.,0,0,0,0
+518,Fire Kraken,4,Fire,Aqua,1600,1500,1430737734,A squid that thrives on fire and heat.,0,1,0,1
+1436,Fire Sorcerer,4,Fire,Spellcaster,1000,1500,1344475943,FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of Direct Damage to your opponent's Life Points.,0,0,1,1
+153,Fire Reaper,2,Dark,Zombie,700,500,336746579,A reaper with a flaming arrow that burns an enemy to a crisp.,0,0,0,0
+343,Hinotama,,,,,,1174606662,Inflicts 500 points of Direct Damage to your opponent's Life Points.,1,0,0,1
+187,Synchar,3,Earth,Beast,800,900,1935762549,This two-headed creature spits laser blasts at its enemies.,0,0,0,0
+581,Dark Witch,5,Light,Fairy,1800,1700,928339509,A popular creature in mythology that delivers fatal attacks with a sharp spear.,0,1,0,1
+1340,Red-Moon Baby,3,Dark,Zombie,700,1000,1349728342,A monster destroyed by this card can be Special Summoned in face-up Attack or Defense Position at the end of the Battle Phase to your side of the field.,0,0,1,1
+238,Vishwar Randi,3,Dark,Warrior,900,700,543380856,This lady warrior with unquenchable bloodlust serves the forces of darkness.,0,0,0,0
+20,Exodia the Forbidden One,3,Dark,Spellcaster,1000,1000,1214855475,An automatic victory can be declared by the player whose hand contains this card together with the Left Leg/Right Leg/Left Arm/Right Arm of the Forbidden One.,1,0,0,1
+17,Left Leg of the Forbidden One,1,Dark,Spellcaster,200,300,915755332,A forbidden left leg sealed by spell. Whosoever breaks this seal will know infinite power.,1,0,0,1
+19,Left Arm of the Forbidden One,1,Dark,Spellcaster,200,300,1227067399,A forbidden left arm sealed by spell. Whosoever breaks this seal will know infinite power.,1,0,0,1
+16,Right Leg of the Forbidden One,1,Dark,Spellcaster,200,300,558436872,A forbidden right leg sealed by spell. Whosoever breaks this seal will know infinite power.,1,0,0,1
+18,Right Arm of the Forbidden One,1,Dark,Spellcaster,200,300,875991152,A forbidden right arm sealed by spell. Whosoever breaks this seal will know infinite power.,1,0,0,1
+583,Binding Chain,3,Light,Fairy,1000,1100,1082262792,The mystic links of this chain can rob enemies of their power.,0,0,0,0
+485,Boo Koo,2,Dark,Spellcaster,650,500,120690280,A book-like wizard with a wealth of spell written inside.,0,0,0,0
+371,Kazejin,7,Wind,Spellcaster,2400,2200,4294967295,Reduce the ATK of an opponent's monster attacking this card to 0. This effect can be used only once. The card's owner chooses when to activate this effect.,0,1,0,1
+602,Fairy Dragon,4,Wind,Dragon,1100,1200,1415065888,A beautiful and powerful dragon fairy.,0,0,0,0
+1181,Riryoku,,,,,,1449591092,"During your turn, you can reduce the ATK of 1 monster by half and add that amount to the ATK of another monster on the field.",0,0,1,1
+1531,Riryoku Field,,,,,,1363358832,Negates the activation of a Spell Card that designates 1 monster as a target and destroys the Spell Card.,0,0,1,1
+326,Follow Wind,,,,,,2250581400,A Winged Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1318,Insect Imitation,,,,,,1683199638,Offer 1 monster on your side of the field as a Tribute. Select 1 Insect-Type monster from your Deck that is 1 Level higher than the Tribute monster and Special Summon it on the field in face-up Attack Position or face-down Defense Position. The Deck is then shuffled.,0,0,1,1
+574,Ancient One of the Deep Forest,6,Earth,Beast,1800,1900,1733296404,"This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",0,1,0,1
+449,Kappa Avenger,3,Water,Aqua,1200,900,59838536,An amphibian that sold his soul for unlimited power to avenge his late friend.,0,0,0,0
+377,Swordstalker,6,Dark,Warrior,2000,1600,861274192,A monster formed by the vengeful souls of those who passed away in battle.,0,1,0,1
+207,Petit Angel,3,Light,Fairy,600,900,958862392,A quick-moving and tiny fairy that's very difficult to hit.,1,0,0,1
+277,Petit Moth,1,Earth,Insect,300,200,1109858648,This small but deadly creature is better off avoided.,0,1,0,1
+199,Petit Dragon,2,Wind,Dragon,600,700,1684354421,A very small dragon known for its vicious attacks.,1,0,0,1
+1524,Supply,4,Earth,Warrior,1300,800,2485651268,FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.,0,0,1,1
+188,Fusionist,3,Earth,Beast,900,700,2182636545,"""Petit Angel"" + ""Mystical Sheep #2""",1,0,0,1
+1547,Fusion Gate,,,,,,2483442995,"As long as this card remains face-up on the field, a Fusion Monster can be Special Summoned without using ""Polymerization"". The Fusion-Material monsters used in the Fusion are not sent to the Graveyard, but are removed from play.",0,0,1,1
+1406,Flying Fish,4,Wind,Fish,800,500,1953667121,Three wishes are granted to those fortunate enough to see this monster in flight.,0,0,1,1
+1173,Flying Kamakiri #2,4,Wind,Insect,1500,800,1094849283,A flying mantis that feeds primarily on insects.,0,0,1,1
+508,Bracchio-raidus,6,Water,Dinosaur,2200,2000,678973462,"""Two-Headed King Rex"" + ""Crawling Dragon #2""",0,0,0,0
+481,Pragtical,5,Earth,Dinosaur,1900,1500,1074817331,"""Trakadon"" + ""Flame Viper""",0,0,0,0
+216,B. Skull Dragon,9,Dark,Dragon,3200,2500,4294967295,"""Summoned Skull"" + ""Red-Eyes B. Dragon""",0,0,1,1
+310,Black Pendant,,,,,,2492929637,"A monster equipped with this card increases its ATK by 500 points. When this card is sent from the field to the Graveyard, inflict 500 points of Direct Damage to your opponent's Life Points.",0,1,0,1
+335,Dark Hole,,,,,,1133777491,Destroys all monsters on the field.,1,0,0,1
+34,Dark Magician,7,Dark,Spellcaster,2500,2100,342136902,The ultimate wizard in terms of attack and defense.,1,0,0,1
+2034,Dark Magician,7,Dark,Spellcaster,2500,2100,2156945472,The ultimate wizard in terms of attack and defense.,0,1,0,1
+1210,Dark Magician,7,Dark,Spellcaster,2500,2100,140876086,The ultimate wizard in terms of attack and defense.,0,0,0,0
+759,Dark Magician Girl,6,Dark,Spellcaster,2000,1700,4294967295,"This card's ATK increases by 300 points for every ""Dark Magician"" or ""Magician of Black Chaos"" in either player's Graveyard.",0,0,1,1
+837,Vorse Raider,4,Dark,Beast-Warrior,1900,1200,1719699732,The axe in the hand of this evil animal has tasted the blood of many monsters.,0,1,0,1
+486,Flower Wolf,5,Earth,Beast,1800,1400,36214165,"""Silver Fang"" + ""Darkworld Thorns""",1,0,0,1
+387,Pendulum Machine,6,Dark,Machine,1750,2000,540623652,A horrible torture machine with a large pendulum blade.,0,0,0,0
+2387,Pendulum Machine,6,Dark,Machine,1750,2000,809517088,A horrible torture machine with a large pendulum blade.,0,0,0,0
+504,Prisman,3,Light,Rock,800,1000,21177216,This crystalline monster filters light to create a lethal laser.,0,0,0,0
+254,Prevent Rat,4,Earth,Beast,500,2000,2173981696,This creature is shielded with a tough hide of hair and is excellent at defending itself.,0,1,0,1
+1441,Cure Mermaid,4,Water,Fish,1500,800,639991941,"As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.",0,0,1,1
+379,Blue-Eyes Ultimate Dragon,12,Light,Dragon,4505,1240,4294967295,"""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon""",0,1,0,1
+766,Blue-Eyes Toon Dragon,8,Light,Dragon,3000,2500,3545171,"This card cannot be summoned unless ""Toon World"" is on the field. This card cannot attack in the same turn that it is summoned. Pay 500 Life Points each time this monster attacks. When ""Toon World"" is destroyed, this card is also destroyed. If your opponent doesn't control a Toon monster on the field, this card may inflict Direct Damage to your opponent's Life Points. If a Toon monster is on your opponent's side of the field, your attacks must target the Toon monster.",0,0,1,1
+0,Blue-Eyes White Dragon,8,Light,Dragon,3000,2500,957440905,"This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",1,0,0,1
+2000,Blue-Eyes White Dragon,8,Light,Dragon,3000,2500,811634816,"This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",0,1,0,1
+138,Blue-Eyed Silver Zombie,3,Dark,Zombie,900,700,858007605,The beams from the eyes of this creature are said to turn enemies into zombies.,0,0,0,0
+468,Armed Ninja,1,Earth,Warrior,300,300,123864841,"FLIP: Destroys 1 Spell Card on the field. If this card's target is face-down, flip it face-up. If the card is a Spell Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not activated.",1,0,0,1
+1006,Blue Medicine,,,,,,17860384,Increase your Life Points by 400 points.,0,0,1,1
+513,Brave Scizzar,4,Dark,Machine,1300,1000,2205493108,"Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",0,0,0,0
+1165,Flame Champion,5,Fire,Pyro,1900,1300,2006341954,A warrior protected by a flaming shield that nullifies any attack.,0,0,1,1
+528,Flame Cerebrus,6,Fire,Pyro,2100,1800,1982236256,"Known to many as the ""Burning Executioner"", this monster is capable of burning enemies to cinders.",0,0,1,1
+214,Flame Ghost,3,Dark,Zombie,1000,800,1686721112,"""Skull Servant"" + ""Dissolverock""",1,0,0,1
+1507,Flame Dancer,2,Fire,Pyro,550,450,1144031250,This monster moves while swinging its burning rope.,0,0,1,1
+643,Flame Viper,2,Earth,Pyro,400,450,419857154,A fire-breathing snake whose speed makes it a difficult target.,0,0,0,0
+608,Bladefly,2,Wind,Insect,600,700,336021288,"As long as this card remains face-up on the field, increase the ATK of all WIND monsters by 500 points and decrease the ATK of all EARTH monsters by 400 points.",0,1,0,1
+607,Shining Friendship,4,Light,Fairy,1300,1100,425068674,The peacemaker among monsters.,0,1,0,1
+415,Blocker,4,Dark,Machine,850,1800,1177842740,This monster has several components that can be launched for formation attacks.,0,0,0,0
+596,Pale Beast,4,Earth,Beast,1500,1200,2200970785,"With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",0,1,0,1
+1131,Messenger of Peace,,,,,,2439275844,"You must pay 100 Life Points at each of your Standby Phases. If you cannot pay, this card is destroyed. All monsters with an ATK of 1500 points or more cannot attack.",0,0,1,1
+49,Basic Insect,2,Earth,Insect,500,700,2031421833,"Usually found traveling in swarms, this creature's ideal environment is the forest.",1,0,0,1
+572,Little D,3,Earth,Dinosaur,1100,700,1414685250,A tyrannosaurus offspring with a vicious disposition.,0,0,0,0
+3,Baby Dragon,3,Wind,Dragon,1200,700,2274722184,"Much more than just a child, this dragon is gifted with untapped power.",0,1,1,1
+549,Behegon,4,Water,Aqua,1350,1000,2468348564,"With a large mouth and massive teeth, this is one dangerous and strange sea snake.",0,0,0,0
+51,Hercules Beetle,5,Earth,Insect,1500,2000,2185386066,A massive beetle with a tough carapace and a dangerous horn.,0,1,0,1
+186,Gate Deeg,3,Dark,Beast,700,800,2021991753,This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.,0,0,0,0
+8,Shadow Specter,1,Dark,Zombie,500,200,324228928,"Powerful in groups, this animal spirit can be found in the wastelands.",0,0,0,0
+601,Penguin Soldier,2,Water,Aqua,750,500,1158124179,FLIP: You can return up to 2 Monster Cards from the field to the owner's hand.,0,0,1,1
+198,Penguin Knight,3,Water,Aqua,900,800,1670447926,"When this card is sent directly from your Deck to the Graveyard by an opponent's card effect, combine your Graveyard cards with your own Deck, shuffle them and form a new Deck.",0,1,0,1
+1118,Boar Soldier,4,Earth,Beast-Warrior,2000,500,1358967841,"This card can only be summoned by a Flip Summon. If summoned by a Normal Summon, the card is destroyed. If your opponent has 1 or more monsters under his/her control, the ATK of this card is decreased by 1000 points.",0,0,1,1
+1,Mystical Elf,4,Light,Spellcaster,800,2000,1146618389,"A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",1,0,0,1
+1092,Gift of The Mystical Elf,,,,,,294660504,"Increase your Life Points by 300 points for each monster on the field, regardless of position.",0,0,1,1
+1515,Soul of Purity and Light,6,Light,Fairy,2000,1800,275927671,"This card can only be Special Summoned by removing 2 LIGHT monsters in your Graveyard from play. As long as this card remains face-up on the field, decrease the ATK of all monsters on your opponent's side of the field by 300 points during his/her Battle Phase.",0,0,1,1
+1098,Enchanted Javelin,,,,,,2253993366,"When your opponent's monster attacks, increase your Life Points by the attacking monster's ATK points.",0,0,1,1
+43,Rogue Doll,4,Light,Spellcaster,1600,1000,144085905,"A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",0,0,0,0
+357,Seiyaryu,7,Light,Dragon,2500,2300,4294967295,A mystical dragon that burns away the unworthy with its mystic flames.,0,1,0,1
+182,Lucky Trinket,2,Light,Spellcaster,600,800,290494467,"This creature may look slim and weak, but it's protected by a mystical force.",0,0,0,0
+1506,Boneheimer,3,Water,Aqua,850,400,392250776,"This monster wanders the seas, sucking dry any creatures it may encounter.",0,0,1,1
+1158,Nobleman of Extermination,,,,,,143737879,"Destroy 1 face-down Spell or Trap Card and remove it from play. If the card is a Trap Card, both players must remove all Trap Cards of the same name from their respective Decks and remove them from play. The Decks are then shuffled.",0,1,1,1
+1147,Backup Soldier,,,,,,2483103798,You can activate this card when there are 5 or more Monster Cards in your Graveyard. Take up to 3 Monster Cards (except monsters with effects) with an ATK of 1500 points or less from your Graveyard and add them to your hand.,0,0,1,1
+327,Power of Kaishin,,,,,,1165230711,An Aqua-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+557,Pot the Trick,2,Earth,Rock,400,400,1634817621,"A not-so-powerful servant, he is a errand boy of a master sorcerer.",0,0,0,0
+547,Bone Mouse,1,Dark,Zombie,400,300,2157060897,A mouse that has returned as a zombie to seek revenge on cats.,0,0,0,0
+1435,Lady Assailant of Flames,4,Fire,Pyro,1500,1000,1433867408,FLIP: Remove 3 cards from the top of your Deck from play to inflict 800 points of Direct Damage to your opponent's Life Points.,0,0,1,1
+132,Charubin the Fire Knight,3,Fire,Pyro,1100,800,2031436343,"""Monster Egg"" + ""Hinotama Soul""",1,0,0,1
+1169,Darkfire Soldier #2,4,Fire,Pyro,1700,1100,873563768,A warrior who gained immeasurable power from the heart of a volcano.,0,0,1,1
+14,Flame Swordsman,5,Fire,Warrior,1800,1600,1997611845,"""Flame Manipulator"" + ""Masaki the Legendary Swordsman""",0,0,1,1
+2014,Flame Swordsman,5,Fire,Warrior,1800,1600,807424064,"""Flame Manipulator"" + ""Masaki the Legendary Swordsman""",0,0,0,0
+1516,Spirit of Flames,4,Fire,Pyro,1700,1000,623071763,This card can only be Special Summoned by removing 1 FIRE monster in your Graveyard from play. Increase the ATK of this monster by 300 points during your Battle Phase.,0,0,1,1
+290,Fireyarou,4,Fire,Pyro,1300,1000,2255765617,A malevolent creature wrapped in flames that attacks enemies with intense fire.,1,0,0,1
+141,Flame Manipulator,3,Fire,Spellcaster,900,1000,1359496756,"This Spellcaster attacks enemies with fire-related spells such as ""Sea of Flames"" and ""Wall of Fire"".",1,0,0,1
+592,Giant Turtle Who Feeds on Flames,5,Water,Aqua,1400,1800,1662359702,A crimson-shelled tortoise that feeds on flames.,0,1,0,1
+1539,Spiritualism,,,,,,1415874069,Return 1 Spell or Trap Card on your opponent's side of the field to his/her hand. This card's activation and effect cannot be negated by any other card.,0,0,1,1
+459,Bolt Escargot,5,Water,Thunder,1400,1500,610276370,"After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.",0,0,0,0
+460,Bolt Penguin,3,Water,Thunder,1100,800,857166664,"With both arms forming an electric whip, this monster paralyzes its enemies with electric shocks.",0,0,0,0
+282,Holograh,3,Earth,Machine,1100,700,144278800,This machine generates illusions that leave an enemy wide open to attacks.,0,0,0,0
+113,White Magical Hat,3,Light,Spellcaster,1000,700,1694700821,"When this card inflicts damage to your opponent's Life Points, 1 card must be discarded randomly from your opponent's hand to the Graveyard.",0,1,0,1
+435,White Dolphin,2,Water,Fish,500,400,1503019154,A white dolphin with a horn that summons huge tidal waves.,0,0,0,0
+1019,White Hole,,,,,,1148667971,"When your opponent plays ""Dark Hole"", the monsters on your side of the field are not destroyed.",0,1,0,1
+116,Spirit of the Books,4,Wind,Winged Beast,1400,1200,393675540,"This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",0,1,0,1
+1251,,4,Earth,Warrior,1400,1200,1098319698,,0,0,0,0
+94,Crass Clown,4,Dark,Fiend,1350,1400,1435994259,"When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.",0,1,0,1
+97,Clown Zombie,2,Dark,Zombie,1350,0,343041682,"A clown revived by the powers of darkness, its deadly dance has sent many monsters to their grave.",0,0,0,0
+28,Mountain Warrior,3,Earth,Beast-Warrior,600,1000,1645581060,A tough warrior that can move smoothly on even the roughest terrain.,0,0,0,0
+503,Fungi of the Musk,1,Dark,Fiend,400,300,33981267,Melts away anything that dares to stand before it.,0,0,0,0
+566,Darkworld Thorns,3,Earth,Plant,1200,900,2214875203,A thorny plant found in the darklands that wraps itself around any unwary traveler.,1,0,0,1
+296,Cyber Soldier of Darkworld,4,Dark,Machine,1400,1200,1452496245,A mechanical soldier that won't stop attacking until all life readings have been extinguished from its sensors.,0,1,0,1
+1248,Makiu,,,,,,1920107047,"Select either ""Summoned Skull"" or any Thunder-Type monster. All opponent's monsters with DEF lower than the ATK of the selected card are destroyed. You must skip your Battle Phase during the turn this card is activated.",0,0,1,1
+203,Mabarrel,5,Dark,Fiend,1700,1400,878279064,This cannon-like creature fires eyeballs so fast they can't be seen.,0,0,0,0
+309,Vile Germs,,,,,,2235987769,A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+488,Barrel Lily,3,Earth,Plant,1100,600,353731687,This wicked flower attacks enemies with pollen projectiles.,0,0,0,0
+159,M-Warrior #1,3,Earth,Warrior,1000,500,1361261654,"Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",1,0,0,1
+160,M-Warrior #2,3,Earth,Warrior,500,1000,1427403666,"Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",1,0,0,1
+737,Alpha The Magnet Warrior,4,Earth,Rock,1400,1700,895056025,"Alpha, Beta, and Gamma meld as one to form a powerful monster.",0,0,1,1
+800,Gamma The Magnet Warrior,4,Earth,Rock,1500,1800,1469273105,"Alpha, Beta, and Gamma meld as one to form a powerful monster.",0,0,1,1
+756,Beta The Magnet Warrior,4,Earth,Rock,1700,1600,2036737337,"Alpha, Beta, and Gamma meld as one to form a powerful monster.",0,0,1,1
+243,Dissolverock,3,Earth,Rock,900,1000,2506392128,"A monster born in the lava pits, it generates intense heat that can melt away its enemies.",1,0,0,1
+469,Magical Ghost,4,Dark,Zombie,1300,1400,357123910,This creature casts a spell of terror and confusion just before attacking its enemies.,1,0,0,1
+945,Magical Hats,,,,,,537141633,"You can activate this card during your opponent's Battle Phase. Take 2 non-Monster Cards from your Deck and select 1 of your Monster Cards on the field, then shuffle your Deck. Shuffle the 3 selected cards and Set them on the field in face-down Defense Position. The 2 cards selected from your Deck are treated as monsters (ATK 0/DEF 0) and are destroyed at the end of the Battle Phase.",0,0,1,1
+721,Magician of Black Chaos,8,Dark,Spellcaster,2805,40,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Dark Magic Ritual"". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",0,0,1,1
+990,Magic-Arm Shield,,,,,,327614614,You can activate this card when your opponent announces an attack. Select 1 of your opponent's face-up Monster Cards on the field and designate it as the target of the attack.,0,0,1,1
+1029,Magic Jammer,,,,,,575095159,Discard 1 card from your hand to the Graveyard to negate the activation of a Spell Card and destroy it.,0,1,1,1
+1214,Magic Cylinder,,,,,,1435510626,Negate the attack of 1 of your opponent's monsters and inflict Direct Damage equal to the attacking monster's ATK to your opponent's Life Points.,0,0,1,1
+1321,Magic Drain,,,,,,2000696409,"You can activate this card when your opponent activates a Spell Card. If your opponent cannot immediately discard 1 Spell Card from his/her hand, negate the activation of the Spell Card and destroy it.",0,0,1,1
+1243,Ancient Lamp,3,Wind,Spellcaster,900,1400,1999212884,"When this monster is attacked in face-down Defense Position, you can designate 1 opponent's monster as the attack's target instead. When this card is on the field, you can Special Summon ""La Jinn the Mystical Genie of the Lamp"" from your hand.",0,1,0,1
+318,Mystical Moon,,,,,,2021220406,A Beast-Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1036,Last Day of Witch,,,,,,1392784272,Destroys all face-up Spellcaster-Type monsters on the field.,0,0,0,0
+647,Machine Attacker,5,Earth,Machine,1600,1300,912331064,"This machine, created to lead charges into enemy territory, mows down enemies by rushing.",0,0,0,0
+231,Madjinn Gunn,2,Dark,Fiend,600,800,1364693059,A living weapon that spits projectiles.,0,0,0,0
+135,Witty Phantom,4,Dark,Fiend,1400,1300,558444598,"Dressed in a night-black tuxedo, this creature presides over the darkness.",1,0,0,1
+193,Terra the Terrible,4,Dark,Fiend,1200,1300,1199583331,"Known as a swamp dweller, this creature is a minion of the dark forces.",1,0,0,1
+247,Master & Expert,4,Earth,Beast,1200,1000,43338101,A deadly duo consisting of a beast master and its loyal servant.,0,0,0,0
+293,Dragoness the Wicked Knight,3,Wind,Warrior,1200,900,2484693104,"""Armaill"" + ""One-Eyed Shield Dragon""",1,0,0,1
+552,Mushroom Man #2,3,Earth,Warrior,1250,800,100962451,A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field.  Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.,0,1,0,1
+1157,Nobleman of Crossout,,,,,,2571371633,"Destroy 1 face-down Monster Card and remove it from play. If the monster destroyed has a Flip Effect, both players must remove all Monster Cards of the same name from their respective Decks and remove them from play. The Decks are then shuffled.",0,1,1,1
+174,Ancient Brain,3,Dark,Fiend,1000,700,1125663554,A fallen fairy that is powerful in the dark.,0,0,1,1
+1350,The Fiend Megacyber,6,Dark,Warrior,2200,1200,1697199718,"If your opponent has 2 or more monsters than you have on the field, you can summon this card without offering any Tributes.",0,1,0,1
+388,Giltia the D. Knight,5,Light,Warrior,1850,1500,696681041,"""Guardian of the Labyrinth"" + ""Protector of the Throne""",0,1,0,1
+1450,Mage Power,,,,,,140997763,"For every Spell and Trap Card on your side of the field, increase the ATK and DEF of the equipped monster by 500 points.",0,0,1,1
+297,Wicked Dragon with the Ersatz Head,3,Wind,Dragon,900,900,1433441538,A two-headed dragon with a pair of jaws that can tear an enemy to shreds.,0,0,0,0
+492,Maha Vailo,4,Light,Spellcaster,1550,1400,1983250835,"In addition to the effects of Equip Cards, the ATK of this monster is increased by 500 points for each card equipped to this monster.",0,1,0,1
+1180,Anti-Spell Fragrance,,,,,,1091605080,"As long as this card remains face-up on the field, both players must first Set Spell Cards when they use them and cannot activate them until their next turn.",0,1,1,1
+271,Mavelus,4,Wind,Winged Beast,1300,900,1919484761,"""Tyhone"" + ""Wings of Wicked Flame""",0,0,0,0
+1050,Neo the Magic Swordsman,4,Light,Spellcaster,1700,1000,2433323856,"A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",1,0,0,1
+1009,De-Spell,,,,,,328471833,"Destroys 1 Spell Card on the field. If this card's target is face-down, flip it face-up. If the card is a Spell Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not activated.",1,0,0,1
+1138,Mystic Probe,,,,,,286795081,You can activate this card when a Continuous Spell Card is activated. Negate all Continuous Spell Cards during the turn this card is activated.,0,0,1,1
+386,Mystic Lamp,1,Dark,Spellcaster,400,300,362349720,This monster may attack your opponent's Life Points directly.,0,0,1,1
+65,Kojikocy,4,Earth,Warrior,1500,1200,541464577,A man-hunter with powerful arms that can crush boulders.,0,1,0,1
+1525,Maryokutai,3,Water,Aqua,900,900,2456110705,"The effect of this card can only be applied during your opponent's turn. When your opponent activates a Spell Card, offer this face-up card as a Tribute to negate the activation of the Spell Card and destroy it.",0,0,1,1
+1078,Chain Energy,,,,,,2419405433,"As long as this card remains face-up on the field, both you and your opponent must pay 500 Life Points per card to play or Set cards from your respective hands.",0,1,0,1
+1038,Magic Thorn,,,,,,1737625939,"You can inflict 500 points of damage per card to your opponent's Life Points when your opponent's cards are discarded to the Graveyard by the effects of Spell, Trap or Effect Monster Cards.",0,0,1,1
+1417,Mask of Dispel,,,,,,1381594656,"Select 1 face-up Spell Card on the field. The controller of the Spell Card must take damage of 500 Life Points during each of his/her Standby Phases. When the selected card is destroyed or removed from the field, this card is also destroyed.",0,0,1,1
+616,Marine Beast,5,Water,Fish,1700,1600,848859689,"""Water Magician"" + ""Behegon""",0,0,0,0
+157,Man Eater,2,Earth,Plant,800,600,1127830931,Man-eating plant with poison feelers for attacking enemies.,1,0,0,1
+317,Elegant Egotist,,,,,,1670521232,"When there are 1 or more ""Harpie Lady"" cards on the field, you can Special Summon 1 ""Harpie Lady"" or ""Harpie Lady Sisters"" card from your hand or your Deck.",0,1,0,1
+58,Mammoth Graveyard,3,Earth,Dinosaur,1200,800,592000832,A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.,1,0,0,1
+1431,The Unfriendly Amazon,4,Earth,Warrior,2000,1000,2488420197,"Offer 1 of your monsters on the field as a Tribute (excluding this monster) during each of your Standby Phases. If you cannot, this card is destroyed. Monsters used for a Tribute Summon or that are offered as Tributes due to other cards' effects are excluded.",0,0,1,1
+967,Shield & Sword,,,,,,2037778770,"For 1 turn, each face-up monster's original ATK becomes their original DEF and vice-versa. Any additions and subtractions to ATK and /or DEF due to card effects are applied to the new ATK and DEF. Monsters summoned after this card's activation are excluded.",0,0,1,1
+253,Embryonic Beast,2,Dark,Fiend,500,750,2000885092,An imperfect monster with a belly vortex that sucks in opponents of any size.,0,0,0,0
+1014,The Inexperienced Spy,,,,,,2298905217,Select and see 1 card in your opponent's hand.,0,0,0,0
+1168,Mr. Volcano,5,Fire,Pyro,2100,1300,628115249,This seemingly mild-mannered creature has an extremely volatile temper.,0,0,1,1
+416,Blast Juggler,3,Fire,Machine,800,900,1434719088,Offer this card as a Tribute during your Standby Phase if face-up to destroy 2 face-up monsters with an ATK of 1000 or less.,0,1,0,1
+248,Water Omotics,4,Water,Aqua,1400,1200,288770050,Transforms the water overflowing from a jar into attacking dragons.,0,1,0,1
+1517,Aqua Spirit,4,Water,Aqua,1600,1200,593531200,"This card can only be Special Summoned by removing 1 WATER monster in your Graveyard from play. As long as this monster remains face-up on the field, during each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.",0,0,1,1
+429,Water Magician,4,Water,Aqua,1400,1000,2486711443,This monster swamps an opponent with an almost endless supply of water.,0,1,0,1
+623,High Tide Gyojin,4,Water,Aqua,1650,1300,26761044,A very agile half-fish warrior known for its relentless attacks.,0,1,0,1
+1301,Michizure,,,,,,1443321911,You can activate this card when your monster is sent from the field to the Graveyard. Destroy 1 monster on the field.,0,0,1,1
+745,Three-Headed Geedo,4,Dark,Fiend,1200,1400,1127629432,A three-headed nocturnal monster that is absolutely ruthless when fighting.,0,1,1,1
+221,Midnight Fiend,2,Dark,Fiend,800,600,864315267,This monster only appears when a midnight tribute is made.,0,0,0,0
+570,B. Dragon Jungle King,6,Earth,Dragon,2100,1800,19497865,A jet-black dragon found in the deepest jungles who normally devours trees.,0,0,0,0
+627,Witch's Apprentice,2,Dark,Spellcaster,550,500,672691328,"As long as this card remains face-up on the field, increase the ATK of all DARK monsters by 500 points and decrease the ATK of all LIGHT monsters by 400 points.",0,1,0,1
+91,Rabid Horseman,6,Earth,Beast-Warrior,2000,1700,4294967295,"""Battle Ox"" + ""Mystic Horseman""",0,1,0,1
+25,Battle Ox,4,Earth,Beast-Warrior,1700,1000,53544197,"A monster with tremendous power, it destroys enemies with a swing of its axe.",0,1,0,1
+494,Musician King,5,Light,Spellcaster,1750,1500,2306052182,"""Witch of the Black Forest"" + ""Lady of Faith""",0,1,0,1
+591,Muse-A,3,Light,Fairy,850,900,1747491177,A fairy of the arts that is unbeatable on the harp.,0,0,0,0
+185,Fiend Reflection #2,4,Light,Winged Beast,1100,1400,959743490,A bird-beast that summons reinforcements with a hand mirror.,1,0,0,1
+526,Milus Radiant,1,Earth,Beast,300,250,596854791,"As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.",0,1,0,1
+144,The Bewitching Phantom Thief,2,Dark,Spellcaster,700,700,75641892,An elegant thief with a black cloak that charms its enemies.,0,0,0,0
+515,Muka Muka,2,Earth,Rock,600,300,930309446,Increase the ATK and DEF of this card by 300 points for every card in your hand.,0,1,1,1
+1427,Infinite Cards,,,,,,2000033428,"As long as this card remains face-up on the field, there is no limit to the number of cards in both players' hands.",0,0,1,1
+1536,Blind Destruction,,,,,,374407474,"During your Standby Phase, roll 1 six-sided die once. Destroy any monsters whose Level Stars are equal to the number rolled. If the number is ""6"", destroy all face-up Level 6 or higher monsters on the field.",0,0,1,1
+1352,Insect Barrier,,,,,,156524835,Your opponent's Insect-Type monsters cannot attack as long as this card remains face-up on the field.,0,0,1,1
+1502,The Gross Ghost of Fled Dreams,4,Dark,Fiend,1300,1800,1905525864,"This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",0,0,1,1
+321,Violet Crystal,,,,,,1646527765,A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+235,Guardian of the Labyrinth,4,Earth,Warrior,1000,1200,2015897481,A monster that guards the entrance to the Netherworld.,0,1,0,1
+369,Labyrinth Tank,7,Dark,Machine,2400,2400,622089625,"""Giga-Tech Wolf"" + ""Cannon Soldier""",0,1,0,1
+365,Labyrinth Wall,5,Earth,Rock,5,440,4294967295,These walls form a labyrinth with no exit for enemies.,0,1,0,1
+651,Magical Labyrinth,,,,,,2542942308,"Equip ""Labyrinth Wall"" with this card. If you offer ""Labyrinth Wall"" equipped with this card as a Tribute, you can Special Summon ""Wall Shadow"" from your Deck.",0,0,1,1
+78,Megazowler,6,Earth,Dinosaur,1800,2000,67123573,Nothing stands in the way of this spike-covered dinosaur.,0,0,0,0
+507,Cyber Saurus,5,Earth,Machine,1800,1400,690426249,"""Blast Juggler"" + ""Two-Headed King Rex""",0,1,0,1
+536,Mega Thunderball,2,Wind,Thunder,750,600,1416790305,Rolls along the ground releasing bolts of electricity to attack its enemies.,0,0,1,1
+354,Megasonic Eye,5,Dark,Machine,1500,1800,1914918407,"Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.",0,1,0,1
+584,Mechanical Snail,3,Dark,Machine,800,1000,1227441204,A cyborg snail that still travels at a slow pace.,0,1,0,1
+414,Mechanicalchaser,4,Dark,Machine,1850,800,1100428551,A hunter that relentlessly pursues its target by order of the Machine King.,0,1,0,1
+1171,Cyber Falcon,4,Wind,Machine,1400,1200,928343344,A jet-powered hawk that travels at the speed of sound.,0,0,1,1
+535,Mechaleon,2,Water,Reptile,800,600,1160069524,This monster can hide just about anywhere by adopting the colors of its surroundings.,0,0,0,0
+270,Megirus Light,3,Dark,Fiend,900,600,1931608867,The fatal beams from the eyes of this monster result in grim destruction.,0,0,0,0
+1315,Rain of Mercy,,,,,,613642598,Increases the Life Points of both players by 1000 points.,0,0,1,1
+1322,Infinite Dismissal,,,,,,865210452,All monsters of Level 3 or lower that are summoned to the field during this turn (excluding Special Summon) are destroyed at the End Phase of the turn.,0,0,1,1
+1413,Nuvia the Wicked,4,Dark,Fiend,2000,800,640849170,"If this monster is Summoned by a Normal Summon, it is destroyed. The ATK of this card is decreased by 200 points for each monster on your opponent's side of the field.",0,0,1,1
+590,Morphing Jar,2,Earth,Rock,700,600,428298291,FLIP: Both you and your opponent discard all cards in your hands and draw 5 cards from your respective Decks.,0,1,0,1
+87,Metal Guardian,5,Dark,Fiend,1150,2150,2257728360,"A fiend guarding the treasures of the netherworld, it's most at home in the dark.",0,0,0,0
+657,Metalmorph,,,,,,1476416616,"After activation, this card is used to equip a face-up monster. The monster equipped with this card increases its ATK and DEF by 300 points. When attacking with a monster equipped with this card, you can further increase its ATK by an amount equal to half the ATK of your target.",0,1,1,1
+391,Metalzoa,8,Dark,Machine,3000,2300,1901097040,"This monster can only be Special Summoned from your Deck to your side of the field by offering ""Zoa"" equipped with ""Metalmorph"" as a Tribute.",0,1,0,1
+408,Metal Dragon,6,Wind,Machine,1850,1700,2000234761,"""Steel Ogre Grotto #1"" + ""Lesser Dragon""",1,0,0,1
+437,Metal Fish,5,Water,Machine,1600,1900,1652857173,A metal fish with a razor-sharp caudal fin.,0,1,0,1
+1313,Fairy Meteor Crush,,,,,,309946519,"When your monster equipped with this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",0,0,1,1
+711,Meteor Dragon,6,Earth,Dragon,1800,2000,4294967295,This dragon appeared from the heavens and crashed to earth.,0,0,0,0
+712,Meteor B. Dragon,8,Fire,Dragon,3500,2000,4294967295,"""Red-Eyes B. Dragon"" + ""Meteor Dragon""",0,0,0,0
+35,The Snake Hair,4,Dark,Zombie,1500,1200,823150889,A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.,0,0,0,0
+1412,Melchid the Four-Face Beast,4,Dark,Fiend,1500,1200,563172998,This monster has four different masks for four different attacks.,0,0,1,1
+307,Beast Fangs,,,,,,110690374,A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1341,Mad Sword Beast,4,Earth,Dinosaur,1400,1200,1090619257,"When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",0,0,1,1
+1135,Driving Snow,,,,,,1765033728,You can activate this card when 1 or more of your Trap Cards are destroyed and sent from the field to the Graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap Card on the field.,0,0,1,1
+337,Mooyan Curry,,,,,,1917126488,Increase your Life Points by 200 points.,0,0,0,0
+1311,Burning Land,,,,,,138488100,"Destroys all Field Spell Cards on the field. In addition, both players take 500 points of Direct Damage during each of their respective Standby Phases.",0,0,1,1
+117,Supporter in the Shadows,3,Earth,Warrior,1000,1000,639910465,A cute little elf that hides in the shadows and provides spiritual support.,0,0,0,0
+1246,Copycat,1,Light,Spellcaster,0,0,2422421286,When this card is Summoned (including Special Summon) it adopts the original ATK and DEF of 1 opponent's monster.,0,0,1,1
+329,Forest,,,,,,2550743943,"Increases the ATK and DEF of all Insect, Beast, Plant, and Beast-Warrior-Type monsters by 200 points.",1,0,1,1
+227,Wood Remains,3,Dark,Zombie,1000,900,2486399767,A living corpse of wood re-animated by the powers of darkness.,0,0,0,0
+234,Wodan the Resident of the Forest,3,Earth,Warrior,900,1200,1932691522,Increase this card's ATK by 100 points for every Plant-Type monster that is face-up on the field.,0,1,0,1
+497,Morinphen,5,Dark,Fiend,1550,1300,843610197,A strange fiend with long arms and razor-sharp talons.,0,0,1,1
+401,Monster Eye,1,Dark,Fiend,250,350,137368452,"At the cost of 1000 Life Points, you can return ""Polymerization"" from the Graveyard to your hand.",0,0,0,0
+146,Monster Egg,3,Earth,Warrior,600,900,387519030,A warrior hidden within an egg that attacks enemies by flinging eggshells.,1,0,0,1
+1316,Monster Recovery,,,,,,864293011,"Select 1 of your own monsters on your side of the field and combine it with your Deck. At the same time, combine your hand and Deck together and shuffle the Deck. Draw the same number of cards that were in your hand from the shuffled Deck.",0,1,0,1
+375,Monster Tamer,5,Earth,Warrior,1800,1600,2300797335,A master of monsters that exercises control over several creatures.,0,0,0,0
+176,Monsturtle,3,Water,Aqua,800,1000,1191281173,"Protected by a spiked shell, this turtle has a very nasty disposition.",0,0,0,0
+1424,Fairy Box,,,,,,1216960801,"Each time a monster on your opponent's side of the field attacks, toss a coin and call Heads or Tails. If you call it right, the attacking monster's ATK becomes 0 only during the Battle Phase. Pay 500 Life Points during each of your Standby Phases. If you cannot, this card is destroyed.",0,0,1,1
+586,Mon Larvas,4,Earth,Beast,1300,1400,2455183879,"A further step in the evolutionary chain, it is much more powerful than Larvas.",0,0,0,0
+237,Yashinoki,2,Earth,Plant,800,600,622200385,An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.,0,0,0,0
+496,Yado Karu,4,Water,Aqua,900,1700,855717929,"When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.",0,1,0,1
+562,Wretched Ghost of the Attic,2,Dark,Fiend,550,400,864232215,A harmless monster found in just about any attic.,0,0,0,0
+331,Mountain,,,,,,20353360,"Increases the ATK and DEF of all Dragon, Winged Beast, and Thunder-Type monsters by 200 points.",1,0,1,1
+121,Yamatano Dragon Scroll,2,Wind,Dragon,900,300,1128886390,A dragon conjured from the very scroll in which it was depicted.,0,0,0,0
+356,Yamadron,5,Fire,Dragon,1600,1800,2237084784,This monster has three fire-breathing heads and can form a sea of blazing flames.,0,1,0,1
+524,Spirit of the Mountain,5,Earth,Spellcaster,1300,1800,419785012,Those who hear the whistle of this creature suffer a heavy power loss.,0,0,0,0
+334,Yami,,,,,,1769019737,Increases the ATK and DEF of all Fiend and Spellcaster-Type monsters by 200 points. Also decreases the ATK and DEF of all Fairy-Type monsters by 200 points.,1,0,1,1
+302,Dark Energy,,,,,,373383428,A Fiend-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+1026,Call of the Dark,,,,,,326329208,"All monsters restored with ""Monster Reborn"" are sent to the Graveyard. ""Monster Reborn"" also cannot be played as long as this card remains on the field.",0,0,0,0
+82,Castle of Dark Illusions,4,Dark,Fiend,920,1930,555812352,"FLIP: Increases the ATK and DEF of all Zombie-Type monsters by 200 points. As long as this card remains face-up on the field, the ATK and DEF of Zombie-Type monsters continues to increase by 200 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.",0,1,0,1
+33,Saggi the Dark Clown,3,Dark,Spellcaster,600,1500,2267504742,This clown appears from nowhere and executes very strange moves to avoid enemy attacks.,0,1,0,1
+267,Sectarian of Secrets,2,Dark,Spellcaster,700,500,2154844181,"A spellcaster that worships the dark, it is served by a sinister hand that drags enemies into oblivion.",0,0,0,0
+240,Dark Assailant,4,Dark,Zombie,1200,1200,865113153,"Armed with the Psycho Sword, this sinister assassin rules the bad land.",0,0,0,0
+1072,Darkness Approaches,,,,,,545724032,"Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.",0,1,0,1
+101,Mask of Darkness,2,Dark,Fiend,900,400,876057384,FLIP: Select 1 Trap Card from your Graveyard and return it to your hand.,0,1,0,1
+1244,Shadow Spell,,,,,,2221942313,"Select 1 of your opponent's face-up monsters. The ATK of the selected monster is decreased by 700 points and its battle position cannot be changed. When the monster is destroyed, this card is also destroyed.",0,0,0,0
+301,Sword of Dark Destruction,,,,,,302322231,A DARK monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.,1,0,0,1
+84,King of Yamimakai,5,Dark,Fiend,2000,1530,878200169,Wields the power of darkness to destroy its enemies.,0,1,0,1
+349,Dark-Piercing Light,,,,,,106072389,Flip all of your opponent's face-down Monster Cards on the field face-up.  The effect of the monsters will activate at this time.,0,1,0,1
+147,The Shadow Who Controls the Dark,3,Dark,Fiend,800,700,374739555,"A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",0,0,0,0
+350,Yaranzo,4,Dark,Zombie,1300,1500,285747313,A treasure box containing a monster that attacks any unwary bandit.,0,1,0,1
+1054,Last Will,,,,,,404775045,"If a monster of yours is sent from the field to the Graveyard during the turn that you've played this card, you can select a monster with an ATK of 1500 points or less from your Deck and play it as a Special Summon. Shuffle the Deck after playing the card. This card is active for 1 turn only.",0,0,1,1
+1258,,,,,,,2181062946,,0,0,0,0
+615,Hourglass of Courage,4,Light,Fairy,1100,1200,2197967683,"For 3 turns (including your opponent's) following the Summon of this card (including Flip Summon), the ATK and DEF of this monster is halved. After that, both ATK and DEF are doubled for the remainder of the Duel.",0,0,0,0
+1003,Polymerization,,,,,,1397098788,Fuses 2 or more Fusion-Material Monsters to form a new Fusion Monster.,1,1,1,1
+1034,Polymerization,,,,,,7832615,Fuses 2 or more Fusion-Material Monsters to form a new Fusion Monster.,0,0,0,0
+1546,De-Fusion,,,,,,1700866197,"Return 1 Fusion Monster Card on the field to the Fusion Deck. In addition, if all the Fusion-Material monsters for the returned Fusion Monster Card are in your Graveyard, you can Special Summon them all to the field in face-up Attack or Defense Position.",0,0,1,1
+1040,Fusion Sage,,,,,,1613074470,"Take 1 ""Polymerization"" from your Deck and add it your hand. The Deck is then shuffled.",0,0,1,1
+1110,UFO Turtle,4,Fire,Machine,1400,1200,929333344,"When this card is sent to the Graveyard as a result of battle, you may select 1 FIRE monster with an ATK of 1500 or less from your Deck and Special Summon it to the field in face-up Attack Position (no Tribute is required for monsters of Level 5 or more). The Deck is then shuffled.",0,1,1,1
+1241,Chimera the Flying Mythical Beast,6,Wind,Beast,2100,1800,6387972,"""Gazelle the King of Mythical Beasts"" + ""Berfomet"".   When this card is destroyed, you can Special Summon either ""Gazelle the King of Mythical Beasts"" or ""Berfomet"" from your Graveyard, and place it on the field face-up in either Attack or Defense position.",0,0,1,1
+1325,Shadow of Eyes,,,,,,2299880024,"When your opponent Sets a Monster Card in face-down Defense Position, change it to face-up Attack Position. If the Monster Card has a Flip Effect, it is not activated.",0,0,1,1
+724,Red Archery Girl,4,Water,Aqua,1400,1500,2516932453,"A mermaid archer that hides in a protective shell, waiting for the right moment to strike.",0,0,1,1
+1025,The Cheerful Coffin,,,,,,354817089,You can discard up to 3 Monster Cards from your hand to the Graveyard.,0,1,0,1
+717,Fortress Whale,7,Water,Fish,2350,2150,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Fortress Whale's Oath"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+699,Fortress Whale's Oath,,,,,,4294967295,"This card is used to Ritual Summon ""Fortress Whale"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+1252,Fairy King Truesdale,6,Water,Plant,2200,1500,1364214341,"As long as this card remains face-up on the field, increase the ATK and DEF of all Plant-Type monsters on your side of the field by 500 points.",0,0,0,0
+362,Fairy's Gift,4,Light,Spellcaster,1400,1000,1175797864,This flying monster is known for delivering happiness to all.,0,0,1,1
+565,Yormungarde,3,Earth,Reptile,1200,900,1163333911,An extremely long snake that dwells in the world of myth.,0,0,0,0
+628,Armored Rat,3,Earth,Beast,950,1100,660939798,The fur on this monster rat is tough enough to repel swords.,0,0,0,0
+92,Zanki,5,Earth,Warrior,1500,1700,1375996208,His swiftly drawn blade delivers quick and fatal damage.,0,0,0,0
+95,Armored Zombie,3,Dark,Zombie,1500,0,1618487072,This warrior blindly swings a deadly blade with devastating force.,0,1,0,1
+397,Ooguchi,1,Water,Aqua,300,250,1092191832,This monster may attack your opponent's Life Points directly.,0,1,0,1
+154,Larvas,3,Earth,Beast,800,1000,894789524,"A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",1,0,0,1
+55,Larvae Moth,2,Earth,Insect,500,400,4294967295,"This monster can only be Special Summoned by offering ""Petit Moth"" as a Tribute on the 2nd of your turns after ""Petit Moth"" has been equipped with ""Cocoon of Evolution"".",0,1,0,1
+672,War-Lion Ritual,,,,,,4294967295,"This card is used to Ritual Summon ""Super War-Lion"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,0,0,0
+457,Kaminari Attack,5,Wind,Thunder,1900,1400,1899128073,"""Ocubeam"" + ""Mega Thunderball""",0,0,1,1
+370,Sanga of the Thunder,7,Light,Thunder,2600,2200,4294967295,Reduce the ATK of an opponent's monster attacking this card to 0. This effect can be used only once. The card's owner chooses when to activate this effect.,0,1,0,1
+1007,Raimei,,,,,,268510806,Decrease your opponent's Life Points by 300 points.,0,0,1,1
+127,LaMoon,5,Light,Spellcaster,1200,1700,50890101,A sorcerer that draws its powers from the lunar landscape.,0,0,0,0
+190,LaLa Li-oon,2,Wind,Thunder,600,600,2265137929,"An electric cloud creature, its acid rain makes it very dangerous.",0,0,0,0
+1401,Swordsman of Landstar,3,Earth,Warrior,500,1200,305485571,"An amateur with a sword, this fairy warrior relies on its mysterious powers.",0,0,1,1
+148,Lord of the Lamp,4,Dark,Fiend,1400,1200,1627869593,A giant that appears from a mystic lamp and follows the orders of the lamp's owner.,0,0,0,0
+378,La Jinn the Mystical Genie of the Lamp,4,Dark,Fiend,1800,1000,1191664023,A genie of the lamp that's at the beck and call of its master.,0,1,0,1
+604,Liquid Beast,3,Water,Aqua,950,800,2541883539,A liquid life form that thrives on water.,0,0,1,1
+274,Ground Attacker Bugroth,4,Earth,Machine,1500,1000,2487431512,A surface battle robot that was once used for sea warfare.,0,0,1,1
+1256,Rigras Leever,3,Fire,Plant,1600,100,1611208761,FLIP: Each player selects a card from the other's hand and discards it. Any monster destroying this card during battle loses 500 points from its ATK and DEF.,0,0,1,1
+597,Little Chimera,2,Fire,Beast,600,550,679961960,"As long as this card remains face-up on the field, increase the ATK of all FIRE monsters by 500 points and decrease the ATK of all WATER monsters by 400 points.",0,1,0,1
+72,Kairyu-Shin,,,,,,1229022070,"A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",0,0,0,0
+1405,Revival Jam,4,Water,Aqua,1500,500,647524401,"When this card is sent to the Graveyard as a result of battle, you can Special Summon this card in face-up Defense Position at your next Standby Phase by paying 1000 Life Points. This must be declared when the monster is destroyed. You cannot change its position during the same turn it is Special Summoned in this way.",0,0,1,1
+1095,Call Of The Haunted,,,,,,1668614039,"Select 1 monster from your Graveyard and Special Summon it in face-up Attack Position. When this card is destroyed or removed from the field, the summoned monster is destroyed. If the summoned monster is destroyed, this card is also destroyed.",0,0,1,1
+742,Barrel Dragon,7,Dark,Machine,2600,2200,1610893441,"Toss a coin 3 times. If 2 out of 3 results are Heads, destroy 1 monster on your opponent's side of the field. This card's effect can only be used during your own turn, once per turn.",0,1,0,1
+1314,Limiter Removal,,,,,,269883171,"Doubles the ATK of all Machine-Type monsters that are on your side of the field when this card is activated. At the end of this turn, all the monsters affected by this effect are destroyed.",0,0,1,1
+36,Gaia the Dragon Champion,7,Wind,Dragon,2600,2100,965838950,"""Gaia The Fierce Knight"" + ""Curse of Dragon""",1,0,0,1
+1182,Sword of Dragon's Soul,,,,,,1431847009,"This card can only be used to equip by a Warrior-Type monster to increase its ATK by 700 points. Any Dragon-Type monster battling a monster equipped with this card is automatically destroyed at the end of a Battle Phase, regardless of ATK/DEF. (Damage calculations are applied normally).",0,0,1,1
+684,Acid Trap Hole,,,,,,1164457281,"Flip 1 face-down Defense Position monster face-up.  If the monster's DEF is 2000 points or less, the monster is destroyed.  If the DEF is more than 2000 points, return the monster to its face-down Defense Position.",0,1,0,1
+273,Green Phantom King,3,Earth,Plant,500,1600,2231800098,"This youthful king of the forests lives in a green world, abundant with trees and wildlife.",1,0,0,1
+26,Beaver Warrior,4,Earth,Beast-Warrior,1200,1500,405292338,What this creature lacks in size it makes up for in defense when battling in the prairie.,1,0,0,1
+246,Root Water,3,Water,Fish,900,800,138936377,An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.,1,0,0,1
+381,Rude Kaiser,5,Earth,Beast-Warrior,1800,1600,1350645542,"With an axe in each hand, this monster delivers heavy damage.",0,0,0,0
+229,Rare Fish,4,Water,Fish,1500,1200,123752832,"""Fusionist"" + ""Enchanting Mermaid""",0,0,0,0
+1551,Spirit Elimination,,,,,,1093108585,"When monsters in the Graveyard are removed from play, remove monsters on your side of the field from play as substitutes. This card remains active until the end of the turn that it is activated. The substitutes remain removed from play.",0,0,1,1
+1511,Kycoo the Ghost Destroyer,4,Dark,Spellcaster,1800,700,134751368,"Each time this card inflicts battle damage to your opponent's Life Points, you can remove up to 2 cards in your opponent's Graveyard from play. In addition, as long as this card remains face-up on the field, your opponent cannot remove any cards in either Graveyard from play.",0,0,1,1
+439,7 Colored Fish,4,Water,Fish,1800,800,370636579,A rare rainbow fish that has never been caught by mortal man.,0,1,0,1
+487,Rainbow Flower,2,Earth,Plant,400,500,276313121,This monster may attack your opponent's Life Points directly.,0,1,0,1
+493,Rainbow Marine Mermaid,5,Water,Fish,1550,1700,1898397737,An unusual mermaid that appears whenever a rainbow stretches across the sky.,0,0,0,0
+304,Laser Cannon Armor,,,,,,544800887,An Insect-Type monster equipped with this card increases its ATK and DEF by 300 points.,1,0,0,1
+577,Leo Wizard,5,Earth,Spellcaster,1350,1200,1881422084,A wizard with a black mantle who is actually a talking lion in disguise.,0,0,0,0
+402,Leogun,5,Earth,Beast,1750,1550,125850384,Huge monster with a lion's mane similar to the King of Beasts.,0,0,1,1
+396,Leghul,1,Earth,Insect,300,350,1109542674,This monster may attack your opponent's Life Points directly.,0,1,0,1
+560,Lesser Dragon,4,Wind,Dragon,1200,1000,692470869,A minor dragon incapable of breathing fire.,1,0,0,1
+81,Red-Eyes B. Dragon,7,Dark,Dragon,2400,2000,578054004,A ferocious dragon with a deadly attack.,0,1,1,1
+741,Red-Eyes Black Metal Dragon,8,Dark,Machine,2800,2400,72889188,"This card can only be Special Summoned from the Deck to the field by offering ""Red-Eyes B. Dragon"" equipped with ""Metalmorph"" as a Tribute.  Your Deck is then shuffled.",0,1,1,1
+189,Akakieisu,3,Dark,Spellcaster,1000,800,2253980472,A sorcerer who utters spells that can render monsters unconscious.,0,0,0,0
+554,Tyhone #2,6,Fire,Dragon,1700,1900,1503098966,A crimson dragon that spits fireballs to create a blazing sea of fire.,0,1,0,1
+338,Red Medicine,,,,,,2526419256,Increases your Life Points by 500 points.,1,0,0,1
+1430,Lady Panther,4,Earth,Beast-Warrior,1400,1300,2416265272,Offer this face-up card as a Tribute to return 1 of your monsters destroyed in battle during this turn to the top of your Deck.,0,0,1,1
+644,Royal Guard,6,Earth,Machine,1900,2200,680993593,A mechanized soldier created to protect royalty.,0,0,0,0
+703,Skull Guardian,7,Light,Warrior,2050,2500,4294967295,"This monster can only be Ritual Summoned with the Ritual Spell Card, ""Novox's Prayer"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,1,0,1
+740,Lord of D.,4,Dark,Spellcaster,1200,1100,1968543767,"All Dragon-Type monsters cannot be targeted by Spell Cards, Trap Cards, or other effects that specifically designate a target while this card is face-up on the field.",0,0,1,1
+678,Novox's Prayer,,,,,,4294967295,"This card is used to Ritual Summon ""Skull Guardian"". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",0,1,0,1
+348,Spellbinding Circle,,,,,,141656088,"Select 1 monster.  As long as this card remains face-up on the field, the selected monster cannot attack or change its battle position except by the effect of a Spell, Trap or Effect Monster Card. When the selected monster is destroyed, this card is also destroyed. If the selected monster is offered as a Tribute, this card is not destroyed.",1,1,0,1
+1231,Rocket Warrior,4,Light,Warrior,1500,1300,2517009968,The effect of this card can only be applied during the Battle Phase of your own turn. Any damage this monster takes is reduced to 0. Any monster attacked by this card has its ATK decreased by 500 points until the end of that turn.,0,0,1,1
+599,Key Mace #2,4,Dark,Fiend,1050,1200,840193056,The power of this monster lies in its ability to suppress the good and bring out the bad in any monster.,0,0,0,0
+1403,Worm Drake,4,Earth,Reptile,1400,1500,308552051,"Once this monster wraps itself around a victim, there is no escape.",0,0,1,1
+1319,Dimensionhole,,,,,,2039518498,Remove 1 monster on your side of the field from play until your next Standby Phase. The card still counts towards the 5-card Monster Zone limit.,0,0,1,1
+23,Skull Servant,1,Dark,Zombie,300,200,2420385586,A skeletal ghost that isn't strong but can mean trouble in large numbers.,1,0,0,1
+551,"Winged Dragon, Guardian of the Fortress #2",4,Wind,Winged Beast,1200,1000,122896471,This monster's wings are capable of generating tornadoes.,0,1,0,1
+760,Alligator's Sword,4,Earth,Beast,1500,1200,914834020,This lizard man can swing a sword at velocities that exceed the speed of sound.,0,0,1,1
+79,Uraby,4,Earth,Dinosaur,1500,800,424048641,"Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",1,0,0,1
+1004,Remove Trap,,,,,,1478969425,Destroys 1 face-up Trap Card on the field.,1,0,0,1
+1055,Waboku,,,,,,1399873554,Any damage inflicted by an opponent's monster is decreased to 0 during the turn this card is activated.,1,0,0,1
+509,Laughing Flower,2,Earth,Plant,900,500,1913936194,A flower whose laugh can confuse the minds of enemies.,0,0,0,0
+295,One-Eyed Shield Dragon,3,Wind,Dragon,700,1300,1195771443,"This dragon wears a shield not only for its own protection, but also for ramming its enemies.",1,0,0,1
+1901,Kuriboh,1,Dark,Fiend,300,200,4294967295,Discard this card from your hand to the Graveyard to make the damage inflicted to your Life Points by 1 opponent's monster 0. This effect must be activated during your opponent's Battle Phase.,0,1,0,1
+1902,Scapegoat,,,,,,4294967295,"When this card is activated, you cannot summon any monster in the same turn (including Flip Summon and Special Summon).  Place 4 ""Sheep Token"" (Beast-Type/EARTH/1 Star/ATK 0/DEF 0) in Defense Position on the your side of the field. The tokens cannot be used as a Tribute for a Tribute Summon.",0,0,1,1
+1903,Glory of the King's Hand,,,,,,4294967295,,0,0,0,0
+1910,Obelisk the Tormentor,,,,,,4294967295,"The descent of this mighty creature shall be heralded by burning winds and twisted land. And with the coming of this horror, those who draw breath shall know the true meaning of eternal slumber.",0,0,0,0
+1911,Slifer the Sky Dragon,,,,,,4294967295,"The heavens twist and thunder roars, signaling the coming of this ancient creature, and the dawn of true power.",0,0,0,0
+1912,The Winged Dragon of Ra,,,,,,4294967295,Spirits sing of a powerful creature that rules over all that is mystic,0,0,0,0
+1920,Insect Monster Token,1,Earth,Insect,100,100,4294967295,,0,0,0,0
+1921,Kuriboh Token,1,Dark,Fiend,300,200,4294967295,,0,0,0,0
+1922,Sheep Token,1,Earth,Beast,0,0,4294967295,,0,0,0,0
+1923,Slime Token,1,Water,Aqua,500,500,4294967295,,0,0,0,0

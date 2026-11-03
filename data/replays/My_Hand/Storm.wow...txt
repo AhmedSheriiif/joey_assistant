@@ -1,0 +1,734 @@
+  YOU draws 5  (hand now 5, library 43)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 43 / OPP 35
+    YOU (recorder) hand [exact]: Aqua Spirit, Cure Mermaid, Swords of Revealing Light, Trap Hole, Vorse Raider
+    OPP hand [exact]: Ekibyo Drakmord, Graceful Charity, Premature Burial, Raigeki, Rush Recklessly
+  [draw phase]
+  YOU draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SUMMONS Cure Mermaid in monster zone 0  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 42 / OPP 35
+    YOU (recorder) hand [exact]: Aqua Spirit, Swords of Revealing Light, Vorse Raider
+    OPP hand [exact]: Ekibyo Drakmord, Graceful Charity, Premature Burial, Raigeki, Rush Recklessly
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 33)
+  OPP draws 1  (hand now 5, library 32)
+  OPP draws 1  (hand now 6, library 31)
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Trap Hole (S/T zone 5)  [card 4 of 5 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 3 of 4 in hand]
+  OPP SETS Windstorm of Etaqua (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 42 / OPP 31
+    YOU (recorder) hand [exact]: Aqua Spirit, Swords of Revealing Light, Vorse Raider
+    OPP hand [exact]: Ekibyo Drakmord, Premature Burial, Raigeki, Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 41)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 8800
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 1 of 4 in hand]
+    effect: Swords of Revealing Light
+    effect: 4-Starred Ladybug of Doom
+  YOU SUMMONS Vorse Raider in monster zone 0  [card 2 of 3 in hand]
+    effect: Trap Hole
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's face-down 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8800 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 41 / OPP 31
+    YOU (recorder) hand [exact]: Aqua Spirit, Michizure
+    OPP hand [exact]: Ekibyo Drakmord, Premature Burial, Raigeki, Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Ekibyo Drakmord (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8800 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 41 / OPP 30
+    YOU (recorder) hand [exact]: Aqua Spirit, Michizure
+    OPP hand [exact]: Premature Burial, Raigeki, 2x Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 40)
+  [standby]
+  [main 1]
+  YOU SETS Michizure (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8800 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 40 / OPP 30
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Premature Burial, Raigeki, 2x Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8800 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 40 / OPP 29
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Jinzo, Premature Burial, Raigeki, 2x Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 39)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mother Grizzly in monster zone 1  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mother Grizzly (zone 1)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Ekibyo Drakmord
+
+=== Turn 8: OPP   (LP YOU 8800 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 39 / OPP 29
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Jinzo, Premature Burial, Raigeki, 2x Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Ekibyo Drakmord (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8800 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 39 / OPP 28
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Jinzo, Premature Burial, Raigeki, 2x Rush Recklessly, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8800 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 38 / OPP 28
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Jinzo, Premature Burial, Raigeki, 2x Rush Recklessly, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Raigeki (S/T zone 8)  [card 3 of 4 in hand]
+  OPP SETS United We Stand (S/T zone 9)  [card 3 of 3 in hand]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8800 / OPP 6600) ===
+  hand: YOU 2 / OPP 2   library: YOU 38 / OPP 27
+    YOU (recorder) hand [exact]: Aqua Spirit, Crush Card
+    OPP hand [exact]: Jinzo, Premature Burial, 2x Rush Recklessly   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  YOU SUMMONS Mother Grizzly in monster zone 0  [card 1 of 3 in hand]
+  YOU SETS Graceful Charity (S/T zone 7)  [card 2 of 2 in hand]
+  YOU SETS Crush Card (S/T zone 9)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 8800 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 37 / OPP 27
+    YOU (recorder) hand [exact]: Aqua Spirit
+    OPP hand [partly unknown]: Jinzo, Premature Burial, 2x Rush Recklessly   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 2 of 4 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Mother Grizzly (zone 0)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    YOU loses 1000 LP -> 7800
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7800 / OPP 6600) ===
+  hand: YOU 1 / OPP 3   library: YOU 37 / OPP 26
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+1 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 7800 / OPP 6600) ===
+  hand: YOU 1 / OPP 3   library: YOU 36 / OPP 26
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+1 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  OPP SUMMONS Gemini Elf in monster zone 1  [card 3 of 4 in hand]
+    effect: Raigeki
+  [battle phase]
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> 5400
+  OPP attacks DIRECTLY with Gemini Elf (zone 1)
+    YOU loses 1900 LP -> 3500
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 3500 / OPP 6600) ===
+  hand: YOU 1 / OPP 3   library: YOU 36 / OPP 25
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+1 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 34)
+  YOU draws 1  (hand now 2, library 33)
+  YOU draws 1  (hand now 3, library 32)
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 3500 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 25
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 2  [card 3 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 2) -> YOU's face-down 4-Starred Ladybug of Doom (zone 0)
+    effect: Dimensional Warrior
+    effect: 4-Starred Ladybug of Doom
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> 1100
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 1100 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 24
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 1100 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 24
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+    effect: Michizure
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 1100 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 23
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  YOU SETS Kunai with Chain (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 1100 / OPP 6600) ===
+  hand: YOU 1 / OPP 3   library: YOU 30 / OPP 23
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 1100 / OPP 6600) ===
+  hand: YOU 1 / OPP 3   library: YOU 30 / OPP 22
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 1  [card 2 of 2 in hand]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 8)  [card 1 of 1 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 1)
+    OPP loses 1800 LP -> 4800
+    effect: Kycoo the Ghost Destroyer
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 3   library: YOU 29 / OPP 22
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  OPP SETS Dust Tornado (S/T zone 8)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 2   library: YOU 29 / OPP 21
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Skull Lair (S/T zone 8)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Kycoo the Ghost Destroyer (zone 1) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 21
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 20)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 20
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    effect: Rush Recklessly
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 2   library: YOU 27 / OPP 20
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 19)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 9)  [card 2 of 3 in hand]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 0 / OPP 1   library: YOU 27 / OPP 19
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (up to 1 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Premature Burial, Rush Recklessly   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Dark Hole (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 25)
+  YOU draws 1  (hand now 2, library 24)
+  YOU draws 1  (hand now 3, library 23)
+  YOU draws 1  (hand now 4, library 22)
+  YOU draws 1  (hand now 5, library 21)
+  OPP draws 1  (hand now 1, library 18)
+  OPP draws 1  (hand now 2, library 17)
+  OPP draws 1  (hand now 3, library 16)
+  OPP draws 1  (hand now 4, library 15)
+  OPP draws 1  (hand now 5, library 14)
+    effect: Crush Card
+  YOU SETS Trap Hole (S/T zone 9)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 4 / OPP 5   library: YOU 21 / OPP 14
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 13)
+  [standby]
+  [main 1]
+    effect: Trap Hole
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 1 of 6 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 4 / OPP 5   library: YOU 21 / OPP 13
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 20)
+  [standby]
+  [main 1]
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 3 of 5 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Morphing Jar (zone 0)
+    effect: Windstorm of Etaqua
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 9)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 3 / OPP 5   library: YOU 20 / OPP 13
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 12)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 3 of 6 in hand]
+    effect: Rush Recklessly
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Morphing Jar (zone 0)
+    effect: Kunai with Chain
+  [main 2]
+  OPP SETS Ultimate Offering (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 31: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 3 / OPP 4   library: YOU 20 / OPP 12
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 19)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  [main 2]
+    effect: Dust Tornado
+  YOU SETS Rush Recklessly (S/T zone 9)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 32: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 3 / OPP 5   library: YOU 19 / OPP 12
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 11)
+  [standby]
+  [main 1]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 33: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 3 / OPP 5   library: YOU 19 / OPP 11
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 18)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's face-down Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+    effect: Skull Lair
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 34: OPP   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 4 / OPP 6   library: YOU 18 / OPP 11
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 10)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 7 in hand]
+  OPP SETS Skull Lair (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 35: YOU   (LP YOU 1100 / OPP 4800) ===
+  hand: YOU 4 / OPP 5   library: YOU 18 / OPP 10
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 17)
+  [standby]
+  [main 1]
+    effect: Skull Lair
+  [battle phase]
+  YOU attacks DIRECTLY with Morphing Jar (zone 0)
+    OPP loses 2000 LP -> 2800
+  [main 2]
+    effect: Rush Recklessly
+  YOU SETS Kunai with Chain (S/T zone 9)  [card 1 of 5 in hand]
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 36: OPP   (LP YOU 1100 / OPP 2800) ===
+  hand: YOU 3 / OPP 5   library: YOU 17 / OPP 10
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 9)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 2 of 6 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Morphing Jar (zone 0)
+    effect: Dust Tornado
+    effect: Skull Lair
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's face-down Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 2300
+    YOU special summons Giant Germ to zone 0
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 37: YOU   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 4 / OPP 5   library: YOU 17 / OPP 9
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 16)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mother Grizzly in monster zone 1  [card 2 of 5 in hand]
+  YOU ACTIVATES Mystic Box (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Mystic Box
+    effect: Skull Lair
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Trap Hole (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 38: OPP   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 5   library: YOU 16 / OPP 9
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 8)
+  [standby]
+  [main 1]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Mother Grizzly (zone 1)
+    effect: Magic Cylinder
+    effect: Skull Lair
+  [main 2]
+  OPP SETS Kycoo the Ghost Destroyer in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 39: YOU   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 5   library: YOU 16 / OPP 8
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 15)
+  [standby]
+  [main 1]
+  YOU SETS Windstorm of Etaqua (S/T zone 5)  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 1) -> OPP's face-down Kycoo the Ghost Destroyer (zone 0)
+    effect: Skull Lair
+  [main 2]
+    effect: Dark Hole
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 40: OPP   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 5   library: YOU 15 / OPP 8
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 7)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 41: YOU   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 6   library: YOU 15 / OPP 7
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 14)
+  [standby]
+  [main 1]
+  YOU SUMMONS 4-Starred Ladybug of Doom in monster zone 0  [card 1 of 2 in hand]
+    effect: Torrential Tribute
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 42: OPP   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 6   library: YOU 14 / OPP 7
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 6)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 0  [card 1 of 7 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 43: YOU   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 6   library: YOU 14 / OPP 6
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 13)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 44: OPP   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 6   library: YOU 13 / OPP 6
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 5)
+  [standby]
+  [main 1]
+  OPP SETS Delinquent Duo (S/T zone 6)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 45: YOU   (LP YOU 1100 / OPP 2300) ===
+  hand: YOU 1 / OPP 6   library: YOU 13 / OPP 5
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 12)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 900
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 46: OPP   (LP YOU 1100 / OPP 900) ===
+  hand: YOU 1 / OPP 6   library: YOU 12 / OPP 5
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 4)
+  [standby]
+  [main 1]
+    OPP special summons Mother Grizzly to zone 0
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Mystic Tomato (zone 0)
+    effect: Mirror Wall
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    OPP loses 600 LP -> 300
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 47: YOU   (LP YOU 1100 / OPP 300) ===
+  hand: YOU 1 / OPP 6   library: YOU 12 / OPP 4
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+7 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 11)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> -1100
+  [DUEL END]  final LP: YOU 1100 / OPP -1100

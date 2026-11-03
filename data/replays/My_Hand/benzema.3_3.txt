@@ -1,0 +1,307 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 36
+    YOU (recorder) hand [exact]: Giant Rat, Michizure, Morphing Jar, Skull Lair, Slate Warrior
+    OPP hand [exact]: Barrel Dragon, Crass Clown, Imperial Order, La Jinn the Mystical Genie of the Lamp, Magic Jammer
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Michizure (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Skull Lair (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 36 / OPP 36
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, Slate Warrior
+    OPP hand [exact]: Barrel Dragon, Crass Clown, Imperial Order, La Jinn the Mystical Genie of the Lamp, Magic Jammer
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Magic Jammer (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Imperial Order (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Crass Clown in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Monster Reborn, Morphing Jar, Slate Warrior
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Barrel Dragon, La Jinn the Mystical Genie of the Lamp
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Giant Rat (zone 0) -> OPP's face-down Crass Clown (zone 0)
+  [main 2]
+  YOU SETS Kinetic Soldier in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  YOU SETS Monster Reborn (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Morphing Jar, Slate Warrior
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Barrel Dragon, La Jinn the Mystical Genie of the Lamp
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS La Jinn the Mystical Genie of the Lamp in monster zone 1  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with La Jinn the Mystical Genie of the Lamp (zone 1) -> YOU's face-down Kinetic Soldier (zone 1)
+  [main 2]
+  OPP SETS Card Destruction (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Morphing Jar, Slate Warrior
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Barrel Dragon
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 2  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 2) -> OPP's La Jinn the Mystical Genie of the Lamp (zone 1)
+    OPP's La Jinn the Mystical Genie of the Lamp (zone 1) is destroyed in battle
+    OPP loses 100 LP -> 7900
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 2 / OPP 2   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Morphing Jar, Penguin Soldier
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Barrel Dragon
+  [draw phase]
+  OPP draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 3 in hand]
+    effect: Card Destruction
+  OPP draws 1  (hand now 3, library 32)
+  OPP draws 1  (hand now 4, library 31)
+  YOU draws 1  (hand now 3, library 33)
+  YOU draws 1  (hand now 4, library 32)
+  YOU draws 1  (hand now 5, library 31)
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 5 / OPP 3   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Dimensional Warrior, Dust Tornado, Mirror Force, Morphing Jar, Penguin Soldier
+    OPP hand [exact]: Barrel Dragon, Graceful Charity, Marie the Fallen One
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 8)  [card 2 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 9)  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Crass Clown (zone 0)
+    OPP's Crass Clown (zone 0) is destroyed in battle
+    OPP loses 50 LP -> 7850
+  YOU attacks with Slate Warrior (zone 2) -> OPP's face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP's 4-Starred Ladybug of Doom (zone 1) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 7850) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 31
+    YOU (recorder) hand [exact]: Mirror Force, Morphing Jar, Penguin Soldier
+    OPP hand [exact]: Barrel Dragon, Graceful Charity, Marie the Fallen One
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 8050
+  [main 1]
+  OPP SETS Graceful Charity (S/T zone 8)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 8050) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 30
+    YOU (recorder) hand [exact]: Mirror Force, Morphing Jar, Penguin Soldier
+    OPP hand [exact]: Barrel Dragon, Giant Trunade, Marie the Fallen One
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Dimensional Warrior (zone 0)
+    OPP loses 1200 LP -> 6850
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 6850) ===
+  hand: YOU 4 / OPP 3   library: YOU 29 / OPP 30
+    YOU (recorder) hand [exact]: Graceful Charity, Mirror Force, Morphing Jar, Penguin Soldier
+    OPP hand [exact]: Barrel Dragon, Giant Trunade, Marie the Fallen One
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 7050
+  [main 1]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 28)
+  OPP draws 1  (hand now 4, library 27)
+  OPP draws 1  (hand now 5, library 26)
+  OPP ACTIVATES Premature Burial (S/T zone 8)  [card 2 of 5 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 6250
+    effect: Dust Tornado
+    effect: Solemn Judgment
+    OPP loses 3125 LP -> 3125
+    OPP special summons 4-Starred Ladybug of Doom to zone 0
+    effect: Barrel Dragon
+    effect: Michizure
+  OPP SETS Giant Trunade (S/T zone 7)  [card 1 of 4 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8000 / OPP 3125) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 26
+    YOU (recorder) hand [exact]: Graceful Charity, Mirror Force, Morphing Jar, Penguin Soldier
+    OPP hand [exact]: Barrel Dragon, Giant Germ, Marie the Fallen One, Sinister Serpent   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+    effect: Monster Reborn
+    effect: Imperial Order
+    effect: Mystical Space Typhoon
+    YOU special summons a monster to zone 0
+    effect: Barrel Dragon
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 27)
+  YOU draws 1  (hand now 4, library 26)
+  YOU draws 1  (hand now 5, library 25)
+  YOU SETS Mirror Force (S/T zone 5)  [card 1 of 5 in hand]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 8000 / OPP 3125) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 26
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [exact]: Barrel Dragon, Giant Germ, Marie the Fallen One, Sinister Serpent   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 3325
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 8000 / OPP 3325) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 25
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [exact]: Barrel Dragon, Giant Germ, Marie the Fallen One, Tribute to The Doomed   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Imperial Order (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 8000 / OPP 3325) ===
+  hand: YOU 2 / OPP 2   library: YOU 24 / OPP 25
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [exact]: Barrel Dragon, Giant Germ, Marie the Fallen One, Tribute to The Doomed   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 24)
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 3525
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 8000 / OPP 3525) ===
+  hand: YOU 2 / OPP 3   library: YOU 24 / OPP 24
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [exact]: Barrel Dragon, Giant Germ, Marie the Fallen One, Tribute to The Doomed   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 1  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's face-down Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1400 LP -> 2125
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 8000 / OPP 2125) ===
+  hand: YOU 2 / OPP 4   library: YOU 23 / OPP 24
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: Barrel Dragon, Giant Germ, Marie the Fallen One, Tribute to The Doomed   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 23)
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 2325
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Tribute to The Doomed
+    effect: Imperial Order
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 8000 / OPP 2325) ===
+  hand: YOU 2 / OPP 3   library: YOU 23 / OPP 23
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, DNA Surgery, Gemini Elf, Morphing Jar, Penguin Soldier   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: Barrel Dragon, Giant Germ, Marie the Fallen One   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 22)
+  [standby]
+    effect: Imperial Order
+    YOU loses 700 LP -> 7300
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 8)  [card 2 of 3 in hand]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 2  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 2) -> OPP's face-down Magician of Faith (zone 0)
+    OPP's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1400 LP -> 925
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 0)
+    OPP loses 1100 LP -> -175
+  [DUEL END]  final LP: YOU 7300 / OPP -175

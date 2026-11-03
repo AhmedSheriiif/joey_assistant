@@ -1,0 +1,391 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ceasefire, Ekibyo Drakmord, Giant Trunade
+    OPP hand [exact]: Darkfire Soldier #2, Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Crass Clown in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Giant Trunade
+    OPP hand [exact]: Darkfire Soldier #2, Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Fire Princess in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  OPP attacks with Fire Princess (zone 0) -> YOU's face-down Crass Clown (zone 0)
+    OPP loses 100 LP -> 7900
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Giant Trunade
+    OPP hand [exact]: Darkfire Soldier #2, Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 1  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's Fire Princess (zone 0)
+    OPP's Fire Princess (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 7800
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 7800) ===
+  hand: YOU 4 / OPP 5   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Giant Trunade
+    OPP hand [exact]: Darkfire Soldier #2, Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Darkfire Soldier #2 in monster zone 0  [card 5 of 6 in hand]
+  [battle phase]
+  OPP attacks with Darkfire Soldier #2 (zone 0) -> YOU's Crass Clown (zone 0)
+    YOU's Crass Clown (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Negate Attack (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 7800) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Giant Trunade
+    OPP hand [exact]: Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 7800) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 33
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Giant Trunade, Torrential Tribute
+    OPP hand [exact]: Gemini Elf, Harpie's Brother, Mechanicalchaser, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SUMMONS Harpie's Brother in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 1) -> YOU's face-down Blast Sphere (zone 0)
+    YOU's face-down Blast Sphere (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Trap Hole (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7800) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Giant Trunade, Torrential Tribute
+    OPP hand [exact]: Gemini Elf, Mechanicalchaser
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 4 in hand]
+    effect: Trap Hole
+  YOU SETS Torrential Tribute (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 7800) ===
+  hand: YOU 2 / OPP 2   library: YOU 31 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade, Mystic Tomato
+    OPP hand [exact]: Gemini Elf, Mechanicalchaser
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mechanicalchaser in monster zone 2  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 1) -> YOU's Mystic Tomato (zone 1)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with Mechanicalchaser (zone 2) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 450 LP -> 7550
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Ekibyo Drakmord
+
+=== Turn 9: YOU   (LP YOU 7550 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Mystic Tomato   (+2 unknown)
+    OPP hand [exact]: Gemini Elf, Molten Destruction
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Mystic Tomato in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7550 / OPP 7800) ===
+  hand: YOU 3 / OPP 2   library: YOU 30 / OPP 31
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+2 unknown)
+    OPP hand [exact]: Gemini Elf, Molten Destruction
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Gemini Elf in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 1) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks with Gemini Elf (zone 0) -> YOU's face-down Mystic Tomato (zone 1)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7550 / OPP 7800) ===
+  hand: YOU 5 / OPP 1   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+4 unknown)
+    OPP hand [exact]: Molten Destruction
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 2 of 5 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7550 / OPP 7800) ===
+  hand: YOU 4 / OPP 1   library: YOU 29 / OPP 30
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Molten Destruction
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Ekibyo Drakmord
+
+=== Turn 13: YOU   (LP YOU 7550 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Graceful Charity, Molten Destruction
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 2  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 2) -> OPP's Harpie's Brother (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1900 LP -> 5650
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 28 / OPP 29
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Graceful Charity, Molten Destruction
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 3 of 3 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 0) -> YOU's Slate Warrior (zone 2)
+    OPP's Gemini Elf (zone 0) is destroyed in battle
+    YOU's Slate Warrior (zone 2) is destroyed in battle
+  OPP attacks with Harpie's Brother (zone 1) -> YOU's face-down Dimensional Warrior (zone 1)
+    YOU's Dimensional Warrior (zone 1) is destroyed in battle
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Graceful Charity, Molten Destruction
+  [draw phase]
+  YOU draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 27 / OPP 28
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Graceful Charity, Molten Destruction
+  [draw phase]
+  OPP draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 26)
+  OPP draws 1  (hand now 2, library 25)
+  OPP draws 1  (hand now 3, library 24)
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 2 of 3 in hand]
+  OPP SETS Dust Tornado (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 1   library: YOU 27 / OPP 24
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Fissure, Molten Destruction, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Heavy Storm (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 1   library: YOU 26 / OPP 24
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Fissure, Molten Destruction, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 4 / OPP 2   library: YOU 26 / OPP 23
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+3 unknown)
+    OPP hand [exact]: Fissure, Molten Destruction, Monster Reborn, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 5 / OPP 2   library: YOU 25 / OPP 23
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+4 unknown)
+    OPP hand [exact]: Fissure, Molten Destruction, Monster Reborn, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 8)  [card 3 of 3 in hand]
+    effect: Nobleman of Crossout
+  OPP ACTIVATES Fissure (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Fissure
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 5 / OPP 1   library: YOU 25 / OPP 22
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+4 unknown)
+    OPP hand [exact]: Molten Destruction, Monster Reborn, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 24)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 6 / OPP 1   library: YOU 24 / OPP 22
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+5 unknown)
+    OPP hand [exact]: Molten Destruction, Monster Reborn, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Monster Reborn (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    OPP special summons Gemini Elf to zone 0
+    effect: Torrential Tribute
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 5650 / OPP 7800) ===
+  hand: YOU 6 / OPP 1   library: YOU 24 / OPP 21
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (+5 unknown)
+    OPP hand [exact]: Heavy Storm, Molten Destruction, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 23)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 22)
+  YOU draws 1  (hand now 6, library 21)
+  YOU draws 1  (hand now 7, library 20)
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 6 of 7 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 5 of 6 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 2700 LP -> 5100
+  [main 2]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 5650 / OPP 5100) ===
+  hand: YOU 4 / OPP 1   library: YOU 20 / OPP 21
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [exact]: Heavy Storm, Molten Destruction, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Darkfire Soldier #1 in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 5650 / OPP 5100) ===
+  hand: YOU 4 / OPP 1   library: YOU 20 / OPP 20
+    YOU (recorder) hand [partly unknown]: Giant Trunade   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [exact]: Heavy Storm, Molten Destruction, Waboku   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 2 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+  YOU ACTIVATES Scapegoat (S/T zone 7)  [card 1 of 4 in hand]
+    effect: Scapegoat
+    OPP loses 5900 LP -> -800
+  [DUEL END]  final LP: YOU 5650 / OPP -800

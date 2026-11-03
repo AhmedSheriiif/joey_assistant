@@ -1,0 +1,235 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Mage Power, 2x Slate Warrior, Torrential Tribute
+    OPP hand [exact]: Kinetic Soldier, Last Will, Mage Power, Man-Eater Bug, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Last Will (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Mage Power, 2x Slate Warrior, Torrential Tribute
+    OPP hand [exact]: Gemini Elf, Kinetic Soldier, Mage Power, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU SETS Torrential Tribute (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Ekibyo Drakmord, Mage Power, Slate Warrior
+    OPP hand [exact]: Gemini Elf, Kinetic Soldier, Mage Power, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Gemini Elf in monster zone 0  [card 4 of 5 in hand]
+  OPP ACTIVATES Mage Power (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks DIRECTLY with Gemini Elf (zone 0)
+    YOU loses 2900 LP -> 5100
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 5100 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Ekibyo Drakmord, Mage Power, Slate Warrior
+    OPP hand [exact]: Kinetic Soldier, Sinister Serpent, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 1 of 5 in hand]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 4 of 4 in hand]
+  YOU SETS Ekibyo Drakmord (S/T zone 7)  [card 3 of 3 in hand]
+  YOU ACTIVATES Mage Power (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's Gemini Elf (zone 0)
+    OPP's Gemini Elf (zone 0) is destroyed in battle
+    OPP loses 1000 LP -> 7000
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 5100 / OPP 7000) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater
+    OPP hand [exact]: Kinetic Soldier, Sinister Serpent, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5100 / OPP 7000) ===
+  hand: YOU 1 / OPP 2   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater
+    OPP hand [exact]: Monster Reborn, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5100 / OPP 7000) ===
+  hand: YOU 1 / OPP 2   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater
+    OPP hand [exact]: Monster Reborn, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Tribute to The Doomed
+  OPP ACTIVATES Monster Reborn (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    OPP special summons Gemini Elf to zone 1
+  [battle phase]
+  OPP attacks with face-down Kinetic Soldier (zone 0) -> YOU's face-down Blast Sphere (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1350 LP -> 5650
+  OPP attacks with Gemini Elf (zone 1) -> YOU's face-down Blast Sphere (zone 1)
+    effect: Blast Sphere
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5100 / OPP 5650) ===
+  hand: YOU 1 / OPP 1   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater
+    OPP hand [exact]: Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 2 in hand]
+    effect: Bazoo the Soul-Eater
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5100 / OPP 5650) ===
+  hand: YOU 1 / OPP 1   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Ekibyo Drakmord
+    OPP hand [exact]: Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+    effect: Sinister Serpent
+    effect: Blast Sphere
+    OPP loses 1900 LP -> 3750
+  [main 1]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5100 / OPP 3750) ===
+  hand: YOU 1 / OPP 1   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: Ekibyo Drakmord
+    OPP hand [exact]: Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+    effect: Bazoo the Soul-Eater
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5100 / OPP 3750) ===
+  hand: YOU 2 / OPP 1   library: YOU 30 / OPP 30
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, United We Stand
+    OPP hand [exact]: Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+    effect: Last Will
+  [battle phase]
+  OPP attacks with face-down Sangan (zone 1) -> YOU's Bazoo the Soul-Eater (zone 0)
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 900 LP -> 2850
+    effect: Sangan
+    effect: Last Will
+    OPP special summons Sangan to zone 1
+  [main 2]
+  OPP SUMMONS Amazon Archer in monster zone 2  [card 3 of 5 in hand]
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 3900
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 3900 / OPP 2850) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 29
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, United We Stand
+    OPP hand [partly unknown]: Sinister Serpent   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Crass Clown in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 3900 / OPP 2850) ===
+  hand: YOU 1 / OPP 3   library: YOU 29 / OPP 29
+    YOU (recorder) hand [exact]: United We Stand
+    OPP hand [partly unknown]: Sinister Serpent   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Fissure
+    effect: Mystical Space Typhoon
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Crass Clown (zone 1)
+  [main 2]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 3900 / OPP 2850) ===
+  hand: YOU 1 / OPP 2   library: YOU 29 / OPP 28
+    YOU (recorder) hand [exact]: United We Stand
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 2 of 2 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 6)  [card 1 of 1 in hand]
+    effect: United We Stand
+    effect: Crass Clown
+  [battle phase]
+  YOU attacks with Crass Clown (zone 1) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 3000 LP -> -150
+  [DUEL END]  final LP: YOU 3900 / OPP -150

@@ -1,0 +1,169 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 36
+    YOU (recorder) hand [exact]: Last Will, Mystic Tomato, Premature Burial, The Forceful Sentry, Vorse Raider
+    OPP hand [exact]: Dimensional Warrior, Dust Tornado, Giant Rat, Monster Reborn, Mystical Space Typhoon
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU ACTIVATES The Forceful Sentry (S/T zone 5)  [card 3 of 6 in hand]
+    effect: The Forceful Sentry
+  YOU SETS Last Will (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SUMMONS Vorse Raider in monster zone 0  [card 1 of 4 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 38 / OPP 36
+    YOU (recorder) hand [exact]: Mystic Tomato, Premature Burial
+    OPP hand [exact]: Dimensional Warrior, Dust Tornado, Giant Rat, Monster Reborn, Mystical Space Typhoon
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 38 / OPP 35
+    YOU (recorder) hand [exact]: Mystic Tomato, Premature Burial
+    OPP hand [exact]: Dark Hole, Giant Rat, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cure Mermaid in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Cure Mermaid (zone 1) -> OPP's face-down Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Vorse Raider (zone 0)
+    OPP loses 1900 LP -> 6100
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 2 / OPP 3   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: Mystic Tomato, Premature Burial
+    OPP hand [exact]: Dark Hole, Giant Rat, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 2 / OPP 3   library: YOU 37 / OPP 34
+    YOU (recorder) hand [exact]: Mystic Tomato, Premature Burial
+    OPP hand [partly unknown]: Dark Hole, Giant Rat, Monster Reborn, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 3, library 36)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Vorse Raider (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  YOU SETS Kunai with Chain (S/T zone 7)  [card 3 of 3 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 1 / OPP 3   library: YOU 36 / OPP 34
+    YOU (recorder) hand [exact]: Premature Burial
+    OPP hand [partly unknown]: Dark Hole, Giant Rat, Monster Reborn, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6100) ===
+  hand: YOU 2 / OPP 2   library: YOU 36 / OPP 33
+    YOU (recorder) hand [partly unknown]: Premature Burial   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Giant Rat, Monster Reborn, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    effect: Dust Tornado
+  YOU SUMMONS Mother Grizzly in monster zone 1  [card 1 of 2 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Mystic Tomato to zone 2
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 2) -> OPP's Slate Warrior (zone 0)
+    YOU's Mystic Tomato (zone 2) is destroyed in battle
+    YOU loses 700 LP -> 6500
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 4700
+  YOU attacks DIRECTLY with Mother Grizzly (zone 1)
+    OPP loses 1400 LP -> 3300
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6500 / OPP 3300) ===
+  hand: YOU 3 / OPP 2   library: YOU 35 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: Dark Hole, Giant Rat, Monster Reborn, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Mother Grizzly (zone 1)
+    YOU's Mother Grizzly (zone 1) is destroyed in battle
+    YOU loses 400 LP -> 6100
+    effect: Kycoo the Ghost Destroyer
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 1
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6100 / OPP 3300) ===
+  hand: YOU 4 / OPP 2   library: YOU 35 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: Dark Hole, Giant Rat, Monster Reborn, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 1) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+  YOU ACTIVATES Rush Recklessly (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Rush Recklessly
+    effect: Solemn Judgment
+    OPP loses 1650 LP -> 1650
+    effect: Seven Tools of the Bandit
+    YOU loses 1000 LP -> 5100
+    OPP's Kycoo the Ghost Destroyer (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 1350
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> -50
+  [DUEL END]  final LP: YOU 5100 / OPP -50

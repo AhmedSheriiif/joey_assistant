@@ -1,0 +1,348 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Dimensional Warrior, Fissure, Mystical Space Typhoon, Ring of Destruction, Scapegoat
+    OPP hand [exact]: Ceasefire, Greenkappa, Jinzo, Scapegoat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 39
+    YOU (recorder) hand [exact]: Call Of The Haunted, Fissure, Ring of Destruction, Scapegoat
+    OPP hand [exact]: Ceasefire, Greenkappa, Jinzo, Scapegoat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 3 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 1 of 5 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Fissure, Ring of Destruction, Scapegoat
+    OPP hand [exact]: Greenkappa, Jinzo, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks with face-down Dimensional Warrior (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    OPP loses 1100 LP -> 6900
+  [main 2]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Fissure, Scapegoat
+    OPP hand [exact]: Greenkappa, Jinzo, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  OPP SETS Waboku (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Call Of The Haunted, Fissure, Scapegoat
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's face-down Greenkappa (zone 0)
+    OPP's Greenkappa (zone 0) is destroyed in battle
+    effect: Greenkappa
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 3 of 4 in hand]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 2 / OPP 2   library: YOU 32 / OPP 37
+    YOU (recorder) hand [exact]: Fissure, Scapegoat
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 2 / OPP 2   library: YOU 32 / OPP 36
+    YOU (recorder) hand [exact]: Fissure, Scapegoat
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    effect: Scapegoat
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 36
+    YOU (recorder) hand [exact]: 2x Fissure, Scapegoat
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 35
+    YOU (recorder) hand [exact]: 2x Fissure, Scapegoat
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Nimble Momonga (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  [main 2]
+  YOU SETS Fissure (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 2   library: YOU 30 / OPP 35
+    YOU (recorder) hand [exact]: Fissure, Scapegoat, Waboku
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 3 / OPP 2   library: YOU 30 / OPP 34
+    YOU (recorder) hand [exact]: Fissure, Scapegoat, Waboku
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Sangan (zone 0)
+    effect: Waboku
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 2
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 9000 / OPP 6900) ===
+  hand: YOU 5 / OPP 2   library: YOU 29 / OPP 34
+    YOU (recorder) hand [partly unknown]: Fissure, Giant Rat, Scapegoat, Waboku   (+1 unknown)
+    OPP hand [exact]: Jinzo, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 2 of 3 in hand]
+    effect: Jinzo
+    effect: Sangan
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 10000
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 10000 / OPP 6900) ===
+  hand: YOU 6 / OPP 2   library: YOU 29 / OPP 33
+    YOU (recorder) hand [partly unknown]: Fissure, Giant Rat, Scapegoat, Waboku   (+2 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+    effect: Fissure
+  YOU SETS Waboku (S/T zone 6)  [card 3 of 7 in hand]
+  YOU SETS Giant Rat in monster zone 2 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 10000 / OPP 6900) ===
+  hand: YOU 5 / OPP 2   library: YOU 28 / OPP 33
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+3 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Witch of the Black Forest (zone 1)
+    YOU's Witch of the Black Forest (zone 1) is destroyed in battle
+    YOU loses 300 LP -> 9700
+    effect: Witch of the Black Forest
+    effect: Call Of The Haunted
+    effect: Call Of The Haunted
+    effect: Waboku
+    YOU special summons Witch of the Black Forest to zone 1
+    OPP special summons a monster to zone 1
+    effect: Jinzo
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 9700 / OPP 6900) ===
+  hand: YOU 6 / OPP 2   library: YOU 28 / OPP 32
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 1  [card 1 of 7 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+    YOU special summons Witch of the Black Forest to zone 3
+  YOU ACTIVATES Fissure (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Fissure
+  [battle phase]
+  YOU attacks with face-down Giant Rat (zone 2) -> OPP's unknown monster (zone 1)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+    YOU loses 1000 LP -> 8700
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 2
+  YOU attacks with Jinzo (zone 1) -> OPP's unknown monster (zone 1)
+    YOU's Jinzo (zone 1) is destroyed in battle
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 3)
+    effect: Ring of Destruction
+    YOU loses 1700 LP -> 7000
+    OPP loses 1700 LP -> 5200
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    OPP loses 1000 LP -> 4200
+  YOU attacks DIRECTLY with Giant Rat (zone 2)
+    OPP loses 1400 LP -> 2800
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 1600
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 7000 / OPP 1600) ===
+  hand: YOU 6 / OPP 2   library: YOU 27 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Mystical Space Typhoon
+    effect: Scapegoat
+    OPP special summons a monster to zone 0
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Witch of the Black Forest (zone 3)
+    YOU's Witch of the Black Forest (zone 3) is destroyed in battle
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 7000 / OPP 1600) ===
+  hand: YOU 6 / OPP 1   library: YOU 27 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 7 in hand]
+  YOU SETS Penguin Soldier in monster zone 3 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 7000 / OPP 1600) ===
+  hand: YOU 5 / OPP 1   library: YOU 26 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Mystical Space Typhoon
+  OPP SETS Scapegoat (S/T zone 5)  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with face-down Magician of Faith (zone 1) -> YOU's Giant Rat (zone 2)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+  OPP attacks with unknown monster (zone 0) -> YOU's face-down Penguin Soldier (zone 3)
+    YOU's Penguin Soldier (zone 3) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 7000 / OPP 1600) ===
+  hand: YOU 5 / OPP 0   library: YOU 26 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 24)
+  YOU draws 1  (hand now 5, library 23)
+  YOU draws 1  (hand now 6, library 22)
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Monster Reborn
+    YOU special summons Penguin Soldier to zone 2
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 400
+    YOU special summons Penguin Soldier to zone 0
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -800
+  [DUEL END]  final LP: YOU 7000 / OPP -800

@@ -1,0 +1,514 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 37
+    YOU (recorder) hand [exact]: 2x Giant Germ, Man-Eater Bug, Mystical Space Typhoon, Windstorm of Etaqua
+    OPP hand [exact]: Crass Clown, Dust Tornado, Mystical Space Typhoon, Offerings to the Doomed, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, 2x Giant Germ, Windstorm of Etaqua
+    OPP hand [exact]: Crass Clown, Dust Tornado, Mystical Space Typhoon, Offerings to the Doomed, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, 2x Giant Germ, Windstorm of Etaqua
+    OPP hand [exact]: Crass Clown, Mystical Space Typhoon, Offerings to the Doomed, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Windstorm of Etaqua (S/T zone 5)  [card 3 of 5 in hand]
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 1  [card 3 of 4 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 1)
+    OPP loses 1400 LP -> 6600
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 6150
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6150) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: 2x Giant Germ, Mask of Darkness
+    OPP hand [exact]: Crass Clown, Mystical Space Typhoon, Offerings to the Doomed, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    YOU loses 1450 LP -> 6550
+  [main 2]
+  OPP SETS Offerings to the Doomed (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6550 / OPP 6150) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 35
+    YOU (recorder) hand [exact]: 2x Giant Germ, Mask of Darkness
+    OPP hand [exact]: Bazoo the Soul-Eater, Crass Clown
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6550 / OPP 6150) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: 2x Giant Germ, Mask of Darkness
+    OPP hand [exact]: Bazoo the Soul-Eater, Crass Clown
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Imperial Order (S/T zone 6)  [card 3 of 3 in hand]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 6050
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 1
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6050 / OPP 6150) ===
+  hand: YOU 5 / OPP 1   library: YOU 32 / OPP 34
+    YOU (recorder) hand [partly unknown]: 2x Giant Germ, Mask of Darkness   (+2 unknown)
+    OPP hand [exact]: Crass Clown
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Giant Germ in monster zone 2 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6050 / OPP 6150) ===
+  hand: YOU 4 / OPP 1   library: YOU 31 / OPP 34
+    YOU (recorder) hand [partly unknown]: Giant Germ, Mask of Darkness   (+2 unknown)
+    OPP hand [exact]: Crass Clown
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Flying Kamakiri #1 (zone 1)
+    YOU's Flying Kamakiri #1 (zone 1) is destroyed in battle
+    effect: Flying Kamakiri #1
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Giant Germ (zone 2)
+    YOU's Giant Germ (zone 2) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 5650
+    YOU special summons Giant Germ to zone 1
+  [main 2]
+  OPP SETS Crass Clown in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6050 / OPP 5650) ===
+  hand: YOU 6 / OPP 1   library: YOU 31 / OPP 33
+    YOU (recorder) hand [partly unknown]: Giant Germ, Mask of Darkness   (+4 unknown)
+    OPP hand [exact]: Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down Crass Clown (zone 2)
+    YOU loses 400 LP -> 5650
+  [main 2]
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 1 of 7 in hand]
+  YOU SETS Giant Germ in monster zone 2 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5650 / OPP 5650) ===
+  hand: YOU 5 / OPP 1   library: YOU 30 / OPP 33
+    YOU (recorder) hand [partly unknown]: Mask of Darkness   (+4 unknown)
+    OPP hand [exact]: Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Mask of Darkness (zone 0)
+    effect: Windstorm of Etaqua
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's face-down Mask of Darkness (zone 0)
+    YOU's face-down Mask of Darkness (zone 0) is destroyed in battle
+    YOU loses 700 LP -> 4950
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 4950 / OPP 5650) ===
+  hand: YOU 5 / OPP 2   library: YOU 30 / OPP 32
+    YOU (recorder) hand [partly unknown]: Mask of Darkness   (+4 unknown)
+    OPP hand [exact]: Dark Hole, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+    YOU special summons Mask of Darkness to zone 0
+  [battle phase]
+  YOU attacks with Mask of Darkness (zone 0) -> OPP's Crass Clown (zone 2)
+    effect: Offerings to the Doomed
+  YOU attacks with Giant Germ (zone 1) -> OPP's Slate Warrior (zone 0)
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    effect: Slate Warrior
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 6)  [card 3 of 6 in hand]
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4950 / OPP 5650) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Dark Hole, Monster Reborn
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Giant Germ (zone 1)
+    effect: Mirror Force
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 4950 / OPP 5650) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Dark Hole, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 4650
+  YOU attacks DIRECTLY with Giant Germ (zone 1)
+    OPP loses 500 LP -> 4150
+  [main 2]
+  YOU SETS Skull Lair (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 4950 / OPP 4150) ===
+  hand: YOU 3 / OPP 2   library: YOU 28 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Dark Hole, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Dark Hole
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Monster Reborn
+    OPP special summons Slate Warrior to zone 0
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    effect: Skull Lair
+  [main 2]
+  OPP SETS Crass Clown in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 4950 / OPP 4150) ===
+  hand: YOU 3 / OPP 0   library: YOU 28 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 4950 / OPP 4150) ===
+  hand: YOU 3 / OPP 0   library: YOU 27 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Fissure (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 4950 / OPP 4150) ===
+  hand: YOU 3 / OPP 0   library: YOU 27 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  [battle phase]
+  YOU attacks with face-down Mask of Darkness (zone 0) -> OPP's face-down Crass Clown (zone 0)
+    YOU loses 500 LP -> 4450
+  [main 2]
+  YOU SETS Michizure (S/T zone 7)  [card 1 of 4 in hand]
+  YOU SETS Mirror Wall (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 2 / OPP 0   library: YOU 26 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 2 / OPP 0   library: YOU 26 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+    effect: Skull Lair
+    effect: Dust Tornado
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 2 / OPP 0   library: YOU 25 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Crass Clown
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 2 / OPP 0   library: YOU 25 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 3 of 3 in hand]
+    effect: Monster Reborn
+    effect: Imperial Order
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 27)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Swords of Revealing Light
+    effect: 4-Starred Ladybug of Doom
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 24 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 23 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 8)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 23 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 3 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 22 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 9)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 22 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 4 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 21 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 24)
+  [standby]
+  [main 1]
+  OPP SUMMONS Vorse Raider in monster zone 0  [card 1 of 1 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 4450 / OPP 4150) ===
+  hand: YOU 1 / OPP 0   library: YOU 21 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 2 of 2 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mask of Darkness (zone 0)
+    OPP loses 900 LP -> 3250
+  YOU attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP loses 800 LP -> 2450
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 4450 / OPP 2450) ===
+  hand: YOU 0 / OPP 0   library: YOU 20 / OPP 24
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  OPP SUMMONS Penguin Soldier in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with Penguin Soldier (zone 0) -> YOU's face-down 4-Starred Ladybug of Doom (zone 3)
+    OPP loses 450 LP -> 2000
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 31: YOU   (LP YOU 4450 / OPP 2000) ===
+  hand: YOU 0 / OPP 0   library: YOU 20 / OPP 23
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 1, library 19)
+  [standby]
+  [main 1]
+  YOU SETS Imperial Order (S/T zone 9)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Mask of Darkness (zone 0) -> OPP's Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    OPP loses 150 LP -> 1850
+  YOU attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 1)
+    OPP loses 800 LP -> 1050
+  YOU attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 3)
+    effect: Magic Cylinder
+    YOU loses 800 LP -> 3650
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 32: OPP   (LP YOU 3650 / OPP 1050) ===
+  hand: YOU 0 / OPP 0   library: YOU 19 / OPP 23
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Michizure (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 33: YOU   (LP YOU 3650 / OPP 1050) ===
+  hand: YOU 0 / OPP 0   library: YOU 19 / OPP 22
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 1, library 18)
+  [standby]
+  [main 1]
+    effect: Solemn Judgment
+    OPP loses 525 LP -> 525
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Witch of the Black Forest (zone 2)
+    OPP loses 1100 LP -> -575
+  [DUEL END]  final LP: YOU 3650 / OPP -575

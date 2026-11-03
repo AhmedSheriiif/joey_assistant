@@ -1,0 +1,238 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Backup Soldier, Exodia the Forbidden One, Mystic Tomato, Ring of Destruction, Waboku
+    OPP hand [exact]: Crass Clown, 2x Mirror Wall, Raigeki, Rush Recklessly
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave, Waboku
+    OPP hand [exact]: Crass Clown, 2x Mirror Wall, Raigeki, Rush Recklessly
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Crass Clown in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave, Waboku
+    OPP hand [exact]: Mirror Wall, Raigeki, Rigras Leever, Rush Recklessly
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 32)
+  YOU draws 1  (hand now 6, library 31)
+  YOU SETS Waboku (S/T zone 6)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 31 / OPP 35
+    YOU (recorder) hand [exact]: Backup Soldier, Exodia the Forbidden One, Last Will, The Shallow Grave, Time Machine
+    OPP hand [exact]: Mirror Wall, Raigeki, Rigras Leever, Rush Recklessly
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks DIRECTLY with face-down Crass Clown (zone 0)
+    YOU loses 1350 LP -> 6650
+  [main 2]
+  OPP SETS Waboku (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6650 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 31 / OPP 34
+    YOU (recorder) hand [exact]: Backup Soldier, Exodia the Forbidden One, Last Will, The Shallow Grave, Time Machine
+    OPP hand [exact]: Mirror Wall, Raigeki, Rigras Leever, Rush Recklessly
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Crass Clown (zone 0)
+    effect: Mirror Wall
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 650 LP -> 6000
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  YOU ACTIVATES Last Will (S/T zone 7)  [card 1 of 6 in hand]
+    effect: Last Will
+  YOU SETS Time Machine (S/T zone 7)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+    effect: Last Will
+    YOU special summons Mystic Tomato to zone 1
+
+=== Turn 6: OPP   (LP YOU 6000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 30 / OPP 34
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave, Time Machine   (+3 unknown)
+    OPP hand [exact]: Mirror Wall, Raigeki, Rigras Leever, Rush Recklessly
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  OPP SUMMONS Crass Clown in monster zone 1  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Crass Clown (zone 1) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 250 LP -> 5750
+    effect: Witch of the Black Forest
+    effect: Time Machine
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 1 of 4 in hand]
+  OPP SETS Rush Recklessly (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 7 / OPP 2   library: YOU 30 / OPP 33
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave, Time Machine   (+4 unknown)
+    OPP hand [exact]: Raigeki, Rigras Leever
+  [draw phase]
+  YOU draws 1  (hand now 8, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Time Machine (S/T zone 7)  [card 2 of 8 in hand]
+  YOU SETS Nimble Momonga in monster zone 2 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 6 / OPP 2   library: YOU 29 / OPP 33
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave   (+4 unknown)
+    OPP hand [exact]: Raigeki, Rigras Leever
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 8)  [card 3 of 3 in hand]
+  OPP SETS Rigras Leever in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  OPP SETS Raigeki (S/T zone 9)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 6 / OPP 0   library: YOU 29 / OPP 32
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave   (+4 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 8)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 6 / OPP 0   library: YOU 28 / OPP 32
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave   (+4 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Goblin Attack Force in monster zone 3  [card 1 of 1 in hand]
+    effect: Rigras Leever
+    effect: Crass Clown
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks with Crass Clown (zone 0) -> YOU's face-down Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6750
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  OPP attacks with Crass Clown (zone 1) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7750
+  OPP attacks with face-down Rigras Leever (zone 2) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8750
+  OPP attacks DIRECTLY with Goblin Attack Force (zone 3)
+    YOU loses 2300 LP -> 6450
+    effect: Goblin Attack Force
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6450 / OPP 8000) ===
+  hand: YOU 9 / OPP 0   library: YOU 28 / OPP 31
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One, The Shallow Grave   (+7 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 10, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 3 of 10 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's Crass Clown (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 250 LP -> 6200
+    effect: Witch of the Black Forest
+    effect: Time Machine
+    YOU special summons Witch of the Black Forest to zone 0
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's Crass Clown (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 250 LP -> 5950
+    effect: Witch of the Black Forest
+  [main 2]
+  YOU SETS Waboku (S/T zone 7)  [card 1 of 11 in hand]
+  YOU SETS The Shallow Grave (S/T zone 9)  [card 3 of 10 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5950 / OPP 8000) ===
+  hand: YOU 6 / OPP 0   library: YOU 27 / OPP 31
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One   (up to 2 of these already discarded; +8 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 30)
+    effect: Waboku
+    effect: Seven Tools of the Bandit
+    OPP loses 1000 LP -> 7000
+  [standby]
+  [main 1]
+  OPP SETS Rigras Leever in monster zone 4 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5950 / OPP 7000) ===
+  hand: YOU 6 / OPP 0   library: YOU 27 / OPP 30
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Exodia the Forbidden One   (up to 2 of these already discarded; +8 unknown)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 0  [card 4 of 7 in hand]
+    effect: Ring of Destruction
+    OPP loses 1000 LP -> 6000
+    YOU loses 1000 LP -> 4950
+    effect: Sangan
+  [DUEL END]  final LP: YOU 4950 / OPP 6000

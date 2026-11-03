@@ -1,0 +1,376 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 39
+    YOU hand [exact]: Aqua Spirit, Giant Rat, Raigeki, Scapegoat, Witch of the Black Forest
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Mystic Tomato, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 39
+    YOU hand [exact]: Aqua Spirit, Giant Rat, Raigeki, Scapegoat, Snatch Steal
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Mystic Tomato, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Swords of Revealing Light
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's face-down Witch of the Black Forest (zone 0)
+    YOU's face-down Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 36 / OPP 38
+    YOU hand [partly unknown]: Aqua Spirit, Giant Rat, Raigeki, Scapegoat, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Kuriboh
+  [draw phase]
+  YOU draws 1  (hand now 7, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 7 of 7 in hand]
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 38
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Kuriboh
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 37
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Kuriboh, Mirror Force
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 1 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 37
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Imperial Order, Jinzo, Kuriboh, Mirror Force
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 35)
+  OPP draws 1  (hand now 5, library 34)
+  OPP draws 1  (hand now 6, library 33)
+  OPP ACTIVATES Giant Trunade (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Giant Trunade
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Imperial Order (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 34 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 33 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 33 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Premature Burial (S/T zone 6)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 32 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 2 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 32 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Raigeki, Snatch Steal   (+2 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 7 of 7 in hand]
+    effect: Nobleman of Crossout
+    effect: Imperial Order
+  YOU SUMMONS Jinzo in monster zone 1  [card 1 of 6 in hand]
+    effect: Jinzo
+  YOU ACTIVATES Raigeki (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Raigeki
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 31 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Harpie's Feather Duster, Jinzo, Kuriboh, Mirror Force, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Harpie's Feather Duster (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Harpie's Feather Duster
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 31 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Mirror Force, Slate Warrior, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 29)
+  YOU draws 1  (hand now 6, library 28)
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SUMMONS Giant Rat in monster zone 2  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  YOU attacks DIRECTLY with Giant Rat (zone 2)
+    OPP loses 1400 LP -> 5200
+  YOU attacks DIRECTLY with Jinzo (zone 1)
+    effect: Kuriboh
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 8000 / OPP 5200) ===
+  hand: YOU 4 / OPP 3   library: YOU 28 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Mirror Force, Slate Warrior, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Dark Hole
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 2 of 3 in hand]
+  OPP SETS Mirror Force (S/T zone 5)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 6100
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6100 / OPP 5200) ===
+  hand: YOU 4 / OPP 1   library: YOU 28 / OPP 29
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 6100 / OPP 5200) ===
+  hand: YOU 3 / OPP 1   library: YOU 27 / OPP 29
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7100
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS Cannon Soldier in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 7100 / OPP 5200) ===
+  hand: YOU 4 / OPP 1   library: YOU 27 / OPP 28
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 2  [card 4 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 2) -> OPP's face-down Cannon Soldier (zone 1)
+    YOU loses 300 LP -> 6800
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 6800 / OPP 5200) ===
+  hand: YOU 3 / OPP 1   library: YOU 26 / OPP 28
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal
+    OPP (recorder) hand [exact]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 2, library 26)
+  OPP draws 1  (hand now 3, library 25)
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Sangan (zone 2)
+    YOU's Sangan (zone 2) is destroyed in battle
+    YOU loses 900 LP -> 5900
+    effect: Sangan
+  [main 2]
+  OPP SETS Nimble Momonga in monster zone 2 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 5900 / OPP 5200) ===
+  hand: YOU 4 / OPP 2   library: YOU 26 / OPP 25
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [exact]: Change of Heart, Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's face-down Nimble Momonga (zone 2)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 6200
+    OPP special summons Nimble Momonga to zone 2
+    OPP special summons Nimble Momonga to zone 3
+  [main 2]
+    YOU special summons Sangan to zone 2
+  YOU SETS Magician of Faith in monster zone 3 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 5900 / OPP 6200) ===
+  hand: YOU 4 / OPP 3   library: YOU 25 / OPP 25
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Change of Heart, Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Change of Heart (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Change of Heart
+    effect: Magician of Faith
+  OPP ACTIVATES Pot of Greed (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 3, library 23)
+  OPP draws 1  (hand now 4, library 22)
+  OPP ACTIVATES Raigeki (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Raigeki
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 4000
+  OPP attacks DIRECTLY with unknown monster (zone 4)
+    YOU loses 300 LP -> 3700
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 3200
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 2700
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 2200
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 2200 / OPP 6200) ===
+  hand: YOU 4 / OPP 3   library: YOU 25 / OPP 22
+    YOU hand [partly unknown]: Aqua Spirit, Snatch Steal   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 7)  [card 2 of 5 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Cannon Soldier (zone 1)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 2200 / OPP 6200) ===
+  hand: YOU 4 / OPP 3   library: YOU 24 / OPP 22
+    YOU hand [partly unknown]: Aqua Spirit   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Kuriboh, Torrential Tribute   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Scapegoat (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Scapegoat
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1700
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1200
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 700
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 200
+  OPP SETS Crass Clown in monster zone 0 (face-down)  [card 2 of 3 in hand]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> -300
+  [DUEL END]  final LP: YOU -300 / OPP 6200

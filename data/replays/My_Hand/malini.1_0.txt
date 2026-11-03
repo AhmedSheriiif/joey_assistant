@@ -1,0 +1,213 @@
+  YOU draws 5  (hand now 5, library 41)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 41 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, 2x Giant Rat, Jinzo, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Dimensional Warrior, Mystic Tomato, Slate Warrior, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 6, library 40)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 40 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, 2x Giant Rat, Jinzo, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Dimensional Warrior, Mystic Tomato, Slate Warrior, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 40 / OPP 34
+    YOU hand [exact]: Dimensional Warrior, 2x Giant Rat, Jinzo, The Fiend Megacyber
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Slate Warrior, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 6, library 39)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with face-down Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 34
+    YOU hand [exact]: Aqua Spirit, 2x Giant Rat, Jinzo, The Fiend Megacyber
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Slate Warrior, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 500 LP -> 7500
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7500 / OPP 6600) ===
+  hand: YOU 6 / OPP 5   library: YOU 39 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, 2x Giant Rat, Jinzo, The Fiend Megacyber   (+1 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Slate Warrior, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 7, library 38)
+  [standby]
+  [main 1]
+  YOU SUMMONS The Fiend Megacyber in monster zone 0  [card 2 of 7 in hand]
+    effect: Witch of the Black Forest
+  [battle phase]
+  YOU attacks with The Fiend Megacyber (zone 0) -> OPP's Slate Warrior (zone 0)
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 6300
+    effect: Slate Warrior
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7500 / OPP 6300) ===
+  hand: YOU 6 / OPP 5   library: YOU 38 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, 2x Giant Rat, Jinzo   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Slate Warrior, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 6 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's The Fiend Megacyber (zone 0)
+    YOU's The Fiend Megacyber (zone 0) is destroyed in battle
+    YOU loses 200 LP -> 7300
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7300 / OPP 6300) ===
+  hand: YOU 6 / OPP 4   library: YOU 38 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, 2x Giant Rat, Jinzo   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 7, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 5)  [card 7 of 7 in hand]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7300 / OPP 6300) ===
+  hand: YOU 5 / OPP 4   library: YOU 37 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, Giant Rat, Jinzo   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Dimensional Warrior, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Giant Rat (zone 0)
+    OPP loses 250 LP -> 6050
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 5400
+    effect: Call Of The Haunted
+    OPP special summons Slate Warrior to zone 1
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    YOU loses 1900 LP -> 3500
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 3500 / OPP 6050) ===
+  hand: YOU 5 / OPP 4   library: YOU 37 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Giant Rat, Jinzo   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Mystic Tomato, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 6 of 6 in hand]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 4 of 5 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's Slate Warrior (zone 1)
+    OPP's Slate Warrior (zone 1) is destroyed in battle
+    OPP loses 600 LP -> 5450
+    effect: Slate Warrior
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 3500 / OPP 5450) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Giant Rat, Jinzo   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Mystic Tomato, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Skull Lair (S/T zone 5)  [card 5 of 5 in hand]
+  OPP SETS Mystic Tomato in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 3500 / OPP 5450) ===
+  hand: YOU 4 / OPP 3   library: YOU 36 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Giant Rat, Jinzo   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [exact]: 2x Bazoo the Soul-Eater, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 1500 LP -> 3950
+    effect: Ring of Destruction
+    OPP loses 1900 LP -> 2050
+    YOU loses 1900 LP -> 1600
+  YOU SUMMONS Giant Rat in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Mystic Tomato (zone 1)
+    OPP's face-down Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 1600 / OPP 2050) ===
+  hand: YOU 4 / OPP 4   library: YOU 35 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Jinzo   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: 2x Bazoo the Soul-Eater, Vorse Raider   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Vorse Raider in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Giant Rat (zone 1)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 1
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Vorse Raider (zone 1) -> YOU's Bazoo the Soul-Eater (zone 0)
+    YOU's Bazoo the Soul-Eater (zone 0) is destroyed in battle
+    YOU loses 800 LP -> 800
+    effect: Skull Lair
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1100 LP -> -300
+  [DUEL END]  final LP: YOU -300 / OPP 2050

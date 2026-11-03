@@ -1,0 +1,179 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 43)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 43
+    YOU hand [exact]: Dark Hole, Dimensional Warrior, Heavy Storm, Kinetic Soldier, Mirror Force
+    OPP (recorder) hand [exact]: Dark Hole, Graceful Charity, Nimble Momonga, Snatch Steal, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 43
+    YOU hand [exact]: Bazoo the Soul-Eater, Dark Hole, Dimensional Warrior, Heavy Storm, Mirror Force
+    OPP (recorder) hand [exact]: Dark Hole, Graceful Charity, Nimble Momonga, Snatch Steal, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 41)
+  OPP draws 1  (hand now 5, library 40)
+  OPP draws 1  (hand now 6, library 39)
+    OPP special summons a monster to zone 0
+  OPP SETS Waboku (S/T zone 5)  [card 5 of 6 in hand]
+  [battle phase]
+  OPP attacks with Kinetic Soldier (zone 0) -> YOU's face-down Kinetic Soldier (zone 0)
+    OPP loses 100 LP -> 7900
+  [main 2]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 5 / OPP 4   library: YOU 34 / OPP 39
+    YOU hand [exact]: Bazoo the Soul-Eater, Dark Hole, Dimensional Warrior, Heavy Storm, Mirror Force
+    OPP (recorder) hand [exact]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Mirror Force (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 39
+    YOU hand [exact]: Bazoo the Soul-Eater, Dark Hole, Dimensional Warrior, Heavy Storm
+    OPP (recorder) hand [exact]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 2 (face-down)  [card 4 of 5 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 7900) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 38
+    YOU hand [exact]: Bazoo the Soul-Eater, Dark Hole, Dimensional Warrior, Heavy Storm
+    OPP (recorder) hand [exact]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Dark Hole
+    effect: Witch of the Black Forest
+    effect: Witch of the Black Forest
+  YOU SUMMONS Sangan in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 6900
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6900) ===
+  hand: YOU 4 / OPP 5   library: YOU 32 / OPP 38
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Dimensional Warrior, Heavy Storm, Torrential Tribute
+    OPP (recorder) hand [partly unknown]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 5 of 6 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    YOU loses 900 LP -> 7100
+    effect: Sangan
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7100 / OPP 6900) ===
+  hand: YOU 5 / OPP 5   library: YOU 32 / OPP 37
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Dimensional Warrior, Heavy Storm, Torrential Tribute   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7100 / OPP 6900) ===
+  hand: YOU 5 / OPP 5   library: YOU 31 / OPP 37
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Heavy Storm, Torrential Tribute   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Kuriboh, Monster Reborn, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 6)  [card 5 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 35)
+  OPP draws 1  (hand now 7, library 34)
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 4 of 7 in hand]
+    effect: Dark Hole
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 0
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SUMMONS Jinzo in monster zone 0  [card 2 of 4 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> 4700
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1700 LP -> 3000
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 3000 / OPP 6900) ===
+  hand: YOU 5 / OPP 4   library: YOU 31 / OPP 34
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Heavy Storm, Torrential Tribute   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Kuriboh, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 29)
+  YOU draws 1  (hand now 7, library 28)
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 3 of 7 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 10: OPP   (LP YOU 3000 / OPP 6900) ===
+  hand: YOU 5 / OPP 4   library: YOU 28 / OPP 34
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Heavy Storm, Torrential Tribute   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Kuriboh, Morphing Jar, Snatch Steal, The Rock Spirit   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 2  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 2) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> 600
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1700 LP -> -1100
+  [DUEL END]  final LP: YOU -1100 / OPP 6900

@@ -1,0 +1,308 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Magic Cylinder, Mirror Force, Morphing Jar, Mystical Space Typhoon, United We Stand
+    OPP hand [exact]: Dimensional Warrior, Man-Eater Bug, Mystical Space Typhoon, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 5 of 5 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 4 in hand]
+  OPP SETS United We Stand (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 39 / OPP 38
+    YOU (recorder) hand [exact]: Magic Cylinder, Mirror Force, Morphing Jar, Mystical Space Typhoon, United We Stand
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS United We Stand (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 8)  [card 3 of 3 in hand]
+  YOU SETS Mirror Force (S/T zone 9)  [card 2 of 2 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 0 / OPP 2   library: YOU 38 / OPP 38
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  OPP SUMMONS Nimble Momonga in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 1)
+    YOU loses 1000 LP -> 7000
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 6550
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6550 / OPP 8000) ===
+  hand: YOU 0 / OPP 2   library: YOU 38 / OPP 37
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 37)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6550 / OPP 8000) ===
+  hand: YOU 1 / OPP 2   library: YOU 37 / OPP 37
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 36)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 1)
+    YOU loses 1000 LP -> 5550
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 5100
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5100 / OPP 8000) ===
+  hand: YOU 1 / OPP 2   library: YOU 37 / OPP 36
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5100 / OPP 8000) ===
+  hand: YOU 1 / OPP 2   library: YOU 36 / OPP 36
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Dimensional Warrior in monster zone 3  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 3) -> YOU's face-down Kinetic Soldier (zone 0)
+    effect: Mirror Force
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5100 / OPP 8000) ===
+  hand: YOU 1 / OPP 1   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Amazon Archer, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5100 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Cannon Soldier, Giant Trunade
+    OPP hand [exact]: Amazon Archer, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 2 of 2 in hand]
+    OPP special summons a monster to zone 1
+  OPP SETS Fissure (S/T zone 6)  [card 1 of 1 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down Kinetic Soldier (zone 0)
+    OPP loses 100 LP -> 7900
+  [main 2]
+    effect: Fissure
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 10: YOU   (LP YOU 5100 / OPP 7900) ===
+  hand: YOU 2 / OPP 0   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Cannon Soldier, Giant Trunade
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's Amazon Archer (zone 0)
+    effect: Kinetic Soldier
+    OPP's Amazon Archer (zone 0) is destroyed in battle
+    OPP loses 350 LP -> 7550
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  YOU ACTIVATES Giant Trunade (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Giant Trunade
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5100 / OPP 7550) ===
+  hand: YOU 1 / OPP 0   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Cannon Soldier
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 1, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Magician of Faith (zone 1)
+    YOU's Magician of Faith (zone 1) is destroyed in battle
+    effect: Magician of Faith
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1700 LP -> 3400
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 3400 / OPP 7550) ===
+  hand: YOU 1 / OPP 0   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Cannon Soldier
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SUMMONS Cannon Soldier in monster zone 0  [card 2 of 2 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 7)  [card 1 of 1 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 0) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    OPP loses 200 LP -> 7350
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 3400 / OPP 7350) ===
+  hand: YOU 0 / OPP 0   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 6550
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's Cannon Soldier (zone 0)
+    effect: Scapegoat
+  OPP attacks with unknown monster (zone 1) -> YOU's Cannon Soldier (zone 0)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    OPP loses 4200 LP -> 2350
+    effect: Dimensional Warrior
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 3400 / OPP 2350) ===
+  hand: YOU 0 / OPP 0   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 3400 / OPP 2350) ===
+  hand: YOU 0 / OPP 0   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 3400 / OPP 2350) ===
+  hand: YOU 0 / OPP 0   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 3400 / OPP 2350) ===
+  hand: YOU 0 / OPP 0   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with Cannon Soldier (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 3400 / OPP 2350) ===
+  hand: YOU 0 / OPP 0   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Waboku (S/T zone 7)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with face-down Witch of the Black Forest (zone 0) -> OPP's Cannon Soldier (zone 1)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 3100
+    effect: Witch of the Black Forest
+  [main 2]
+    effect: Call Of The Haunted
+    YOU special summons Witch of the Black Forest to zone 0
+  YOU SETS Amazon Archer in monster zone 1 (face-down)  [card 1 of 1 in hand]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 350
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -850
+  [DUEL END]  final LP: YOU 3100 / OPP -850

@@ -1,0 +1,196 @@
+[labels swapped: YOU = the user (the first deck list in this file)]
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 5 / YOU 5   library: OPP 36 / YOU 35
+    OPP hand [exact]: Giant Trunade, Hayabusa Knight, Heavy Storm, Megamorph, Raigeki
+    YOU (recorder) hand [exact]: Dimensional Warrior, Graceful Charity, Mage Power, Mirror Force, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  YOU SETS Mirror Force (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 5 / YOU 4   library: OPP 36 / YOU 34
+    OPP hand [exact]: Giant Trunade, Hayabusa Knight, Heavy Storm, Megamorph, Raigeki
+    YOU (recorder) hand [exact]: Amazon Archer, Dimensional Warrior, Graceful Charity, Mage Power
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Hayabusa Knight in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks with Hayabusa Knight (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  OPP attacks with Hayabusa Knight (zone 0) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 10000
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP OPP 8000 / YOU 10000) ===
+  hand: OPP 5 / YOU 6   library: OPP 35 / YOU 34
+    OPP hand [exact]: Card Destruction, Giant Trunade, Heavy Storm, Megamorph, Raigeki
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Graceful Charity, Mage Power   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 1 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 32)
+  YOU draws 1  (hand now 6, library 31)
+  YOU draws 1  (hand now 7, library 30)
+  YOU SUMMONS Giant Rat in monster zone 0  [card 4 of 7 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Hayabusa Knight (zone 0)
+    OPP's Hayabusa Knight (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 7600
+  YOU attacks DIRECTLY with Nimble Momonga (zone 1)
+    OPP loses 1000 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 4: OPP   (LP OPP 6600 / YOU 10000) ===
+  hand: OPP 5 / YOU 6   library: OPP 35 / YOU 30
+    OPP hand [exact]: Card Destruction, Giant Trunade, Heavy Storm, Megamorph, Raigeki
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Heavy Storm
+  OPP SETS Raigeki (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Megamorph (S/T zone 6)  [card 1 of 4 in hand]
+  OPP ACTIVATES Card Destruction (S/T zone 7)  [card 2 of 3 in hand]
+    effect: Card Destruction
+  OPP draws 1  (hand now 3, library 33)
+  OPP draws 1  (hand now 4, library 32)
+  YOU draws 1  (hand now 7, library 29)
+  YOU draws 1  (hand now 8, library 28)
+  YOU draws 1  (hand now 9, library 27)
+  YOU draws 1  (hand now 10, library 26)
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Raigeki
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP OPP 6600 / YOU 10000) ===
+  hand: OPP 3 / YOU 10   library: OPP 32 / YOU 26
+    OPP hand [exact]: Cyber-Stein, Giant Trunade, Slate Warrior
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 2 of these already discarded; +9 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 11, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Imperial Order (S/T zone 5)  [card 4 of 11 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 10 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP OPP 6600 / YOU 10000) ===
+  hand: OPP 3 / YOU 6   library: OPP 32 / YOU 25
+    OPP hand [exact]: Cyber-Stein, Giant Trunade, Slate Warrior
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 3 of these already discarded; +8 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Cyber Jar in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP OPP 6600 / YOU 10000) ===
+  hand: OPP 3 / YOU 6   library: OPP 31 / YOU 25
+    OPP hand [exact]: Cyber-Stein, Giant Trunade, Slate Warrior
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 3 of these already discarded; +8 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 24)
+  [standby]
+  [main 1]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP OPP 6600 / YOU 10000) ===
+  hand: OPP 3 / YOU 6   library: OPP 31 / YOU 24
+    OPP hand [exact]: Cyber-Stein, Giant Trunade, Slate Warrior
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 3 of these already discarded; +9 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+    effect: Cyber Jar
+  OPP draws 1  (hand now 6, library 29)
+  OPP draws 1  (hand now 7, library 28)
+  OPP draws 1  (hand now 8, library 27)
+  OPP draws 1  (hand now 9, library 26)
+  OPP draws 1  (hand now 10, library 25)
+  YOU draws 1  (hand now 7, library 23)
+    YOU special summons Giant Rat to zone 0
+  YOU draws 1  (hand now 7, library 22)
+  YOU draws 1  (hand now 8, library 21)
+    YOU special summons Giant Rat to zone 1
+    effect: Torrential Tribute
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 7 of 10 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 8, library 24)
+  OPP draws 1  (hand now 9, library 23)
+  OPP draws 1  (hand now 10, library 22)
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 7 of 10 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Cyber-Stein in monster zone 0  [card 3 of 9 in hand]
+    effect: Cyber-Stein
+    OPP loses 5000 LP -> 1600
+    OPP special summons Blue-Eyes Ultimate Dragon to zone 1
+    effect: Megamorph
+  OPP SETS Magic Jammer (S/T zone 5)  [card 2 of 7 in hand]
+  OPP SETS Mirror Force (S/T zone 7)  [card 2 of 6 in hand]
+  OPP SETS Ceasefire (S/T zone 8)  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Blue-Eyes Ultimate Dragon (zone 1)
+    effect: Imperial Order
+    YOU loses 4500 LP -> 5500
+  OPP attacks DIRECTLY with Cyber-Stein (zone 0)
+    YOU loses 700 LP -> 4800
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 9: YOU   (LP OPP 1600 / YOU 4800) ===
+  hand: OPP 4 / YOU 7   library: OPP 22 / YOU 21
+    OPP hand [partly unknown]: Giant Trunade, Nimble Momonga, Slate Warrior   (up to 2 of these already discarded; +4 unknown)
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Mage Power   (up to 3 of these already discarded; +12 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 20)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  YOU ACTIVATES Harpie's Feather Duster (S/T zone 5)  [card 4 of 8 in hand]
+    effect: Harpie's Feather Duster
+    effect: Magic Jammer
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Mystical Space Typhoon
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Mystical Space Typhoon
+    effect: Ceasefire
+    YOU loses 500 LP -> 4300
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Snatch Steal
+    YOU special summons Nimble Momonga to zone 1
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Cyber-Stein (zone 0)
+    OPP's Cyber-Stein (zone 0) is destroyed in battle
+    OPP loses 8300 LP -> -6700
+  [DUEL END]  final LP: OPP -6700 / YOU 4300

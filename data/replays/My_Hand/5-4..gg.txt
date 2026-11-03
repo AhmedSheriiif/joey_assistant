@@ -1,0 +1,451 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Greenkappa, Magic Drain, Penguin Soldier, Skull Lair, Waboku
+    OPP hand [exact]: 2x Cure Mermaid, Mother Grizzly, Rush Recklessly, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Magic Drain (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Waboku (S/T zone 6)  [card 2 of 4 in hand]
+  YOU SETS Skull Lair (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Penguin Soldier, Raigeki
+    OPP hand [exact]: 2x Cure Mermaid, Mother Grizzly, Rush Recklessly, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 0  [card 3 of 6 in hand]
+  [battle phase]
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's face-down Greenkappa (zone 0)
+    effect: Waboku
+    effect: Skull Lair
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 4 of 5 in hand]
+  OPP SETS Mirror Force (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Penguin Soldier, Raigeki
+    OPP hand [exact]: Cure Mermaid, Mother Grizzly, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cure Mermaid in monster zone 1  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Penguin Soldier, Raigeki
+    OPP hand [exact]: Cure Mermaid, Mother Grizzly, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 8800
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Greenkappa (zone 0)
+    YOU's Greenkappa (zone 0) is destroyed in battle
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's Cure Mermaid (zone 1)
+    effect: Rush Recklessly
+    effect: Magic Drain
+    YOU's Cure Mermaid (zone 1) is destroyed in battle
+    YOU loses 700 LP -> 7300
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7300 / OPP 8800) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Penguin Soldier, Raigeki
+    OPP hand [exact]: Cure Mermaid, Premature Burial, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7300 / OPP 8800) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 33
+    YOU (recorder) hand [exact]: Penguin Soldier, Raigeki
+    OPP hand [exact]: Cure Mermaid, Premature Burial, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 9600
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 2  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 9100
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  OPP attacks with Cure Mermaid (zone 2) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 6800
+    effect: Giant Germ
+    OPP loses 500 LP -> 8600
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    YOU loses 500 LP -> 6300
+    effect: Giant Germ
+    OPP loses 500 LP -> 8100
+  [main 2]
+  OPP SETS Skull Lair (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6300 / OPP 8100) ===
+  hand: YOU 5 / OPP 2   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Penguin Soldier, Raigeki   (+3 unknown)
+    OPP hand [exact]: Premature Burial, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Raigeki (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Raigeki
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6300 / OPP 8100) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Premature Burial, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 7300
+    OPP special summons a monster to zone 0
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's face-down Penguin Soldier (zone 0)
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6300 / OPP 7300) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Bait Doll, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+    effect: Skull Lair
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 29)
+  YOU draws 1  (hand now 6, library 28)
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 27)
+  YOU draws 1  (hand now 5, library 26)
+  YOU draws 1  (hand now 6, library 25)
+  YOU SETS Trap Hole (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Mirror Wall (S/T zone 6)  [card 2 of 5 in hand]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6300 / OPP 7300) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Bait Doll, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Bait Doll (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Bait Doll
+    effect: Mirror Wall
+    effect: Mirror Wall
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6300 / OPP 7300) ===
+  hand: YOU 3 / OPP 1   library: YOU 25 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+    effect: Penguin Soldier
+    effect: Skull Lair
+  YOU SUMMONS Cannon Soldier in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 0)
+    OPP loses 1400 LP -> 5900
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 3 / OPP 1   library: YOU 24 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 3 / OPP 1   library: YOU 24 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Dust Tornado, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 1   library: YOU 23 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [exact]: Dust Tornado, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 1   library: YOU 23 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka
+  [draw phase]
+  YOU draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 0)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 1   library: YOU 22 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 22 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 21 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 21 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 20)
+  [standby]
+  [main 1]
+  YOU SUMMONS Vorse Raider in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Vorse Raider (zone 1) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 20 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Fissure
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 20 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 5 / OPP 2   library: YOU 19 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 5 / OPP 2   library: YOU 19 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 18)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 6)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 5 / OPP 2   library: YOU 18 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 5 / OPP 3   library: YOU 18 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Bait Doll (S/T zone 9)  [card 2 of 6 in hand]
+    effect: Bait Doll
+  YOU SETS Call Of The Haunted (S/T zone 9)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 3   library: YOU 17 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP ACTIVATES The Forceful Sentry (S/T zone 6)  [card 4 of 4 in hand]
+    effect: The Forceful Sentry
+  OPP SETS Giant Trunade (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 6300 / OPP 5900) ===
+  hand: YOU 4 / OPP 2   library: YOU 17 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 16)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons Giant Germ to zone 0
+  YOU SUMMONS Mother Grizzly in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 1) -> OPP's face-down Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+    effect: Skull Lair
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1800 LP -> 4100
+    effect: Kycoo the Ghost Destroyer
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 6300 / OPP 4100) ===
+  hand: YOU 4 / OPP 3   library: YOU 16 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 3 of 4 in hand]
+  OPP SETS Mystic Box (S/T zone 8)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 6300 / OPP 4100) ===
+  hand: YOU 4 / OPP 2   library: YOU 16 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 2x Dust Tornado, Umiiruka   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 15)
+  [standby]
+  [main 1]
+    YOU special summons Giant Germ to zone 2
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1800 LP -> 2300
+    effect: Kycoo the Ghost Destroyer
+  YOU attacks DIRECTLY with Giant Germ (zone 2)
+    effect: Rush Recklessly
+    OPP loses 2300 LP -> 0
+  [DUEL END]  final LP: YOU 6300 / OPP 0

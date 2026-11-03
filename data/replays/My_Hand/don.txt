@@ -1,0 +1,149 @@
+  YOU draws 5  (hand now 5, library 36)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, Gemini Elf, Kycoo the Ghost Destroyer, Mystic Tomato, Slate Warrior
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Gemini Elf, Mystic Tomato, Skull Lair, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Gemini Elf, Mystic Tomato, Skull Lair, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Gemini Elf in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Skull Lair (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 35 / OPP 34
+    YOU hand [partly unknown]: Dimensional Warrior, Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (+1 unknown)
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Mystic Tomato, Slate Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 34 / OPP 34
+    YOU hand [partly unknown]: Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (+2 unknown)
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Mystic Tomato, Slate Warrior, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 0) -> YOU's face-down Dimensional Warrior (zone 1)
+    YOU's Dimensional Warrior (zone 1) is destroyed in battle
+    effect: Dimensional Warrior
+  [main 2]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 34 / OPP 33
+    YOU hand [partly unknown]: Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (+2 unknown)
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, 2x Slate Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 0  [card 6 of 7 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 5   library: YOU 33 / OPP 33
+    YOU hand [partly unknown]: Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Bazoo the Soul-Eater, 2x Slate Warrior, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Slate Warrior in monster zone 1 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 5   library: YOU 33 / OPP 32
+    YOU hand [partly unknown]: Gemini Elf, Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Slate Warrior, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Gemini Elf in monster zone 1  [card 4 of 7 in hand]
+  [battle phase]
+  YOU attacks with Gemini Elf (zone 1) -> OPP's Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  YOU attacks with Jinzo (zone 0) -> OPP's Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    OPP loses 1000 LP -> 7000
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 6 / OPP 7   library: YOU 32 / OPP 32
+    YOU hand [partly unknown]: Giant Rat, Kycoo the Ghost Destroyer, Slate Warrior   (up to 1 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Slate Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 5 of 8 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 6, library 30)
+  OPP draws 1  (hand now 7, library 29)
+  OPP draws 1  (hand now 8, library 28)
+    OPP special summons Mystic Tomato to zone 2
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 3  [card 4 of 8 in hand]
+    effect: Bazoo the Soul-Eater
+    effect: Slate Warrior
+  OPP ACTIVATES Snatch Steal (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 3) -> YOU's Gemini Elf (zone 1)
+    YOU's Gemini Elf (zone 1) is destroyed in battle
+    YOU loses 600 LP -> 7400
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1100 LP -> 6300
+  OPP attacks DIRECTLY with face-down Slate Warrior (zone 1)
+    YOU loses 2400 LP -> 3900
+  OPP attacks DIRECTLY with Mystic Tomato (zone 2)
+    YOU loses 1700 LP -> 2200
+  OPP attacks DIRECTLY with unknown monster (zone 4)
+    YOU loses 2400 LP -> -200
+  [DUEL END]  final LP: YOU -200 / OPP 7000

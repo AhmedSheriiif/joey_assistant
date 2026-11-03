@@ -1,0 +1,245 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU hand [exact]: Call Of The Haunted, Giant Trunade, Kinetic Soldier, Morphing Jar, Nobleman of Crossout
+    OPP (recorder) hand [exact]: Call Of The Haunted, 2x Giant Rat, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 38
+    YOU hand [exact]: Call Of The Haunted, Giant Trunade, Kinetic Soldier, Morphing Jar, Nobleman of Crossout
+    OPP (recorder) hand [exact]: 2x Giant Rat, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Nobleman of Crossout
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 0)
+    OPP loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 38
+    YOU hand [exact]: Giant Trunade, Kinetic Soldier, Morphing Jar
+    OPP (recorder) hand [exact]: 2x Giant Rat, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Amazon Archer (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    YOU's Amazon Archer (zone 0) is destroyed in battle
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 37
+    YOU hand [exact]: Giant Trunade, Kinetic Soldier, Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar, Torrential Tribute, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Giant Trunade (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 2 / OPP 5   library: YOU 33 / OPP 37
+    YOU hand [exact]: 2x Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar, Torrential Tribute, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 1  [card 3 of 6 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Kinetic Soldier (zone 0)
+    OPP loses 700 LP -> 5900
+  [main 2]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 2 / OPP 4   library: YOU 33 / OPP 36
+    YOU hand [exact]: 2x Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 2 / OPP 4   library: YOU 32 / OPP 36
+    YOU hand [exact]: 2x Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 7)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 2 / OPP 4   library: YOU 32 / OPP 35
+    YOU hand [exact]: 2x Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Dark Hole (S/T zone 7)  [card 3 of 3 in hand]
+  YOU SETS Morphing Jar in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 1 / OPP 4   library: YOU 31 / OPP 35
+    YOU hand [exact]: Morphing Jar
+    OPP (recorder) hand [partly unknown]: Giant Rat, Morphing Jar   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Morphing Jar (zone 2)
+    YOU's Morphing Jar (zone 2) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 30)
+  YOU draws 1  (hand now 2, library 29)
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  YOU draws 1  (hand now 5, library 26)
+  OPP draws 1  (hand now 1, library 33)
+  OPP draws 1  (hand now 2, library 32)
+  OPP draws 1  (hand now 3, library 31)
+  OPP draws 1  (hand now 4, library 30)
+  OPP draws 1  (hand now 5, library 29)
+  [main 2]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 8)  [card 4 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP ACTIVATES Graceful Charity (S/T zone 8)  [card 1 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 28)
+  OPP draws 1  (hand now 3, library 27)
+  OPP draws 1  (hand now 4, library 26)
+  OPP ACTIVATES Pot of Greed (S/T zone 8)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 8)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 5 / OPP 3   library: YOU 26 / OPP 24
+    YOU hand [exact]: Magic Cylinder, Nobleman of Crossout, Pot of Greed, Premature Burial, Scapegoat
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 8)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 24)
+  YOU draws 1  (hand now 7, library 23)
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 8)  [card 4 of 7 in hand]
+    effect: Nobleman of Crossout
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Magic Cylinder (S/T zone 8)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7000 / OPP 5900) ===
+  hand: YOU 4 / OPP 3   library: YOU 23 / OPP 24
+    YOU hand [exact]: Dream Clown, Mirror Force, Premature Burial, Scapegoat
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    OPP special summons Giant Rat to zone 2
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 5800
+    effect: Witch of the Black Forest
+  OPP SUMMONS Sangan in monster zone 0  [card 2 of 5 in hand]
+    effect: Amazon Archer
+    effect: Torrential Tribute
+    YOU loses 1200 LP -> 4600
+    effect: Sangan
+  OPP SETS Scapegoat (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Heavy Storm (S/T zone 9)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Call Of The Haunted
+    YOU special summons Morphing Jar to zone 0
+
+=== Turn 12: YOU   (LP YOU 4600 / OPP 5900) ===
+  hand: YOU 4 / OPP 3   library: YOU 23 / OPP 23
+    YOU hand [exact]: Dream Clown, Mirror Force, Premature Burial, Scapegoat
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Scapegoat (S/T zone 9)  [card 1 of 5 in hand]
+    effect: Scapegoat
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> 3200
+    OPP loses 1400 LP -> 4500
+  YOU SETS Mirror Force (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Scapegoat
+    effect: Mystical Space Typhoon
+
+=== Turn 13: OPP   (LP YOU 3200 / OPP 4500) ===
+  hand: YOU 3 / OPP 3   library: YOU 22 / OPP 23
+    YOU hand [exact]: Dream Clown, Premature Burial, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 3700
+    OPP special summons Giant Rat to zone 4
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 2000
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 800
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 3 in hand]
+    effect: Amazon Archer
+    YOU loses 1200 LP -> -400
+  [DUEL END]  final LP: YOU -400 / OPP 3700

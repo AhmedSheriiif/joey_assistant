@@ -1,0 +1,605 @@
+  OPP draws 5  (hand now 5, library 36)
+  YOU draws 5  (hand now 5, library 36)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 36
+    YOU (recorder) hand [exact]: Crush Card, Dust Tornado, Rush Recklessly, Solemn Judgment, Trap Hole
+    OPP hand [exact]: Ceasefire, Giant Germ, Magician of Faith, Skull Lair, Star Boy
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 6 in hand]
+  OPP SETS Skull Lair (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Crush Card, Dust Tornado, Rush Recklessly, Solemn Judgment, Trap Hole
+    OPP hand [exact]: Magician of Faith, Mask of Darkness, Star Boy
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Crush Card (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Trap Hole (S/T zone 6)  [card 3 of 4 in hand]
+  YOU SETS Dust Tornado (S/T zone 7)  [card 2 of 3 in hand]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 2 in hand]
+  YOU SETS Solemn Judgment (S/T zone 9)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 0 / OPP 3   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Magician of Faith, Mask of Darkness, Star Boy
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Star Boy in monster zone 1  [card 1 of 4 in hand]
+    effect: Trap Hole
+    effect: Ceasefire
+    YOU loses 1000 LP -> 7000
+  [battle phase]
+  OPP attacks with face-down Giant Germ (zone 0) -> YOU's face-down Greenkappa (zone 0)
+    effect: Crush Card
+    effect: Rush Recklessly
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 0 / OPP 3   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Greenkappa, Magician of Faith, Mask of Darkness
+  [draw phase]
+  YOU draws 1  (hand now 1, library 34)
+  [standby]
+  [main 1]
+    effect: Dust Tornado
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 0)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Greenkappa, Magician of Faith, Mask of Darkness
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Windstorm of Etaqua (S/T zone 5)  [card 2 of 4 in hand]
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 2   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Greenkappa, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 1, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down Mask of Darkness (zone 0)
+    OPP's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 0)
+    OPP loses 1400 LP -> 5200
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 5200) ===
+  hand: YOU 0 / OPP 2   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Greenkappa, Magician of Faith
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Skull Lair (S/T zone 6)  [card 1 of 3 in hand]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7000 / OPP 5200) ===
+  hand: YOU 0 / OPP 1   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's face-down Greenkappa (zone 0)
+    effect: Skull Lair
+    OPP's Greenkappa (zone 0) is destroyed in battle
+    effect: Greenkappa
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7000 / OPP 5200) ===
+  hand: YOU 1 / OPP 1   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    YOU loses 400 LP -> 6600
+    effect: Giant Germ
+    OPP loses 500 LP -> 4700
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6600 / OPP 4700) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 2 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 6600 / OPP 4700) ===
+  hand: YOU 2 / OPP 1   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 4200
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 3700
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6600 / OPP 3700) ===
+  hand: YOU 4 / OPP 1   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+    YOU special summons Giant Germ to zone 0
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6600 / OPP 3700) ===
+  hand: YOU 5 / OPP 1   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's face-down Blast Sphere (zone 2)
+    effect: Blast Sphere
+  [main 2]
+  OPP SETS Man-Eater Bug in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+    effect: Garuda the Wind Spirit
+
+=== Turn 14: YOU   (LP YOU 6600 / OPP 3700) ===
+  hand: YOU 5 / OPP 1   library: YOU 30 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [exact]: Aqua Spirit, Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  YOU SUMMONS Harpie's Brother in monster zone 1  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks with Harpie's Brother (zone 1) -> OPP's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 3300
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  YOU attacks with Giant Germ (zone 0) -> OPP's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 3200
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6600 / OPP 3200) ===
+  hand: YOU 5 / OPP 2   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit, Magician of Faith   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+    effect: Blast Sphere
+    OPP loses 1400 LP -> 1800
+  [main 1]
+    effect: Man-Eater Bug
+    effect: Skull Lair
+  OPP SETS Michizure (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SUMMONS Magician of Faith in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Magician of Faith (zone 0)
+    YOU loses 300 LP -> 6300
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 2)
+    YOU loses 450 LP -> 5850
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 5850 / OPP 1800) ===
+  hand: YOU 5 / OPP 1   library: YOU 29 / OPP 28
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Flying Kamakiri #1 in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 5850 / OPP 1800) ===
+  hand: YOU 5 / OPP 1   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystic Box (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Mystic Box
+  [battle phase]
+  OPP attacks with Man-Eater Bug (zone 2) -> YOU's face-down Flying Kamakiri #1 (zone 0)
+    YOU's face-down Flying Kamakiri #1 (zone 0) is destroyed in battle
+    YOU loses 150 LP -> 5700
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 5700 / OPP 1800) ===
+  hand: YOU 5 / OPP 1   library: YOU 28 / OPP 27
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS 4-Starred Ladybug of Doom in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks with 4-Starred Ladybug of Doom (zone 0) -> OPP's Man-Eater Bug (zone 2)
+    OPP's Man-Eater Bug (zone 2) is destroyed in battle
+    OPP loses 350 LP -> 1450
+    effect: Michizure
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 5700 / OPP 1450) ===
+  hand: YOU 5 / OPP 1   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Germ in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 4700
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 4700 / OPP 1450) ===
+  hand: YOU 5 / OPP 1   library: YOU 27 / OPP 26
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 4700 / OPP 1450) ===
+  hand: YOU 5 / OPP 1   library: YOU 26 / OPP 26
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Mask of Darkness (zone 0)
+    YOU's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 4700 / OPP 1450) ===
+  hand: YOU 5 / OPP 1   library: YOU 26 / OPP 25
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 4700 / OPP 1450) ===
+  hand: YOU 4 / OPP 1   library: YOU 25 / OPP 25
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  OPP SUMMONS Wall of Illusion in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Wall of Illusion (zone 1) -> YOU's face-down Blast Sphere (zone 0)
+    effect: Blast Sphere
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 3700
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 3700 / OPP 1450) ===
+  hand: YOU 4 / OPP 1   library: YOU 25 / OPP 24
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 7)  [card 2 of 5 in hand]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 25: OPP   (LP YOU 3700 / OPP 1450) ===
+  hand: YOU 3 / OPP 1   library: YOU 24 / OPP 24
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Wall of Illusion (zone 1) -> YOU's face-down Greenkappa (zone 0)
+    effect: Mirror Wall
+  OPP ACTIVATES Rush Recklessly (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Rush Recklessly
+    OPP loses 400 LP -> 1050
+  OPP attacks with Giant Germ (zone 0) -> YOU's Greenkappa (zone 0)
+    effect: Mirror Wall
+    OPP loses 50 LP -> 1000
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 3700 / OPP 1000) ===
+  hand: YOU 3 / OPP 1   library: YOU 24 / OPP 23
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 3700 / OPP 1000) ===
+  hand: YOU 3 / OPP 1   library: YOU 23 / OPP 23
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 22)
+    effect: Ring of Destruction
+    effect: Skull Lair
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Wall of Illusion (zone 1) -> YOU's Greenkappa (zone 0)
+    YOU's Greenkappa (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 3700 / OPP 1000) ===
+  hand: YOU 3 / OPP 1   library: YOU 23 / OPP 22
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 3700 / OPP 1000) ===
+  hand: YOU 4 / OPP 1   library: YOU 22 / OPP 22
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Wall of Illusion (zone 1)
+    YOU loses 1000 LP -> 2700
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 2700 / OPP 1000) ===
+  hand: YOU 4 / OPP 1   library: YOU 22 / OPP 21
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Skull Lair (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 2700 / OPP 1000) ===
+  hand: YOU 3 / OPP 1   library: YOU 21 / OPP 21
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 2  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Cannon Soldier (zone 2)
+    effect: Skull Lair
+  OPP attacks DIRECTLY with Wall of Illusion (zone 1)
+    effect: Skull Lair
+    effect: Skull Lair
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 2700 / OPP 1000) ===
+  hand: YOU 3 / OPP 1   library: YOU 21 / OPP 20
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 20)
+  [standby]
+  [main 1]
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 4 in hand]
+    effect: Solemn Judgment
+    OPP loses 500 LP -> 500
+    effect: Solemn Judgment
+    YOU loses 1350 LP -> 1350
+  [battle phase]
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 0)
+    effect: Skull Lair
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 20 / OPP 20
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 19)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 34: YOU   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 20 / OPP 19
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 19)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mask of Darkness in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mask of Darkness (zone 0)
+    effect: Waboku
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 35: OPP   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 19 / OPP 19
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 18)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 36: YOU   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 19 / OPP 18
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 18)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Mask of Darkness (zone 0)
+    effect: Mirror Force
+  [main 2]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 17)
+  YOU draws 1  (hand now 3, library 16)
+  YOU draws 1  (hand now 4, library 15)
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 37: OPP   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 15 / OPP 18
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 17)
+  [standby]
+  [main 1]
+  OPP SETS Trap Hole (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 38: YOU   (LP YOU 1350 / OPP 500) ===
+  hand: YOU 3 / OPP 1   library: YOU 15 / OPP 17
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 14)
+  [standby]
+  [main 1]
+  YOU SUMMONS Blast Sphere in monster zone 0  [card 1 of 4 in hand]
+    effect: Trap Hole
+    effect: Call Of The Haunted
+    YOU special summons Greenkappa to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Greenkappa (zone 0)
+    OPP loses 1600 LP -> -1100
+  [DUEL END]  final LP: YOU 1350 / OPP -1100

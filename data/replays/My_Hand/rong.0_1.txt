@@ -1,0 +1,474 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Mask of Darkness, Mirror Force, 2x Rush Recklessly, Skull Lair
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Magic Drain, Raigeki, Time Wizard
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Magic Drain (S/T zone 5)  [card 5 of 6 in hand]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 38
+    YOU (recorder) hand [exact]: Mask of Darkness, Mirror Force, 2x Rush Recklessly, Skull Lair
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Raigeki, Time Wizard
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 4 of 5 in hand]
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Mirror Force, Rush Recklessly, Skull Lair
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Raigeki, Time Wizard
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Dust Tornado
+  OPP ACTIVATES Last Will (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down Mask of Darkness (zone 0)
+    YOU's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  OPP attacks DIRECTLY with face-down Greenkappa (zone 0)
+    YOU loses 650 LP -> 7350
+  [main 2]
+  OPP SETS Axe of Despair (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7350 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Mirror Force, Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Harpie's Feather Duster, Raigeki, Time Wizard   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 3 of 4 in hand]
+  YOU SETS Mystic Box (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7350 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Mirror Force, Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Harpie's Feather Duster, Raigeki, Time Wizard   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Harpie's Feather Duster (S/T zone 6)  [card 3 of 6 in hand]
+    effect: Harpie's Feather Duster
+    effect: Dust Tornado
+    effect: Axe of Despair
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 2  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 2)
+    YOU loses 1800 LP -> 5550
+    effect: Kycoo the Ghost Destroyer
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1400 LP -> 4150
+  OPP attacks DIRECTLY with Greenkappa (zone 0)
+    YOU loses 650 LP -> 3500
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Mirror Force, Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 32 / OPP 36
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 2)
+    effect: Mirror Force
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 31 / OPP 35
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 31 / OPP 34
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS Skull Lair (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 30 / OPP 34
+    YOU (recorder) hand [exact]: Rush Recklessly
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 6)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 30 / OPP 33
+    YOU (recorder) hand [exact]: Rush Recklessly
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 29 / OPP 33
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 3500 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 29 / OPP 32
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    OPP loses 1100 LP -> 6900
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 3500 / OPP 6900) ===
+  hand: YOU 1 / OPP 5   library: YOU 28 / OPP 32
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: Raigeki, Time Wizard   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Time Wizard in monster zone 0  [card 1 of 6 in hand]
+    effect: Time Wizard
+    effect: Witch of the Black Forest
+  OPP ACTIVATES Axe of Despair (S/T zone 8)  [card 3 of 5 in hand]
+    effect: Axe of Despair
+  [battle phase]
+  OPP attacks DIRECTLY with Time Wizard (zone 0)
+    effect: Magic Cylinder
+    effect: Seven Tools of the Bandit
+    OPP loses 1000 LP -> 5900
+    YOU loses 1500 LP -> 2000
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 2000 / OPP 5900) ===
+  hand: YOU 2 / OPP 4   library: YOU 28 / OPP 31
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: Raigeki   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+    YOU special summons Mask of Darkness to zone 0
+  [battle phase]
+  YOU attacks with Mask of Darkness (zone 0) -> OPP's Time Wizard (zone 0)
+    OPP's Time Wizard (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 5800
+  [main 2]
+  YOU SETS Greenkappa in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 2000 / OPP 5800) ===
+  hand: YOU 2 / OPP 4   library: YOU 27 / OPP 31
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: Raigeki   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Copycat in monster zone 0  [card 2 of 5 in hand]
+    effect: Copycat
+  OPP ACTIVATES Raigeki (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Raigeki
+    effect: Solemn Judgment
+    YOU loses 1000 LP -> 1000
+    effect: Solemn Judgment
+    OPP loses 2900 LP -> 2900
+    effect: Dust Tornado
+    effect: Skull Lair
+  OPP SETS Trap Hole (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 1000 / OPP 2900) ===
+  hand: YOU 2 / OPP 2   library: YOU 27 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 0  [card 2 of 3 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 1000 / OPP 2900) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 30
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Banisher of the Light in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 1000 / OPP 2900) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Banisher of the Light (zone 0)
+    effect: Rush Recklessly
+    YOU loses 300 LP -> 700
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 2 / OPP 2   library: YOU 25 / OPP 29
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 2 / OPP 3   library: YOU 25 / OPP 28
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit   (+1 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Mask of Darkness in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 1 / OPP 3   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 26)
+  OPP draws 1  (hand now 3, library 25)
+  OPP draws 1  (hand now 4, library 24)
+  OPP SUMMONS Cannon Soldier in monster zone 1  [card 1 of 4 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 1 / OPP 3   library: YOU 24 / OPP 24
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 1 / OPP 3   library: YOU 23 / OPP 24
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  OPP SUMMONS Hysteric Fairy in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Hysteric Fairy (zone 1) -> YOU's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Robbin' Goblin (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 26: YOU   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 1 / OPP 2   library: YOU 23 / OPP 23
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Imperial Order (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Mask of Darkness
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 0 / OPP 2   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Hysteric Fairy (zone 1) -> YOU's face-down Mask of Darkness (zone 1)
+    effect: Mirror Force
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 0 / OPP 3   library: YOU 22 / OPP 22
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 0 / OPP 3   library: YOU 21 / OPP 22
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Mystical Space Typhoon
+    effect: Imperial Order
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 1) -> YOU's face-down Mask of Darkness (zone 1)
+    effect: Windstorm of Etaqua
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 700 / OPP 2900) ===
+  hand: YOU 0 / OPP 2   library: YOU 21 / OPP 21
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 20)
+  [standby]
+  [main 1]
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with face-down Mask of Darkness (zone 1) -> OPP's Kycoo the Ghost Destroyer (zone 1)
+    OPP's Kycoo the Ghost Destroyer (zone 1) is destroyed in battle
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's Banisher of the Light (zone 0)
+    OPP's Banisher of the Light (zone 0) is destroyed in battle
+    OPP loses 1300 LP -> 1600
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 700 / OPP 1600) ===
+  hand: YOU 0 / OPP 2   library: YOU 20 / OPP 21
+    YOU (recorder) hand [partly unknown]: Garuda the Wind Spirit
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 20)
+  [standby]
+  [main 1]
+    OPP special summons Banisher of the Light to zone 0
+  [battle phase]
+  OPP attacks with Banisher of the Light (zone 0) -> YOU's Mask of Darkness (zone 1)
+    YOU's Mask of Darkness (zone 1) is destroyed in battle
+    YOU loses 1300 LP -> -600
+  [DUEL END]  final LP: YOU -600 / OPP 1600

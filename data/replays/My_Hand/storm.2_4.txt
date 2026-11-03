@@ -1,0 +1,497 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Dark Hole, Premature Burial, Scapegoat, Seven Tools of the Bandit, United We Stand
+    OPP hand [exact]: Cure Mermaid, Mage Power, Man-Eater Bug, Nobleman of Crossout, Sangan
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 0  [card 6 of 6 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 4 in hand]
+  YOU SETS Premature Burial (S/T zone 7)  [card 1 of 3 in hand]
+  YOU SETS United We Stand (S/T zone 8)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Dark Hole
+    OPP hand [exact]: Cure Mermaid, Mage Power, Man-Eater Bug, Nobleman of Crossout, Sangan
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Dark Hole
+    OPP hand [exact]: Cure Mermaid, Mage Power, Man-Eater Bug, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+    effect: Sangan
+  YOU SETS Morphing Jar in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Dark Hole
+    OPP hand [partly unknown]: Cure Mermaid, Mage Power, Man-Eater Bug, Nobleman of Crossout   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Nobleman of Crossout
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Dark Hole
+    OPP hand [partly unknown]: Cure Mermaid, Mage Power, Man-Eater Bug
+  [draw phase]
+  YOU draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Dark Hole
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 0 / OPP 3   library: YOU 32 / OPP 33
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Cure Mermaid, Mage Power, Man-Eater Bug
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 0 / OPP 2   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug
+  [draw phase]
+  YOU draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 0  [card 2 of 2 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    YOU special summons Magician of Faith to zone 1
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Cure Mermaid (zone 0)
+    OPP's Cure Mermaid (zone 0) is destroyed in battle
+    OPP loses 1100 LP -> 6900
+  YOU attacks DIRECTLY with Magician of Faith (zone 1)
+    OPP loses 1200 LP -> 5700
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7200 / OPP 5700) ===
+  hand: YOU 1 / OPP 2   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 8)  [card 3 of 3 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 30)
+  OPP draws 1  (hand now 2, library 29)
+  OPP draws 1  (hand now 3, library 28)
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Magician of Faith (zone 1)
+    YOU's Magician of Faith (zone 1) is destroyed in battle
+    YOU loses 200 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7000 / OPP 5700) ===
+  hand: YOU 1 / OPP 2   library: YOU 31 / OPP 28
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 7)  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Mother Grizzly (zone 0)
+    effect: Scapegoat
+    effect: Mystical Space Typhoon
+    YOU's Sangan (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 6600
+    effect: Sangan
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6600 / OPP 5700) ===
+  hand: YOU 2 / OPP 2   library: YOU 30 / OPP 28
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier   (+1 unknown)
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  [main 2]
+  OPP SETS Greenkappa in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6600 / OPP 5700) ===
+  hand: YOU 2 / OPP 2   library: YOU 30 / OPP 27
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier   (+1 unknown)
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 1 of 3 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 4500
+  [battle phase]
+  YOU attacks with Amazon Archer (zone 0) -> OPP's face-down Greenkappa (zone 1)
+    OPP's Greenkappa (zone 1) is destroyed in battle
+    effect: Greenkappa
+  [main 2]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 3300
+  YOU SETS Dark Hole (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6600 / OPP 3300) ===
+  hand: YOU 1 / OPP 2   library: YOU 29 / OPP 27
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power, Man-Eater Bug   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 5200
+  [main 2]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 1 / OPP 2   library: YOU 29 / OPP 26
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+    effect: Dark Hole
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 2 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    effect: Scapegoat
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Mirror Wall (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 26
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 25
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 0 / OPP 2   library: YOU 27 / OPP 25
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 24)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Crush Card (S/T zone 5)  [card 3 of 3 in hand]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 0 / OPP 1   library: YOU 27 / OPP 24
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Bait Doll (S/T zone 7)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 5200 / OPP 3300) ===
+  hand: YOU 0 / OPP 1   library: YOU 26 / OPP 24
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: Mage Power   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+    OPP special summons a monster to zone 3
+  OPP ACTIVATES Mage Power (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks with unknown monster (zone 3) -> YOU's Bazoo the Soul-Eater (zone 0)
+    effect: Mirror Wall
+    effect: Crush Card
+  OPP attacks DIRECTLY with unknown monster (zone 3)
+    YOU loses 1300 LP -> 3900
+  [main 2]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 0 / OPP 0   library: YOU 26 / OPP 23
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 25)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+    effect: Bait Doll
+    effect: Call Of The Haunted
+    effect: Call Of The Haunted
+    OPP special summons a monster to zone 4
+    effect: Torrential Tribute
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 0 / OPP 0   library: YOU 25 / OPP 23
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 22)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  OPP SETS Ekibyo Drakmord (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 0 / OPP 0   library: YOU 25 / OPP 22
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 24)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 1 / OPP 0   library: YOU 24 / OPP 22
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier   (+1 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 21)
+  [standby]
+  [main 1]
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down Mask of Darkness (zone 0)
+    YOU's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 1 / OPP 1   library: YOU 24 / OPP 21
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 1 of 2 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 3900 / OPP 3300) ===
+  hand: YOU 0 / OPP 1   library: YOU 23 / OPP 21
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1600 LP -> 1700
+  [main 2]
+  OPP SETS Mother Grizzly in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 3900 / OPP 1700) ===
+  hand: YOU 0 / OPP 1   library: YOU 23 / OPP 20
+    YOU (recorder) hand [partly unknown]: Kinetic Soldier
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 3900 / OPP 1700) ===
+  hand: YOU 0 / OPP 1   library: YOU 22 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 19)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Bait Doll (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Bait Doll
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down Kinetic Soldier (zone 0)
+    OPP loses 200 LP -> 1500
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 3900 / OPP 1500) ===
+  hand: YOU 0 / OPP 1   library: YOU 22 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 21)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  YOU SUMMONS Mad Sword Beast in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Mad Sword Beast (zone 1) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+    OPP loses 1150 LP -> 350
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 3900 / OPP 350) ===
+  hand: YOU 0 / OPP 1   library: YOU 21 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 18)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Mother Grizzly (zone 2) -> YOU's Mad Sword Beast (zone 1)
+    OPP's Mother Grizzly (zone 2) is destroyed in battle
+    YOU's Mad Sword Beast (zone 1) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  OPP attacks with unknown monster (zone 1) -> YOU's Kinetic Soldier (zone 0)
+    YOU's Kinetic Soldier (zone 0) is destroyed in battle
+    YOU loses 250 LP -> 3650
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 2250
+  [main 2]
+  OPP SETS Bait Doll (S/T zone 6)  [card 2 of 3 in hand]
+  OPP SETS Sinister Serpent in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 2250 / OPP 350) ===
+  hand: YOU 0 / OPP 1   library: YOU 21 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 20)
+  [standby]
+  [main 1]
+  YOU SETS Bait Doll (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 2250 / OPP 350) ===
+  hand: YOU 0 / OPP 1   library: YOU 20 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 17)
+  [standby]
+  [main 1]
+    effect: Bait Doll
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 850
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1600 LP -> -750
+  [DUEL END]  final LP: YOU -750 / OPP 350

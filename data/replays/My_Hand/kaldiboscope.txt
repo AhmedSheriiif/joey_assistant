@@ -1,0 +1,193 @@
+  OPP draws 5  (hand now 5, library 38)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 38
+    YOU hand [exact]: Giant Germ, Mirror Force, 2x Slate Warrior, United We Stand
+    OPP (recorder) hand [exact]: Mystic Tomato, Penguin Soldier, Ring of Destruction, Sangan, Scapegoat
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 39 / OPP 37
+    YOU hand [exact]: Giant Germ, Mirror Force, 2x Slate Warrior, United We Stand
+    OPP (recorder) hand [exact]: Mystic Tomato, Mystical Space Typhoon, Sangan, Scapegoat
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS United We Stand (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 38 / OPP 37
+    YOU hand [exact]: Jinzo, Mirror Force, 2x Slate Warrior
+    OPP (recorder) hand [exact]: Mystic Tomato, Mystical Space Typhoon, Sangan, Scapegoat
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  OPP SUMMONS Sangan in monster zone 0  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 38 / OPP 36
+    YOU hand [exact]: Jinzo, Mirror Force, 2x Slate Warrior
+    OPP (recorder) hand [exact]: Mystic Tomato, Mystical Space Typhoon, Scapegoat, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's Sangan (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1000 LP -> 6000
+    OPP loses 1000 LP -> 7000
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6000 / OPP 7000) ===
+  hand: YOU 3 / OPP 4   library: YOU 37 / OPP 36
+    YOU hand [exact]: Jinzo, Man-Eater Bug, 2x Slate Warrior
+    OPP (recorder) hand [exact]: Mystic Tomato, Mystical Space Typhoon, Scapegoat, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1000 LP -> 5000
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 4 of 4 in hand]
+  OPP SETS Mystic Tomato in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5000 / OPP 7000) ===
+  hand: YOU 3 / OPP 2   library: YOU 37 / OPP 35
+    YOU hand [exact]: Jinzo, Man-Eater Bug, 2x Slate Warrior
+    OPP (recorder) hand [exact]: Scapegoat, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's face-down Mystic Tomato (zone 1)
+    OPP's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 1
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5000 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 35
+    YOU hand [exact]: Jinzo, Man-Eater Bug, Slate Warrior, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: Scapegoat, Slate Warrior   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+    effect: Cannon Soldier
+    effect: Scapegoat
+    YOU loses 500 LP -> 4500
+    effect: Sangan
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 4000
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 3500
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 3000
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 2500
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 5 in hand]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 2000
+    effect: Witch of the Black Forest
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1500
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 1500 / OPP 7000) ===
+  hand: YOU 3 / OPP 4   library: YOU 36 / OPP 34
+    YOU hand [exact]: Jinzo, Man-Eater Bug, Slate Warrior, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: Scapegoat, Slate Warrior   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 0  [card 2 of 4 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Jinzo (zone 0)
+    effect: Kuriboh
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 1500 / OPP 7000) ===
+  hand: YOU 3 / OPP 4   library: YOU 35 / OPP 34
+    YOU hand [exact]: Giant Germ, Man-Eater Bug, Slate Warrior, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: Scapegoat, Slate Warrior   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 7)  [card 1 of 5 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 1500 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 35 / OPP 33
+    YOU hand [exact]: Giant Germ, Man-Eater Bug, Slate Warrior, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: Slate Warrior   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Scapegoat
+
+=== Turn 11: OPP   (LP YOU 1500 / OPP 7000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 33
+    YOU hand [exact]: Giant Germ, Mystic Tomato, Slate Warrior, Swords of Revealing Light
+    OPP (recorder) hand [partly unknown]: Slate Warrior   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    OPP special summons Penguin Soldier to zone 4
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1000
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 500
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 0
+  [DUEL END]  final LP: YOU 0 / OPP 7000

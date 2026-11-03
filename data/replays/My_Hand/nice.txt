@@ -1,0 +1,307 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 38)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 38
+    YOU hand [exact]: Cannon Soldier, Dream Clown, Kinetic Soldier, Pot of Greed, Witch of the Black Forest
+    OPP (recorder) hand [exact]: Cannon Soldier, Ceasefire, Dark Hole, Giant Trunade, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 38
+    YOU hand [exact]: Cannon Soldier, Dream Clown, Kinetic Soldier, Morphing Jar, Pot of Greed
+    OPP (recorder) hand [exact]: Cannon Soldier, Ceasefire, Dark Hole, Giant Trunade, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 800 LP -> 7200
+    effect: Witch of the Black Forest
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 7200 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 34 / OPP 37
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Kinetic Soldier, Morphing Jar, Pot of Greed   (+1 unknown)
+    OPP (recorder) hand [exact]: Cannon Soldier, Dark Hole, Giant Trunade, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7200 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 33 / OPP 37
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Kinetic Soldier, Morphing Jar, Pot of Greed   (+1 unknown)
+    OPP (recorder) hand [exact]: Cannon Soldier, Dark Hole, Giant Trunade, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 1  [card 1 of 5 in hand]
+    effect: Ceasefire
+    YOU loses 1500 LP -> 5700
+  OPP SETS Waboku (S/T zone 5)  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Giant Rat (zone 0)
+    YOU's face-down Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 5700 / OPP 8000) ===
+  hand: YOU 7 / OPP 3   library: YOU 33 / OPP 36
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Kinetic Soldier, Morphing Jar, Pot of Greed   (+2 unknown)
+    OPP (recorder) hand [exact]: Dark Hole, Giant Trunade, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 8, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Cannon Soldier (zone 1)
+    effect: Waboku
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  YOU attacks with Giant Rat (zone 0) -> OPP's Cannon Soldier (zone 1)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  YOU attacks with Giant Rat (zone 0) -> OPP's Slate Warrior (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    YOU loses 700 LP -> 5000
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 10 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 5000 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 32 / OPP 36
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar, Pot of Greed   (up to 3 of these already discarded; +5 unknown)
+    OPP (recorder) hand [exact]: Dark Hole, Giant Trunade, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1400 LP -> 3600
+  OPP attacks DIRECTLY with Cannon Soldier (zone 1)
+    YOU loses 1400 LP -> 2200
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1700
+  OPP SETS Giant Trunade (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 1700 / OPP 8000) ===
+  hand: YOU 6 / OPP 1   library: YOU 32 / OPP 35
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar, Pot of Greed   (up to 3 of these already discarded; +5 unknown)
+    OPP (recorder) hand [exact]: Dark Hole
+  [draw phase]
+  YOU draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 7 of 7 in hand]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 30)
+  YOU draws 1  (hand now 7, library 29)
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 1700 / OPP 8000) ===
+  hand: YOU 6 / OPP 1   library: YOU 29 / OPP 35
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar   (up to 3 of these already discarded; +6 unknown)
+    OPP (recorder) hand [exact]: Dark Hole
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 1700 / OPP 8000) ===
+  hand: YOU 6 / OPP 2   library: YOU 29 / OPP 34
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar   (up to 3 of these already discarded; +6 unknown)
+    OPP (recorder) hand [exact]: Dark Hole, Sangan
+  [draw phase]
+  YOU draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 6)  [card 7 of 7 in hand]
+    effect: Snatch Steal
+  YOU SUMMONS Jinzo in monster zone 1  [card 6 of 6 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Jinzo (zone 1)
+    OPP loses 2400 LP -> 5600
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 1700 / OPP 5600) ===
+  hand: YOU 5 / OPP 2   library: YOU 28 / OPP 34
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar   (up to 3 of these already discarded; +5 unknown)
+    OPP (recorder) hand [exact]: Dark Hole, Sangan
+  [draw phase]
+  OPP draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Dark Hole
+  OPP SUMMONS Sangan in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    effect: Scapegoat
+  OPP attacks with Sangan (zone 0) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's face-down Nimble Momonga (zone 0) is destroyed in battle
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 1700 / OPP 5600) ===
+  hand: YOU 5 / OPP 1   library: YOU 28 / OPP 33
+    YOU hand [partly unknown]: Cannon Soldier, Dream Clown, Morphing Jar   (up to 3 of these already discarded; +5 unknown)
+    OPP (recorder) hand [exact]: Heavy Storm
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Mystical Space Typhoon
+  YOU SUMMONS Cannon Soldier in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 0) -> OPP's Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 5200
+    effect: Sangan
+  [main 2]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 4700
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 4200
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 1700 / OPP 4200) ===
+  hand: YOU 4 / OPP 2   library: YOU 27 / OPP 33
+    YOU hand [partly unknown]: Dream Clown, Morphing Jar   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 3, library 31)
+  OPP draws 1  (hand now 4, library 30)
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Cannon Soldier (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    YOU's Cannon Soldier (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Jinzo (zone 1)
+    YOU's Jinzo (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 1700 / OPP 4200) ===
+  hand: YOU 4 / OPP 3   library: YOU 27 / OPP 30
+    YOU hand [partly unknown]: Dream Clown, Morphing Jar   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 1700 / OPP 4200) ===
+  hand: YOU 3 / OPP 3   library: YOU 26 / OPP 30
+    YOU hand [partly unknown]: Dream Clown, Morphing Jar   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 1700 / OPP 4200) ===
+  hand: YOU 3 / OPP 3   library: YOU 26 / OPP 29
+    YOU hand [partly unknown]: Dream Clown, Morphing Jar   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Nobleman of Crossout
+    effect: Man-Eater Bug
+    effect: Witch of the Black Forest
+  YOU SUMMONS Dream Clown in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dream Clown (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1200 LP -> 500
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 3750
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 500 / OPP 3750) ===
+  hand: YOU 1 / OPP 4   library: YOU 25 / OPP 29
+    YOU hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Heavy Storm
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 500 / OPP 3750) ===
+  hand: YOU 1 / OPP 3   library: YOU 25 / OPP 28
+    YOU hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+    effect: Ring of Destruction
+    YOU loses 1200 LP -> -700
+    OPP loses 1200 LP -> 2550
+  [DUEL END]  final LP: YOU -700 / OPP 2550

@@ -1,0 +1,517 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Crass Clown, Dimensional Warrior, Mirror Force, Mystic Tomato, Mystical Space Typhoon
+    OPP hand [exact]: Dimensional Warrior, Ekibyo Drakmord, Fissure, Giant Rat, Nightmare's Steelcage
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Bait Doll (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Crass Clown, Dimensional Warrior, Mirror Force, Mystic Tomato, Mystical Space Typhoon
+    OPP hand [exact]: Dimensional Warrior, Ekibyo Drakmord, Fissure, Nightmare's Steelcage
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Mystical Space Typhoon
+  YOU SETS Mirror Force (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Crass Clown in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Cannon Soldier, Dimensional Warrior, Mystic Tomato
+    OPP hand [exact]: Dimensional Warrior, Ekibyo Drakmord, Fissure, Nightmare's Steelcage
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Giant Rat (zone 0) -> YOU's face-down Crass Clown (zone 0)
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Cannon Soldier, Dimensional Warrior, Mystic Tomato
+    OPP hand [exact]: Dream Clown, Ekibyo Drakmord, Fissure, Nightmare's Steelcage
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 2 of 4 in hand]
+    effect: Crass Clown
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's Giant Rat (zone 0)
+    YOU's Dimensional Warrior (zone 1) is destroyed in battle
+    YOU loses 200 LP -> 7800
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Crass Clown (zone 0)
+    OPP loses 1350 LP -> 6650
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7800 / OPP 6650) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Cannon Soldier, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Dream Clown, Ekibyo Drakmord, Fissure, Nightmare's Steelcage
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Ekibyo Drakmord (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Ekibyo Drakmord
+  OPP SUMMONS Dream Clown in monster zone 0  [card 3 of 4 in hand]
+  OPP SETS Rush Recklessly (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7800 / OPP 6650) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Cannon Soldier, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Fissure, Nightmare's Steelcage
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cannon Soldier in monster zone 1  [card 2 of 4 in hand]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 6150
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's Dream Clown (zone 0)
+    effect: Rush Recklessly
+    YOU's Cannon Soldier (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 7300
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7300 / OPP 6150) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Graceful Charity, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Fissure, Nightmare's Steelcage
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Dream Clown (zone 0)
+    YOU loses 1200 LP -> 6100
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Acid Trap Hole (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6100 / OPP 6150) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: Graceful Charity, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Fissure, Nightmare's Steelcage
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Dream Clown (zone 0)
+    OPP's Dream Clown (zone 0) is destroyed in battle
+    OPP loses 200 LP -> 5950
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Graceful Charity, Slate Warrior
+    OPP hand [exact]: Fissure, Nightmare's Steelcage
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 3 of 3 in hand]
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Fissure
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Mirror Force
+  [main 2]
+  OPP ACTIVATES Nightmare's Steelcage (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Nightmare's Steelcage
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 3 / OPP 0   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Graceful Charity, Slate Warrior
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 29)
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 4 in hand]
+  YOU SETS Wall of Illusion in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Acid Trap Hole
+
+=== Turn 11: OPP   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 2 / OPP 0   library: YOU 27 / OPP 30
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Mystic Tomato, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 0  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 2 / OPP 0   library: YOU 27 / OPP 29
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Mystic Tomato, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 3 / OPP 0   library: YOU 26 / OPP 29
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Mystic Tomato, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Dimensional Warrior (zone 0)
+    effect: Scapegoat
+  [main 2]
+  OPP SETS Giant Rat in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6100 / OPP 5950) ===
+  hand: YOU 3 / OPP 0   library: YOU 26 / OPP 28
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Ekibyo Drakmord, Mystic Tomato, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 4  [card 2 of 4 in hand]
+  YOU SETS Ceasefire (S/T zone 5)  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Wall of Illusion (zone 0) -> OPP's Dimensional Warrior (zone 0)
+    YOU's Wall of Illusion (zone 0) is destroyed in battle
+    YOU loses 1200 LP -> 4900
+    effect: Dimensional Warrior
+  YOU attacks with Mystic Tomato (zone 4) -> OPP's face-down Giant Rat (zone 1)
+    YOU loses 50 LP -> 4850
+  [main 2]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 4850 / OPP 5950) ===
+  hand: YOU 1 / OPP 0   library: YOU 25 / OPP 28
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 4850 / OPP 5950) ===
+  hand: YOU 1 / OPP 1   library: YOU 25 / OPP 27
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: Mystic Box
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 4850 / OPP 5950) ===
+  hand: YOU 2 / OPP 1   library: YOU 24 / OPP 27
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Slate Warrior, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: Mystic Box
+  [draw phase]
+  OPP draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mad Sword Beast in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Mad Sword Beast (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+    YOU loses 1400 LP -> 3450
+  [main 2]
+  OPP ACTIVATES Mystic Box (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Mystic Box
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 3450 / OPP 5950) ===
+  hand: YOU 2 / OPP 0   library: YOU 24 / OPP 26
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Blast Sphere, Slate Warrior, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 3 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's Mad Sword Beast (zone 0)
+    OPP's Mad Sword Beast (zone 0) is destroyed in battle
+    OPP loses 1100 LP -> 4850
+  [main 2]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 2 of 2 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 3450 / OPP 4850) ===
+  hand: YOU 1 / OPP 0   library: YOU 23 / OPP 26
+    YOU (recorder) hand [exact]: Blast Sphere, Slate Warrior, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Dark Hole
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 3450 / OPP 4850) ===
+  hand: YOU 1 / OPP 0   library: YOU 23 / OPP 25
+    YOU (recorder) hand [exact]: Blast Sphere, Slate Warrior, Wall of Illusion   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Wall of Illusion in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Wall of Illusion (zone 0)
+    OPP loses 1000 LP -> 3850
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 3450 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 22 / OPP 25
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 3450 / OPP 3850) ===
+  hand: YOU 1 / OPP 0   library: YOU 22 / OPP 24
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 1000 LP -> 2850
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 3450 / OPP 2850) ===
+  hand: YOU 2 / OPP 0   library: YOU 21 / OPP 24
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  OPP SETS Windstorm of Etaqua (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 3450 / OPP 2850) ===
+  hand: YOU 2 / OPP 0   library: YOU 21 / OPP 23
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 20)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 3450 / OPP 2850) ===
+  hand: YOU 2 / OPP 0   library: YOU 20 / OPP 23
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 22)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 0) -> YOU's face-down Blast Sphere (zone 1)
+    effect: Blast Sphere
+  [main 2]
+  OPP SETS Kinetic Soldier in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 3450 / OPP 2850) ===
+  hand: YOU 2 / OPP 0   library: YOU 20 / OPP 22
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 19)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 3450 / OPP 2850) ===
+  hand: YOU 2 / OPP 0   library: YOU 19 / OPP 22
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 21)
+  [standby]
+    effect: Blast Sphere
+    OPP loses 1000 LP -> 1850
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 1 of 1 in hand]
+    effect: Windstorm of Etaqua
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's Wall of Illusion (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    YOU's Wall of Illusion (zone 0) is destroyed in battle
+    effect: Wall of Illusion
+    -> Wall of Illusion returns OPP's attacking Nimble Momonga to its owner's hand (damage still counts)
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 2850
+  OPP attacks DIRECTLY with face-down Kinetic Soldier (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1350 LP -> 1500
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 19 / OPP 21
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 18)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 18 / OPP 21
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 18 / OPP 20
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 17)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 17 / OPP 20
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 19)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+    effect: Torrential Tribute
+  OPP SETS Trap Hole (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 17 / OPP 19
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 16)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 16 / OPP 19
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 18)
+  [standby]
+  [main 1]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 34: YOU   (LP YOU 3450 / OPP 1500) ===
+  hand: YOU 2 / OPP 1   library: YOU 16 / OPP 18
+    YOU (recorder) hand [exact]: Blast Sphere, Dark Hole, Slate Warrior, United We Stand   (up to 2 of these already discarded)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 15)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Dark Hole
+    effect: Call Of The Haunted
+    YOU special summons Wall of Illusion to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Wall of Illusion (zone 0)
+    OPP loses 1900 LP -> -400
+  [DUEL END]  final LP: YOU 3450 / OPP -400

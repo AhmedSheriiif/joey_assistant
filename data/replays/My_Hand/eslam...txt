@@ -1,0 +1,120 @@
+  OPP draws 5  (hand now 5, library 43)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 43
+    YOU hand [exact]: Giant Trunade, Kinetic Soldier, 2x Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Slate Warrior, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 42
+    YOU hand [exact]: Giant Trunade, Kinetic Soldier, 2x Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Graceful Charity, Monster Reborn, Nobleman of Crossout, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Nobleman of Crossout (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Giant Trunade (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 42
+    YOU hand [exact]: Nobleman of Crossout, Penguin Soldier, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Graceful Charity, Monster Reborn, Nobleman of Crossout, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 6, library 41)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 40)
+  OPP draws 1  (hand now 5, library 39)
+  OPP draws 1  (hand now 6, library 38)
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 6100
+  [main 2]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 38
+    YOU hand [exact]: Nobleman of Crossout, Penguin Soldier, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Last Will, Monster Reborn, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  YOU SETS Nobleman of Crossout (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 38
+    YOU hand [exact]: Dream Clown, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Last Will, Monster Reborn, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 4200
+  [main 2]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 4200 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 37
+    YOU hand [exact]: Dream Clown, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Last Will, Monster Reborn, Nimble Momonga, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+    effect: Nobleman of Crossout
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 4200 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 37
+    YOU hand [exact]: Dream Clown, Snatch Steal, The Rock Spirit
+    OPP (recorder) hand [exact]: Amazon Archer, Last Will, Monster Reborn, Nimble Momonga, Nobleman of Crossout, Snatch Steal   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 1  [card 5 of 5 in hand]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 2300
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    YOU loses 1100 LP -> 1200
+  [main 2]
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 2
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 0
+  [DUEL END]  final LP: YOU 0 / OPP 8000

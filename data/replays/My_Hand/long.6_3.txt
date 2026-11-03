@@ -1,0 +1,286 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU hand [exact]: Dimensional Warrior, Giant Germ, Imperial Order, Swords of Revealing Light, The Rock Spirit
+    OPP (recorder) hand [exact]: Cannon Soldier, Harpie's Feather Duster, Last Will, Morphing Jar, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Graceful Charity (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Harpie's Feather Duster (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 38
+    YOU hand [exact]: Dimensional Warrior, Giant Germ, Imperial Order, Swords of Revealing Light, The Rock Spirit
+    OPP (recorder) hand [exact]: Cannon Soldier, Last Will, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Swords of Revealing Light
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 37)
+  OPP draws 1  (hand now 2, library 36)
+  OPP draws 1  (hand now 3, library 35)
+  OPP draws 1  (hand now 4, library 34)
+  OPP draws 1  (hand now 5, library 33)
+  YOU draws 1  (hand now 1, library 33)
+  YOU draws 1  (hand now 2, library 32)
+  YOU draws 1  (hand now 3, library 31)
+  YOU draws 1  (hand now 4, library 30)
+  YOU draws 1  (hand now 5, library 29)
+  YOU SUMMONS Kinetic Soldier in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's face-down Morphing Jar (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 29 / OPP 33
+    YOU hand [exact]: Ring of Destruction, Snatch Steal, Tribute to The Doomed
+    OPP (recorder) hand [exact]: Cure Mermaid, Dimensional Warrior, Mother Grizzly, Sangan, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 5, library 31)
+  OPP draws 1  (hand now 6, library 30)
+  OPP draws 1  (hand now 7, library 29)
+    effect: Harpie's Feather Duster
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 7 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Kinetic Soldier (zone 0)
+    YOU's Kinetic Soldier (zone 0) is destroyed in battle
+    YOU loses 550 LP -> 7450
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7450 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 29 / OPP 29
+    YOU hand [exact]: Ring of Destruction, Snatch Steal, Tribute to The Doomed
+    OPP (recorder) hand [exact]: Cure Mermaid, Dimensional Warrior, Last Will, 2x Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1900 LP -> 6100
+  [main 2]
+  YOU SETS Robbin' Goblin (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS Ring of Destruction (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7450 / OPP 6100) ===
+  hand: YOU 1 / OPP 5   library: YOU 28 / OPP 29
+    YOU hand [exact]: Tribute to The Doomed
+    OPP (recorder) hand [exact]: Cure Mermaid, Dimensional Warrior, Last Will, 2x Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 28)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 7100
+  [main 1]
+  OPP SETS Kunai with Chain (S/T zone 6)  [card 6 of 6 in hand]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7450 / OPP 7100) ===
+  hand: YOU 1 / OPP 4   library: YOU 28 / OPP 28
+    YOU hand [exact]: Tribute to The Doomed
+    OPP (recorder) hand [exact]: Cure Mermaid, Dimensional Warrior, Last Will, Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 1) -> OPP's face-down Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  YOU attacks with unknown monster (zone 0) -> OPP's Mother Grizzly (zone 0)
+    effect: Robbin' Goblin
+    effect: Kunai with Chain
+    YOU's unknown monster (zone 0) is destroyed in battle
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7450 / OPP 7100) ===
+  hand: YOU 1 / OPP 6   library: YOU 27 / OPP 28
+    YOU hand [exact]: Tribute to The Doomed
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Dimensional Warrior, Last Will, Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 27)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 7900
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 1  [card 5 of 7 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 1) -> YOU's Dream Clown (zone 1)
+    effect: Ring of Destruction
+    OPP loses 1800 LP -> 6100
+    YOU loses 1800 LP -> 5650
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Dream Clown (zone 1)
+    YOU's Dream Clown (zone 1) is destroyed in battle
+    YOU loses 300 LP -> 5350
+  [main 2]
+  OPP SETS Last Will (S/T zone 6)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5350 / OPP 6100) ===
+  hand: YOU 1 / OPP 5   library: YOU 27 / OPP 27
+    YOU hand [exact]: Tribute to The Doomed
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Dimensional Warrior, Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 2 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 25)
+  YOU draws 1  (hand now 2, library 24)
+  YOU draws 1  (hand now 3, library 23)
+  YOU SETS Dust Tornado (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Trap Hole (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5350 / OPP 6100) ===
+  hand: YOU 1 / OPP 5   library: YOU 23 / OPP 27
+    YOU hand [exact]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Dimensional Warrior, Mother Grizzly, Mystic Tomato, Sangan   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 26)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 6900
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1500 LP -> 3850
+  [main 2]
+  OPP SETS The Forceful Sentry (S/T zone 7)  [card 4 of 6 in hand]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 3850 / OPP 6900) ===
+  hand: YOU 1 / OPP 4   library: YOU 23 / OPP 26
+    YOU hand [exact]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Dimensional Warrior, Mother Grizzly, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 3850 / OPP 6900) ===
+  hand: YOU 1 / OPP 4   library: YOU 22 / OPP 26
+    YOU hand [exact]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Dimensional Warrior, Mother Grizzly, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 7700
+  [main 1]
+  OPP SETS Axe of Despair (S/T zone 8)  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  OPP attacks DIRECTLY with face-down Sangan (zone 1)
+    YOU loses 1000 LP -> 2850
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 2850 / OPP 7700) ===
+  hand: YOU 1 / OPP 3   library: YOU 22 / OPP 25
+    YOU hand [exact]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Mother Grizzly, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 2850 / OPP 7700) ===
+  hand: YOU 1 / OPP 3   library: YOU 21 / OPP 25
+    YOU hand [exact]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Mother Grizzly, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+    effect: Trap Hole
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 7200
+    YOU special summons Giant Germ to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 2450
+    effect: Giant Germ
+    OPP loses 500 LP -> 6700
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 2450 / OPP 6700) ===
+  hand: YOU 3 / OPP 3   library: YOU 21 / OPP 24
+    YOU hand [partly unknown]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Mother Grizzly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 20)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 2450 / OPP 6700) ===
+  hand: YOU 4 / OPP 3   library: YOU 20 / OPP 24
+    YOU hand [partly unknown]: Seven Tools of the Bandit, Tribute to The Doomed   (up to 1 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Cure Mermaid, Mother Grizzly   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1400 LP -> 1050
+  OPP attacks DIRECTLY with Sangan (zone 1)
+  OPP ACTIVATES Rush Recklessly (S/T zone 9)  [card 1 of 4 in hand]
+    effect: Rush Recklessly
+    YOU loses 1700 LP -> -650
+  [DUEL END]  final LP: YOU -650 / OPP 6700

@@ -1,0 +1,233 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Greenkappa, Mask of Darkness, Rush Recklessly, Sangan
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Flying Kamakiri #1, Hysteric Fairy, Senju of the Thousand Hands
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 3 of 5 in hand]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Greenkappa, Mask of Darkness
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Flying Kamakiri #1, Hysteric Fairy, Senju of the Thousand Hands
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Senju of the Thousand Hands in monster zone 0  [card 3 of 6 in hand]
+    effect: Senju of the Thousand Hands
+  OPP ACTIVATES Black Illusion Ritual (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Black Illusion Ritual
+    OPP special summons a monster to zone 1
+    effect: Relinquished
+    OPP special summons a monster to zone 2
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 2)
+    YOU loses 1600 LP -> 6400
+  OPP attacks DIRECTLY with Senju of the Thousand Hands (zone 0)
+    YOU loses 1400 LP -> 5000
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 5000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Greenkappa, Mask of Darkness
+    OPP hand [exact]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Hysteric Fairy
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 7)  [card 4 of 4 in hand]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 5000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Greenkappa, Mask of Darkness
+    OPP hand [exact]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Hysteric Fairy
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP loses 1200 LP -> 6800
+    effect: Relinquished
+    YOU loses 1200 LP -> 3800
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 3800 / OPP 6800) ===
+  hand: YOU 2 / OPP 5   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Greenkappa, Mask of Darkness
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Hysteric Fairy, Rising Air Current
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with 4-Starred Ladybug of Doom (zone 0) -> OPP's unknown monster (zone 1)
+    OPP loses 800 LP -> 6000
+    effect: Relinquished
+    YOU loses 800 LP -> 3000
+    effect: Sangan
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    OPP loses 1100 LP -> 4900
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 3000 / OPP 4900) ===
+  hand: YOU 3 / OPP 5   library: YOU 32 / OPP 33
+    YOU (recorder) hand [partly unknown]: Greenkappa, Mask of Darkness   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Hysteric Fairy, Rising Air Current
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Hysteric Fairy in monster zone 1  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks with Hysteric Fairy (zone 1) -> YOU's 4-Starred Ladybug of Doom (zone 0)
+    YOU's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    YOU loses 1000 LP -> 2000
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 2000 / OPP 4900) ===
+  hand: YOU 3 / OPP 5   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Greenkappa, Mask of Darkness   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's Hysteric Fairy (zone 1)
+    effect: Rush Recklessly
+    OPP's Hysteric Fairy (zone 1) is destroyed in battle
+    OPP loses 300 LP -> 4600
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 100 LP -> 1900
+    effect: 4-Starred Ladybug of Doom
+    effect: Witch of the Black Forest
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 4 in hand]
+    YOU special summons 4-Starred Ladybug of Doom to zone 0
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 1900 / OPP 4600) ===
+  hand: YOU 3 / OPP 5   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: Greenkappa, Mask of Darkness   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Kunai with Chain (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Mystical Space Typhoon
+    effect: Garuda the Wind Spirit
+
+=== Turn 9: YOU   (LP YOU 1900 / OPP 4600) ===
+  hand: YOU 3 / OPP 5   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Greenkappa, Mask of Darkness   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Michizure (S/T zone 6)  [card 3 of 4 in hand]
+  YOU SETS Mask of Darkness in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with 4-Starred Ladybug of Doom (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    OPP loses 800 LP -> 3800
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 1900 / OPP 3800) ===
+  hand: YOU 2 / OPP 5   library: YOU 30 / OPP 31
+    YOU (recorder) hand [partly unknown]: Greenkappa   (+1 unknown)
+    OPP hand [partly unknown]: Dark Hole, Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Dark Hole
+    effect: Solemn Judgment
+    YOU loses 950 LP -> 950
+  OPP SUMMONS Sonic Bird in monster zone 0  [card 1 of 5 in hand]
+    effect: Sonic Bird
+  OPP ACTIVATES Black Illusion Ritual (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Black Illusion Ritual
+    effect: Solemn Judgment
+    YOU loses 475 LP -> 475
+  [battle phase]
+  OPP attacks with Sonic Bird (zone 0) -> YOU's face-down Mask of Darkness (zone 1)
+    YOU's Mask of Darkness (zone 1) is destroyed in battle
+    effect: Mask of Darkness
+    effect: Michizure
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 475 / OPP 3800) ===
+  hand: YOU 2 / OPP 4   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Greenkappa   (+1 unknown)
+    OPP hand [partly unknown]: Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Crush Card (S/T zone 6)  [card 2 of 2 in hand]
+  YOU SUMMONS Greenkappa in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 0)
+    OPP loses 1600 LP -> 2200
+  YOU attacks DIRECTLY with Greenkappa (zone 1)
+    OPP loses 650 LP -> 1550
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 475 / OPP 1550) ===
+  hand: YOU 0 / OPP 4   library: YOU 29 / OPP 30
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+    effect: Crush Card
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 475 / OPP 1550) ===
+  hand: YOU 0 / OPP 5   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: Flying Kamakiri #1, Garuda the Wind Spirit, Rising Air Current   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 0)
+    OPP loses 1600 LP -> -50
+  [DUEL END]  final LP: YOU 475 / OPP -50

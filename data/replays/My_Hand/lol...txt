@@ -1,0 +1,260 @@
+  OPP draws 5  (hand now 5, library 75)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 75
+    YOU (recorder) hand [exact]: Cannon Soldier, Cyber-Stein, Giant Trunade, Megamorph, Ring of Destruction
+    OPP hand [exact]: Mage Power, Penguin Soldier, Sangan, Scapegoat, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 74
+    YOU (recorder) hand [exact]: Cannon Soldier, Cyber-Stein, Giant Trunade, Megamorph, Ring of Destruction
+    OPP hand [exact]: Mage Power, Penguin Soldier, Sangan, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Cannon Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 74
+    YOU (recorder) hand [exact]: Cyber-Stein, 2x Giant Trunade, Megamorph
+    OPP hand [exact]: Mage Power, Penguin Soldier, Sangan, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 73)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 73
+    YOU (recorder) hand [exact]: Cyber-Stein, 2x Giant Trunade, Megamorph
+    OPP hand [exact]: Blast Sphere, Mage Power, Sangan, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Cannon Soldier (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 2
+  [main 2]
+  YOU SETS Giant Trunade (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 4 / OPP 5   library: YOU 33 / OPP 73
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Last Will, Megamorph
+    OPP hand [partly unknown]: Blast Sphere, Mage Power, Sangan, United We Stand   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 72)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 6)  [card 5 of 6 in hand]
+    effect: Penguin Soldier
+  OPP SUMMONS Sangan in monster zone 1  [card 4 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 2)
+    YOU loses 1000 LP -> 7000
+  OPP attacks DIRECTLY with Sangan (zone 1)
+    YOU loses 1000 LP -> 6000
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 5000
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5000 / OPP 9000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 72
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Last Will, Megamorph
+    OPP hand [partly unknown]: Blast Sphere, Mage Power, United We Stand   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Cannon Soldier in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5000 / OPP 9000) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 72
+    YOU (recorder) hand [exact]: 2x Cyber-Stein, Giant Trunade, Last Will, Megamorph
+    OPP hand [partly unknown]: Blast Sphere, Mage Power, United We Stand   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 71)
+  [standby]
+  [main 1]
+  OPP SETS Royal Decree (S/T zone 7)  [card 5 of 5 in hand]
+  OPP ACTIVATES United We Stand (S/T zone 8)  [card 2 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Cannon Soldier (zone 0)
+    OPP loses 300 LP -> 8700
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's Cannon Soldier (zone 0)
+    effect: Ring of Destruction
+    OPP loses 3400 LP -> 5300
+    YOU loses 3400 LP -> 1600
+  [main 2]
+  OPP SETS Blast Sphere in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 1600 / OPP 5300) ===
+  hand: YOU 4 / OPP 2   library: YOU 32 / OPP 71
+    YOU (recorder) hand [exact]: 2x Cyber-Stein, Giant Trunade, Last Will, Megamorph
+    OPP hand [partly unknown]: Mage Power   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+  YOU ACTIVATES Confiscation (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Confiscation
+    YOU loses 1000 LP -> 600
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 0) -> OPP's face-down Blast Sphere (zone 0)
+    effect: Blast Sphere
+  [main 2]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 4800
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons a monster to zone 0
+  YOU SETS Cyber-Stein in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 3 of 5 in hand]
+  YOU SETS Megamorph (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 71
+    YOU (recorder) hand [partly unknown]: Cyber-Stein   (+2 unknown)
+    OPP hand [partly unknown]: Mage Power   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 70)
+  [standby]
+  [main 1]
+  OPP SETS Royal Decree (S/T zone 5)  [card 3 of 3 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 3 / OPP 1   library: YOU 31 / OPP 70
+    YOU (recorder) hand [partly unknown]: Cyber-Stein   (+2 unknown)
+    OPP hand [partly unknown]: Mage Power
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+    effect: Royal Decree
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 29)
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 0) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  YOU SETS United We Stand (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 2 / OPP 1   library: YOU 27 / OPP 70
+    YOU (recorder) hand [partly unknown]: Cyber-Stein   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Mage Power
+  [draw phase]
+  OPP draws 1  (hand now 2, library 69)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mage Power (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with Nimble Momonga (zone 2)
+    effect: Kuriboh
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 3 / OPP 1   library: YOU 27 / OPP 69
+    YOU (recorder) hand [partly unknown]: Cyber-Stein   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 8)  [card 3 of 4 in hand]
+  YOU SETS Cyber-Stein in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 2 / OPP 1   library: YOU 26 / OPP 69
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 68)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Cyber-Stein (zone 0)
+    YOU's Cyber-Stein (zone 0) is destroyed in battle
+  OPP attacks DIRECTLY with Nimble Momonga (zone 2)
+    effect: Scapegoat
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Cyber-Stein (zone 1)
+    YOU's face-down Cyber-Stein (zone 1) is destroyed in battle
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 600 / OPP 4800) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 68
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+  YOU SUMMONS Hayabusa Knight in monster zone 1  [card 4 of 4 in hand]
+  YOU ACTIVATES Megamorph (S/T zone 5)  [card 1 of 3 in hand]
+    effect: Megamorph
+  YOU ACTIVATES United We Stand (S/T zone 6)  [card 1 of 2 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Hayabusa Knight (zone 1) -> OPP's Nimble Momonga (zone 2)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    OPP loses 4200 LP -> 600
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 1600
+  YOU attacks with Hayabusa Knight (zone 1) -> OPP's Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 4200 LP -> -2600
+  [DUEL END]  final LP: YOU 600 / OPP -2600

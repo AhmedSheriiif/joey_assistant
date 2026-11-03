@@ -1,0 +1,363 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: 2x Garuda the Wind Spirit, Magic Cylinder, Michizure, Mystic Box
+    OPP hand [exact]: Change of Heart, Dust Tornado, Fairy Box, Mirror Wall, Mother Grizzly
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Michizure (S/T zone 6)  [card 3 of 5 in hand]
+  YOU SETS Mystic Box (S/T zone 7)  [card 3 of 4 in hand]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: 2x Garuda the Wind Spirit
+    OPP hand [exact]: Change of Heart, Dust Tornado, Fairy Box, Mirror Wall, Mother Grizzly
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Change of Heart (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Change of Heart
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Mother Grizzly in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 1)
+    YOU loses 1400 LP -> 6600
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    YOU loses 800 LP -> 5800
+  [main 2]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS Fairy Box (S/T zone 6)  [card 1 of 2 in hand]
+  OPP SETS Mirror Wall (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 5800 / OPP 8000) ===
+  hand: YOU 2 / OPP 0   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: 2x Garuda the Wind Spirit
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 1  [card 3 of 3 in hand]
+    effect: Mystic Box
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 1) -> OPP's Mother Grizzly (zone 1)
+    effect: Fairy Box
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    OPP loses 600 LP -> 7400
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 5800 / OPP 7400) ===
+  hand: YOU 2 / OPP 0   library: YOU 33 / OPP 35
+    YOU (recorder) hand [exact]: 2x Garuda the Wind Spirit
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 34)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 6900
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 5800 / OPP 6900) ===
+  hand: YOU 2 / OPP 0   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: 2x Garuda the Wind Spirit
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 1) -> OPP's face-down Morphing Jar (zone 0)
+    effect: Fairy Box
+    OPP's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 33)
+  OPP draws 1  (hand now 2, library 32)
+  OPP draws 1  (hand now 3, library 31)
+  OPP draws 1  (hand now 4, library 30)
+  OPP draws 1  (hand now 5, library 29)
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  YOU draws 1  (hand now 3, library 29)
+  YOU draws 1  (hand now 4, library 28)
+  YOU draws 1  (hand now 5, library 27)
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Imperial Order (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Dust Tornado
+  OPP SETS Robbin' Goblin (S/T zone 8)  [card 2 of 5 in hand]
+
+=== Turn 6: OPP   (LP YOU 5800 / OPP 6900) ===
+  hand: YOU 3 / OPP 4   library: YOU 27 / OPP 29
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Crush Card, Monster Reborn
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cyber-Stein, Kunai with Chain, Solemn Judgment
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 6400
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 5800 / OPP 6400) ===
+  hand: YOU 3 / OPP 3   library: YOU 27 / OPP 28
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Crush Card, Monster Reborn
+    OPP hand [exact]: Cyber-Stein, Kunai with Chain, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Swords of Revealing Light
+    effect: 4-Starred Ladybug of Doom
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5800 / OPP 6400) ===
+  hand: YOU 2 / OPP 3   library: YOU 26 / OPP 28
+    YOU (recorder) hand [exact]: Crush Card, Monster Reborn
+    OPP hand [exact]: Cyber-Stein, Kunai with Chain, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 5900
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 9)  [card 4 of 4 in hand]
+  OPP SETS Slate Warrior in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5800 / OPP 5900) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 27
+    YOU (recorder) hand [exact]: Crush Card, Monster Reborn
+    OPP hand [exact]: Cyber-Stein, Kunai with Chain
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5800 / OPP 5900) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 27
+    YOU (recorder) hand [exact]: Crush Card, Monster Reborn, Rush Recklessly
+    OPP hand [exact]: Cyber-Stein, Kunai with Chain
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 5400
+  [main 1]
+    effect: Dust Tornado
+    OPP special summons Morphing Jar to zone 2
+    effect: Slate Warrior
+  OPP SUMMONS Cyber-Stein in monster zone 3  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with face-down Slate Warrior (zone 1) -> YOU's face-down 4-Starred Ladybug of Doom (zone 0)
+    YOU's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  OPP attacks DIRECTLY with Cyber-Stein (zone 3)
+    effect: Robbin' Goblin
+    YOU loses 700 LP -> 5100
+    effect: Robbin' Goblin
+  OPP attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 800 LP -> 4300
+    effect: Robbin' Goblin
+  [main 2]
+  OPP SETS Kunai with Chain (S/T zone 9)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 4300 / OPP 5400) ===
+  hand: YOU 3 / OPP 1   library: YOU 25 / OPP 26
+    YOU (recorder) hand [exact]: Crush Card, Monster Reborn, Rush Recklessly
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 5)  [card 2 of 4 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 8)  [card 1 of 3 in hand]
+    effect: Monster Reborn
+    effect: Solemn Judgment
+    OPP loses 2700 LP -> 2700
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4300 / OPP 2700) ===
+  hand: YOU 2 / OPP 1   library: YOU 24 / OPP 26
+    YOU (recorder) hand [exact]: Crush Card, Rush Recklessly
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 25)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 2200
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 800 LP -> 3500
+    effect: Robbin' Goblin
+  OPP attacks DIRECTLY with Cyber-Stein (zone 3)
+    YOU loses 700 LP -> 2800
+    effect: Robbin' Goblin
+  [main 2]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 2800 / OPP 2200) ===
+  hand: YOU 2 / OPP 1   library: YOU 24 / OPP 25
+    YOU (recorder) hand [exact]: Crush Card, Rush Recklessly
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Flying Kamakiri #1 in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 2800 / OPP 2200) ===
+  hand: YOU 2 / OPP 1   library: YOU 23 / OPP 25
+    YOU (recorder) hand [exact]: Crush Card, Rush Recklessly
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 24)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 1700
+  [main 1]
+  OPP SUMMONS Star Boy in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Star Boy (zone 1) -> YOU's face-down Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    effect: Flying Kamakiri #1
+    effect: Michizure
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 2800 / OPP 1700) ===
+  hand: YOU 3 / OPP 1   library: YOU 23 / OPP 24
+    YOU (recorder) hand [partly unknown]: Crush Card, Rush Recklessly   (+1 unknown)
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 4 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 2800 / OPP 1700) ===
+  hand: YOU 3 / OPP 1   library: YOU 22 / OPP 24
+    YOU (recorder) hand [partly unknown]: Crush Card, Rush Recklessly   (+1 unknown)
+    OPP hand [exact]: Aqua Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+    effect: Fairy Box
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    effect: Mirror Wall
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 900 LP -> 800
+    effect: Sangan
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 2800 / OPP 800) ===
+  hand: YOU 3 / OPP 2   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: Crush Card, Rush Recklessly   (+1 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 21)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 20)
+  YOU draws 1  (hand now 3, library 19)
+  YOU draws 1  (hand now 4, library 18)
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 0)
+    effect: Mirror Wall
+    effect: Mystical Space Typhoon
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 2800 / OPP 800) ===
+  hand: YOU 3 / OPP 2   library: YOU 18 / OPP 23
+    YOU (recorder) hand [partly unknown]: Crush Card, Rush Recklessly   (up to 2 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's Flying Kamakiri #1 (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    effect: Flying Kamakiri #1
+    OPP special summons Mother Grizzly to zone 0
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's face-down Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 300
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 2800 / OPP 300) ===
+  hand: YOU 5 / OPP 3   library: YOU 18 / OPP 22
+    YOU (recorder) hand [partly unknown]: Crush Card, Rush Recklessly   (up to 2 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Aqua Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 1) -> OPP's Mother Grizzly (zone 0)
+    effect: Kunai with Chain
+  YOU attacks with Giant Germ (zone 0) -> OPP's Mother Grizzly (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    YOU loses 1000 LP -> 1800
+    effect: Robbin' Goblin
+    effect: Giant Germ
+    OPP loses 500 LP -> -200
+  [DUEL END]  final LP: YOU 1800 / OPP -200

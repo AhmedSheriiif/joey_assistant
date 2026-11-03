@@ -1,0 +1,289 @@
+  OPP draws 5  (hand now 5, library 75)
+  YOU draws 5  (hand now 5, library 75)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 75 / OPP 75
+    YOU (recorder) hand [exact]: Giant Rat, Magic Cylinder, Magician of Faith, Torrential Tribute, Witch of the Black Forest
+    OPP hand [exact]: Bazoo the Soul-Eater, Cyber Jar, Ekibyo Drakmord, Mystic Tomato, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  OPP SETS Cyber Jar in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 75 / OPP 74
+    YOU (recorder) hand [exact]: Giant Rat, Magic Cylinder, Magician of Faith, Torrential Tribute, Witch of the Black Forest
+    OPP hand [exact]: Bazoo the Soul-Eater, Ekibyo Drakmord, Mystic Tomato, UFO Turtle
+  [draw phase]
+  YOU draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 74 / OPP 74
+    YOU (recorder) hand [exact]: Giant Rat, Magic Cylinder, Magician of Faith
+    OPP hand [exact]: Bazoo the Soul-Eater, Ekibyo Drakmord, Mystic Tomato, UFO Turtle
+  [draw phase]
+  OPP draws 1  (hand now 5, library 73)
+  [standby]
+  [main 1]
+    effect: Cyber Jar
+  OPP draws 1  (hand now 7, library 72)
+    OPP special summons a monster to zone 0
+    OPP special summons Mechanicalchaser to zone 1
+  OPP draws 1  (hand now 6, library 71)
+  OPP draws 1  (hand now 7, library 70)
+  YOU draws 1  (hand now 4, library 73)
+  YOU draws 1  (hand now 5, library 72)
+  YOU draws 1  (hand now 6, library 71)
+    YOU special summons a monster to zone 0
+  YOU draws 1  (hand now 6, library 70)
+    effect: Witch of the Black Forest
+  [battle phase]
+  OPP attacks with Mechanicalchaser (zone 1) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Sangan to zone 0
+  [main 2]
+  OPP SETS Ekibyo Drakmord (S/T zone 6)  [card 3 of 7 in hand]
+  OPP SETS Scapegoat (S/T zone 7)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 7 / OPP 5   library: YOU 70 / OPP 70
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magic Cylinder, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (+2 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato, UFO Turtle   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 69)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+    effect: Sangan
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 6 of 9 in hand]
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 6 of 8 in hand]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 5   library: YOU 69 / OPP 70
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (+2 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato, UFO Turtle   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 69)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mechanicalchaser (zone 1) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS UFO Turtle in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 7 / OPP 5   library: YOU 69 / OPP 69
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (+3 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 68)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 6 of 8 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Mystical Space Typhoon (S/T zone 9)  [card 6 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 5   library: YOU 68 / OPP 69
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (+2 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 68)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 68 / OPP 68
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (+2 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 67)
+  [standby]
+  [main 1]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 67 / OPP 68
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 67)
+  [standby]
+  [main 1]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 67 / OPP 67
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Magician of Faith, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (up to 1 of these already discarded; +7 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 66)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 2 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 66 / OPP 67
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (up to 1 of these already discarded; +7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 66)
+  [standby]
+  [main 1]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Dust Tornado
+    effect: Mystical Space Typhoon
+
+=== Turn 12: YOU   (LP YOU 9000 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 66 / OPP 66
+    YOU (recorder) hand [partly unknown]: Change of Heart, Giant Rat, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (up to 2 of these already discarded; +8 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 65)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 64)
+  YOU draws 1  (hand now 6, library 63)
+  YOU draws 1  (hand now 7, library 62)
+  YOU ACTIVATES Change of Heart (S/T zone 5)  [card 2 of 7 in hand]
+    effect: Change of Heart
+    effect: Magician of Faith
+  YOU ACTIVATES Change of Heart (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Change of Heart
+  [battle phase]
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with unknown monster (zone 4)
+    OPP loses 1400 LP -> 5600
+  YOU attacks DIRECTLY with Nimble Momonga (zone 1)
+    OPP loses 1000 LP -> 4600
+  YOU attacks DIRECTLY with unknown monster (zone 3)
+    OPP loses 1850 LP -> 2750
+  YOU attacks DIRECTLY with face-down Magician of Faith (zone 2)
+    OPP loses 300 LP -> 2450
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 9000 / OPP 2450) ===
+  hand: YOU 5 / OPP 6   library: YOU 62 / OPP 66
+    YOU (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 3 of these already discarded; +6 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (up to 2 of these already discarded; +8 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 65)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Giant Trunade (S/T zone 5)  [card 3 of 7 in hand]
+    effect: Giant Trunade
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 1650
+    OPP special summons Man-Eater Bug to zone 2
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with face-down UFO Turtle (zone 0) -> YOU's Magician of Faith (zone 2)
+    YOU's Magician of Faith (zone 2) is destroyed in battle
+    YOU loses 1550 LP -> 7450
+  OPP attacks with Man-Eater Bug (zone 2) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    YOU loses 1500 LP -> 5950
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6950
+  OPP attacks with Mechanicalchaser (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 6550
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7550
+  [main 2]
+  OPP SETS Ultimate Offering (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 7550 / OPP 1650) ===
+  hand: YOU 7 / OPP 4   library: YOU 62 / OPP 65
+    YOU (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Mystic Tomato, Torrential Tribute   (up to 3 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Mystic Tomato   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 61)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Raigeki (S/T zone 5)  [card 9 of 9 in hand]
+    effect: Raigeki
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 8 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    effect: Ultimate Offering
+    OPP loses 500 LP -> 1150
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [main 2]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 4 of 7 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 7550 / OPP 1150) ===
+  hand: YOU 5 / OPP 4   library: YOU 61 / OPP 65
+    YOU (recorder) hand [partly unknown]: Giant Rat, Monster Reborn, Mystic Tomato   (up to 3 of these already discarded; +6 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater   (up to 1 of these already discarded; +7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 64)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Snatch Steal (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Snatch Steal
+    effect: Bazoo the Soul-Eater
+  OPP ACTIVATES United We Stand (S/T zone 7)  [card 3 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks DIRECTLY with Mechanicalchaser (zone 1)
+    effect: Magic Cylinder
+    OPP loses 4400 LP -> -3250
+  [DUEL END]  final LP: YOU 7550 / OPP -3250

@@ -1,0 +1,170 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Backup Soldier, Left Leg of the Forbidden One, Morphing Jar, Sinister Serpent, Spear Cretin
+    OPP hand [exact]: Dust Tornado, Graceful Charity, Gravity Bind, Michizure, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Backup Soldier (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: Left Arm of the Forbidden One, Left Leg of the Forbidden One, Sinister Serpent, Spear Cretin
+    OPP hand [exact]: Dust Tornado, Graceful Charity, Gravity Bind, Michizure, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Gravity Bind (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Left Arm of the Forbidden One, Left Leg of the Forbidden One, Sinister Serpent, Spear Cretin
+    OPP hand [exact]: Graceful Charity, Michizure, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+    effect: Morphing Jar
+    effect: Dust Tornado
+  OPP SETS Tribute to The Doomed (S/T zone 7)  [card 2 of 2 in hand]
+  YOU draws 1  (hand now 1, library 32)
+  YOU draws 1  (hand now 2, library 31)
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  OPP draws 1  (hand now 2, library 34)
+  OPP draws 1  (hand now 3, library 33)
+  OPP draws 1  (hand now 4, library 32)
+  OPP draws 1  (hand now 5, library 31)
+  OPP draws 1  (hand now 6, library 30)
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Swords of Revealing Light
+  [battle phase]
+  YOU attacks with face-down Morphing Jar (zone 0) -> OPP's face-down Dimensional Warrior (zone 0)
+    YOU loses 300 LP -> 7700
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Painful Choice (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 2 / OPP 6   library: YOU 28 / OPP 30
+    YOU (recorder) hand [exact]: Mystic Tomato, Right Arm of the Forbidden One
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+    effect: Tribute to The Doomed
+  OPP SETS Dust Tornado (S/T zone 5)  [card 4 of 7 in hand]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS DNA Surgery (S/T zone 7)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 28 / OPP 29
+    YOU (recorder) hand [exact]: Mystic Tomato, Right Arm of the Forbidden One
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 27)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  YOU SETS Last Will (S/T zone 7)  [card 3 of 3 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 1 / OPP 4   library: YOU 27 / OPP 29
+    YOU (recorder) hand [exact]: Right Arm of the Forbidden One
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 8)  [card 3 of 5 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 5, library 27)
+  OPP draws 1  (hand now 6, library 26)
+    effect: Dust Tornado
+  OPP SUMMONS Gemini Elf in monster zone 1  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with face-down Kinetic Soldier (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS DNA Surgery (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 27 / OPP 26
+    YOU (recorder) hand [partly unknown]: Right Arm of the Forbidden One   (+1 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Sinister Serpent in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 26 / OPP 26
+    YOU (recorder) hand [partly unknown]: Right Arm of the Forbidden One   (+1 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Mask of Darkness in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 1) -> YOU's face-down Sinister Serpent (zone 1)
+    YOU's Sinister Serpent (zone 1) is destroyed in battle
+  OPP attacks with Kinetic Soldier (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 26 / OPP 25
+    YOU (recorder) hand [partly unknown]: Right Arm of the Forbidden One   (+2 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+    effect: Painful Choice
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SETS Backup Soldier (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS Sinister Serpent in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 25 / OPP 25
+    YOU (recorder) hand [partly unknown]: Right Arm of the Forbidden One
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 24)
+    effect: Backup Soldier
+  [DUEL END]  final LP: YOU 7700 / OPP 8000

@@ -1,0 +1,290 @@
+  OPP draws 5  (hand now 5, library 38)
+  YOU draws 5  (hand now 5, library 48)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 48 / OPP 38
+    YOU hand [exact]: Call Of The Haunted, Jinzo #7, Mad Sword Beast, Mask of the Accursed, Offerings to the Doomed
+    OPP (recorder) hand [exact]: Jinzo, Mystic Tomato, Nimble Momonga, Premature Burial, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 48 / OPP 37
+    YOU hand [exact]: Call Of The Haunted, Jinzo #7, Mad Sword Beast, Mask of the Accursed, Offerings to the Doomed
+    OPP (recorder) hand [exact]: Jinzo, Mystic Tomato, Mystical Space Typhoon, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 6, library 47)
+  [standby]
+  [main 1]
+  YOU SETS Offerings to the Doomed (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 4 of 5 in hand]
+  YOU SUMMONS Mad Sword Beast in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Mad Sword Beast (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    OPP loses 1300 LP -> 6700
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7700
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 7700) ===
+  hand: YOU 3 / OPP 5   library: YOU 47 / OPP 37
+    YOU hand [exact]: Ekibyo Drakmord, Jinzo #7, Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: Jinzo, Mystic Tomato, Mystical Space Typhoon, Premature Burial   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 3 of 6 in hand]
+    effect: Jinzo
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Mad Sword Beast (zone 0)
+    effect: Offerings to the Doomed
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 7700) ===
+  hand: YOU 3 / OPP 4   library: YOU 47 / OPP 36
+    YOU hand [exact]: Ekibyo Drakmord, Jinzo #7, Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: Mystic Tomato, Premature Burial   (+2 unknown)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mad Sword Beast (zone 0) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    OPP loses 400 LP -> 7300
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8300
+  [main 2]
+  YOU SETS Jinzo #7 in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8300) ===
+  hand: YOU 2 / OPP 5   library: YOU 47 / OPP 36
+    YOU hand [exact]: Ekibyo Drakmord, Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: Mystic Tomato, Premature Burial   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mad Sword Beast (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    YOU's Mad Sword Beast (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's face-down Jinzo #7 (zone 1)
+    YOU's Jinzo #7 (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8300) ===
+  hand: YOU 2 / OPP 6   library: YOU 47 / OPP 35
+    YOU hand [exact]: Ekibyo Drakmord, Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 46)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 5)  [card 2 of 2 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8300) ===
+  hand: YOU 1 / OPP 6   library: YOU 46 / OPP 35
+    YOU hand [exact]: Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 6)  [card 1 of 7 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 7500
+    OPP special summons Mystic Tomato to zone 1
+    effect: Jinzo
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 1 of 6 in hand]
+    effect: Mystical Space Typhoon
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1100 LP -> 6900
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6900 / OPP 7500) ===
+  hand: YOU 1 / OPP 5   library: YOU 46 / OPP 34
+    YOU hand [exact]: Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 45)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6900 / OPP 7500) ===
+  hand: YOU 1 / OPP 5   library: YOU 45 / OPP 34
+    YOU hand [exact]: Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's face-down Witch of the Black Forest (zone 0)
+    OPP loses 100 LP -> 7400
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6900 / OPP 7400) ===
+  hand: YOU 1 / OPP 6   library: YOU 45 / OPP 33
+    YOU hand [exact]: Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 44)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 6900 / OPP 7400) ===
+  hand: YOU 1 / OPP 6   library: YOU 44 / OPP 33
+    YOU hand [exact]: Mask of the Accursed
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 1  [card 4 of 7 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1100 LP -> 5800
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 12: YOU   (LP YOU 5800 / OPP 7400) ===
+  hand: YOU 2 / OPP 6   library: YOU 44 / OPP 32
+    YOU hand [partly unknown]: Mask of the Accursed   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 43)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 42)
+  YOU draws 1  (hand now 2, library 41)
+  YOU draws 1  (hand now 3, library 40)
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's Mystic Tomato (zone 1)
+    OPP's Mystic Tomato (zone 1) is destroyed in battle
+    OPP loses 500 LP -> 6900
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 1
+  [main 2]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 2 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 5800 / OPP 6900) ===
+  hand: YOU 1 / OPP 7   library: YOU 40 / OPP 32
+    YOU hand [partly unknown]: Mask of the Accursed   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 8 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 6, library 30)
+  OPP draws 1  (hand now 7, library 29)
+  OPP draws 1  (hand now 8, library 28)
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 5300
+    effect: Witch of the Black Forest
+  OPP ACTIVATES Scapegoat (S/T zone 5)  [card 5 of 9 in hand]
+    effect: Scapegoat
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 4800
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 4300
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 3800
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 3300
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 4 of 8 in hand]
+  OPP SETS Mirror Force (S/T zone 6)  [card 3 of 7 in hand]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 3300 / OPP 6900) ===
+  hand: YOU 1 / OPP 5   library: YOU 40 / OPP 28
+    YOU hand [partly unknown]: Mask of the Accursed   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+7 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 39)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cure Mermaid in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Cure Mermaid (zone 1) -> OPP's Mystic Tomato (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1500 LP -> 1800
+  YOU attacks with Slate Warrior (zone 0) -> OPP's Mystic Tomato (zone 1)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 1800 / OPP 6900) ===
+  hand: YOU 1 / OPP 5   library: YOU 39 / OPP 28
+    YOU hand [partly unknown]: Mask of the Accursed   (up to 1 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Heavy Storm
+    effect: Magician of Faith
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 5 in hand]
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Monster Reborn
+    OPP special summons Mystic Tomato to zone 2
+    effect: Jinzo
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 2)
+    YOU loses 2400 LP -> -600
+  [DUEL END]  final LP: YOU -600 / OPP 6900

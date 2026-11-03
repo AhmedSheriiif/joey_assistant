@@ -1,0 +1,353 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, Giant Rat, Sangan, The Rock Spirit
+    OPP hand [exact]: 2x Fairy Box, Hayabusa Knight, Metalmorph, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Fairy Box (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SETS Metalmorph (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 38
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, Giant Rat, Sangan, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Snatch Steal (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, Sangan, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Giant Rat (zone 0)
+    OPP loses 250 LP -> 7750
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with face-down Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, Sangan, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 1  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Change of Heart, Dimensional Warrior, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 36
+    YOU (recorder) hand [exact]: Change of Heart, Mystic Box, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Change of Heart, Mystic Box, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Giant Rat, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 4 / OPP 4   library: YOU 31 / OPP 35
+    YOU (recorder) hand [exact]: Change of Heart, Kuriboh, Mystic Box, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Giant Rat, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Anti-Spell Fragrance (S/T zone 7)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 4 / OPP 4   library: YOU 31 / OPP 34
+    YOU (recorder) hand [exact]: Change of Heart, Kuriboh, Mystic Box, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Giant Rat, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+    effect: Anti-Spell Fragrance
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7000 / OPP 7750) ===
+  hand: YOU 4 / OPP 4   library: YOU 30 / OPP 34
+    YOU (recorder) hand [exact]: Change of Heart, Kuriboh, Mystic Box, The Rock Spirit
+    OPP hand [exact]: Fairy Box, Giant Rat, Hayabusa Knight, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 8)  [card 5 of 5 in hand]
+  OPP SUMMONS Hayabusa Knight in monster zone 2  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 1) -> YOU's face-down Dimensional Warrior (zone 1)
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 6350
+    YOU loses 1400 LP -> 5600
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  OPP attacks with Hayabusa Knight (zone 2) -> YOU's face-down Dimensional Warrior (zone 1)
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5600 / OPP 6350) ===
+  hand: YOU 5 / OPP 3   library: YOU 30 / OPP 33
+    YOU (recorder) hand [partly unknown]: Change of Heart, Kuriboh, Mystic Box, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Fairy Box, Giant Rat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Mystic Box (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 13: OPP   (LP YOU 5600 / OPP 6350) ===
+  hand: YOU 4 / OPP 3   library: YOU 29 / OPP 33
+    YOU (recorder) hand [partly unknown]: Change of Heart, Kuriboh, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Fairy Box, Giant Rat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Graceful Charity (S/T zone 8)  [card 4 of 4 in hand]
+    OPP special summons a monster to zone 1
+  OPP SUMMONS Giant Rat in monster zone 2  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6600
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7600
+  OPP attacks with Giant Rat (zone 2) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8600
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 8600 / OPP 6350) ===
+  hand: YOU 7 / OPP 2   library: YOU 29 / OPP 32
+    YOU (recorder) hand [partly unknown]: Change of Heart, Kuriboh, The Rock Spirit   (+4 unknown)
+    OPP hand [exact]: Fairy Box, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 8, library 28)
+  [standby]
+  [main 1]
+    YOU special summons Nimble Momonga to zone 0
+    effect: Snatch Steal
+  [battle phase]
+  YOU attacks with unknown monster (zone 1) -> OPP's Giant Rat (zone 2)
+    effect: Fairy Box
+    YOU's unknown monster (zone 1) is destroyed in battle
+    YOU loses 1400 LP -> 7200
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 2 of 8 in hand]
+  YOU SETS Change of Heart (S/T zone 5)  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 7200 / OPP 6350) ===
+  hand: YOU 6 / OPP 2   library: YOU 28 / OPP 32
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (+4 unknown)
+    OPP hand [exact]: Fairy Box, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 5850
+  [main 1]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 30)
+  OPP draws 1  (hand now 3, library 29)
+  OPP draws 1  (hand now 4, library 28)
+  OPP SUMMONS Gemini Elf in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+    effect: Metalmorph
+  OPP attacks with Giant Rat (zone 2) -> YOU's Nimble Momonga (zone 0)
+    effect: Metalmorph
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 700 LP -> 6500
+  OPP attacks with Gemini Elf (zone 1) -> YOU's face-down Witch of the Black Forest (zone 1)
+    YOU's Witch of the Black Forest (zone 1) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 5500
+  [main 2]
+  OPP SETS Dust Tornado (S/T zone 8)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 5500 / OPP 5850) ===
+  hand: YOU 7 / OPP 2   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (+5 unknown)
+    OPP hand [exact]: Fairy Box, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 27)
+  [standby]
+  [main 1]
+    effect: Change of Heart
+  YOU SUMMONS Jinzo in monster zone 0  [card 3 of 8 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Gemini Elf (zone 1)
+    OPP's Gemini Elf (zone 1) is destroyed in battle
+    OPP loses 500 LP -> 5350
+  [main 2]
+  YOU SETS United We Stand (S/T zone 5)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 6 / OPP 2   library: YOU 27 / OPP 28
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (+4 unknown)
+    OPP hand [exact]: Fairy Box, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 27)
+  [standby]
+    effect: Fairy Box
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 6 / OPP 2   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (+4 unknown)
+    OPP hand [exact]: Fairy Box, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 6 / OPP 2   library: YOU 26 / OPP 27
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [exact]: Fairy Box, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 6 / OPP 3   library: YOU 26 / OPP 26
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [exact]: Fairy Box, Light of Intervention, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 3 of 7 in hand]
+  YOU SETS Giant Rat in monster zone 1 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 5 / OPP 3   library: YOU 25 / OPP 26
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [exact]: Fairy Box, Light of Intervention, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 4, library 24)
+  OPP draws 1  (hand now 5, library 23)
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 5500 / OPP 5350) ===
+  hand: YOU 5 / OPP 4   library: YOU 25 / OPP 23
+    YOU (recorder) hand [partly unknown]: Kuriboh, The Rock Spirit   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [exact]: Dream Clown, Fairy Box, Light of Intervention, Mad Sword Beast, Mirror Force, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Raigeki (S/T zone 7)  [card 3 of 6 in hand]
+    effect: Raigeki
+    effect: United We Stand
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Giant Rat (zone 1)
+    OPP loses 3000 LP -> 2350
+  YOU attacks DIRECTLY with Jinzo (zone 0)
+    OPP loses 2400 LP -> -50
+  [DUEL END]  final LP: YOU 5500 / OPP -50

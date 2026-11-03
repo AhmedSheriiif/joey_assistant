@@ -1,0 +1,457 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Amazon Archer, Man-Eater Bug, Mirror Force, Mystical Space Typhoon, Sangan
+    OPP hand [exact]: Gemini Elf, Harpie's Feather Duster, Imperial Order, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  OPP SETS Imperial Order (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 38
+    YOU (recorder) hand [exact]: Amazon Archer, Man-Eater Bug, Mirror Force, Mystical Space Typhoon, Sangan
+    OPP hand [exact]: Gemini Elf, Harpie's Feather Duster, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  YOU SETS Mirror Force (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Amazon Archer, Man-Eater Bug, Scapegoat
+    OPP hand [exact]: Gemini Elf, Harpie's Feather Duster, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Harpie's Feather Duster (S/T zone 7)  [card 3 of 4 in hand]
+    effect: Harpie's Feather Duster
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Gemini Elf in monster zone 1  [card 1 of 3 in hand]
+  OPP SETS Metalmorph (S/T zone 5)  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 1) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  OPP attacks DIRECTLY with face-down Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 4 / OPP 1   library: YOU 34 / OPP 37
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Man-Eater Bug, Scapegoat   (+1 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Royal Decree (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 37
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+1 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+  OPP SUMMONS Gemini Elf in monster zone 2  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 2) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Scapegoat
+    effect: Imperial Order
+    effect: Royal Decree
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 36
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+1 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 3 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 36
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+1 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 35)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 34)
+  OPP draws 1  (hand now 2, library 33)
+  OPP draws 1  (hand now 3, library 32)
+  OPP SUMMONS Mad Sword Beast in monster zone 1  [card 1 of 3 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Mad Sword Beast (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+    YOU loses 1400 LP -> 5600
+  OPP attacks with Gemini Elf (zone 2) -> YOU's face-down Witch of the Black Forest (zone 3)
+    YOU's Witch of the Black Forest (zone 3) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5600 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+2 unknown)
+    OPP hand [exact]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+    YOU special summons a monster to zone 1
+  [battle phase]
+  YOU attacks with unknown monster (zone 1) -> OPP's Mad Sword Beast (zone 1)
+    effect: Metalmorph
+    OPP's Mad Sword Beast (zone 1) is destroyed in battle
+    OPP loses 300 LP -> 7700
+  [main 2]
+  YOU SETS Nimble Momonga in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5600 / OPP 7700) ===
+  hand: YOU 3 / OPP 1   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+2 unknown)
+    OPP hand [exact]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 5)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  OPP attacks with Gemini Elf (zone 2) -> YOU's face-down Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6600
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 2
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6600 / OPP 7700) ===
+  hand: YOU 4 / OPP 1   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+3 unknown)
+    OPP hand [exact]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with unknown monster (zone 1) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    OPP loses 700 LP -> 7000
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8000
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  YOU attacks with Nimble Momonga (zone 2) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 10000
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 6600 / OPP 10000) ===
+  hand: YOU 5 / OPP 4   library: YOU 30 / OPP 31
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+4 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Goblin Attack Force in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Goblin Attack Force (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+    YOU loses 300 LP -> 6300
+  OPP attacks with Gemini Elf (zone 2) -> YOU's Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    YOU loses 900 LP -> 5400
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6400
+    effect: Goblin Attack Force
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6400 / OPP 10000) ===
+  hand: YOU 6 / OPP 4   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (+5 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 4 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 28)
+  YOU draws 1  (hand now 6, library 27)
+  YOU draws 1  (hand now 7, library 26)
+  YOU SETS Greenkappa in monster zone 1 (face-down)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6400 / OPP 10000) ===
+  hand: YOU 6 / OPP 4   library: YOU 26 / OPP 30
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 2) -> YOU's face-down Greenkappa (zone 1)
+    YOU's Greenkappa (zone 1) is destroyed in battle
+    effect: Greenkappa
+  [main 2]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6400 / OPP 10000) ===
+  hand: YOU 6 / OPP 4   library: YOU 26 / OPP 29
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Goblin Attack Force (zone 0)
+    OPP's Goblin Attack Force (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Giant Rat in monster zone 1 (face-down)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6400 / OPP 10000) ===
+  hand: YOU 6 / OPP 4   library: YOU 25 / OPP 29
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 2) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 900 LP -> 5500
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6500
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 6500 / OPP 10000) ===
+  hand: YOU 7 / OPP 5   library: YOU 25 / OPP 28
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 8 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 6500 / OPP 10000) ===
+  hand: YOU 6 / OPP 5   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +8 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Gemini Elf (zone 2) -> YOU's face-down Giant Rat (zone 1)
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 1
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 6500 / OPP 10000) ===
+  hand: YOU 7 / OPP 6   library: YOU 24 / OPP 27
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +9 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's Gemini Elf (zone 2)
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    YOU loses 700 LP -> 5800
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with face-down Giant Rat (zone 0)
+    OPP loses 1400 LP -> 8600
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 5800 / OPP 8600) ===
+  hand: YOU 6 / OPP 6   library: YOU 23 / OPP 27
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +10 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Light of Intervention (S/T zone 6)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 5800 / OPP 8600) ===
+  hand: YOU 6 / OPP 6   library: YOU 23 / OPP 26
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +10 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 22)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 7200
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 5800 / OPP 7200) ===
+  hand: YOU 6 / OPP 6   library: YOU 22 / OPP 26
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +11 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 7)  [card 3 of 7 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 7, library 24)
+  OPP draws 1  (hand now 8, library 23)
+  OPP SETS Hayabusa Knight in monster zone 0 (face-down)  [card 4 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 5800 / OPP 7200) ===
+  hand: YOU 6 / OPP 6   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +11 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 6 of 7 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Hayabusa Knight (zone 0)
+    OPP's Hayabusa Knight (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 5800 / OPP 7200) ===
+  hand: YOU 6 / OPP 6   library: YOU 21 / OPP 23
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +11 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 22)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 4 of 7 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    effect: Scapegoat
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 5800 / OPP 7200) ===
+  hand: YOU 7 / OPP 6   library: YOU 21 / OPP 22
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +12 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 2 of these already discarded; +7 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 20)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystic Box (S/T zone 6)  [card 4 of 8 in hand]
+    effect: Mystic Box
+    YOU special summons Giant Rat to zone 3
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Monster Reborn
+    YOU special summons Giant Rat to zone 4
+  [battle phase]
+  YOU attacks with Giant Rat (zone 3) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 1700 LP -> 5500
+  YOU attacks DIRECTLY with Giant Rat (zone 4)
+    OPP loses 1400 LP -> 4100
+  [main 2]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 2900
+  YOU ACTIVATES Giant Trunade (S/T zone 6)  [card 3 of 6 in hand]
+    effect: Giant Trunade
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 1700
+  YOU SETS Imperial Order (S/T zone 6)  [card 1 of 4 in hand]
+  YOU SETS Royal Decree (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 5800 / OPP 1700) ===
+  hand: YOU 2 / OPP 6   library: YOU 20 / OPP 22
+    YOU (recorder) hand [partly unknown]: Amazon Archer   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Dream Clown, The Rock Spirit   (up to 2 of these already discarded; +7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 21)
+    effect: Ring of Destruction
+    OPP loses 1700 LP -> 0
+    YOU loses 1700 LP -> 4100
+  [DUEL END]  final LP: YOU 4100 / OPP 0

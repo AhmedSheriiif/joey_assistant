@@ -1,0 +1,271 @@
+[labels swapped: YOU = the user (the first deck list in this file)]
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 5 / YOU 5   library: OPP 35 / YOU 35
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Nimble Momonga, Ring of Destruction, Torrential Tribute
+    YOU (recorder) hand [exact]: Giant Rat, Man-Eater Bug, Mystical Space Typhoon, The Rock Spirit, Waboku
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS Imperial Order (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 4 / YOU 5   library: OPP 34 / YOU 35
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Ring of Destruction, Torrential Tribute
+    YOU (recorder) hand [exact]: Giant Rat, Man-Eater Bug, Mystical Space Typhoon, The Rock Spirit, Waboku
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Waboku (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 4 / YOU 3   library: OPP 34 / YOU 34
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Ring of Destruction, Torrential Tribute
+    YOU (recorder) hand [exact]: Giant Rat, Man-Eater Bug, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  OPP SETS Slate Warrior in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 3 / YOU 3   library: OPP 33 / YOU 34
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Torrential Tribute
+    YOU (recorder) hand [exact]: Giant Rat, Man-Eater Bug, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 3 / YOU 3   library: OPP 33 / YOU 33
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Torrential Tribute
+    YOU (recorder) hand [exact]: Man-Eater Bug, 2x The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+    effect: Slate Warrior
+  [battle phase]
+  OPP attacks with face-down Slate Warrior (zone 0) -> YOU's face-down Giant Rat (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 4 / YOU 4   library: OPP 32 / YOU 33
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Monster Reborn, Torrential Tribute
+    YOU (recorder) hand [partly unknown]: Man-Eater Bug, 2x The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 4 / YOU 4   library: OPP 32 / YOU 32
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Monster Reborn, Torrential Tribute
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 30)
+  OPP draws 1  (hand now 4, library 29)
+  OPP draws 1  (hand now 5, library 28)
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Man-Eater Bug (zone 1)
+    YOU's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  OPP SETS Mirror Force (S/T zone 7)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 4 / YOU 4   library: OPP 28 / YOU 32
+    OPP hand [exact]: Amazon Archer, Heavy Storm, Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Harpie's Feather Duster (S/T zone 7)  [card 3 of 5 in hand]
+    effect: Harpie's Feather Duster
+    effect: Imperial Order
+    effect: Mystical Space Typhoon
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> 6600
+    OPP loses 1400 LP -> 6600
+    YOU special summons Man-Eater Bug to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 0)
+    OPP loses 1700 LP -> 4900
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 9: OPP   (LP OPP 4900 / YOU 6600) ===
+  hand: OPP 4 / YOU 4   library: OPP 28 / YOU 31
+    OPP hand [exact]: Amazon Archer, Heavy Storm, Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Cyber Jar in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Heavy Storm (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP OPP 4900 / YOU 6600) ===
+  hand: OPP 3 / YOU 4   library: OPP 27 / YOU 31
+    OPP hand [exact]: Amazon Archer, Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 0) -> OPP's face-down Cyber Jar (zone 0)
+    OPP's Cyber Jar (zone 0) is destroyed in battle
+    effect: Cyber Jar
+  YOU draws 1  (hand now 6, library 29)
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Dimensional Warrior to zone 1
+  YOU draws 1  (hand now 5, library 28)
+  YOU draws 1  (hand now 6, library 27)
+  OPP draws 1  (hand now 5, library 26)
+    OPP special summons Bazoo the Soul-Eater to zone 0
+  OPP draws 1  (hand now 5, library 25)
+    OPP special summons a monster to zone 1
+  OPP draws 1  (hand now 5, library 24)
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 5)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 11: OPP   (LP OPP 4900 / YOU 6600) ===
+  hand: OPP 5 / YOU 5   library: OPP 24 / YOU 27
+    OPP hand [partly unknown]: Amazon Archer, Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded; +4 unknown)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 23)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+    effect: Waboku
+  OPP SETS Ceasefire (S/T zone 5)  [card 7 of 7 in hand]
+    effect: Bazoo the Soul-Eater
+  OPP SETS Amazon Archer in monster zone 1 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 12: YOU   (LP OPP 4900 / YOU 6600) ===
+  hand: OPP 5 / YOU 5   library: OPP 23 / YOU 27
+    OPP hand [partly unknown]: Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded; +4 unknown)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 25)
+  YOU draws 1  (hand now 5, library 24)
+  YOU draws 1  (hand now 6, library 23)
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Mystical Space Typhoon
+  YOU ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Monster Reborn
+    YOU special summons Man-Eater Bug to zone 1
+    YOU special summons Man-Eater Bug to zone 2
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 3 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 1) -> OPP's Bazoo the Soul-Eater (zone 0)
+    YOU's Man-Eater Bug (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 6100
+    effect: Giant Rat
+    YOU special summons Man-Eater Bug to zone 1
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Bazoo the Soul-Eater (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 900 LP -> 5200
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6200
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 3
+  YOU attacks with Man-Eater Bug (zone 2) -> OPP's Bazoo the Soul-Eater (zone 0)
+    OPP's Bazoo the Soul-Eater (zone 0) is destroyed in battle
+    OPP loses 1400 LP -> 3500
+  YOU attacks with Man-Eater Bug (zone 1) -> OPP's face-down Amazon Archer (zone 1)
+    OPP's Amazon Archer (zone 1) is destroyed in battle
+  [main 2]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 2300
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 13: OPP   (LP OPP 2300 / YOU 6200) ===
+  hand: OPP 5 / YOU 4   library: OPP 23 / YOU 23
+    OPP hand [partly unknown]: Monster Reborn, Mystical Space Typhoon, Snatch Steal, Torrential Tribute   (up to 2 of these already discarded; +4 unknown)
+    YOU (recorder) hand [partly unknown]: 2x The Rock Spirit   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 22)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Snatch Steal (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Snatch Steal
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP ACTIVATES Premature Burial (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 1500
+    OPP special summons Amazon Archer to zone 1
+    effect: Bazoo the Soul-Eater
+  OPP ACTIVATES Monster Reborn (S/T zone 7)  [card 2 of 3 in hand]
+    effect: Monster Reborn
+    effect: Call Of The Haunted
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Mystical Space Typhoon
+    OPP special summons Amazon Archer to zone 2
+    effect: Jinzo
+  OPP ACTIVATES United We Stand (S/T zone 7)  [card 1 of 1 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    YOU loses 4100 LP -> 2100
+  OPP attacks DIRECTLY with Amazon Archer (zone 1)
+    YOU loses 2500 LP -> -400
+  [DUEL END]  final LP: OPP 1500 / YOU -400

@@ -1,0 +1,355 @@
+[labels swapped: YOU = the user (the first deck list in this file)]
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 5 / YOU 5   library: OPP 37 / YOU 35
+    OPP hand [exact]: Fissure, Imperial Order, Ring of Destruction, Scapegoat, Swords of Revealing Light
+    YOU (recorder) hand [exact]: Amazon Archer, Giant Trunade, Man-Eater Bug, Snatch Steal, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 5 / YOU 4   library: OPP 37 / YOU 34
+    OPP hand [exact]: Fissure, Imperial Order, Ring of Destruction, Scapegoat, Swords of Revealing Light
+    YOU (recorder) hand [exact]: Amazon Archer, Call Of The Haunted, Snatch Steal, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Swords of Revealing Light
+    effect: Man-Eater Bug
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Scapegoat (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP OPP 8000 / YOU 8000) ===
+  hand: OPP 3 / YOU 4   library: OPP 36 / YOU 34
+    OPP hand [exact]: Fissure, Imperial Order, United We Stand
+    YOU (recorder) hand [exact]: Amazon Archer, Call Of The Haunted, Snatch Steal, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 5 in hand]
+  YOU ACTIVATES Harpie's Feather Duster (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Harpie's Feather Duster
+    effect: Scapegoat
+    effect: Ring of Destruction
+    YOU loses 1100 LP -> 6900
+    OPP loses 1100 LP -> 6900
+    effect: Witch of the Black Forest
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP OPP 6900 / YOU 6900) ===
+  hand: OPP 3 / YOU 3   library: OPP 36 / YOU 33
+    OPP hand [exact]: Fissure, Imperial Order, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Fissure
+  OPP SETS Imperial Order (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP OPP 6900 / YOU 6900) ===
+  hand: OPP 2 / YOU 3   library: OPP 35 / YOU 33
+    OPP hand [exact]: Call Of The Haunted, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP OPP 6900 / YOU 6900) ===
+  hand: OPP 2 / YOU 3   library: OPP 35 / YOU 32
+    OPP hand [exact]: Call Of The Haunted, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP OPP 6900 / YOU 6900) ===
+  hand: OPP 3 / YOU 3   library: OPP 34 / YOU 32
+    OPP hand [exact]: Call Of The Haunted, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP OPP 6900 / YOU 6900) ===
+  hand: OPP 3 / YOU 4   library: OPP 34 / YOU 31
+    OPP hand [exact]: Call Of The Haunted, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Change of Heart (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Change of Heart
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 3)
+    YOU loses 1000 LP -> 5900
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 3 / YOU 4   library: OPP 33 / YOU 31
+    OPP hand [exact]: Call Of The Haunted, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Sangan (zone 0) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 3 / YOU 5   library: OPP 33 / YOU 30
+    OPP hand [exact]: Call Of The Haunted, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 11: YOU   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 5   library: OPP 32 / YOU 30
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 7)  [card 4 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 28)
+  YOU draws 1  (hand now 5, library 27)
+  YOU draws 1  (hand now 6, library 26)
+  YOU SETS Scapegoat (S/T zone 7)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 12: OPP   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 5   library: OPP 32 / YOU 26
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 2 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 5   library: OPP 31 / YOU 26
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 14: OPP   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 6   library: OPP 31 / YOU 25
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 3 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 15: YOU   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 6   library: OPP 30 / YOU 25
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 8)  [card 2 of 7 in hand]
+    effect: Dark Hole
+    effect: Imperial Order
+  YOU SETS Nimble Momonga in monster zone 1 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 16: OPP   (LP OPP 6900 / YOU 5900) ===
+  hand: OPP 4 / YOU 5   library: OPP 30 / YOU 24
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+    effect: Imperial Order
+    OPP loses 700 LP -> 6200
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 2) -> YOU's face-down Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6900
+    YOU special summons Nimble Momonga to zone 1
+  OPP attacks with face-down Witch of the Black Forest (zone 3) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7900
+    YOU special summons Nimble Momonga to zone 1
+  [main 2]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 17: YOU   (LP OPP 6200 / YOU 7900) ===
+  hand: OPP 4 / YOU 7   library: OPP 29 / YOU 24
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +7 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 18: OPP   (LP OPP 6200 / YOU 7900) ===
+  hand: OPP 4 / YOU 6   library: OPP 29 / YOU 23
+    OPP hand [exact]: Call Of The Haunted, Nobleman of Crossout, Scapegoat, United We Stand
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +8 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+    effect: Imperial Order
+    OPP loses 700 LP -> 5500
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8900
+    OPP gains 1000 LP -> 6500
+    OPP special summons Nimble Momonga to zone 1
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's Sangan (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Sangan
+    OPP gains 1000 LP -> 7500
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 3)
+    effect: Scapegoat
+    YOU loses 1100 LP -> 7800
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 19: YOU   (LP OPP 7500 / YOU 7800) ===
+  hand: OPP 5 / YOU 8   library: OPP 28 / YOU 23
+    OPP hand [partly unknown]: Nobleman of Crossout, Scapegoat, United We Stand   (+2 unknown)
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +10 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 9, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 3 of 9 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 20: OPP   (LP OPP 7500 / YOU 7800) ===
+  hand: OPP 5 / YOU 6   library: OPP 28 / YOU 22
+    OPP hand [partly unknown]: Nobleman of Crossout, Scapegoat, United We Stand   (+2 unknown)
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +10 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+    effect: Imperial Order
+    OPP loses 700 LP -> 6800
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 8)  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 3) -> YOU's face-down Giant Rat (zone 0)
+    OPP loses 350 LP -> 6450
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 21: YOU   (LP OPP 6450 / YOU 7800) ===
+  hand: OPP 5 / YOU 6   library: OPP 27 / YOU 22
+    OPP hand [partly unknown]: Nobleman of Crossout, Scapegoat, United We Stand   (+2 unknown)
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Snatch Steal   (up to 2 of these already discarded; +10 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons Sangan to zone 1
+  YOU SUMMONS Jinzo in monster zone 1  [card 7 of 7 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+    effect: Giant Trunade
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 2 of 7 in hand]
+    effect: Snatch Steal
+    YOU special summons Sangan to zone 3
+  YOU ACTIVATES Mage Power (S/T zone 6)  [card 5 of 6 in hand]
+    effect: Mage Power
+  YOU SETS Scapegoat (S/T zone 7)  [card 3 of 5 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 8)  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    OPP loses 2400 LP -> 4050
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 5050
+  YOU attacks DIRECTLY with Jinzo (zone 1)
+    OPP loses 2400 LP -> 2650
+  YOU attacks DIRECTLY with Sangan (zone 3)
+    OPP loses 1700 LP -> 950
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    OPP loses 1100 LP -> -150
+  [DUEL END]  final LP: OPP -150 / YOU 7800

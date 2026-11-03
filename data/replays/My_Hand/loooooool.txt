@@ -1,0 +1,457 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 57)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 57 / OPP 39
+    YOU hand [exact]: Call Of The Haunted, Harpie's Feather Duster, Jinzo, Mystic Tomato, Vorse Raider
+    OPP (recorder) hand [exact]: Magic Cylinder, Man-Eater Bug, Morphing Jar, Premature Burial, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 5 of 6 in hand]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 57 / OPP 38
+    YOU hand [exact]: Call Of The Haunted, Harpie's Feather Duster, Jinzo, Mystic Tomato, Vorse Raider
+    OPP (recorder) hand [exact]: Heavy Storm, Morphing Jar, Premature Burial, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 56)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 56 / OPP 38
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Heavy Storm, Morphing Jar, Premature Burial, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 0)
+    effect: Call Of The Haunted
+    YOU special summons a monster to zone 0
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 56 / OPP 37
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Slate Warrior, Vorse Raider
+    OPP (recorder) hand [exact]: Heavy Storm, Morphing Jar, Mystic Tomato, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 5, library 55)
+  [standby]
+  [main 1]
+  YOU SUMMONS Vorse Raider in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 7700
+    effect: Witch of the Black Forest
+  YOU attacks DIRECTLY with Vorse Raider (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1900 LP -> 6100
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6100 / OPP 7700) ===
+  hand: YOU 4 / OPP 5   library: YOU 55 / OPP 37
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Mystical Space Typhoon, Slate Warrior
+    OPP (recorder) hand [partly unknown]: Heavy Storm, Morphing Jar, Mystic Tomato, Premature Burial   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 6900
+    OPP special summons Witch of the Black Forest to zone 0
+  OPP SUMMONS Jinzo in monster zone 0  [card 3 of 5 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Vorse Raider (zone 1)
+    YOU's Vorse Raider (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 5600
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5600 / OPP 6900) ===
+  hand: YOU 4 / OPP 5   library: YOU 55 / OPP 36
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Mystical Space Typhoon, Slate Warrior
+    OPP (recorder) hand [partly unknown]: Heavy Storm, Morphing Jar, Mystic Tomato   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 54)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5600 / OPP 6900) ===
+  hand: YOU 4 / OPP 5   library: YOU 54 / OPP 36
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Mystical Space Typhoon, Slate Warrior
+    OPP (recorder) hand [partly unknown]: Heavy Storm, Morphing Jar, Mystic Tomato   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's face-down Blast Sphere (zone 1)
+    effect: Blast Sphere
+  [main 2]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Heavy Storm
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5600 / OPP 6900) ===
+  hand: YOU 4 / OPP 4   library: YOU 54 / OPP 35
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Mystical Space Typhoon, Slate Warrior
+    OPP (recorder) hand [partly unknown]: Morphing Jar, Mystic Tomato   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 53)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7900
+    OPP special summons Nimble Momonga to zone 1
+    OPP special summons Nimble Momonga to zone 2
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5600 / OPP 7900) ===
+  hand: YOU 3 / OPP 5   library: YOU 53 / OPP 35
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Magic Cylinder
+    OPP (recorder) hand [partly unknown]: Morphing Jar, Mystic Tomato   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 5)  [card 5 of 6 in hand]
+  OPP SETS Mystic Tomato in monster zone 3 (face-down)  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Slate Warrior (zone 1)
+    YOU's Slate Warrior (zone 1) is destroyed in battle
+    YOU loses 500 LP -> 5100
+    effect: Slate Warrior
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5100 / OPP 7900) ===
+  hand: YOU 3 / OPP 4   library: YOU 53 / OPP 34
+    YOU hand [exact]: Harpie's Feather Duster, Jinzo, Magic Cylinder
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 52)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 0  [card 1 of 4 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Jinzo (zone 0)
+    OPP's Jinzo (zone 0) is destroyed in battle
+    OPP loses 500 LP -> 7400
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5100 / OPP 7400) ===
+  hand: YOU 3 / OPP 4   library: YOU 52 / OPP 34
+    YOU hand [exact]: Harpie's Feather Duster, Magic Cylinder, Monster Reborn
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5100 / OPP 7400) ===
+  hand: YOU 3 / OPP 3   library: YOU 52 / OPP 33
+    YOU hand [exact]: Harpie's Feather Duster, Magic Cylinder, Monster Reborn
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 51)
+  [standby]
+  [main 1]
+    YOU special summons Slate Warrior to zone 1
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 3 of 4 in hand]
+    effect: Monster Reborn
+    YOU special summons Slate Warrior to zone 2
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 2) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8400
+  YOU attacks with Jinzo (zone 0) -> OPP's Nimble Momonga (zone 2)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9400
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 32)
+  OPP draws 1  (hand now 2, library 31)
+  OPP draws 1  (hand now 3, library 30)
+  OPP draws 1  (hand now 4, library 29)
+  OPP draws 1  (hand now 5, library 28)
+  YOU draws 1  (hand now 1, library 50)
+  YOU draws 1  (hand now 2, library 49)
+  YOU draws 1  (hand now 3, library 48)
+  YOU draws 1  (hand now 4, library 47)
+  YOU draws 1  (hand now 5, library 46)
+  [main 2]
+  YOU ACTIVATES Delinquent Duo (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Delinquent Duo
+    YOU loses 1000 LP -> 4100
+  YOU SETS Sangan in monster zone 3 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 4100 / OPP 9400) ===
+  hand: YOU 3 / OPP 5   library: YOU 46 / OPP 28
+    YOU hand [exact]: Bazoo the Soul-Eater, Summoned Skull, Trap Hole
+    OPP (recorder) hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 4 of 6 in hand]
+    effect: Swords of Revealing Light
+    effect: Mystical Space Typhoon
+  OPP SETS Scapegoat (S/T zone 7)  [card 1 of 5 in hand]
+  OPP SETS Cyber Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Ring of Destruction (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 4100 / OPP 9400) ===
+  hand: YOU 3 / OPP 2   library: YOU 46 / OPP 27
+    YOU hand [exact]: Bazoo the Soul-Eater, Summoned Skull, Trap Hole
+    OPP (recorder) hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 45)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Raigeki (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Raigeki
+  YOU SUMMONS Summoned Skull in monster zone 3  [card 3 of 3 in hand]
+    effect: Sangan
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 2)
+    effect: Scapegoat
+  YOU attacks with Slate Warrior (zone 2) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  YOU attacks with Mystic Tomato (zone 3) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Cyber Jar (zone 0)
+    OPP's face-down Cyber Jar (zone 0) is destroyed in battle
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Mystic Tomato (zone 3)
+    OPP's face-down Mystic Tomato (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 4100 / OPP 9400) ===
+  hand: YOU 3 / OPP 2   library: YOU 45 / OPP 27
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Trap Hole   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 4100 / OPP 9400) ===
+  hand: YOU 3 / OPP 2   library: YOU 45 / OPP 26
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Trap Hole   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 44)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 4  [card 1 of 4 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  YOU attacks with Bazoo the Soul-Eater (zone 4) -> OPP's Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    OPP loses 1500 LP -> 7900
+    effect: Sangan
+  YOU attacks DIRECTLY with Mystic Tomato (zone 3)
+    OPP loses 2500 LP -> 5400
+  YOU attacks DIRECTLY with Slate Warrior (zone 2)
+    OPP loses 2400 LP -> 3000
+  YOU attacks DIRECTLY with Jinzo (zone 0)
+    OPP loses 2400 LP -> 600
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 3 / OPP 4   library: YOU 44 / OPP 26
+    YOU hand [partly unknown]: Trap Hole   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 3 / OPP 4   library: YOU 44 / OPP 25
+    YOU hand [partly unknown]: Trap Hole   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 43)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 4) -> OPP's face-down Magician of Faith (zone 0)
+    OPP's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  YOU attacks DIRECTLY with Mystic Tomato (zone 3)
+    effect: Scapegoat
+  YOU attacks with Mystic Tomato (zone 3) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  YOU attacks with Slate Warrior (zone 2) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Slate Warrior (zone 1) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  YOU SETS Trap Hole (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SUMMONS Barrel Dragon in monster zone 4  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 2 / OPP 4   library: YOU 43 / OPP 25
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 24)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 2 / OPP 3   library: YOU 43 / OPP 24
+    YOU hand [partly unknown]: -   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 42)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 3 / OPP 3   library: YOU 42 / OPP 24
+    YOU hand [partly unknown]: -   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 23
+    YOU hand [partly unknown]: -   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 41)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 4100 / OPP 600) ===
+  hand: YOU 4 / OPP 4   library: YOU 41 / OPP 23
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Dark Hole
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 2200
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 2200 / OPP 600) ===
+  hand: YOU 4 / OPP 3   library: YOU 41 / OPP 22
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 40)
+  [standby]
+  [main 1]
+  YOU SETS Ancient Lamp in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 2200 / OPP 600) ===
+  hand: YOU 4 / OPP 3   library: YOU 40 / OPP 22
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 4, library 20)
+  OPP draws 1  (hand now 5, library 19)
+  OPP SETS Mirror Force (S/T zone 5)  [card 3 of 5 in hand]
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 1
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 300
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1400 LP -> -1100
+  [DUEL END]  final LP: YOU -1100 / OPP 600

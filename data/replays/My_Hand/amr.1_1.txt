@@ -1,0 +1,414 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Man-Eater Bug, Sangan, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Magician of Faith, Mystical Space Typhoon, Pot of Greed, Sangan, Scapegoat
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Scapegoat (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Sangan, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Magician of Faith, Mystical Space Typhoon, Pot of Greed, Sangan, Scapegoat
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 37)
+  OPP draws 1  (hand now 7, library 36)
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 6 of 7 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Scapegoat (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 38 / OPP 36
+    YOU (recorder) hand [exact]: Fissure, Sangan, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Magician of Faith, Sangan, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 3 of 5 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 6550
+  [main 2]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6550) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 36
+    YOU (recorder) hand [exact]: Fissure, Kinetic Soldier, Scapegoat
+    OPP hand [exact]: Magician of Faith, Sangan, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    YOU loses 550 LP -> 7450
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7450 / OPP 6550) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: Fissure, Kinetic Soldier, Scapegoat
+    OPP hand [exact]: Amazon Archer, Magician of Faith, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  YOU SETS Ceasefire (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7450 / OPP 6550) ===
+  hand: YOU 2 / OPP 3   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Fissure, Scapegoat
+    OPP hand [exact]: Amazon Archer, Magician of Faith, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Sangan (zone 1)
+    YOU's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7450 / OPP 6550) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 34
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Nimble Momonga, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's Sangan (zone 0)
+    effect: Ceasefire
+    OPP loses 2000 LP -> 4550
+    OPP's Sangan (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 4450
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7450 / OPP 4450) ===
+  hand: YOU 3 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+1 unknown)
+    OPP hand [partly unknown]: Amazon Archer, Nimble Momonga, Slate Warrior   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's Witch of the Black Forest (zone 1)
+    YOU's Witch of the Black Forest (zone 1) is destroyed in battle
+    YOU loses 100 LP -> 7350
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7350 / OPP 4450) ===
+  hand: YOU 3 / OPP 4   library: YOU 35 / OPP 33
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+1 unknown)
+    OPP hand [partly unknown]: Amazon Archer, Nimble Momonga, Slate Warrior   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7350 / OPP 4450) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 33
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+2 unknown)
+    OPP hand [partly unknown]: Amazon Archer, Nimble Momonga, Slate Warrior   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 3 of 5 in hand]
+  OPP ACTIVATES Fissure (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Fissure
+    effect: Scapegoat
+  [battle phase]
+  OPP attacks with face-down Magician of Faith (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7350 / OPP 4450) ===
+  hand: YOU 4 / OPP 2   library: YOU 34 / OPP 32
+    YOU (recorder) hand [partly unknown]: Fissure, Scapegoat   (+2 unknown)
+    OPP hand [partly unknown]: Amazon Archer, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+    YOU special summons Dimensional Warrior to zone 0
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Magician of Faith (zone 1)
+    effect: Ring of Destruction
+    YOU loses 1700 LP -> 5650
+    OPP loses 1700 LP -> 2750
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5650 / OPP 2750) ===
+  hand: YOU 4 / OPP 2   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: Fissure   (+3 unknown)
+    OPP hand [partly unknown]: Amazon Archer, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 2  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Magician of Faith (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Amazon Archer (zone 2) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    effect: Scapegoat
+  OPP attacks with Slate Warrior (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5650 / OPP 2750) ===
+  hand: YOU 4 / OPP 2   library: YOU 33 / OPP 31
+    YOU (recorder) hand [partly unknown]: Fissure   (+3 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 3  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 3) -> OPP's Magician of Faith (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1200 LP -> 4450
+  [main 2]
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Fissure
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 1 of 3 in hand]
+    effect: Fissure
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 4450 / OPP 2750) ===
+  hand: YOU 2 / OPP 2   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 1) -> YOU's Dream Clown (zone 3)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    OPP loses 200 LP -> 2550
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 3550
+    OPP special summons Nimble Momonga to zone 1
+    OPP special summons Nimble Momonga to zone 2
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Dream Clown (zone 3)
+    YOU's Dream Clown (zone 3) is destroyed in battle
+    YOU loses 700 LP -> 3750
+  [main 2]
+  OPP SETS Waboku (S/T zone 5)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 3750 / OPP 3550) ===
+  hand: YOU 2 / OPP 2   library: YOU 32 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SETS Magician of Faith in monster zone 3 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 3750 / OPP 3550) ===
+  hand: YOU 1 / OPP 2   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Nimble Momonga (zone 1) -> YOU's Witch of the Black Forest (zone 1)
+    YOU's Witch of the Black Forest (zone 1) is destroyed in battle
+  OPP attacks with Slate Warrior (zone 0) -> YOU's face-down Magician of Faith (zone 3)
+    YOU's Magician of Faith (zone 3) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+  OPP ACTIVATES Premature Burial (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 2750
+    OPP special summons Nimble Momonga to zone 3
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 2550
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Call Of The Haunted
+    YOU special summons Magician of Faith to zone 1
+
+=== Turn 17: YOU   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 1 / OPP 2   library: YOU 31 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  YOU ACTIVATES Giant Trunade (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Giant Trunade
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 1 of 1 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 0 / OPP 2   library: YOU 30 / OPP 29
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 5)  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 0 / OPP 1   library: YOU 30 / OPP 28
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 0 / OPP 1   library: YOU 29 / OPP 28
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 26)
+  OPP draws 1  (hand now 2, library 25)
+  OPP draws 1  (hand now 3, library 24)
+  OPP SETS Morphing Jar in monster zone 1 (face-down)  [card 3 of 3 in hand]
+    OPP special summons Nimble Momonga to zone 2
+  OPP SETS Monster Reborn (S/T zone 7)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Penguin Soldier (zone 0)
+    YOU's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 0 / OPP 1   library: YOU 29 / OPP 24
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Amazon Archer in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 2550 / OPP 2750) ===
+  hand: YOU 0 / OPP 1   library: YOU 28 / OPP 24
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 3 of 3 in hand]
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 1350
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Scapegoat
+
+=== Turn 23: YOU   (LP YOU 1350 / OPP 2750) ===
+  hand: YOU 0 / OPP 2   library: YOU 28 / OPP 23
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 1550
+    effect: Call Of The Haunted
+    YOU special summons Penguin Soldier to zone 0
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 350
+  YOU ACTIVATES Last Will (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Penguin Soldier to zone 0
+    effect: Cannon Soldier
+    OPP loses 500 LP -> -150
+  [DUEL END]  final LP: YOU 1350 / OPP -150

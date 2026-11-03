@@ -1,0 +1,245 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 37
+    YOU hand [exact]: Ceasefire, Last Will, Magic Cylinder, Nimble Momonga, Pot of Greed
+    OPP (recorder) hand [exact]: Call Of The Haunted, Fissure, Giant Rat, Morphing Jar, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 37)
+  YOU draws 1  (hand now 7, library 36)
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 3 of 7 in hand]
+  YOU SETS United We Stand (S/T zone 5)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 37
+    YOU hand [exact]: Ceasefire, Last Will, Magic Cylinder, Mystical Space Typhoon, Torrential Tribute
+    OPP (recorder) hand [exact]: Call Of The Haunted, Fissure, Giant Rat, Morphing Jar, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 36 / OPP 36
+    YOU hand [exact]: Ceasefire, Last Will, Magic Cylinder, Mystical Space Typhoon, Torrential Tribute
+    OPP (recorder) hand [exact]: Amazon Archer, Fissure, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 1  [card 6 of 6 in hand]
+  YOU SETS Ceasefire (S/T zone 6)  [card 2 of 5 in hand]
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Torrential Tribute (S/T zone 8)  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Giant Rat (zone 0)
+    YOU loses 50 LP -> 7950
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 9)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7950 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 35 / OPP 36
+    YOU hand [exact]: Last Will
+    OPP (recorder) hand [exact]: Amazon Archer, Fissure, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Fissure (S/T zone 7)  [card 2 of 4 in hand]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7950 / OPP 8000) ===
+  hand: YOU 1 / OPP 2   library: YOU 35 / OPP 35
+    YOU hand [exact]: Last Will
+    OPP (recorder) hand [exact]: Amazon Archer, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 6000
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7950 / OPP 6000) ===
+  hand: YOU 2 / OPP 2   library: YOU 34 / OPP 35
+    YOU hand [exact]: Giant Rat, Last Will
+    OPP (recorder) hand [exact]: Amazon Archer, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7950 / OPP 6000) ===
+  hand: YOU 2 / OPP 3   library: YOU 34 / OPP 34
+    YOU hand [exact]: Giant Rat, Last Will
+    OPP (recorder) hand [exact]: Amazon Archer, Giant Trunade, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 2  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with face-down Nimble Momonga (zone 0) -> OPP's face-down Nimble Momonga (zone 1)
+    OPP's face-down Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7000
+    OPP special summons Nimble Momonga to zone 1
+    OPP special summons Nimble Momonga to zone 2
+  YOU attacks with Giant Rat (zone 2) -> OPP's Nimble Momonga (zone 2)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8000
+  YOU attacks with Giant Rat (zone 1) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7950 / OPP 9000) ===
+  hand: YOU 2 / OPP 6   library: YOU 33 / OPP 34
+    YOU hand [exact]: Fissure, Last Will
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Giant Trunade, Morphing Jar   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7950 / OPP 9000) ===
+  hand: YOU 2 / OPP 6   library: YOU 33 / OPP 33
+    YOU hand [exact]: Fissure, Last Will
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Giant Trunade, Morphing Jar   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Fissure (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Fissure
+  YOU SETS Last Will (S/T zone 6)  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 2) -> OPP's face-down Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Call Of The Haunted
+    effect: Mystical Space Typhoon
+    OPP loses 1000 LP -> 8000
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7950 / OPP 6600) ===
+  hand: YOU 1 / OPP 7   library: YOU 32 / OPP 33
+    YOU hand [exact]: Fissure
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Giant Trunade, Morphing Jar   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 2 of 8 in hand]
+    effect: Torrential Tribute
+    effect: Witch of the Black Forest
+    OPP special summons Sangan to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    effect: Magic Cylinder
+    OPP loses 1700 LP -> 4900
+  [main 2]
+  OPP SETS Giant Trunade (S/T zone 5)  [card 4 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7950 / OPP 4900) ===
+  hand: YOU 1 / OPP 6   library: YOU 32 / OPP 32
+    YOU hand [exact]: Fissure
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Morphing Jar   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Offerings to the Doomed (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7950 / OPP 4900) ===
+  hand: YOU 1 / OPP 6   library: YOU 31 / OPP 32
+    YOU hand [exact]: Fissure
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Morphing Jar   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1700 LP -> 6250
+  [main 2]
+  OPP SETS Dream Clown in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 6250 / OPP 4900) ===
+  hand: YOU 1 / OPP 6   library: YOU 31 / OPP 31
+    YOU hand [exact]: Fissure
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Morphing Jar   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6250 / OPP 4900) ===
+  hand: YOU 2 / OPP 6   library: YOU 30 / OPP 31
+    YOU hand [exact]: Fissure, Jinzo
+    OPP (recorder) hand [partly unknown]: Amazon Archer, Morphing Jar   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+    effect: Offerings to the Doomed
+    OPP special summons Sangan to zone 0
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Monster Reborn
+    OPP special summons Sangan to zone 2
+  OPP SETS Fissure (S/T zone 5)  [card 3 of 6 in hand]
+  OPP SUMMONS Amazon Archer in monster zone 3  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 2)
+    YOU loses 1700 LP -> 4550
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1700 LP -> 2850
+  OPP attacks DIRECTLY with face-down Dream Clown (zone 1)
+    YOU loses 1200 LP -> 1650
+  OPP attacks DIRECTLY with Amazon Archer (zone 3)
+    YOU loses 1400 LP -> 250
+  [main 2]
+    effect: Amazon Archer
+    YOU loses 1200 LP -> -950
+  [DUEL END]  final LP: YOU -950 / OPP 4900

@@ -1,0 +1,659 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, Rush Recklessly, Skull Lair, Swords of Revealing Light, Windstorm of Etaqua
+    OPP hand [exact]: Dimensional Warrior, Dust Tornado, Giant Rat, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Flying Kamakiri #1, Rush Recklessly, Skull Lair, Swords of Revealing Light, Windstorm of Etaqua
+    OPP hand [exact]: Dimensional Warrior, Skull Lair, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Flying Kamakiri #1 in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, Skull Lair, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Skull Lair (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Trap Hole (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, Jinzo, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Dimensional Warrior, Jinzo, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  OPP SETS Waboku (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: Rush Recklessly, Skull Lair, Slate Warrior
+    OPP hand [exact]: Jinzo, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Skull Lair (S/T zone 5)  [card 2 of 4 in hand]
+  YOU SETS Kunai with Chain (S/T zone 8)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Rush Recklessly, Slate Warrior
+    OPP hand [exact]: Jinzo, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Giant Germ in monster zone 3 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: Rush Recklessly, Slate Warrior
+    OPP hand [exact]: Jinzo, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Giant Germ (zone 1) -> OPP's face-down Giant Germ (zone 3)
+    OPP's Giant Germ (zone 3) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 3
+    OPP special summons Giant Germ to zone 4
+  [main 2]
+  YOU SETS Rush Recklessly (S/T zone 9)  [card 1 of 3 in hand]
+  YOU SETS Giant Germ in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7500 / OPP 8000) ===
+  hand: YOU 1 / OPP 4   library: YOU 30 / OPP 30
+    YOU (recorder) hand [exact]: Slate Warrior
+    OPP hand [partly unknown]: Jinzo, The Rock Spirit, Tribute to The Doomed   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 1  [card 3 of 5 in hand]
+    effect: Jinzo
+  [battle phase]
+  OPP attacks with face-down Dimensional Warrior (zone 2) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    YOU loses 200 LP -> 7300
+    effect: Dimensional Warrior
+  OPP attacks with Jinzo (zone 1) -> YOU's face-down Giant Germ (zone 2)
+    YOU's Giant Germ (zone 2) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 7500
+    YOU special summons Giant Germ to zone 1
+  OPP attacks with Giant Germ (zone 3) -> YOU's Giant Germ (zone 1)
+    OPP's Giant Germ (zone 3) is destroyed in battle
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    effect: Giant Germ
+    OPP loses 500 LP -> 7000
+    YOU loses 500 LP -> 6800
+  OPP attacks with face-down Giant Rat (zone 0) -> YOU's face-down Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6800 / OPP 7000) ===
+  hand: YOU 4 / OPP 5   library: YOU 30 / OPP 29
+    YOU (recorder) hand [partly unknown]: Slate Warrior   (+3 unknown)
+    OPP hand [partly unknown]: The Rock Spirit, Tribute to The Doomed   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's Giant Germ (zone 4)
+    OPP's Giant Germ (zone 4) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 6300
+  YOU attacks with Slate Warrior (zone 1) -> OPP's Jinzo (zone 1)
+    effect: Rush Recklessly
+    OPP's Jinzo (zone 1) is destroyed in battle
+    OPP loses 200 LP -> 6800
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6300 / OPP 6800) ===
+  hand: YOU 4 / OPP 6   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit, Tribute to The Doomed   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 28)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+    effect: Dust Tornado
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 5)  [card 3 of 7 in hand]
+    effect: Tribute to The Doomed
+  OPP SUMMONS Amazon Archer in monster zone 1  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Flying Kamakiri #1 (zone 0)
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6300 / OPP 6800) ===
+  hand: YOU 4 / OPP 5   library: YOU 29 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Crush Card (S/T zone 7)  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's Amazon Archer (zone 1)
+    effect: Waboku
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [main 2]
+  YOU SETS Greenkappa in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6300 / OPP 6800) ===
+  hand: YOU 4 / OPP 5   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 2 of 6 in hand]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 1 of 5 in hand]
+    effect: Swords of Revealing Light
+    effect: Greenkappa
+    effect: Skull Lair
+    OPP special summons Jinzo to zone 0
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 6000
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  OPP attacks with Amazon Archer (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    YOU loses 600 LP -> 5400
+  [main 2]
+  OPP SETS Sinister Serpent in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 28 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+    effect: Crush Card
+  YOU SETS Mask of Darkness in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Graceful Charity (S/T zone 5)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Amazon Archer (zone 1) -> YOU's face-down Mask of Darkness (zone 0)
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 27 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 26 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 26 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 7)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 24)
+  YOU draws 1  (hand now 7, library 23)
+    effect: Mask of Darkness
+  YOU SETS Trap Hole (S/T zone 7)  [card 2 of 7 in hand]
+  YOU SETS Dust Tornado (S/T zone 9)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 23 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+    effect: Witch of the Black Forest
+  OPP SUMMONS Hayabusa Knight in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Hayabusa Knight (zone 1) -> YOU's face-down Mask of Darkness (zone 0)
+    effect: Kunai with Chain
+    OPP's Hayabusa Knight (zone 1) is destroyed in battle
+    OPP loses 400 LP -> 6400
+    effect: Skull Lair
+    effect: Dust Tornado
+    effect: Skull Lair
+  YOU SETS Michizure (S/T zone 8)  [card 2 of 6 in hand]
+  OPP attacks DIRECTLY with Graceful Charity (zone 2)
+    YOU loses 300 LP -> 5100
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 4650
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 4650 / OPP 6400) ===
+  hand: YOU 5 / OPP 3   library: YOU 23 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 9)  [card 2 of 6 in hand]
+  YOU SUMMONS Sangan in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Graceful Charity (zone 2)
+    OPP's Graceful Charity (zone 2) is destroyed in battle
+    OPP loses 700 LP -> 5700
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 4650 / OPP 5700) ===
+  hand: YOU 4 / OPP 3   library: YOU 22 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 23)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+    effect: Graceful Charity
+    effect: Solemn Judgment
+    YOU loses 2325 LP -> 2325
+  OPP SETS Sinister Serpent in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 2325 / OPP 5700) ===
+  hand: YOU 4 / OPP 1   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 2325 / OPP 5700) ===
+  hand: YOU 5 / OPP 1   library: YOU 21 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 2 of 2 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 2325 / OPP 5700) ===
+  hand: YOU 5 / OPP 1   library: YOU 21 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 20)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Sinister Serpent (zone 1)
+    OPP's Sinister Serpent (zone 1) is destroyed in battle
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Mirror Force (S/T zone 7)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 2325 / OPP 5700) ===
+  hand: YOU 4 / OPP 1   library: YOU 20 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 21)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Giant Trunade (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 2325 / OPP 5700) ===
+  hand: YOU 4 / OPP 1   library: YOU 20 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  YOU SETS Imperial Order (S/T zone 9)  [card 1 of 5 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 4700
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 4250
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 2325 / OPP 4250) ===
+  hand: YOU 4 / OPP 1   library: YOU 19 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 2325 / OPP 4250) ===
+  hand: YOU 4 / OPP 1   library: YOU 19 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 18)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 3800
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 2325 / OPP 3800) ===
+  hand: YOU 5 / OPP 1   library: YOU 18 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 19)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+    effect: Giant Trunade
+    effect: Imperial Order
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 1 of 1 in hand]
+  OPP SETS United We Stand (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 2325 / OPP 3800) ===
+  hand: YOU 5 / OPP 0   library: YOU 18 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 9)  [card 1 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 16)
+  YOU draws 1  (hand now 5, library 15)
+  YOU draws 1  (hand now 6, library 14)
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 3350
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 9)  [card 1 of 6 in hand]
+  YOU SETS Mask of Darkness in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 2325 / OPP 3350) ===
+  hand: YOU 4 / OPP 0   library: YOU 14 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 18)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+    OPP special summons Sinister Serpent to zone 0
+  [battle phase]
+  OPP attacks with Sinister Serpent (zone 0) -> YOU's Man-Eater Bug (zone 1)
+    effect: Mirror Force
+  [main 2]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 34: YOU   (LP YOU 2325 / OPP 3350) ===
+  hand: YOU 4 / OPP 1   library: YOU 14 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 13)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  [battle phase]
+  YOU attacks with face-down Mask of Darkness (zone 2) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 2900
+  [main 2]
+  YOU SETS Crush Card (S/T zone 7)  [card 1 of 5 in hand]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 35: OPP   (LP YOU 2325 / OPP 2900) ===
+  hand: YOU 3 / OPP 1   library: YOU 13 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 17)
+  [standby]
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 36: YOU   (LP YOU 2325 / OPP 2900) ===
+  hand: YOU 3 / OPP 0   library: YOU 13 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 12)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 1) -> OPP's face-down Sinister Serpent (zone 0)
+    OPP's Sinister Serpent (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with face-down Sangan (zone 0)
+    OPP loses 1000 LP -> 1900
+  YOU attacks DIRECTLY with Mask of Darkness (zone 2)
+    OPP loses 900 LP -> 1000
+  [main 2]
+    effect: Crush Card
+    effect: Sangan
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Rush Recklessly (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 37: OPP   (LP YOU 2325 / OPP 1000) ===
+  hand: YOU 3 / OPP 0   library: YOU 12 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 1, library 16)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SUMMONS Sinister Serpent in monster zone 0  [card 2 of 2 in hand]
+  OPP ACTIVATES Last Will (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Last Will
+  [battle phase]
+  OPP attacks with Sinister Serpent (zone 0) -> YOU's Man-Eater Bug (zone 1)
+    effect: Windstorm of Etaqua
+    effect: Ring of Destruction
+    effect: Mystical Space Typhoon
+    YOU loses 300 LP -> 2025
+    OPP loses 300 LP -> 700
+    effect: Last Will
+    OPP special summons Sinister Serpent to zone 0
+  OPP attacks with Sinister Serpent (zone 0) -> YOU's Man-Eater Bug (zone 1)
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 38: YOU   (LP YOU 2025 / OPP 700) ===
+  hand: YOU 3 / OPP 2   library: YOU 12 / OPP 16
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 11)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 6)  [card 1 of 4 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Monster Reborn
+    YOU special summons Flying Kamakiri #1 to zone 3
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 3)
+    OPP loses 2400 LP -> -1700
+  [DUEL END]  final LP: YOU 2025 / OPP -1700

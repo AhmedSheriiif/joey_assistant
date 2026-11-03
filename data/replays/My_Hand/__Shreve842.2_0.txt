@@ -1,0 +1,156 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mirror Force, Mystic Tomato, Nobleman of Crossout
+    OPP hand [exact]: 2x Alpha The Magnet Warrior, Backup Soldier, Skull Lair, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Alpha The Magnet Warrior in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Skull Lair (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mirror Force, Mystic Tomato, Nobleman of Crossout
+    OPP hand [exact]: Alpha The Magnet Warrior, Backup Soldier, Ekibyo Drakmord, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Nobleman of Crossout
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mirror Force, Mystic Tomato
+    OPP hand [exact]: Alpha The Magnet Warrior, Backup Soldier, Ekibyo Drakmord, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Ekibyo Drakmord (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Ekibyo Drakmord
+  OPP SETS Alpha The Magnet Warrior in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mirror Force, Mystic Tomato
+    OPP hand [exact]: Backup Soldier, Ultimate Offering, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Backup Soldier, Ultimate Offering, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Kinetic Soldier in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Dark Hole, Ekibyo Drakmord, Mystic Tomato, Slate Warrior
+    OPP hand [exact]: Backup Soldier, Ultimate Offering, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Dark Hole
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> 4700
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 4700) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Mystic Tomato, Mystical Space Typhoon
+    OPP hand [exact]: Backup Soldier, Ultimate Offering, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Ultimate Offering (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 4700) ===
+  hand: YOU 3 / OPP 3   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Mystic Tomato, Mystical Space Typhoon
+    OPP hand [exact]: Backup Soldier, Giant Rat, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+    effect: Ultimate Offering
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 1  [card 2 of 4 in hand]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> 2800
+  YOU attacks DIRECTLY with Mystic Tomato (zone 1)
+    OPP loses 1400 LP -> 1400
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 1400) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Magic Cylinder
+    OPP hand [exact]: Backup Soldier, Giant Rat, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 4 of 4 in hand]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 1400) ===
+  hand: YOU 2 / OPP 2   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: Ekibyo Drakmord, Magic Cylinder
+    OPP hand [exact]: Backup Soldier, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 2 of 3 in hand]
+  YOU SETS Ceasefire (S/T zone 7)  [card 2 of 2 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8000 / OPP 1400) ===
+  hand: YOU 1 / OPP 2   library: YOU 30 / OPP 30
+    YOU (recorder) hand [exact]: Ekibyo Drakmord
+    OPP hand [exact]: Backup Soldier, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+    effect: Ceasefire
+    OPP loses 1500 LP -> -100
+  [DUEL END]  final LP: YOU 8000 / OPP -100

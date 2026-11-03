@@ -1,0 +1,167 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 37
+    YOU hand [exact]: Last Will, Offerings to the Doomed, Slate Warrior, The Fiend Megacyber, United We Stand
+    OPP (recorder) hand [exact]: Ceasefire, Man-Eater Bug, Pot of Greed, Ring of Destruction, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS United We Stand (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 38 / OPP 37
+    YOU hand [exact]: Last Will, Offerings to the Doomed, Slate Warrior, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Ceasefire, Man-Eater Bug, Pot of Greed, Ring of Destruction, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 35)
+  OPP draws 1  (hand now 7, library 34)
+  OPP SETS Ceasefire (S/T zone 5)  [card 4 of 7 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 2 of 6 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 38 / OPP 34
+    YOU hand [exact]: Last Will, Offerings to the Doomed, Slate Warrior, The Fiend Megacyber
+    OPP (recorder) hand [exact]: Jinzo, Man-Eater Bug, Penguin Soldier, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Dimensional Warrior (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1200 LP -> 6800
+    OPP loses 1200 LP -> 6800
+  [main 2]
+  YOU ACTIVATES Last Will (S/T zone 6)  [card 1 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons a monster to zone 0
+  YOU SETS Offerings to the Doomed (S/T zone 6)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 6800 / OPP 6800) ===
+  hand: YOU 5 / OPP 4   library: YOU 37 / OPP 34
+    YOU hand [partly unknown]: Nimble Momonga, Slate Warrior, The Fiend Megacyber   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Man-Eater Bug, Penguin Soldier, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6800 / OPP 6800) ===
+  hand: YOU 5 / OPP 4   library: YOU 37 / OPP 33
+    YOU hand [partly unknown]: Nimble Momonga, Slate Warrior, The Fiend Megacyber   (+2 unknown)
+    OPP (recorder) hand [exact]: Jinzo, Man-Eater Bug, Penguin Soldier, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7800
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  YOU attacks with unknown monster (zone 0) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8800
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6800 / OPP 8800) ===
+  hand: YOU 5 / OPP 6   library: YOU 36 / OPP 33
+    YOU hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Man-Eater Bug, Penguin Soldier, United We Stand   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 7)  [card 5 of 7 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 5, library 31)
+  OPP draws 1  (hand now 6, library 30)
+  OPP draws 1  (hand now 7, library 29)
+  OPP SETS Magic Cylinder (S/T zone 7)  [card 4 of 7 in hand]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6800 / OPP 8800) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 29
+    YOU hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Man-Eater Bug, United We Stand   (up to 2 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9800
+  YOU attacks with Slate Warrior (zone 1) -> OPP's face-down Penguin Soldier (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1900 LP -> 4900
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+    effect: Call Of The Haunted
+    OPP special summons Nimble Momonga to zone 0
+    effect: Jinzo
+
+=== Turn 8: OPP   (LP YOU 4900 / OPP 9800) ===
+  hand: YOU 6 / OPP 6   library: YOU 35 / OPP 29
+    YOU hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, Man-Eater Bug, United We Stand   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+    OPP special summons Nimble Momonga to zone 2
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 2)
+    YOU loses 1700 LP -> 3200
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Offerings to the Doomed
+  OPP attacks DIRECTLY with face-down Penguin Soldier (zone 1)
+    YOU loses 750 LP -> 2450
+  [main 2]
+  OPP SETS Premature Burial (S/T zone 6)  [card 3 of 7 in hand]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 2450 / OPP 9800) ===
+  hand: YOU 6 / OPP 5   library: YOU 35 / OPP 28
+    YOU hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: Jinzo, United We Stand   (up to 2 of these already discarded; +5 unknown)
+  [standby]
+  [main 1]
+    YOU special summons a monster to zone 0
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's Nimble Momonga (zone 2)
+    effect: Ceasefire
+    YOU loses 2500 LP -> -50
+  [DUEL END]  final LP: YOU -50 / OPP 9800

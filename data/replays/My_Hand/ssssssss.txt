@@ -1,0 +1,647 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 38)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 38
+    YOU hand [exact]: Amazon Archer, Giant Trunade, Graceful Charity, Morphing Jar, Witch of the Black Forest
+    OPP (recorder) hand [exact]: Magician of Faith, Monster Reborn, Morphing Jar, Mystic Tomato, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 38
+    YOU hand [exact]: Amazon Archer, Giant Trunade, Graceful Charity, Magician of Faith, Morphing Jar
+    OPP (recorder) hand [exact]: Magician of Faith, Monster Reborn, Morphing Jar, Mystic Tomato, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's face-down Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 5   library: YOU 37 / OPP 37
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Graceful Charity, Magician of Faith, Morphing Jar   (+1 unknown)
+    OPP (recorder) hand [exact]: Dark Hole, Magician of Faith, Monster Reborn, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 7, library 36)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 5)  [card 7 of 7 in hand]
+    effect: Dark Hole
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 37
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Graceful Charity, Magician of Faith, Morphing Jar
+    OPP (recorder) hand [exact]: Dark Hole, Magician of Faith, Monster Reborn, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 0
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Giant Rat (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+    OPP special summons a monster to zone 0
+  OPP attacks with unknown monster (zone 0) -> YOU's Giant Rat (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    YOU loses 200 LP -> 7800
+    effect: Dimensional Warrior
+  [main 2]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7800 / OPP 6600) ===
+  hand: YOU 6 / OPP 5   library: YOU 36 / OPP 36
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Graceful Charity, Magician of Faith, Morphing Jar   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Magician of Faith, Morphing Jar, Nobleman of Crossout   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 35)
+  [standby]
+  [main 1]
+    YOU special summons Giant Rat to zone 0
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 3 of 7 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7800 / OPP 6600) ===
+  hand: YOU 6 / OPP 6   library: YOU 35 / OPP 36
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Graceful Charity, Morphing Jar   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Magician of Faith, Morphing Jar, Nobleman of Crossout   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 2 of 7 in hand]
+    effect: Dark Hole
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 6 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1900 LP -> 5900
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 5900 / OPP 6600) ===
+  hand: YOU 6 / OPP 4   library: YOU 35 / OPP 35
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Graceful Charity, Morphing Jar   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar, Nobleman of Crossout   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 33)
+  YOU draws 1  (hand now 6, library 32)
+  YOU draws 1  (hand now 7, library 31)
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 3 of 7 in hand]
+    effect: Mystical Space Typhoon
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5900 / OPP 6600) ===
+  hand: YOU 4 / OPP 4   library: YOU 31 / OPP 35
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Morphing Jar   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar, Nobleman of Crossout   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+    effect: Ring of Destruction
+    OPP loses 1900 LP -> 4700
+    YOU loses 1900 LP -> 4000
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 4000 / OPP 4700) ===
+  hand: YOU 4 / OPP 3   library: YOU 31 / OPP 34
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade, Morphing Jar   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 4000 / OPP 4700) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 34
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  OPP SUMMONS Slate Warrior in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1900 LP -> 2800
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 3550
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 3550 / OPP 2800) ===
+  hand: YOU 3 / OPP 3   library: YOU 30 / OPP 33
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Nobleman of Crossout (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 3550 / OPP 2800) ===
+  hand: YOU 3 / OPP 3   library: YOU 29 / OPP 33
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Magician of Faith, Morphing Jar   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    effect: Kuriboh
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 3550 / OPP 2800) ===
+  hand: YOU 3 / OPP 3   library: YOU 29 / OPP 32
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+    effect: Nobleman of Crossout
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  YOU attacks with face-down Morphing Jar (zone 0) -> OPP's Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 3550 / OPP 2800) ===
+  hand: YOU 3 / OPP 3   library: YOU 28 / OPP 32
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 3800
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 4 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 3550 / OPP 3800) ===
+  hand: YOU 3 / OPP 2   library: YOU 28 / OPP 31
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 4800
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  [main 2]
+  YOU SETS Cannon Soldier in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 3550 / OPP 4800) ===
+  hand: YOU 3 / OPP 3   library: YOU 27 / OPP 31
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 5800
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Cannon Soldier (zone 1)
+    OPP loses 300 LP -> 5500
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 3550 / OPP 5500) ===
+  hand: YOU 3 / OPP 4   library: YOU 27 / OPP 30
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 6)  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    OPP loses 900 LP -> 4600
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 5600
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 3550 / OPP 6600) ===
+  hand: YOU 3 / OPP 6   library: YOU 26 / OPP 30
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 7600
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 0  [card 3 of 7 in hand]
+  [battle phase]
+  OPP attacks with Cannon Soldier (zone 0) -> YOU's Cannon Soldier (zone 1)
+    OPP's Cannon Soldier (zone 0) is destroyed in battle
+    YOU's Cannon Soldier (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 6)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 3550 / OPP 7600) ===
+  hand: YOU 3 / OPP 5   library: YOU 26 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 7)  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Morphing Jar (zone 0)
+    effect: Scapegoat
+  YOU attacks with Morphing Jar (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 3550 / OPP 7600) ===
+  hand: YOU 3 / OPP 5   library: YOU 25 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 28)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 8600
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 3550 / OPP 8600) ===
+  hand: YOU 3 / OPP 6   library: YOU 25 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Magician of Faith (zone 2)
+    OPP's Magician of Faith (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 3550 / OPP 8600) ===
+  hand: YOU 4 / OPP 6   library: YOU 24 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 27)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 9600
+  [main 1]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 3550 / OPP 9600) ===
+  hand: YOU 4 / OPP 6   library: YOU 24 / OPP 27
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 3550 / OPP 9600) ===
+  hand: YOU 5 / OPP 6   library: YOU 23 / OPP 27
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 26)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 10600
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  OPP SETS Waboku (S/T zone 6)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Ceasefire
+    OPP loses 1000 LP -> 9600
+
+=== Turn 25: YOU   (LP YOU 3550 / OPP 9600) ===
+  hand: YOU 5 / OPP 5   library: YOU 23 / OPP 26
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's face-down Mystic Tomato (zone 1)
+    OPP's face-down Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 1
+  [main 2]
+  YOU ACTIVATES United We Stand (S/T zone 8)  [card 2 of 5 in hand]
+    effect: United We Stand
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 3550 / OPP 9600) ===
+  hand: YOU 4 / OPP 6   library: YOU 22 / OPP 26
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 25)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 10600
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 3550 / OPP 10600) ===
+  hand: YOU 4 / OPP 6   library: YOU 22 / OPP 25
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Monster Reborn (S/T zone 9)  [card 2 of 5 in hand]
+    effect: Monster Reborn
+    YOU special summons Cannon Soldier to zone 1
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 10100
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's Mystic Tomato (zone 1)
+    OPP's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 4 / OPP 7   library: YOU 21 / OPP 25
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +7 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 24)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 8)  [card 4 of 8 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 8, library 23)
+  OPP draws 1  (hand now 9, library 22)
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 4 / OPP 6   library: YOU 21 / OPP 22
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +9 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 20)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 30: OPP   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 6   library: YOU 20 / OPP 22
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +9 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 31: YOU   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 6   library: YOU 20 / OPP 21
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +10 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 19)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 1)
+    effect: Scapegoat
+  YOU attacks with Cannon Soldier (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  YOU SUMMONS Mad Sword Beast in monster zone 0  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 32: OPP   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 6   library: YOU 19 / OPP 21
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +10 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 5)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 33: YOU   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 6   library: YOU 19 / OPP 20
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +10 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 18)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mad Sword Beast (zone 0) -> OPP's unknown monster (zone 2)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 34: OPP   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 6   library: YOU 18 / OPP 20
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: Morphing Jar   (up to 1 of these already discarded; +10 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 19)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS Morphing Jar in monster zone 3  [card 3 of 6 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Morphing Jar (zone 3)
+    effect: Scapegoat
+  OPP attacks with Morphing Jar (zone 3) -> YOU's Cannon Soldier (zone 1)
+    YOU's Cannon Soldier (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 35: YOU   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 5   library: YOU 18 / OPP 19
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+10 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 1  [card 2 of 6 in hand]
+    effect: Torrential Tribute
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 36: OPP   (LP YOU 3550 / OPP 10100) ===
+  hand: YOU 5 / OPP 5   library: YOU 17 / OPP 19
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+10 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 18)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Heavy Storm
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 9300
+    OPP special summons a monster to zone 0
+  OPP SUMMONS Penguin Soldier in monster zone 1  [card 1 of 4 in hand]
+  OPP ACTIVATES United We Stand (S/T zone 6)  [card 2 of 3 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    effect: Kuriboh
+  OPP attacks DIRECTLY with Penguin Soldier (zone 1)
+    YOU loses 750 LP -> 2800
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 2300
+  OPP SETS Ceasefire (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 37: YOU   (LP YOU 2300 / OPP 9300) ===
+  hand: YOU 5 / OPP 1   library: YOU 17 / OPP 18
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 16)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 38: OPP   (LP YOU 2300 / OPP 9300) ===
+  hand: YOU 4 / OPP 1   library: YOU 16 / OPP 18
+    YOU hand [partly unknown]: Amazon Archer, Giant Trunade   (up to 2 of these already discarded; +4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 17)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 16)
+  OPP draws 1  (hand now 2, library 15)
+  OPP draws 1  (hand now 3, library 14)
+  OPP ACTIVATES Scapegoat (S/T zone 8)  [card 2 of 3 in hand]
+    effect: Scapegoat
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1800
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 1300
+    effect: Cannon Soldier
+    effect: Ceasefire
+    YOU loses 1000 LP -> 300
+    YOU loses 500 LP -> -200
+  [DUEL END]  final LP: YOU -200 / OPP 9300

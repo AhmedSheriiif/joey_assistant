@@ -1,0 +1,182 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 35
+    YOU (recorder) hand [exact]: Dimensional Warrior, Man-Eater Bug, Mystic Tomato, Mystical Space Typhoon, Rush Recklessly
+    OPP hand [exact]: Megamorph, 2x Mystic Tomato, Premature Burial, Solemn Wishes
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 38 / OPP 35
+    YOU (recorder) hand [exact]: Dimensional Warrior, Last Will, Mystic Tomato, Rush Recklessly
+    OPP hand [exact]: Megamorph, 2x Mystic Tomato, Premature Burial, Solemn Wishes
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Megamorph (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Solemn Wishes (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 38 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Last Will, Mystic Tomato, Rush Recklessly
+    OPP hand [exact]: Catapult Turtle, Mystic Tomato, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 1  [card 1 of 5 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 1)
+    OPP loses 1400 LP -> 6600
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 6150
+  [main 2]
+  YOU SETS Rush Recklessly (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Solemn Wishes
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6150) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Last Will, Mirror Wall
+    OPP hand [exact]: Catapult Turtle, Mystic Tomato, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 6650
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 6650) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 33
+    YOU (recorder) hand [exact]: Dimensional Warrior, Last Will, Mirror Wall
+    OPP hand [exact]: Catapult Turtle, Mechanicalchaser, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 2  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 2) -> OPP's face-down Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Mystic Tomato (zone 1)
+    OPP loses 1400 LP -> 5250
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 4800
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 4800) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 33
+    YOU (recorder) hand [exact]: Last Will, Mirror Wall, Sangan
+    OPP hand [exact]: Catapult Turtle, Mechanicalchaser, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 5300
+  [standby]
+  [main 1]
+  OPP SUMMONS Mechanicalchaser in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with Mechanicalchaser (zone 0) -> YOU's Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    YOU loses 1400 LP -> 6600
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6600 / OPP 5300) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 32
+    YOU (recorder) hand [exact]: Last Will, Mirror Wall, Sangan
+    OPP hand [exact]: Cannon Soldier, Catapult Turtle, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's Mechanicalchaser (zone 0)
+    effect: Rush Recklessly
+    OPP's Mechanicalchaser (zone 0) is destroyed in battle
+    OPP loses 250 LP -> 5050
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 4050
+  [main 2]
+  YOU SETS Mirror Wall (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6600 / OPP 4050) ===
+  hand: YOU 2 / OPP 3   library: YOU 35 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade, Last Will
+    OPP hand [exact]: Cannon Soldier, Catapult Turtle, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 4550
+  [standby]
+  [main 1]
+  OPP SUMMONS Mechanicalchaser in monster zone 0  [card 4 of 4 in hand]
+    effect: Megamorph
+  OPP ACTIVATES Premature Burial (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 3750
+    OPP special summons Mechanicalchaser to zone 1
+  [battle phase]
+  OPP attacks with Mechanicalchaser (zone 1) -> YOU's Mystic Tomato (zone 1)
+    effect: Mystical Space Typhoon
+  OPP attacks with Mechanicalchaser (zone 0) -> YOU's Mystic Tomato (zone 1)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    YOU loses 2300 LP -> 4300
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 1
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 4300 / OPP 3750) ===
+  hand: YOU 3 / OPP 2   library: YOU 35 / OPP 31
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Last Will   (+1 unknown)
+    OPP hand [exact]: Cannon Soldier, Catapult Turtle
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 3250
+    effect: Sangan
+  YOU SUMMONS Mother Grizzly in monster zone 0  [card 1 of 5 in hand]
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's Mechanicalchaser (zone 0)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    YOU loses 2300 LP -> 2000
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's Mechanicalchaser (zone 0)
+    OPP's Mechanicalchaser (zone 0) is destroyed in battle
+    OPP loses 575 LP -> 2675
+  YOU attacks DIRECTLY with Mystic Tomato (zone 1)
+    OPP loses 1400 LP -> 1275
+    effect: Last Will
+    YOU special summons Mother Grizzly to zone 2
+  YOU attacks DIRECTLY with Mother Grizzly (zone 2)
+    OPP loses 1500 LP -> -225
+  [DUEL END]  final LP: YOU 2000 / OPP -225

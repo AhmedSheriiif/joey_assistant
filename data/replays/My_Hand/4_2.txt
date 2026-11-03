@@ -1,0 +1,255 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Magic Cylinder, Mirror Force, Nobleman of Crossout, Sangan, Scapegoat
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Graceful Charity, Heavy Storm, Mage Power
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 6 of 6 in hand]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 37 / OPP 39
+    YOU (recorder) hand [exact]: Mirror Force, Nobleman of Crossout, Sangan, Scapegoat
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Graceful Charity, Heavy Storm, Mage Power
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 37)
+  OPP draws 1  (hand now 5, library 36)
+  OPP draws 1  (hand now 6, library 35)
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 34)
+  OPP draws 1  (hand now 7, library 33)
+  OPP SETS Heavy Storm (S/T zone 5)  [card 2 of 7 in hand]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 37 / OPP 33
+    YOU (recorder) hand [exact]: Mirror Force, Nobleman of Crossout, Sangan, Scapegoat
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, Sangan, Swords of Revealing Light, The Rock Spirit, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 2 of 5 in hand]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 5600
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 5600) ===
+  hand: YOU 3 / OPP 5   library: YOU 36 / OPP 33
+    YOU (recorder) hand [exact]: Mirror Force, Nimble Momonga, Scapegoat
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, Sangan, Swords of Revealing Light, The Rock Spirit, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's Sangan (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1100 LP -> 4500
+  [main 2]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 4500) ===
+  hand: YOU 3 / OPP 4   library: YOU 36 / OPP 32
+    YOU (recorder) hand [exact]: Mirror Force, Nimble Momonga, Scapegoat
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, Sangan, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SETS Nimble Momonga in monster zone 2 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 4500) ===
+  hand: YOU 2 / OPP 4   library: YOU 35 / OPP 32
+    YOU (recorder) hand [exact]: Mirror Force, Nimble Momonga
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, Sangan, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's Sangan (zone 1)
+    YOU's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  OPP SETS Ring of Destruction (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 4500) ===
+  hand: YOU 3 / OPP 3   library: YOU 35 / OPP 31
+    YOU (recorder) hand [partly unknown]: Mirror Force, Nimble Momonga   (+1 unknown)
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 4500) ===
+  hand: YOU 2 / OPP 3   library: YOU 34 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: Call Of The Haunted, Dream Clown, Mage Power, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> 6600
+    OPP loses 1400 LP -> 3100
+    effect: Heavy Storm
+    OPP special summons a monster to zone 2
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with face-down Sangan (zone 1) -> YOU's face-down Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7600
+    YOU special summons Nimble Momonga to zone 0
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8600
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9600
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 9600 / OPP 3100) ===
+  hand: YOU 5 / OPP 3   library: YOU 34 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Dream Clown, Mage Power, Premature Burial, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Heavy Storm (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 9600 / OPP 3100) ===
+  hand: YOU 4 / OPP 3   library: YOU 33 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [exact]: Dream Clown, Mage Power, Premature Burial, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+  OPP attacks with unknown monster (zone 2) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 9600 / OPP 3100) ===
+  hand: YOU 5 / OPP 3   library: YOU 33 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Dream Clown, Mage Power, Premature Burial, 2x The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Sangan (zone 1)
+    OPP's Sangan (zone 1) is destroyed in battle
+    OPP loses 400 LP -> 2700
+    effect: Sangan
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 9600 / OPP 2700) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 29
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: Dream Clown, Mage Power, Premature Burial, 2x The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 1  [card 1 of 5 in hand]
+  OPP SETS Premature Burial (S/T zone 5)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 1) -> YOU's Mystic Tomato (zone 0)
+    OPP's Giant Rat (zone 1) is destroyed in battle
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+    OPP special summons Giant Rat to zone 1
+  OPP attacks with Giant Rat (zone 1) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 100 LP -> 9500
+    effect: Dimensional Warrior
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's face-down Man-Eater Bug (zone 1)
+    YOU's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 9500 / OPP 2700) ===
+  hand: YOU 5 / OPP 4   library: YOU 32 / OPP 28
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Dream Clown, Mage Power, 2x The Rock Spirit   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cannon Soldier in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Cannon Soldier (zone 0) -> OPP's Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 2400
+    effect: Witch of the Black Forest
+    effect: Call Of The Haunted
+    YOU special summons Man-Eater Bug to zone 1
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 1400 LP -> 1000
+  [main 2]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 500
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 0
+  [DUEL END]  final LP: YOU 9500 / OPP 0

@@ -1,0 +1,181 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Dream Clown, Gemini Elf, Kinetic Soldier, Morphing Jar, United We Stand
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Burning Land, Ceasefire, Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Dream Clown, Gemini Elf, Kinetic Soldier, Morphing Jar, United We Stand
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Burning Land, Ceasefire, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS United We Stand (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Axe of Despair, Dream Clown, Gemini Elf, Morphing Jar
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Burning Land, Ceasefire, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Axe of Despair, Dream Clown, Gemini Elf, Morphing Jar
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Burning Land, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Gemini Elf in monster zone 1  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Gemini Elf (zone 1) -> OPP's face-down Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    OPP special summons Nimble Momonga to zone 1
+  [main 2]
+  YOU SETS DNA Surgery (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Axe of Despair, Dream Clown, Morphing Jar
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Burning Land, Nimble Momonga   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 1) -> YOU's face-down Kinetic Soldier (zone 0)
+    effect: DNA Surgery
+    effect: Kinetic Soldier
+    OPP loses 2800 LP -> 6200
+  [main 2]
+  OPP SETS Nimble Momonga in monster zone 2 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 6200) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Axe of Despair, Dream Clown, Morphing Jar
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Burning Land   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 2  [card 4 of 4 in hand]
+  YOU SETS Axe of Despair (S/T zone 6)  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's Nimble Momonga (zone 1)
+    effect: Ceasefire
+    YOU loses 2500 LP -> 5500
+    effect: Kinetic Soldier
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    OPP loses 2350 LP -> 3850
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 4850
+  YOU attacks with Gemini Elf (zone 1) -> OPP's face-down Mother Grizzly (zone 0)
+    OPP's face-down Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  YOU attacks with Giant Rat (zone 2) -> OPP's Mother Grizzly (zone 0)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+    YOU loses 100 LP -> 5400
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 2
+  YOU attacks with Giant Rat (zone 2) -> OPP's Mother Grizzly (zone 0)
+    effect: Kinetic Soldier
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    OPP loses 1850 LP -> 3000
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5400 / OPP 3000) ===
+  hand: YOU 3 / OPP 6   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Dream Clown, Morphing Jar   (+1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Burning Land   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  OPP SETS Premature Burial (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5400 / OPP 3000) ===
+  hand: YOU 3 / OPP 5   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: Dream Clown, Morphing Jar   (+1 unknown)
+    OPP hand [partly unknown]: Burning Land   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 3  [card 2 of 4 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 3) -> OPP's face-down Nimble Momonga (zone 2)
+    OPP's face-down Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 4000
+  YOU attacks with Giant Rat (zone 2) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    effect: Kinetic Soldier
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  YOU attacks DIRECTLY with Kinetic Soldier (zone 0)
+    OPP loses 1350 LP -> 2650
+  [main 2]
+    effect: Axe of Despair
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5400 / OPP 2650) ===
+  hand: YOU 3 / OPP 6   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+2 unknown)
+    OPP hand [partly unknown]: Burning Land   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5400 / OPP 2650) ===
+  hand: YOU 3 / OPP 6   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+2 unknown)
+    OPP hand [partly unknown]: Burning Land   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dream Clown (zone 3)
+    OPP loses 2200 LP -> 450
+  YOU attacks DIRECTLY with Giant Rat (zone 2)
+    OPP loses 1350 LP -> -900
+  [DUEL END]  final LP: YOU 5400 / OPP -900

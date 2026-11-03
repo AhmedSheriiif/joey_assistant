@@ -1,0 +1,195 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 38)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 38
+    YOU hand [exact]: Jinzo, Mage Power, Penguin Soldier, Swords of Revealing Light, United We Stand
+    OPP (recorder) hand [exact]: Call Of The Haunted, Man-Eater Bug, Mystic Tomato, Pot of Greed, Scapegoat
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 38
+    YOU hand [exact]: Jinzo, Mage Power, Penguin Soldier, Swords of Revealing Light, United We Stand
+    OPP (recorder) hand [exact]: Call Of The Haunted, Man-Eater Bug, Mystic Tomato, Pot of Greed, Scapegoat
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 36)
+  OPP draws 1  (hand now 7, library 35)
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 7 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+    OPP special summons Mystic Tomato to zone 0
+  OPP attacks with Mystic Tomato (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 7700
+    effect: Witch of the Black Forest
+  [main 2]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 7 / OPP 6   library: YOU 37 / OPP 35
+    YOU hand [partly unknown]: Jinzo, Mage Power, Penguin Soldier, Swords of Revealing Light, United We Stand   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Crass Clown, Man-Eater Bug, Nobleman of Crossout, Scapegoat   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 36)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 5 of 8 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7700 / OPP 8000) ===
+  hand: YOU 6 / OPP 6   library: YOU 36 / OPP 35
+    YOU hand [partly unknown]: Jinzo, Mage Power, United We Stand   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Crass Clown, Man-Eater Bug, Nobleman of Crossout, Scapegoat   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Crass Clown in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Nobleman of Crossout
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1400 LP -> 6300
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6300 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 36 / OPP 34
+    YOU hand [partly unknown]: Jinzo, Mage Power, United We Stand   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Man-Eater Bug, Scapegoat   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 6 of 7 in hand]
+  YOU ACTIVATES Mage Power (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Mage Power
+  YOU SETS United We Stand (S/T zone 6)  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Mystic Tomato (zone 0)
+    OPP's Mystic Tomato (zone 0) is destroyed in battle
+    OPP loses 1000 LP -> 7000
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6300 / OPP 7000) ===
+  hand: YOU 4 / OPP 5   library: YOU 35 / OPP 34
+    YOU hand [partly unknown]: Jinzo   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Man-Eater Bug, Scapegoat   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  [battle phase]
+  OPP attacks DIRECTLY with face-down Crass Clown (zone 1)
+    YOU loses 1350 LP -> 4950
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1100 LP -> 3850
+  [main 2]
+  OPP SETS Man-Eater Bug in monster zone 2 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 3850 / OPP 7000) ===
+  hand: YOU 4 / OPP 5   library: YOU 35 / OPP 33
+    YOU hand [partly unknown]: Jinzo   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Scapegoat   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 3 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 5)  [card 4 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Crass Clown (zone 1)
+    effect: Ring of Destruction
+    YOU loses 2200 LP -> 1650
+    OPP loses 2200 LP -> 4800
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 1650 / OPP 4800) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 33
+    YOU hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Scapegoat   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 4 of 6 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    effect: Scapegoat
+  OPP attacks with Jinzo (zone 0) -> YOU's Giant Rat (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 1650 / OPP 4800) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 32
+    YOU hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Scapegoat   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Nobleman of Crossout
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 1650 / OPP 4800) ===
+  hand: YOU 2 / OPP 5   library: YOU 33 / OPP 32
+    YOU hand [partly unknown]: Jinzo   (+1 unknown)
+    OPP (recorder) hand [partly unknown]: Scapegoat   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Dark Hole
+    effect: Sangan
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Monster Reborn
+    OPP special summons Mystic Tomato to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    effect: Kuriboh
+    effect: Call Of The Haunted
+    OPP special summons Mystic Tomato to zone 1
+    effect: Jinzo
+  OPP attacks DIRECTLY with Mystic Tomato (zone 1)
+    YOU loses 2400 LP -> -750
+  [DUEL END]  final LP: YOU -750 / OPP 4800

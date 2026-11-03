@@ -1,0 +1,249 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: DNA Surgery, Dimensional Warrior, Dust Tornado, Kinetic Soldier, The Rock Spirit
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Kycoo the Ghost Destroyer, Ring of Destruction, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS DNA Surgery (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Dimensional Warrior, Dust Tornado, The Rock Spirit, Trap Hole
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Kycoo the Ghost Destroyer, Ring of Destruction, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Kinetic Soldier (zone 0)
+    effect: DNA Surgery
+    effect: Kinetic Soldier
+    OPP loses 2000 LP -> 6000
+  [main 2]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 6000) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Dust Tornado, The Rock Spirit, Trap Hole
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Penguin Soldier, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1350 LP -> 6650
+    OPP loses 1350 LP -> 4650
+  [main 2]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  YOU SETS Trap Hole (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 6650 / OPP 4650) ===
+  hand: YOU 3 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Dust Tornado, The Rock Spirit
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Penguin Soldier, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 32)
+  OPP draws 1  (hand now 4, library 31)
+  OPP draws 1  (hand now 5, library 30)
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Swords of Revealing Light
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Giant Germ (zone 0)
+    YOU's face-down Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 4150
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [main 2]
+  OPP SETS Skull Lair (S/T zone 6)  [card 4 of 4 in hand]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6650 / OPP 4150) ===
+  hand: YOU 4 / OPP 2   library: YOU 35 / OPP 30
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Dust Tornado, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dimensional Warrior, Dream Clown, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 33)
+  YOU draws 1  (hand now 6, library 32)
+  YOU SETS Dust Tornado (S/T zone 7)  [card 1 of 6 in hand]
+  YOU SETS Magician of Faith in monster zone 2 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6650 / OPP 4150) ===
+  hand: YOU 4 / OPP 2   library: YOU 32 / OPP 30
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Amazon Archer, Dimensional Warrior, Dream Clown, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Giant Germ (zone 1)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 3650
+  [main 2]
+  OPP SETS Crush Card (S/T zone 7)  [card 3 of 3 in hand]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6650 / OPP 3650) ===
+  hand: YOU 5 / OPP 2   library: YOU 32 / OPP 29
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, The Rock Spirit   (+3 unknown)
+    OPP hand [exact]: Amazon Archer, Dimensional Warrior, Dream Clown, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+    effect: Dust Tornado
+  YOU SETS Ultimate Offering (S/T zone 8)  [card 5 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Penguin Soldier (zone 1)
+    effect: Skull Lair
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6650 / OPP 3650) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 29
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+3 unknown)
+    OPP hand [exact]: Amazon Archer, Dimensional Warrior, Dream Clown, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 0)
+    effect: Ultimate Offering
+    YOU loses 500 LP -> 6150
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Ultimate Offering
+    YOU loses 500 LP -> 5650
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5650 / OPP 3650) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 28
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Last Will, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  YOU ACTIVATES Pot of Greed (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 3, library 29)
+  YOU draws 1  (hand now 4, library 28)
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 5 of 5 in hand]
+    effect: Swords of Revealing Light
+    YOU special summons Dimensional Warrior to zone 1
+  YOU SUMMONS Kinetic Soldier in monster zone 2  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with face-down Magician of Faith (zone 0) -> OPP's face-down Dimensional Warrior (zone 0)
+    YOU loses 700 LP -> 4950
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Kinetic Soldier (zone 2)
+    OPP loses 1350 LP -> 2300
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 1)
+    OPP loses 1700 LP -> 600
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 4950 / OPP 600) ===
+  hand: YOU 3 / OPP 3   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Last Will, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 4950 / OPP 600) ===
+  hand: YOU 3 / OPP 3   library: YOU 28 / OPP 27
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Gemini Elf, Last Will, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 2) -> OPP's face-down Penguin Soldier (zone 0)
+    effect: Kinetic Soldier
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4950 / OPP 600) ===
+  hand: YOU 3 / OPP 3   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Gemini Elf, Last Will, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Tribute to The Doomed
+  OPP SUMMONS Gemini Elf in monster zone 0  [card 2 of 3 in hand]
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 4950 / OPP 600) ===
+  hand: YOU 3 / OPP 2   library: YOU 27 / OPP 26
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Last Will, Witch of the Black Forest   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+    YOU special summons Dimensional Warrior to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    OPP loses 1700 LP -> -1100
+  [DUEL END]  final LP: YOU 4950 / OPP -1100

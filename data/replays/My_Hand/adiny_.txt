@@ -1,0 +1,211 @@
+  OPP draws 5  (hand now 5, library 43)
+  YOU draws 5  (hand now 5, library 62)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 62 / OPP 43
+    YOU hand [exact]: Bazoo the Soul-Eater, Copycat, 2x Giant Germ, Greenkappa
+    OPP (recorder) hand [exact]: Fissure, Giant Germ, Kunai with Chain, Man-Eater Bug, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP SETS Blast Sphere in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Kunai with Chain (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 62 / OPP 42
+    YOU hand [exact]: Bazoo the Soul-Eater, Copycat, 2x Giant Germ, Greenkappa
+    OPP (recorder) hand [exact]: Fissure, Giant Germ, Man-Eater Bug, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 61)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 61 / OPP 42
+    YOU hand [exact]: Bazoo the Soul-Eater, Call Of The Haunted, Copycat, Giant Germ, Greenkappa
+    OPP (recorder) hand [exact]: Fissure, Giant Germ, Man-Eater Bug, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 5, library 41)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 61 / OPP 41
+    YOU hand [exact]: Bazoo the Soul-Eater, Call Of The Haunted, Copycat, Giant Germ, Greenkappa
+    OPP (recorder) hand [exact]: Fissure, Giant Germ, Nimble Momonga, Windstorm of Etaqua
+  [draw phase]
+  YOU draws 1  (hand now 6, library 60)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 60 / OPP 41
+    YOU hand [exact]: Bazoo the Soul-Eater, Call Of The Haunted, Copycat, Greenkappa, Kycoo the Ghost Destroyer
+    OPP (recorder) hand [exact]: Fissure, Giant Germ, Nimble Momonga, Windstorm of Etaqua
+  [draw phase]
+  OPP draws 1  (hand now 5, library 40)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Germ in monster zone 2  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 2) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 7500
+    YOU special summons Giant Germ to zone 0
+  [main 2]
+  OPP SETS Crush Card (S/T zone 6)  [card 4 of 4 in hand]
+  OPP SETS Windstorm of Etaqua (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 7500) ===
+  hand: YOU 6 / OPP 2   library: YOU 60 / OPP 40
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Call Of The Haunted, Copycat, Greenkappa, Kycoo the Ghost Destroyer   (+1 unknown)
+    OPP (recorder) hand [exact]: Fissure, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 7, library 59)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Man-Eater Bug (zone 1)
+    OPP's face-down Man-Eater Bug (zone 1) is destroyed in battle
+    OPP loses 550 LP -> 6950
+  [main 2]
+  YOU SETS Greenkappa in monster zone 1 (face-down)  [card 1 of 7 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 6950) ===
+  hand: YOU 5 / OPP 2   library: YOU 59 / OPP 40
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Copycat, Kycoo the Ghost Destroyer   (+2 unknown)
+    OPP (recorder) hand [exact]: Fissure, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 3, library 39)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 1  [card 1 of 3 in hand]
+  OPP ACTIVATES Mystic Box (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Mystic Box
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 1) -> YOU's face-down Greenkappa (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    YOU's face-down Greenkappa (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Nimble Momonga to zone 1
+    OPP special summons Nimble Momonga to zone 2
+    OPP gains 1000 LP -> 7950
+    OPP special summons Nimble Momonga to zone 3
+    OPP special summons Nimble Momonga to zone 4
+  OPP attacks with Nimble Momonga (zone 1) -> YOU's Giant Germ (zone 0)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    effect: Giant Germ
+    OPP loses 500 LP -> 7450
+    YOU loses 500 LP -> 7000
+  OPP attacks DIRECTLY with Nimble Momonga (zone 2)
+    YOU loses 1000 LP -> 6000
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6000 / OPP 7450) ===
+  hand: YOU 6 / OPP 4   library: YOU 59 / OPP 39
+    YOU hand [partly unknown]: Bazoo the Soul-Eater, Copycat, Kycoo the Ghost Destroyer   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Fissure   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 58)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 4 of 7 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's Nimble Momonga (zone 2)
+    effect: Crush Card
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6000 / OPP 7450) ===
+  hand: YOU 6 / OPP 4   library: YOU 58 / OPP 39
+    YOU hand [partly unknown]: Copycat, Kycoo the Ghost Destroyer   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: Fissure   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 38)
+  [standby]
+  [main 1]
+  OPP SUMMONS The Fiend Megacyber in monster zone 3  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with face-down Blast Sphere (zone 0)
+    YOU loses 1400 LP -> 4600
+  OPP attacks DIRECTLY with The Fiend Megacyber (zone 3)
+    YOU loses 2200 LP -> 2400
+  OPP attacks DIRECTLY with Nimble Momonga (zone 4)
+    effect: Call Of The Haunted
+    YOU special summons Giant Germ to zone 0
+  OPP attacks with Nimble Momonga (zone 4) -> YOU's Giant Germ (zone 0)
+    effect: Windstorm of Etaqua
+    YOU's Giant Germ (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Fissure (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 2400 / OPP 7450) ===
+  hand: YOU 6 / OPP 3   library: YOU 58 / OPP 38
+    YOU hand [partly unknown]: Copycat, Kycoo the Ghost Destroyer   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 57)
+  [standby]
+  [main 1]
+  YOU SETS Shining Angel in monster zone 0 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 2400 / OPP 7450) ===
+  hand: YOU 6 / OPP 3   library: YOU 57 / OPP 38
+    YOU hand [partly unknown]: Copycat, Kycoo the Ghost Destroyer   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 4) -> YOU's face-down Shining Angel (zone 0)
+    YOU's Shining Angel (zone 0) is destroyed in battle
+    effect: Shining Angel
+    YOU special summons Shining Angel to zone 0
+  OPP attacks with Mother Grizzly (zone 1) -> YOU's Shining Angel (zone 0)
+    OPP's Mother Grizzly (zone 1) is destroyed in battle
+    YOU's Shining Angel (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    effect: Shining Angel
+    YOU special summons Shining Angel to zone 0
+    OPP special summons Mother Grizzly to zone 1
+    effect: Copycat
+  OPP attacks with The Fiend Megacyber (zone 3) -> YOU's Shining Angel (zone 0)
+    effect: Kunai with Chain
+    YOU's Shining Angel (zone 0) is destroyed in battle
+    YOU loses 500 LP -> 1900
+  OPP attacks DIRECTLY with Mother Grizzly (zone 1)
+    YOU loses 1500 LP -> 400
+  OPP attacks DIRECTLY with Blast Sphere (zone 0)
+    YOU loses 1400 LP -> -1000
+  [DUEL END]  final LP: YOU -1000 / OPP 7450

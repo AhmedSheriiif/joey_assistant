@@ -1,0 +1,153 @@
+  OPP draws 5  (hand now 5, library 38)
+  YOU draws 5  (hand now 5, library 43)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 43 / OPP 38
+    YOU hand [exact]: Fissure, Graceful Charity, Mystical Space Typhoon, Nimble Momonga, Ring of Destruction
+    OPP (recorder) hand [exact]: Magic Cylinder, Monster Reborn, Morphing Jar, Premature Burial, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 3 of 6 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 43 / OPP 37
+    YOU hand [exact]: Fissure, Graceful Charity, Mystical Space Typhoon, Nimble Momonga, Ring of Destruction
+    OPP (recorder) hand [exact]: Magic Jammer, Monster Reborn, Premature Burial, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Mystical Space Typhoon
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 41)
+  YOU draws 1  (hand now 4, library 40)
+  YOU draws 1  (hand now 5, library 39)
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 39 / OPP 37
+    YOU hand [exact]: Ceasefire, Dream Clown, Fissure, Man-Eater Bug, Nimble Momonga   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Magic Jammer, Monster Reborn, Premature Burial, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Magic Jammer (S/T zone 5)  [card 4 of 5 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 2 of 4 in hand]
+  OPP SETS Premature Burial (S/T zone 7)  [card 1 of 3 in hand]
+  OPP SETS Monster Reborn (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 35)
+  OPP draws 1  (hand now 2, library 34)
+  OPP draws 1  (hand now 3, library 33)
+  OPP draws 1  (hand now 4, library 32)
+  OPP draws 1  (hand now 5, library 31)
+  YOU draws 1  (hand now 1, library 38)
+  YOU draws 1  (hand now 2, library 37)
+  YOU draws 1  (hand now 3, library 36)
+  YOU draws 1  (hand now 4, library 35)
+  YOU draws 1  (hand now 5, library 34)
+  OPP ACTIVATES Pot of Greed (S/T zone 9)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 5, library 30)
+  OPP draws 1  (hand now 6, library 29)
+  OPP SUMMONS Slate Warrior in monster zone 1  [card 3 of 6 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 1) -> YOU's face-down Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with face-down Morphing Jar (zone 0)
+    YOU loses 700 LP -> 7300
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 9)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7300 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 34 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Magician of Faith, Nobleman of Crossout, Scapegoat, Slate Warrior   (+1 unknown)
+    OPP (recorder) hand [exact]: Call Of The Haunted, 2x Mystic Tomato, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 1 of 7 in hand]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7300 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 33 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Nobleman of Crossout, Slate Warrior   (+2 unknown)
+    OPP (recorder) hand [exact]: Call Of The Haunted, 2x Mystic Tomato, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 2  [card 2 of 5 in hand]
+    effect: Ceasefire
+    YOU loses 2000 LP -> 5300
+  [battle phase]
+  OPP attacks with Morphing Jar (zone 0) -> YOU's face-down Magician of Faith (zone 0)
+    effect: Scapegoat
+  OPP attacks with Morphing Jar (zone 0) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's face-down Magician of Faith (zone 0) is destroyed in battle
+  OPP attacks with Mystic Tomato (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Slate Warrior (zone 1) -> YOU's unknown monster (zone 3)
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 6600
+    YOU loses 1400 LP -> 3900
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 9)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 3900 / OPP 6600) ===
+  hand: YOU 5 / OPP 3   library: YOU 33 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Nobleman of Crossout, Slate Warrior   (+2 unknown)
+    OPP (recorder) hand [exact]: Mystic Tomato, Penguin Soldier, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 3900 / OPP 6600) ===
+  hand: YOU 5 / OPP 3   library: YOU 32 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Nobleman of Crossout, Slate Warrior   (+2 unknown)
+    OPP (recorder) hand [exact]: Mystic Tomato, Penguin Soldier, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+    effect: Premature Burial
+    OPP loses 800 LP -> 5800
+    OPP special summons a monster to zone 2
+    effect: Torrential Tribute
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 2 of 4 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1900 LP -> 2000
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1400 LP -> 600
+    effect: Call Of The Haunted
+    OPP special summons a monster to zone 2
+  OPP attacks DIRECTLY with unknown monster (zone 2)
+    YOU loses 1000 LP -> -400
+  [DUEL END]  final LP: YOU -400 / OPP 5800

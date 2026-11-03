@@ -1,0 +1,318 @@
+  OPP draws 5  (hand now 5, library 37)
+  YOU draws 5  (hand now 5, library 36)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 37
+    YOU (recorder) hand [exact]: Amazon Archer, Cyber-Tech Alligator, Man-Eater Bug, Muka Muka, The Fiend Megacyber
+    OPP hand [exact]: Mother Grizzly, Penguin Soldier, Rocket Warrior, The Rock Spirit, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 36
+    YOU (recorder) hand [exact]: Amazon Archer, Cyber-Tech Alligator, Man-Eater Bug, Muka Muka, The Fiend Megacyber
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Mother Grizzly, Rocket Warrior, The Rock Spirit, Vorse Raider
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Amazon Archer, Cyber-Tech Alligator, Muka Muka, The Fiend Megacyber, The Masked Beast
+    OPP hand [exact]: Kycoo the Ghost Destroyer, Mother Grizzly, Rocket Warrior, The Rock Spirit, Vorse Raider
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Vorse Raider in monster zone 1  [card 1 of 6 in hand]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Vorse Raider (zone 1)
+    YOU loses 1900 LP -> 6100
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6100 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Cyber-Tech Alligator, Muka Muka, The Fiend Megacyber, The Masked Beast
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Kycoo the Ghost Destroyer, Mother Grizzly, Rocket Warrior, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Muka Muka in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  YOU attacks with Muka Muka (zone 0) -> OPP's Vorse Raider (zone 1)
+    OPP's Vorse Raider (zone 1) is destroyed in battle
+    OPP loses 500 LP -> 7500
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6100 / OPP 7500) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Kycoo the Ghost Destroyer, Mother Grizzly, Rocket Warrior, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mother Grizzly in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6100 / OPP 7500) ===
+  hand: YOU 5 / OPP 5   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Kycoo the Ghost Destroyer, Rocket Warrior, Senju of the Thousand Hands, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Muka Muka (zone 0) -> OPP's face-down Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    OPP special summons Mother Grizzly to zone 0
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6100 / OPP 7500) ===
+  hand: YOU 6 / OPP 6   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Kycoo the Ghost Destroyer, Rocket Warrior, Senju of the Thousand Hands, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 33)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 8300
+  [main 1]
+  [battle phase]
+  OPP attacks with Mother Grizzly (zone 0) -> YOU's face-down Witch of the Black Forest (zone 1)
+    YOU's Witch of the Black Forest (zone 1) is destroyed in battle
+    effect: Witch of the Black Forest
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6100 / OPP 8300) ===
+  hand: YOU 7 / OPP 6   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (+1 unknown)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, Senju of the Thousand Hands, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sonic Bird in monster zone 1  [card 5 of 8 in hand]
+    effect: Sonic Bird
+  [battle phase]
+  YOU attacks with Muka Muka (zone 0) -> OPP's Mother Grizzly (zone 0)
+    OPP's Mother Grizzly (zone 0) is destroyed in battle
+    OPP loses 1500 LP -> 6800
+  YOU attacks with Sonic Bird (zone 1) -> OPP's face-down 4-Starred Ladybug of Doom (zone 1)
+    OPP's 4-Starred Ladybug of Doom (zone 1) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  YOU SETS Curse of the Masked Beast (S/T zone 5)  [card 6 of 8 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6100 / OPP 6800) ===
+  hand: YOU 6 / OPP 6   library: YOU 32 / OPP 33
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, Senju of the Thousand Hands, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Senju of the Thousand Hands in monster zone 0  [card 5 of 7 in hand]
+    effect: Senju of the Thousand Hands
+  OPP ACTIVATES Curse of the Masked Beast (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Curse of the Masked Beast
+    OPP special summons 4-Starred Ladybug of Doom to zone 0
+  [battle phase]
+  OPP attacks with 4-Starred Ladybug of Doom (zone 0) -> YOU's Muka Muka (zone 0)
+    YOU's Muka Muka (zone 0) is destroyed in battle
+    YOU loses 800 LP -> 5300
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5300 / OPP 6800) ===
+  hand: YOU 6 / OPP 5   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5300 / OPP 6800) ===
+  hand: YOU 6 / OPP 5   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with 4-Starred Ladybug of Doom (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5300 / OPP 6800) ===
+  hand: YOU 6 / OPP 6   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, The Rock Spirit   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 6 of 7 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    OPP loses 2500 LP -> 4300
+  [main 2]
+  YOU SETS Swords of Revealing Light (S/T zone 6)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 5300 / OPP 4300) ===
+  hand: YOU 5 / OPP 6   library: YOU 30 / OPP 31
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Kycoo the Ghost Destroyer, Rocket Warrior, The Rock Spirit   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 1 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 5300 / OPP 4300) ===
+  hand: YOU 5 / OPP 6   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, Cyber-Tech Alligator, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+    effect: Curse of the Masked Beast
+    YOU special summons Man-Eater Bug to zone 1
+  YOU SUMMONS Cyber-Tech Alligator in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 1) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    OPP's Kycoo the Ghost Destroyer (zone 0) is destroyed in battle
+    OPP loses 1400 LP -> 2900
+  YOU attacks DIRECTLY with Cyber-Tech Alligator (zone 0)
+    OPP loses 2500 LP -> 400
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 29 / OPP 30
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+    OPP special summons Kycoo the Ghost Destroyer to zone 0
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Vorse Raider in monster zone 2  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 1) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    OPP's Kycoo the Ghost Destroyer (zone 0) is destroyed in battle
+  YOU attacks with Cyber-Tech Alligator (zone 0) -> OPP's face-down Penguin Soldier (zone 1)
+    OPP's Penguin Soldier (zone 1) is destroyed in battle
+    effect: Penguin Soldier
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 28 / OPP 29
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 4 of 7 in hand]
+    OPP special summons Penguin Soldier to zone 1
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+    effect: Swords of Revealing Light
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 27 / OPP 28
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 2 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 5300 / OPP 400) ===
+  hand: YOU 5 / OPP 6   library: YOU 27 / OPP 27
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Amazon Archer, The Fiend Megacyber, The Masked Beast   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Rocket Warrior, The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+    effect: Aqua Spirit
+  [main 1]
+  YOU SUMMONS Vorse Raider in monster zone 2  [card 2 of 6 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Monster Reborn
+    YOU special summons Man-Eater Bug to zone 3
+    effect: Penguin Soldier
+  [battle phase]
+  YOU attacks with Man-Eater Bug (zone 3) -> OPP's Penguin Soldier (zone 1)
+    OPP's Penguin Soldier (zone 1) is destroyed in battle
+  YOU attacks DIRECTLY with Vorse Raider (zone 2)
+    OPP loses 1900 LP -> -1500
+  [DUEL END]  final LP: YOU 5300 / OPP -1500

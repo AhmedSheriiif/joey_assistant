@@ -1,0 +1,147 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 38)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 38
+    YOU (recorder) hand [exact]: Dark Hole, Magician of Faith, Morphing Jar, Mystical Space Typhoon, Torrential Tribute
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, 2x Dimensional Warrior, Mystical Space Typhoon
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Dark Hole, Morphing Jar, Mystical Space Typhoon, Torrential Tribute
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, 2x Dimensional Warrior, Mystical Space Typhoon
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Dark Hole, Morphing Jar, Mystical Space Typhoon, Torrential Tribute
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, Dimensional Warrior, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Dark Hole, Monster Reborn, Morphing Jar, Mystical Space Typhoon
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, Dimensional Warrior, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Dark Hole, Monster Reborn, Morphing Jar, Mystical Space Typhoon
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, Dimensional Warrior, Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 7)  [card 2 of 5 in hand]
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Nobleman of Crossout
+    effect: Magician of Faith
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 3 of 3 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Magician of Faith (zone 0)
+    OPP loses 300 LP -> 7700
+  [main 2]
+  YOU SETS Morphing Jar in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 7700) ===
+  hand: YOU 2 / OPP 4   library: YOU 32 / OPP 36
+    YOU (recorder) hand [exact]: Dark Hole, Monster Reborn
+    OPP hand [exact]: Amazon Archer, Bazoo the Soul-Eater, Dimensional Warrior, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's face-down Morphing Jar (zone 1)
+    YOU's Morphing Jar (zone 1) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  YOU draws 1  (hand now 3, library 29)
+  YOU draws 1  (hand now 4, library 28)
+  YOU draws 1  (hand now 5, library 27)
+  OPP draws 1  (hand now 1, library 34)
+  OPP draws 1  (hand now 2, library 33)
+  OPP draws 1  (hand now 3, library 32)
+  OPP draws 1  (hand now 4, library 31)
+  OPP draws 1  (hand now 5, library 30)
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7700) ===
+  hand: YOU 5 / OPP 4   library: YOU 27 / OPP 30
+    YOU (recorder) hand [exact]: Giant Rat, Giant Trunade, Graceful Charity, Snatch Steal, United We Stand
+    OPP hand [exact]: Gemini Elf, Monster Reborn, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Giant Trunade (S/T zone 6)  [card 5 of 6 in hand]
+    effect: Giant Trunade
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 25)
+  YOU draws 1  (hand now 4, library 24)
+  YOU draws 1  (hand now 5, library 23)
+  YOU SUMMONS Giant Rat in monster zone 1  [card 4 of 5 in hand]
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Snatch Steal
+    effect: Bazoo the Soul-Eater
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 3 of 3 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 7)  [card 2 of 2 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    OPP loses 4600 LP -> 3100
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1400 LP -> 1700
+  YOU attacks DIRECTLY with Magician of Faith (zone 0)
+    OPP loses 300 LP -> 1400
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 1400) ===
+  hand: YOU 1 / OPP 4   library: YOU 23 / OPP 30
+    YOU (recorder) hand [exact]: Call Of The Haunted, Dimensional Warrior, Heavy Storm   (up to 2 of these already discarded)
+    OPP hand [exact]: Gemini Elf, Monster Reborn, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 0
+    YOU loses 1400 LP -> 6600
+  [DUEL END]  final LP: YOU 6600 / OPP 0

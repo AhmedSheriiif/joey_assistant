@@ -1,0 +1,255 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Graceful Charity, Man-Eater Bug, Pot of Greed, Windstorm of Etaqua
+    OPP hand [exact]: Bait Doll, Mask of Darkness, Mirror Wall, Pot of Greed, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 33)
+  YOU draws 1  (hand now 7, library 32)
+  YOU SETS Dust Tornado (S/T zone 5)  [card 6 of 7 in hand]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Graceful Charity, Greenkappa, Sangan, Windstorm of Etaqua
+    OPP hand [exact]: Bait Doll, Mask of Darkness, Mirror Wall, Pot of Greed, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Bait Doll (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Bait Doll
+    effect: Dust Tornado
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 1 of 5 in hand]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 5, library 33)
+  OPP draws 1  (hand now 6, library 32)
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Mirror Wall (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Graceful Charity, Greenkappa, Sangan
+    OPP hand [exact]: Copycat, Slate Warrior, Solemn Judgment
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 4 of 5 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    OPP loses 450 LP -> 6550
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Dust Tornado
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 3 of 3 in hand]
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6550) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 32
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Graceful Charity, Greenkappa
+    OPP hand [exact]: Copycat, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Man-Eater Bug (zone 0)
+    effect: Windstorm of Etaqua
+    effect: Mirror Wall
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 6550) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: Garuda the Wind Spirit, Graceful Charity, Greenkappa
+    OPP hand [exact]: Copycat, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 29)
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  YOU SETS Imperial Order (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SUMMONS Witch of the Black Forest in monster zone 2  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 2) -> OPP's Slate Warrior (zone 0)
+    effect: Mirror Wall
+    OPP's Slate Warrior (zone 0) is destroyed in battle
+    effect: Slate Warrior
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    effect: Mirror Wall
+    OPP loses 500 LP -> 6050
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6050) ===
+  hand: YOU 2 / OPP 2   library: YOU 27 / OPP 31
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Giant Germ, Greenkappa   (up to 2 of these already discarded)
+    OPP hand [exact]: Copycat, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6050) ===
+  hand: YOU 2 / OPP 2   library: YOU 27 / OPP 30
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Giant Germ, Greenkappa   (up to 2 of these already discarded)
+    OPP hand [exact]: Copycat, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 5050
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 2)
+    OPP loses 600 LP -> 4450
+  [main 2]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 3 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 4450) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 30
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Giant Germ, Greenkappa   (up to 2 of these already discarded)
+    OPP hand [exact]: Copycat, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Copycat in monster zone 0  [card 1 of 3 in hand]
+    effect: Copycat
+  [battle phase]
+  OPP attacks with Copycat (zone 0) -> YOU's face-down 4-Starred Ladybug of Doom (zone 3)
+    OPP loses 100 LP -> 4350
+  [main 2]
+  OPP SETS Robbin' Goblin (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 4350) ===
+  hand: YOU 2 / OPP 1   library: YOU 26 / OPP 29
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Giant Germ, Greenkappa   (up to 2 of these already discarded)
+    OPP hand [exact]: Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 4  [card 1 of 3 in hand]
+  YOU ACTIVATES Mystic Box (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Mystic Box
+    effect: Solemn Judgment
+    OPP loses 2175 LP -> 2175
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 2175) ===
+  hand: YOU 1 / OPP 1   library: YOU 25 / OPP 29
+    YOU (recorder) hand [exact]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Greenkappa   (up to 2 of these already discarded)
+    OPP hand [exact]: Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  OPP SUMMONS Zombyra the Dark in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Copycat (zone 0) -> YOU's Witch of the Black Forest (zone 2)
+    effect: Robbin' Goblin
+    YOU's Witch of the Black Forest (zone 2) is destroyed in battle
+    YOU loses 500 LP -> 7500
+    effect: Robbin' Goblin
+    effect: Witch of the Black Forest
+  OPP attacks with Zombyra the Dark (zone 1) -> YOU's Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    YOU loses 1650 LP -> 5850
+    effect: Robbin' Goblin
+    effect: Zombyra the Dark
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5850 / OPP 2175) ===
+  hand: YOU 2 / OPP 1   library: YOU 25 / OPP 28
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Greenkappa   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Skull Lair (S/T zone 6)  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 4) -> OPP's Copycat (zone 0)
+    YOU's Giant Germ (zone 4) is destroyed in battle
+    YOU loses 100 LP -> 5750
+    effect: Robbin' Goblin
+    effect: Giant Germ
+    OPP loses 500 LP -> 1675
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 2
+  YOU attacks with Sangan (zone 1) -> OPP's Copycat (zone 0)
+    YOU's Sangan (zone 1) is destroyed in battle
+    YOU loses 100 LP -> 5650
+    effect: Robbin' Goblin
+    effect: Sangan
+  [main 2]
+  YOU SETS Mask of Darkness in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5650 / OPP 1675) ===
+  hand: YOU 3 / OPP 1   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Greenkappa   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Copycat (zone 0) -> YOU's face-down Mask of Darkness (zone 1)
+    effect: Skull Lair
+  OPP attacks with Zombyra the Dark (zone 1) -> YOU's Giant Germ (zone 2)
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5650 / OPP 1675) ===
+  hand: YOU 3 / OPP 2   library: YOU 24 / OPP 27
+    YOU (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Garuda the Wind Spirit, Greenkappa   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: Fissure, Snatch Steal
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+    effect: Mask of Darkness
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 675
+  YOU attacks DIRECTLY with Giant Germ (zone 2)
+    OPP loses 1000 LP -> -325
+  [DUEL END]  final LP: YOU 5650 / OPP -325

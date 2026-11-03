@@ -1,0 +1,479 @@
+  OPP draws 5  (hand now 5, library 43)
+  YOU draws 5  (hand now 5, library 42)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 42 / OPP 43
+    YOU hand [exact]: Amazon Archer, Hayabusa Knight, Kuriboh, Monster Reborn, The Forceful Sentry
+    OPP (recorder) hand [exact]: Dimensional Warrior, Heavy Storm, Magician of Faith, Scapegoat, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 42 / OPP 42
+    YOU hand [exact]: Amazon Archer, Hayabusa Knight, Kuriboh, Monster Reborn, The Forceful Sentry
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 41)
+  [standby]
+  [main 1]
+  YOU ACTIVATES The Forceful Sentry (S/T zone 5)  [card 2 of 6 in hand]
+    effect: The Forceful Sentry
+  YOU SUMMONS Hayabusa Knight in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Hayabusa Knight (zone 0) -> OPP's face-down Dimensional Warrior (zone 0)
+    effect: Dimensional Warrior
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 41 / OPP 42
+    YOU hand [exact]: Amazon Archer, Kuriboh, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 41)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 41 / OPP 41
+    YOU hand [exact]: Amazon Archer, Kuriboh, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 40)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    effect: Scapegoat
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 40 / OPP 41
+    YOU hand [exact]: Amazon Archer, Kuriboh, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 40)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 6   library: YOU 40 / OPP 40
+    YOU hand [exact]: Amazon Archer, Kuriboh, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 39)
+  [standby]
+  [main 1]
+  YOU SETS Kuriboh in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 6   library: YOU 39 / OPP 40
+    YOU hand [exact]: Amazon Archer, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 7, library 39)
+  [standby]
+  [main 1]
+  OPP SETS Heavy Storm (S/T zone 5)  [card 3 of 7 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 39 / OPP 39
+    YOU hand [exact]: Amazon Archer, Magician of Faith, Monster Reborn
+    OPP (recorder) hand [exact]: Call Of The Haunted, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Amazon Archer in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Monster Reborn (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 38 / OPP 39
+    YOU hand [exact]: Magician of Faith, Snatch Steal
+    OPP (recorder) hand [exact]: Call Of The Haunted, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Monster Reborn (S/T zone 7)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 38 / OPP 38
+    YOU hand [exact]: Magician of Faith, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 3 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 37 / OPP 38
+    YOU hand [exact]: Giant Rat, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 8)  [card 5 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 37 / OPP 37
+    YOU hand [exact]: Giant Rat, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 36)
+    effect: Ceasefire
+    YOU loses 2000 LP -> 6000
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  YOU SUMMONS Giant Rat in monster zone 4  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with face-down Kuriboh (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with face-down Magician of Faith (zone 3) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  YOU attacks with Giant Rat (zone 4) -> OPP's Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+  YOU attacks with face-down Amazon Archer (zone 2) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    effect: Scapegoat
+  [main 2]
+  YOU SETS Magic Cylinder (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6000 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 36 / OPP 37
+    YOU hand [exact]: Snatch Steal
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  OPP SETS Magician of Faith in monster zone 4 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6000 / OPP 8000) ===
+  hand: YOU 1 / OPP 5   library: YOU 36 / OPP 36
+    YOU hand [exact]: Snatch Steal
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Graceful Charity (S/T zone 5)  [card 2 of 2 in hand]
+  YOU SETS Snatch Steal (S/T zone 6)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Kuriboh (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with Magician of Faith (zone 3) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  YOU attacks with Amazon Archer (zone 2) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Giant Rat (zone 4) -> OPP's face-down Magician of Faith (zone 4)
+    OPP's Magician of Faith (zone 4) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 34)
+  YOU draws 1  (hand now 2, library 33)
+  YOU draws 1  (hand now 3, library 32)
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 6800
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 3 / OPP 5   library: YOU 32 / OPP 36
+    YOU hand [exact]: Giant Rat, Magician of Faith, Nobleman of Crossout
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 35
+    YOU hand [exact]: Giant Rat, Magician of Faith, Nobleman of Crossout
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 30)
+  YOU draws 1  (hand now 5, library 29)
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 5 / OPP 4   library: YOU 29 / OPP 35
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 5 / OPP 5   library: YOU 29 / OPP 34
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 28)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 6 / OPP 5   library: YOU 28 / OPP 34
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dream Clown in monster zone 1  [card 6 of 6 in hand]
+  [battle phase]
+  OPP attacks with Dream Clown (zone 1) -> YOU's Amazon Archer (zone 2)
+    YOU's Amazon Archer (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 6 / OPP 5   library: YOU 28 / OPP 33
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 1 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 6000 / OPP 6800) ===
+  hand: YOU 6 / OPP 5   library: YOU 27 / OPP 33
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Nobleman of Crossout, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  OPP SUMMONS Jinzo in monster zone 1  [card 1 of 6 in hand]
+    effect: Jinzo
+    OPP special summons Magician of Faith to zone 2
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Dimensional Warrior (zone 0)
+    OPP loses 1000 LP -> 5800
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Jinzo (zone 1)
+    YOU loses 2400 LP -> 3600
+  OPP attacks DIRECTLY with Magician of Faith (zone 2)
+    YOU loses 1700 LP -> 1900
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 1900 / OPP 5800) ===
+  hand: YOU 6 / OPP 4   library: YOU 27 / OPP 32
+    YOU hand [exact]: Giant Rat, Giant Trunade, Magician of Faith, Man-Eater Bug, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+    YOU special summons Amazon Archer to zone 0
+    effect: Snatch Steal
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 3 of 7 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 1) -> OPP's Magician of Faith (zone 2)
+    OPP's Magician of Faith (zone 2) is destroyed in battle
+    OPP loses 400 LP -> 5400
+  YOU attacks DIRECTLY with Amazon Archer (zone 0)
+    OPP loses 1700 LP -> 3700
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 1900 / OPP 3700) ===
+  hand: YOU 6 / OPP 4   library: YOU 26 / OPP 32
+    YOU hand [exact]: Giant Rat, Giant Trunade, Mage Power, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 4700
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Heavy Storm
+    OPP special summons Magician of Faith to zone 1
+  OPP SUMMONS Nimble Momonga in monster zone 2  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Amazon Archer (zone 0)
+    YOU's Amazon Archer (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 1500
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Man-Eater Bug (zone 2)
+    YOU's Man-Eater Bug (zone 2) is destroyed in battle
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 1500 / OPP 4700) ===
+  hand: YOU 6 / OPP 3   library: YOU 26 / OPP 31
+    YOU hand [exact]: Giant Rat, Giant Trunade, Mage Power, Magician of Faith, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 25)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 7 in hand]
+  YOU SETS Scapegoat (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 1500 / OPP 4700) ===
+  hand: YOU 5 / OPP 3   library: YOU 25 / OPP 31
+    YOU hand [exact]: Giant Rat, Giant Trunade, Mage Power, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Dark Hole (S/T zone 5)  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 2) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    effect: Scapegoat
+  OPP attacks with unknown monster (zone 0) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 1500 / OPP 4700) ===
+  hand: YOU 5 / OPP 3   library: YOU 25 / OPP 30
+    YOU hand [exact]: Giant Rat, Giant Trunade, Mage Power, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Snatch Steal
+  YOU SUMMONS Nimble Momonga in monster zone 4  [card 3 of 5 in hand]
+  YOU ACTIVATES Mage Power (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Mage Power
+  YOU SETS Giant Trunade (S/T zone 7)  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 4) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 4600
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1000 LP -> 3600
+  [main 2]
+    effect: Giant Trunade
+  YOU SETS Mage Power (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 1500 / OPP 3600) ===
+  hand: YOU 1 / OPP 3   library: YOU 24 / OPP 30
+    YOU hand [exact]: Giant Rat, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 28)
+  OPP draws 1  (hand now 3, library 27)
+  OPP draws 1  (hand now 4, library 26)
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 1 of 4 in hand]
+    effect: Dark Hole
+  OPP SETS Mirror Force (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 0)
+    YOU loses 1100 LP -> 400
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 400 / OPP 3600) ===
+  hand: YOU 1 / OPP 1   library: YOU 24 / OPP 26
+    YOU hand [exact]: Giant Rat, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 2 of 2 in hand]
+  YOU ACTIVATES Snatch Steal (S/T zone 6)  [card 1 of 1 in hand]
+    effect: Snatch Steal
+    effect: Mage Power
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    effect: Mirror Force
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 400 / OPP 3600) ===
+  hand: YOU 0 / OPP 2   library: YOU 23 / OPP 26
+    YOU hand [exact]: Giant Rat, Nobleman of Crossout, The Rock Spirit
+    OPP (recorder) hand [partly unknown]: Call Of The Haunted, Giant Rat, Man-Eater Bug, Pot of Greed, The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Amazon Archer (zone 0)
+    YOU loses 1400 LP -> -1000
+  [DUEL END]  final LP: YOU -1000 / OPP 3600

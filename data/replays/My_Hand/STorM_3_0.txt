@@ -1,0 +1,164 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 38)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 35
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere, Crush Card, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Axe of Despair, Jinzo, Limiter Removal, Mystic Tomato, Solemn Judgment
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Tomato in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 38 / OPP 34
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere, Crush Card, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  YOU SETS Crush Card (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 37 / OPP 34
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 37 / OPP 33
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mother Grizzly in monster zone 1  [card 4 of 4 in hand]
+    effect: Solemn Judgment
+    OPP loses 4000 LP -> 4000
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 3 / OPP 4   library: YOU 36 / OPP 33
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 3 / OPP 5   library: YOU 36 / OPP 32
+    YOU hand [exact]: Aqua Spirit, 2x Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  YOU SETS Trap Hole (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 2 / OPP 5   library: YOU 35 / OPP 32
+    YOU hand [exact]: Aqua Spirit, Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Cyber-Stein, Jinzo, Limiter Removal, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Cyber-Stein in monster zone 2 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 2 / OPP 5   library: YOU 35 / OPP 31
+    YOU hand [exact]: Aqua Spirit, Blast Sphere
+    OPP (recorder) hand [exact]: Axe of Despair, Jinzo, Limiter Removal, Megamorph, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 31
+    YOU hand [exact]: Aqua Spirit, Blast Sphere, Dark Hole
+    OPP (recorder) hand [exact]: Axe of Despair, Jinzo, Limiter Removal, Megamorph, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 1  [card 1 of 6 in hand]
+    effect: Jinzo
+    effect: Sangan
+  [battle phase]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 4000) ===
+  hand: YOU 3 / OPP 6   library: YOU 34 / OPP 30
+    YOU hand [exact]: Aqua Spirit, Blast Sphere, Dark Hole
+    OPP (recorder) hand [partly unknown]: Axe of Despair, Limiter Removal, Megamorph, Monster Reborn, United We Stand   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Dark Hole
+    YOU special summons a monster to zone 0
+  YOU SUMMONS Blast Sphere in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Blast Sphere (zone 1)
+    OPP loses 1400 LP -> 2600
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1600 LP -> 1000
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8000 / OPP 1000) ===
+  hand: YOU 2 / OPP 6   library: YOU 33 / OPP 30
+    YOU hand [exact]: 2x Aqua Spirit
+    OPP (recorder) hand [partly unknown]: Axe of Despair, Limiter Removal, Megamorph, Monster Reborn, United We Stand   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 1 of 7 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 0
+    effect: Jinzo
+  OPP ACTIVATES Megamorph (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Megamorph
+  OPP ACTIVATES United We Stand (S/T zone 6)  [card 4 of 5 in hand]
+    effect: United We Stand
+  OPP ACTIVATES Axe of Despair (S/T zone 7)  [card 1 of 4 in hand]
+    effect: Axe of Despair
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Blast Sphere (zone 1)
+  OPP ACTIVATES Limiter Removal (S/T zone 8)  [card 1 of 3 in hand]
+    effect: Limiter Removal
+    YOU's Blast Sphere (zone 1) is destroyed in battle
+    YOU loses 11800 LP -> -3800
+  [DUEL END]  final LP: YOU -3800 / OPP 1000

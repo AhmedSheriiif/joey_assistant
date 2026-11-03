@@ -1,0 +1,328 @@
+  OPP draws 5  (hand now 5, library 36)
+  YOU draws 5  (hand now 5, library 37)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 36
+    YOU (recorder) hand [exact]: 2x Kinetic Soldier, Morphing Jar, Mystical Space Typhoon, Skull Lair
+    OPP hand [exact]: Giant Soldier of Stone, Imperial Order, Morphing Jar, Sinister Serpent, Solemn Wishes
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Wishes (S/T zone 5)  [card 3 of 6 in hand]
+  OPP SETS Imperial Order (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: 2x Kinetic Soldier, Morphing Jar, Mystical Space Typhoon, Skull Lair
+    OPP hand [exact]: Giant Soldier of Stone, Marie the Fallen One, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SETS Skull Lair (S/T zone 6)  [card 1 of 5 in hand]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Delinquent Duo, Kinetic Soldier, Morphing Jar
+    OPP hand [exact]: Giant Soldier of Stone, Marie the Fallen One, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+    effect: Solemn Wishes
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 33)
+  OPP draws 1  (hand now 2, library 32)
+  OPP draws 1  (hand now 3, library 31)
+  OPP draws 1  (hand now 4, library 30)
+  OPP draws 1  (hand now 5, library 29)
+  YOU draws 1  (hand now 1, library 35)
+  YOU draws 1  (hand now 2, library 34)
+  YOU draws 1  (hand now 3, library 33)
+  YOU draws 1  (hand now 4, library 32)
+  YOU draws 1  (hand now 5, library 31)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8500
+  OPP SETS Nightmare's Steelcage (S/T zone 7)  [card 3 of 5 in hand]
+  OPP SETS Chain Energy (S/T zone 8)  [card 4 of 4 in hand]
+  OPP SETS Princess of Tsurugi in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8500) ===
+  hand: YOU 5 / OPP 2   library: YOU 31 / OPP 29
+    YOU (recorder) hand [exact]: DNA Surgery, Dust Tornado, Graceful Charity, Mirror Force, Sangan
+    OPP hand [exact]: Man-Eater Bug, Monster Reborn
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 4 of 6 in hand]
+  [battle phase]
+  YOU attacks with face-down Kinetic Soldier (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's face-down Morphing Jar (zone 0) is destroyed in battle
+    OPP loses 650 LP -> 7850
+  YOU attacks with Sangan (zone 1) -> OPP's face-down Princess of Tsurugi (zone 1)
+    OPP's Princess of Tsurugi (zone 1) is destroyed in battle
+    effect: Princess of Tsurugi
+    YOU loses 1000 LP -> 7000
+  [main 2]
+  YOU SETS Dust Tornado (S/T zone 7)  [card 4 of 5 in hand]
+  YOU SETS DNA Surgery (S/T zone 8)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 7850) ===
+  hand: YOU 3 / OPP 2   library: YOU 30 / OPP 29
+    YOU (recorder) hand [exact]: Dream Clown, Graceful Charity, Mirror Force
+    OPP hand [exact]: Man-Eater Bug, Monster Reborn
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8350
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 8550
+    effect: Sinister Serpent
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 9)  [card 3 of 3 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 3, library 27)
+  OPP draws 1  (hand now 4, library 26)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 9050
+  OPP ACTIVATES Graceful Charity (S/T zone 9)  [card 4 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 25)
+  OPP draws 1  (hand now 3, library 24)
+  OPP draws 1  (hand now 4, library 23)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 9550
+  OPP ACTIVATES Painful Choice (S/T zone 9)  [card 4 of 4 in hand]
+    effect: Painful Choice
+    effect: Nightmare's Steelcage
+  OPP ACTIVATES Mask of the Accursed (S/T zone 9)  [card 4 of 4 in hand]
+    effect: Mask of the Accursed
+  OPP SETS Princess of Tsurugi in monster zone 0 (face-down)  [card 2 of 3 in hand]
+    effect: Chain Energy
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7000 / OPP 9550) ===
+  hand: YOU 3 / OPP 2   library: YOU 30 / OPP 23
+    YOU (recorder) hand [exact]: Dream Clown, Graceful Charity, Mirror Force
+    OPP hand [exact]: Cannon Soldier, Man-Eater Bug, Monster Reborn   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+    effect: Dust Tornado
+    effect: Mystical Space Typhoon
+  YOU SETS Imperial Order (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SETS Mirror Force (S/T zone 7)  [card 2 of 3 in hand]
+  YOU SUMMONS Dream Clown in monster zone 2  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7000 / OPP 9550) ===
+  hand: YOU 1 / OPP 2   library: YOU 29 / OPP 23
+    YOU (recorder) hand [exact]: Graceful Charity
+    OPP hand [exact]: Cannon Soldier, Man-Eater Bug, Monster Reborn   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 10050
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 10250
+    effect: Sinister Serpent
+  [main 1]
+    effect: Princess of Tsurugi
+    YOU loses 2000 LP -> 5000
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  OPP SETS Ring of Destruction (S/T zone 8)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5000 / OPP 10250) ===
+  hand: YOU 1 / OPP 2   library: YOU 29 / OPP 22
+    YOU (recorder) hand [exact]: Graceful Charity
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire, Monster Reborn   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 28)
+    effect: Ring of Destruction
+    YOU loses 1200 LP -> 3800
+    OPP loses 1200 LP -> 9050
+  [standby]
+  [main 1]
+  YOU SETS Greenkappa in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 3800 / OPP 9050) ===
+  hand: YOU 1 / OPP 2   library: YOU 28 / OPP 22
+    YOU (recorder) hand [exact]: Graceful Charity
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire, Monster Reborn   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 21)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 9550
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 9750
+  [main 1]
+    effect: Man-Eater Bug
+  OPP SETS Sangan in monster zone 2 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 3800 / OPP 9750) ===
+  hand: YOU 1 / OPP 3   library: YOU 28 / OPP 21
+    YOU (recorder) hand [exact]: Graceful Charity
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire, Monster Reborn   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Graceful Charity
+    effect: Imperial Order
+    YOU special summons a monster to zone 2
+  [battle phase]
+  YOU attacks with unknown monster (zone 2) -> OPP's face-down Princess of Tsurugi (zone 0)
+    OPP's face-down Princess of Tsurugi (zone 0) is destroyed in battle
+    OPP loses 800 LP -> 8950
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's face-down Man-Eater Bug (zone 1)
+    effect: DNA Surgery
+    effect: Kinetic Soldier
+    OPP's face-down Man-Eater Bug (zone 1) is destroyed in battle
+    OPP loses 2900 LP -> 6050
+  YOU attacks with Sangan (zone 1) -> OPP's face-down Sangan (zone 2)
+    OPP's Sangan (zone 2) is destroyed in battle
+    effect: Sangan
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 3800 / OPP 6050) ===
+  hand: YOU 0 / OPP 4   library: YOU 27 / OPP 21
+    YOU (recorder) hand [exact]: The Rock Spirit   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire, Monster Reborn   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 20)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 6550
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 6750
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Monster Reborn
+    effect: Imperial Order
+  OPP SETS Princess of Tsurugi in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 3800 / OPP 6750) ===
+  hand: YOU 0 / OPP 3   library: YOU 27 / OPP 20
+    YOU (recorder) hand [exact]: The Rock Spirit   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 26)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's face-down Princess of Tsurugi (zone 0)
+    effect: Kinetic Soldier
+    OPP's Princess of Tsurugi (zone 0) is destroyed in battle
+    effect: Princess of Tsurugi
+    YOU loses 1500 LP -> 2300
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    OPP loses 1700 LP -> 5050
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 4050
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 2300 / OPP 4050) ===
+  hand: YOU 1 / OPP 3   library: YOU 26 / OPP 20
+    YOU (recorder) hand [exact]: Michizure, The Rock Spirit   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 19)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 4550
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 4750
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  OPP SETS Mystic Box (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 2300 / OPP 4750) ===
+  hand: YOU 1 / OPP 2   library: YOU 26 / OPP 19
+    YOU (recorder) hand [exact]: Michizure, The Rock Spirit   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 3  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Kinetic Soldier (zone 0) -> OPP's face-down Magician of Faith (zone 0)
+    effect: Kinetic Soldier
+    OPP's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  YOU attacks DIRECTLY with Slate Warrior (zone 3)
+    OPP loses 1900 LP -> 2850
+  YOU attacks DIRECTLY with unknown monster (zone 2)
+    OPP loses 1700 LP -> 1150
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 150
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 2300 / OPP 150) ===
+  hand: YOU 1 / OPP 2   library: YOU 25 / OPP 19
+    YOU (recorder) hand [exact]: Michizure, The Rock Spirit   (up to 1 of these already discarded)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 18)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 650
+  [standby]
+    effect: Marie the Fallen One
+    OPP gains 200 LP -> 850
+  [main 1]
+  OPP ACTIVATES Nightmare's Steelcage (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Nightmare's Steelcage
+  OPP SETS Gravity Bind (S/T zone 8)  [card 3 of 3 in hand]
+  OPP SETS Sinister Serpent in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+    effect: Skull Lair
+    effect: Sangan
+
+=== Turn 16: YOU   (LP YOU 2300 / OPP 850) ===
+  hand: YOU 2 / OPP 1   library: YOU 25 / OPP 18
+    YOU (recorder) hand [partly unknown]: Michizure, The Rock Spirit   (up to 1 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Cannon Soldier, Ceasefire   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 2 of 3 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -350
+  [DUEL END]  final LP: YOU 2300 / OPP -350

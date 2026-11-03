@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/memsnap/
+data/quiet_joey_backup/
+data/dataset/replays.jsonl
+*.rar
+My Hand/
+My opp's Hand/

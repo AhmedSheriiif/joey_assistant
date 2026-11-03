@@ -1,0 +1,359 @@
+  YOU draws 5  (hand now 5, library 58)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 58 / OPP 35
+    YOU (recorder) hand [exact]: Dust Tornado, Magic Cylinder, Mystic Tomato, Swords of Revealing Light, The Rock Spirit
+    OPP hand [exact]: Dust Tornado, Fissure, Man-Eater Bug, The Rock Spirit, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 6, library 57)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 57 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Magic Cylinder, Swords of Revealing Light, The Rock Spirit
+    OPP hand [exact]: Dust Tornado, Fissure, Man-Eater Bug, The Rock Spirit, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 1 of 5 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 2 of 4 in hand]
+  OPP SETS Fissure (S/T zone 7)  [card 2 of 3 in hand]
+  OPP SETS Fissure (S/T zone 8)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 1   library: YOU 57 / OPP 34
+    YOU (recorder) hand [exact]: Amazon Archer, Magic Cylinder, Swords of Revealing Light, The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 56)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 3 of 5 in hand]
+  YOU SETS Rush Recklessly (S/T zone 7)  [card 4 of 4 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 2 of 3 in hand]
+    effect: Swords of Revealing Light
+    effect: Man-Eater Bug
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Amazon Archer (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's face-down Man-Eater Bug (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 1 / OPP 1   library: YOU 56 / OPP 34
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+    OPP special summons Man-Eater Bug to zone 0
+    effect: Dust Tornado
+  [battle phase]
+  OPP attacks with Man-Eater Bug (zone 0) -> YOU's Amazon Archer (zone 0)
+    effect: Rush Recklessly
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 7600
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 7600) ===
+  hand: YOU 1 / OPP 2   library: YOU 56 / OPP 33
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: 4-Starred Ladybug of Doom, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 55)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 0)
+    OPP loses 1400 LP -> 6200
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 6200) ===
+  hand: YOU 1 / OPP 2   library: YOU 55 / OPP 33
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: 4-Starred Ladybug of Doom, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Premature Burial (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 6200) ===
+  hand: YOU 1 / OPP 1   library: YOU 55 / OPP 32
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 54)
+  [standby]
+  [main 1]
+  YOU SETS Premature Burial (S/T zone 7)  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Amazon Archer (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 6200) ===
+  hand: YOU 1 / OPP 1   library: YOU 54 / OPP 32
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+    effect: Premature Burial
+    OPP loses 800 LP -> 5400
+    OPP special summons 4-Starred Ladybug of Doom to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 0)
+    effect: Dust Tornado
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 5400) ===
+  hand: YOU 1 / OPP 2   library: YOU 54 / OPP 31
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 53)
+  [standby]
+  [main 1]
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1700 LP -> 3700
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 3700) ===
+  hand: YOU 1 / OPP 2   library: YOU 53 / OPP 31
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+    effect: Fissure
+    effect: Scapegoat
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8000 / OPP 3700) ===
+  hand: YOU 1 / OPP 2   library: YOU 53 / OPP 30
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 52)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 1  [card 1 of 2 in hand]
+    effect: Torrential Tribute
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1700 LP -> 2000
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7200 / OPP 2000) ===
+  hand: YOU 1 / OPP 2   library: YOU 52 / OPP 30
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 2 of 3 in hand]
+    effect: Fissure
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 5800
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5800 / OPP 2000) ===
+  hand: YOU 1 / OPP 2   library: YOU 52 / OPP 29
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 51)
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5800 / OPP 2000) ===
+  hand: YOU 1 / OPP 2   library: YOU 51 / OPP 29
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: Bazoo the Soul-Eater, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  [main 2]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5800 / OPP 2000) ===
+  hand: YOU 1 / OPP 1   library: YOU 51 / OPP 28
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 50)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 5800 / OPP 2000) ===
+  hand: YOU 1 / OPP 1   library: YOU 50 / OPP 28
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 1  [card 1 of 2 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's face-down Sangan (zone 0)
+    effect: Magic Cylinder
+    OPP loses 1900 LP -> 100
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5800 / OPP 100) ===
+  hand: YOU 1 / OPP 1   library: YOU 50 / OPP 27
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 49)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Sangan (zone 0) -> OPP's Bazoo the Soul-Eater (zone 0)
+    effect: Magic Cylinder
+    YOU loses 1000 LP -> 4800
+  [main 2]
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Fissure
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 1 / OPP 1   library: YOU 49 / OPP 27
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 1 / OPP 1   library: YOU 49 / OPP 26
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 48)
+  [standby]
+  [main 1]
+  YOU SETS Wall of Illusion in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 1 / OPP 1   library: YOU 48 / OPP 26
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+  OPP SETS United We Stand (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 1 / OPP 1   library: YOU 48 / OPP 25
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 2, library 47)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 2 / OPP 1   library: YOU 47 / OPP 25
+    YOU (recorder) hand [exact]: Nimble Momonga, The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 2 / OPP 1   library: YOU 47 / OPP 24
+    YOU (recorder) hand [exact]: Nimble Momonga, The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 46)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 4800 / OPP 100) ===
+  hand: YOU 3 / OPP 1   library: YOU 46 / OPP 24
+    YOU (recorder) hand [exact]: Mystic Tomato, Nimble Momonga, The Rock Spirit
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's face-down Wall of Illusion (zone 1)
+    OPP loses 250 LP -> -150
+  [DUEL END]  final LP: YOU 4800 / OPP -150

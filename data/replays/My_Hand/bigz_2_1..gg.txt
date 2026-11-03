@@ -1,0 +1,131 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Left Arm of the Forbidden One, Mystic Tomato, Painful Choice, Solemn Judgment, Time Machine
+    OPP hand [exact]: Dark Hole, Heavy Storm, Kunai with Chain, Relinquished, Rising Air Current
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Left Arm of the Forbidden One, Painful Choice, Swords of Revealing Light, Time Machine
+    OPP hand [exact]: Dark Hole, Heavy Storm, Kunai with Chain, Relinquished, Rising Air Current
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Heavy Storm (S/T zone 5)  [card 1 of 6 in hand]
+  OPP SETS Kunai with Chain (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Left Arm of the Forbidden One, Painful Choice, Swords of Revealing Light, Time Machine
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Relinquished, Rising Air Current
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Backup Soldier, Left Arm of the Forbidden One, Painful Choice, Swords of Revealing Light, Time Machine
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Relinquished, Rising Air Current
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Backup Soldier, Left Arm of the Forbidden One, Painful Choice, Swords of Revealing Light, Time Machine
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Relinquished, Rising Air Current
+  [draw phase]
+  YOU draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 31)
+  YOU draws 1  (hand now 5, library 30)
+  YOU draws 1  (hand now 6, library 29)
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 28)
+  YOU draws 1  (hand now 7, library 27)
+  YOU ACTIVATES Upstart Goblin (S/T zone 6)  [card 7 of 7 in hand]
+    effect: Upstart Goblin
+  YOU draws 1  (hand now 7, library 26)
+    OPP gains 1000 LP -> 9000
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Jar of Greed (S/T zone 7)  [card 4 of 6 in hand]
+  YOU SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 4 / OPP 4   library: YOU 26 / OPP 33
+    YOU (recorder) hand [exact]: Backup Soldier, Jar of Greed, Left Arm of the Forbidden One, Nimble Momonga, Painful Choice, Time Machine   (up to 2 of these already discarded)
+    OPP hand [exact]: Black Illusion Ritual, Dark Hole, Relinquished, Rising Air Current
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+    effect: Jar of Greed
+  YOU draws 1  (hand now 5, library 25)
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Dark Hole
+    effect: Witch of the Black Forest
+    effect: Witch of the Black Forest
+  OPP SUMMONS Sonic Bird in monster zone 0  [card 2 of 5 in hand]
+    effect: Sonic Bird
+  OPP ACTIVATES Rising Air Current (S/T zone 10)  [card 5 of 5 in hand]
+    effect: Rising Air Current
+  [battle phase]
+  OPP attacks DIRECTLY with Sonic Bird (zone 0)
+    YOU loses 1900 LP -> 6100
+  [main 2]
+  OPP SETS Black Illusion Ritual (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6100 / OPP 9000) ===
+  hand: YOU 6 / OPP 3   library: YOU 25 / OPP 32
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Jar of Greed, Left Arm of the Forbidden One, 2x Nimble Momonga, Painful Choice, Time Machine   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [partly unknown]: Hysteric Fairy, Relinquished   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Painful Choice (S/T zone 5)  [card 6 of 7 in hand]
+    effect: Painful Choice
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Jar of Greed (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Backup Soldier (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6100 / OPP 9000) ===
+  hand: YOU 3 / OPP 3   library: YOU 24 / OPP 32
+    YOU (recorder) hand [partly unknown]: Left Arm of the Forbidden One, Nimble Momonga, Time Machine   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [partly unknown]: Hysteric Fairy, Relinquished   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+    effect: Backup Soldier
+  [DUEL END]  final LP: YOU 6100 / OPP 9000

@@ -1,0 +1,300 @@
+  OPP draws 5  (hand now 5, library 36)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Dust Tornado, Flying Kamakiri #1, Graceful Charity, Greenkappa, Magic Cylinder
+    OPP hand [exact]: Graceful Charity, Last Will, Skull Lair, Slate Warrior, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  OPP SETS Skull Lair (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Dust Tornado, Flying Kamakiri #1, Graceful Charity, Greenkappa, Magic Cylinder
+    OPP hand [exact]: Graceful Charity, Last Will, Slate Warrior, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 6 in hand]
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 3 of 4 in hand]
+  YOU SETS Flying Kamakiri #1 in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 4   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Graceful Charity, Greenkappa
+    OPP hand [exact]: Graceful Charity, Last Will, Slate Warrior, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  OPP SUMMONS Slate Warrior in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    effect: Magic Cylinder
+    OPP loses 1900 LP -> 6100
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 7550
+  [main 2]
+  OPP SETS Last Will (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7550 / OPP 6100) ===
+  hand: YOU 2 / OPP 3   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Graceful Charity, Greenkappa
+    OPP hand [exact]: Graceful Charity, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7550 / OPP 6100) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Graceful Charity, Mask of Darkness
+    OPP hand [exact]: Graceful Charity, The Rock Spirit, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Tribute to The Doomed
+    OPP special summons a monster to zone 2
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    effect: Windstorm of Etaqua
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 7550 / OPP 6100) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Graceful Charity, Mask of Darkness
+    OPP hand [exact]: Graceful Charity, Morphing Jar, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  YOU draws 1  (hand now 3, library 29)
+    effect: Dust Tornado
+  YOU SUMMONS Flying Kamakiri #1 in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7550 / OPP 6100) ===
+  hand: YOU 1 / OPP 3   library: YOU 29 / OPP 33
+    YOU (recorder) hand [exact]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded)
+    OPP hand [exact]: Graceful Charity, Morphing Jar, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 31)
+  OPP draws 1  (hand now 3, library 30)
+  OPP draws 1  (hand now 4, library 29)
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    YOU loses 500 LP -> 7050
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [main 2]
+  OPP ACTIVATES Delinquent Duo (S/T zone 5)  [card 1 of 3 in hand]
+    effect: Delinquent Duo
+    OPP loses 1000 LP -> 5100
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7050 / OPP 5100) ===
+  hand: YOU 2 / OPP 2   library: YOU 29 / OPP 29
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Box (S/T zone 5)  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks with Flying Kamakiri #1 (zone 0) -> OPP's Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7050 / OPP 5100) ===
+  hand: YOU 2 / OPP 2   library: YOU 28 / OPP 29
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 1) -> YOU's Flying Kamakiri #1 (zone 0)
+    YOU's Flying Kamakiri #1 (zone 0) is destroyed in battle
+    YOU loses 500 LP -> 6550
+    effect: Flying Kamakiri #1
+    YOU special summons Flying Kamakiri #1 to zone 0
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 28 / OPP 28
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 26)
+  YOU draws 1  (hand now 5, library 25)
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Solemn Judgment (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 28
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+  OPP SETS DNA Surgery (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 25 / OPP 27
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 24 / OPP 27
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Rush Recklessly (S/T zone 6)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 24 / OPP 26
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 23 / OPP 26
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  OPP SETS Kinetic Soldier in monster zone 2 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 6550 / OPP 5100) ===
+  hand: YOU 3 / OPP 2   library: YOU 23 / OPP 25
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +2 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 3  [card 1 of 4 in hand]
+    effect: Man-Eater Bug
+    effect: Mystic Box
+  [battle phase]
+  YOU attacks with face-down Man-Eater Bug (zone 2) -> OPP's Slate Warrior (zone 1)
+    OPP's Giant Germ (zone 1) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 4600
+    YOU special summons Flying Kamakiri #1 to zone 1
+    YOU special summons Flying Kamakiri #1 to zone 4
+  YOU attacks with Slate Warrior (zone 3) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's face-down 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 1)
+    OPP loses 1000 LP -> 3600
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 0)
+    OPP loses 800 LP -> 2800
+  YOU attacks DIRECTLY with Flying Kamakiri #1 (zone 4)
+    OPP loses 1000 LP -> 1800
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 6550 / OPP 1800) ===
+  hand: YOU 4 / OPP 2   library: YOU 22 / OPP 25
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +3 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 6550 / OPP 1800) ===
+  hand: YOU 4 / OPP 2   library: YOU 22 / OPP 24
+    YOU (recorder) hand [partly unknown]: Dust Tornado, Imperial Order, Mask of Darkness   (up to 2 of these already discarded; +3 unknown)
+    OPP hand [exact]: DNA Surgery, Dream Clown, Morphing Jar, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 3)
+    OPP loses 1900 LP -> -100
+  [DUEL END]  final LP: YOU 6550 / OPP -100

@@ -1,0 +1,337 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Jinzo, Mage Power, Mirror Force, United We Stand
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Jinzo, Mage Power, Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Jinzo, Mage Power, Mirror Force, United We Stand
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Jinzo, Mage Power, Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 7000
+  [main 2]
+  OPP SETS Mage Power (S/T zone 5)  [card 4 of 5 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 38 / OPP 38
+    YOU (recorder) hand [exact]: Fissure, Jinzo, Mage Power, Mirror Force, United We Stand
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Dream Clown, Jinzo
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 6 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 36)
+  YOU draws 1  (hand now 5, library 35)
+  YOU draws 1  (hand now 6, library 34)
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Fissure (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 4: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Fissure, Jinzo, Mage Power, Mirror Force, Mystic Tomato, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Dream Clown, Jinzo
+  [draw phase]
+  OPP draws 1  (hand now 4, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+    OPP loses 100 LP -> 7900
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7000 / OPP 7900) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Fissure, Jinzo, Mage Power, Mirror Force, Mystic Tomato, United We Stand   (up to 2 of these already discarded)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Dream Clown, Jinzo
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Magician of Faith (zone 1)
+    OPP's Magician of Faith (zone 1) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Fissure
+  YOU SETS Mirror Force (S/T zone 5)  [card 1 of 4 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 3 in hand]
+  YOU SETS United We Stand (S/T zone 7)  [card 2 of 2 in hand]
+  YOU SETS Mage Power (S/T zone 8)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7000 / OPP 7900) ===
+  hand: YOU 0 / OPP 3   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato   (up to 2 of these already discarded)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Dream Clown, Jinzo
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7000 / OPP 7900) ===
+  hand: YOU 0 / OPP 2   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato   (up to 2 of these already discarded)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Jinzo
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 9)  [card 1 of 1 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7000 / OPP 7900) ===
+  hand: YOU 1 / OPP 2   library: YOU 30 / OPP 36
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato, Witch of the Black Forest   (up to 2 of these already discarded)
+    OPP hand [exact]: Amazon Archer, Dream Clown, Jinzo
+  [draw phase]
+  OPP draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 4 of 4 in hand]
+  OPP SUMMONS Dream Clown in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Dream Clown (zone 0) -> YOU's face-down Magician of Faith (zone 0)
+    YOU's Magician of Faith (zone 0) is destroyed in battle
+    effect: Magician of Faith
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 9: YOU   (LP YOU 7000 / OPP 7900) ===
+  hand: YOU 1 / OPP 2   library: YOU 30 / OPP 35
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato, Witch of the Black Forest   (up to 2 of these already discarded)
+    OPP hand [exact]: Amazon Archer, Jinzo
+  [draw phase]
+  YOU draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 2, library 28)
+  YOU draws 1  (hand now 3, library 27)
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Dream Clown (zone 0)
+    OPP's Dream Clown (zone 0) is destroyed in battle
+    OPP loses 200 LP -> 7700
+  [main 2]
+  YOU SETS Waboku (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7000 / OPP 7700) ===
+  hand: YOU 1 / OPP 2   library: YOU 27 / OPP 35
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato, Nimble Momonga, Witch of the Black Forest   (up to 2 of these already discarded)
+    OPP hand [exact]: Amazon Archer, Jinzo
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7000 / OPP 7700) ===
+  hand: YOU 1 / OPP 2   library: YOU 27 / OPP 34
+    YOU (recorder) hand [exact]: Jinzo, Mystic Tomato, Nimble Momonga, Witch of the Black Forest   (up to 2 of these already discarded)
+    OPP hand [exact]: Amazon Archer, Jinzo
+  [draw phase]
+  YOU draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 33)
+  OPP draws 1  (hand now 2, library 32)
+  OPP draws 1  (hand now 3, library 31)
+  OPP draws 1  (hand now 4, library 30)
+  OPP draws 1  (hand now 5, library 29)
+  YOU draws 1  (hand now 1, library 25)
+  YOU draws 1  (hand now 2, library 24)
+  YOU draws 1  (hand now 3, library 23)
+  YOU draws 1  (hand now 4, library 22)
+  YOU draws 1  (hand now 5, library 21)
+  [main 2]
+  YOU SETS Crass Clown in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7000 / OPP 7700) ===
+  hand: YOU 4 / OPP 5   library: YOU 21 / OPP 29
+    YOU (recorder) hand [exact]: Last Will, Nimble Momonga, Premature Burial, Sangan
+    OPP hand [exact]: Ceasefire, Fissure, Mystical Space Typhoon, Ring of Destruction, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 6)  [card 1 of 6 in hand]
+    effect: Fissure
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Ceasefire (S/T zone 7)  [card 3 of 4 in hand]
+  OPP SETS Ring of Destruction (S/T zone 8)  [card 2 of 3 in hand]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 0) -> YOU's face-down Crass Clown (zone 1)
+    OPP loses 300 LP -> 7400
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7000 / OPP 7400) ===
+  hand: YOU 4 / OPP 1   library: YOU 21 / OPP 28
+    YOU (recorder) hand [exact]: Last Will, Nimble Momonga, Premature Burial, Sangan
+    OPP hand [exact]: Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 5, library 20)
+    effect: Ring of Destruction
+    YOU loses 1350 LP -> 5650
+    OPP loses 1350 LP -> 6050
+  [standby]
+  [main 1]
+  YOU ACTIVATES Last Will (S/T zone 9)  [card 4 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Magician of Faith to zone 0
+  YOU SUMMONS Sangan in monster zone 1  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Magician of Faith (zone 0) -> OPP's Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 5750
+    effect: Witch of the Black Forest
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 4750
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+
+=== Turn 14: OPP   (LP YOU 5650 / OPP 4750) ===
+  hand: YOU 5 / OPP 2   library: YOU 20 / OPP 28
+    YOU (recorder) hand [partly unknown]: Morphing Jar, Nimble Momonga, Premature Burial   (+2 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 26)
+  OPP draws 1  (hand now 2, library 25)
+  OPP draws 1  (hand now 3, library 24)
+  OPP SUMMONS Giant Rat in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Magician of Faith (zone 0)
+    effect: Mirror Force
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5650 / OPP 4750) ===
+  hand: YOU 5 / OPP 1   library: YOU 20 / OPP 24
+    YOU (recorder) hand [partly unknown]: Morphing Jar, Nimble Momonga, Premature Burial   (+2 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 19)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 4850
+    YOU special summons Magician of Faith to zone 2
+    effect: Jinzo
+  YOU SUMMONS Nimble Momonga in monster zone 3  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Magician of Faith (zone 2)
+    effect: Scapegoat
+  YOU attacks with Magician of Faith (zone 2) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  YOU attacks with Sangan (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with Nimble Momonga (zone 3) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Magician of Faith (zone 0) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 4850 / OPP 4750) ===
+  hand: YOU 4 / OPP 1   library: YOU 19 / OPP 24
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+3 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (up to 1 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  OPP SETS United We Stand (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 4850 / OPP 4750) ===
+  hand: YOU 4 / OPP 0   library: YOU 19 / OPP 23
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+3 unknown)
+    OPP hand [partly unknown]: Nimble Momonga   (up to 1 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 18)
+  [standby]
+  [main 1]
+  YOU SUMMONS Amazon Archer in monster zone 4  [card 2 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 4 in hand]
+  [battle phase]
+  YOU attacks with Magician of Faith (zone 2) -> OPP's face-down Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  YOU attacks DIRECTLY with Magician of Faith (zone 0)
+    OPP loses 1400 LP -> 3350
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 2350
+  YOU attacks DIRECTLY with Nimble Momonga (zone 3)
+    OPP loses 1000 LP -> 1350
+  YOU attacks DIRECTLY with Amazon Archer (zone 4)
+    OPP loses 1400 LP -> -50
+  [DUEL END]  final LP: YOU 4850 / OPP -50

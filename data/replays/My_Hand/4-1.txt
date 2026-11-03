@@ -1,0 +1,245 @@
+  YOU draws 5  (hand now 5, library 37)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Heavy Storm, Magician of Faith, Penguin Soldier, Ring of Destruction
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Magician of Faith, Morphing Jar, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Heavy Storm, Jinzo, Magician of Faith
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Magician of Faith, Morphing Jar, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Swords of Revealing Light
+    effect: Penguin Soldier
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    effect: Ring of Destruction
+    OPP loses 1600 LP -> 6400
+    YOU loses 1600 LP -> 6400
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 6400 / OPP 6400) ===
+  hand: YOU 4 / OPP 4   library: YOU 36 / OPP 34
+    YOU (recorder) hand [exact]: Ceasefire, Heavy Storm, Jinzo, Magician of Faith
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Magician of Faith, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Ceasefire (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 6400 / OPP 6400) ===
+  hand: YOU 4 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Heavy Storm, Jinzo, Magician of Faith
+    OPP hand [exact]: Amazon Archer, Graceful Charity, Magician of Faith, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 32)
+  OPP draws 1  (hand now 4, library 31)
+  OPP draws 1  (hand now 5, library 30)
+  OPP SUMMONS Amazon Archer in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Amazon Archer (zone 0) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6400 / OPP 6400) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 30
+    YOU (recorder) hand [partly unknown]: Heavy Storm, Jinzo, Magician of Faith   (+1 unknown)
+    OPP hand [exact]: Magic Cylinder, Magician of Faith, 2x Morphing Jar, Offerings to the Doomed   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Heavy Storm (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Heavy Storm
+    effect: Scapegoat
+    effect: Ceasefire
+    OPP loses 1000 LP -> 5400
+  YOU SUMMONS Jinzo in monster zone 0  [card 3 of 5 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Amazon Archer (zone 0)
+    OPP's Amazon Archer (zone 0) is destroyed in battle
+    OPP loses 1000 LP -> 4400
+  [main 2]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 30
+    YOU (recorder) hand [partly unknown]: Magician of Faith   (+2 unknown)
+    OPP hand [exact]: Magic Cylinder, Magician of Faith, 2x Morphing Jar, Offerings to the Doomed   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  OPP SETS Offerings to the Doomed (S/T zone 5)  [card 1 of 3 in hand]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 1 of 2 in hand]
+  OPP SETS Nobleman of Crossout (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 4 / OPP 0   library: YOU 34 / OPP 29
+    YOU (recorder) hand [partly unknown]: Magician of Faith   (+2 unknown)
+    OPP hand [exact]: Magician of Faith, Morphing Jar   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    OPP's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  YOU draws 1  (hand now 1, library 32)
+  YOU draws 1  (hand now 2, library 31)
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  [main 2]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Mirror Force (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 3 / OPP 5   library: YOU 28 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Dream Clown, Giant Rat, 2x Giant Trunade, Mirror Force
+  [draw phase]
+  OPP draws 1  (hand now 6, library 23)
+  [standby]
+  [main 1]
+    effect: Nobleman of Crossout
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 3 / OPP 5   library: YOU 28 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Dream Clown, 2x Giant Trunade, Mirror Force, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 4)
+    OPP's unknown monster (zone 4) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 3 / OPP 5   library: YOU 27 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [exact]: Dream Clown, 2x Giant Trunade, Mirror Force, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 6, library 22)
+  [standby]
+  [main 1]
+    effect: Offerings to the Doomed
+  OPP SUMMONS Dream Clown in monster zone 3  [card 4 of 6 in hand]
+    effect: Torrential Tribute
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 5 of 5 in hand]
+  OPP SETS Mirror Force (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 3 / OPP 3   library: YOU 27 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: 2x Giant Trunade, Monster Reborn, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Call Of The Haunted
+    OPP special summons a monster to zone 0
+  [main 2]
+  YOU SETS Premature Burial (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 2 / OPP 3   library: YOU 26 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: 2x Giant Trunade, Monster Reborn, Nobleman of Crossout
+  [standby]
+  [main 1]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with unknown monster (zone 0) -> YOU's Nimble Momonga (zone 0)
+    effect: Mirror Force
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 6400 / OPP 4400) ===
+  hand: YOU 2 / OPP 3   library: YOU 26 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: 2x Giant Trunade, Monster Reborn, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+    effect: Premature Burial
+    YOU loses 800 LP -> 5600
+    YOU special summons Mystic Tomato to zone 1
+    effect: Jinzo
+  YOU SUMMONS Dimensional Warrior in monster zone 2  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 1)
+    OPP loses 2400 LP -> 2000
+  YOU attacks DIRECTLY with Nimble Momonga (zone 0)
+    OPP loses 1000 LP -> 1000
+  [main 2]
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 2 in hand]
+    effect: Monster Reborn
+    YOU special summons Mystic Tomato to zone 3
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -200
+  [DUEL END]  final LP: YOU 5600 / OPP -200

@@ -1,0 +1,417 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Cannon Soldier, Dark Hole, Mirror Force, Morphing Jar, Witch of the Black Forest
+    OPP hand [exact]: Dimensional Warrior, Giant Rat, Mage Power, Mirror Force, Waboku
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  YOU SETS Mirror Force (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 39
+    YOU (recorder) hand [exact]: Cannon Soldier, Dark Hole, Mage Power, Witch of the Black Forest
+    OPP hand [exact]: Dimensional Warrior, Giant Rat, Mage Power, Mirror Force, Waboku
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 0  [card 5 of 6 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's face-down Morphing Jar (zone 0)
+    effect: Mirror Force
+  [main 2]
+  OPP SETS Waboku (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Mirror Force (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Cannon Soldier, Dark Hole, Mage Power, Witch of the Black Forest
+    OPP hand [exact]: Giant Rat, Mage Power, Morphing Jar
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Mage Power (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Dark Hole (S/T zone 6)  [card 2 of 4 in hand]
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 3 of 3 in hand]
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 32)
+  YOU draws 1  (hand now 2, library 31)
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  OPP draws 1  (hand now 1, library 37)
+  OPP draws 1  (hand now 2, library 36)
+  OPP draws 1  (hand now 3, library 35)
+  OPP draws 1  (hand now 4, library 34)
+  OPP draws 1  (hand now 5, library 33)
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Swords of Revealing Light
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 1)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 28 / OPP 33
+    YOU (recorder) hand [exact]: Dream Clown, Giant Rat, The Rock Spirit, United We Stand
+    OPP hand [exact]: Amazon Archer, Giant Rat, Nimble Momonga, Nobleman of Crossout, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 6)  [card 6 of 6 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 28 / OPP 32
+    YOU (recorder) hand [exact]: Dream Clown, Giant Rat, The Rock Spirit, United We Stand
+    OPP hand [exact]: Amazon Archer, Giant Rat, Nobleman of Crossout, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 4 / OPP 5   library: YOU 27 / OPP 32
+    YOU (recorder) hand [exact]: Giant Rat, Monster Reborn, The Rock Spirit, United We Stand
+    OPP hand [partly unknown]: Amazon Archer, Giant Rat, Nobleman of Crossout, Swords of Revealing Light   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 4 / OPP 6   library: YOU 27 / OPP 31
+    YOU (recorder) hand [exact]: Giant Rat, Monster Reborn, The Rock Spirit, United We Stand
+    OPP hand [partly unknown]: Amazon Archer, Giant Rat, Nobleman of Crossout, Swords of Revealing Light   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 1  [card 3 of 5 in hand]
+    YOU special summons a monster to zone 2
+  YOU SETS United We Stand (S/T zone 8)  [card 1 of 4 in hand]
+  YOU SETS Monster Reborn (S/T zone 9)  [card 1 of 3 in hand]
+    effect: Mage Power
+    effect: Ceasefire
+    YOU loses 2500 LP -> 5500
+    effect: Dream Clown
+    effect: Monster Reborn
+    effect: Waboku
+    YOU special summons a monster to zone 3
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5500 / OPP 9000) ===
+  hand: YOU 2 / OPP 6   library: YOU 26 / OPP 31
+    YOU (recorder) hand [exact]: Mystic Tomato, The Rock Spirit
+    OPP hand [partly unknown]: Amazon Archer, Giant Rat, Nobleman of Crossout, Swords of Revealing Light   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 6 of 7 in hand]
+    effect: Dark Hole
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5500 / OPP 9000) ===
+  hand: YOU 2 / OPP 5   library: YOU 26 / OPP 30
+    YOU (recorder) hand [exact]: Mystic Tomato, The Rock Spirit
+    OPP hand [partly unknown]: Amazon Archer, Nobleman of Crossout, Swords of Revealing Light   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Giant Rat (zone 0)
+    YOU loses 50 LP -> 5450
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5450 / OPP 9000) ===
+  hand: YOU 1 / OPP 5   library: YOU 25 / OPP 30
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [partly unknown]: Amazon Archer, Nobleman of Crossout, Swords of Revealing Light   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 1  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Mystic Tomato (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+    OPP special summons Giant Rat to zone 0
+  OPP attacks with Amazon Archer (zone 1) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 5050
+    effect: Sangan
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1200 LP -> 3850
+  [main 2]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 3 / OPP 4   library: YOU 25 / OPP 29
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+    effect: Dark Hole
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 3 / OPP 4   library: YOU 24 / OPP 29
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 7)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 3 / OPP 4   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 4 / OPP 4   library: YOU 23 / OPP 28
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 4 / OPP 5   library: YOU 23 / OPP 27
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 5 / OPP 5   library: YOU 22 / OPP 27
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 3850 / OPP 9000) ===
+  hand: YOU 5 / OPP 5   library: YOU 22 / OPP 26
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 21)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 20)
+  YOU draws 1  (hand now 5, library 19)
+  YOU draws 1  (hand now 6, library 18)
+  YOU SUMMONS Jinzo in monster zone 0  [card 1 of 6 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Jinzo (zone 0)
+    OPP loses 2400 LP -> 6600
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+    effect: Scapegoat
+
+=== Turn 18: OPP   (LP YOU 3850 / OPP 6600) ===
+  hand: YOU 4 / OPP 5   library: YOU 18 / OPP 26
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 5800
+    OPP special summons Giant Rat to zone 4
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 2650
+    effect: Amazon Archer
+    YOU loses 1200 LP -> 1450
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 1450 / OPP 5800) ===
+  hand: YOU 4 / OPP 4   library: YOU 18 / OPP 25
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 17)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 1)
+    effect: Scapegoat
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 1450 / OPP 5800) ===
+  hand: YOU 4 / OPP 4   library: YOU 17 / OPP 25
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 1450 / OPP 5800) ===
+  hand: YOU 4 / OPP 4   library: YOU 17 / OPP 24
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 16)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 1450 / OPP 5800) ===
+  hand: YOU 4 / OPP 4   library: YOU 16 / OPP 24
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Nobleman of Crossout   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 23)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 1 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS Sangan in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Jinzo (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    OPP loses 1400 LP -> 4400
+    effect: Sangan
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 1450 / OPP 4400) ===
+  hand: YOU 4 / OPP 4   library: YOU 16 / OPP 23
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 15)
+  [standby]
+  [main 1]
+    YOU special summons Mystic Tomato to zone 2
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Amazon Archer (zone 1)
+    OPP's Amazon Archer (zone 1) is destroyed in battle
+  YOU attacks with Mystic Tomato (zone 2) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 1450 / OPP 4400) ===
+  hand: YOU 5 / OPP 4   library: YOU 15 / OPP 23
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +6 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 1450 / OPP 4400) ===
+  hand: YOU 5 / OPP 4   library: YOU 15 / OPP 22
+    YOU (recorder) hand [partly unknown]: The Rock Spirit   (up to 1 of these already discarded; +6 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 14)
+  [standby]
+  [main 1]
+    effect: United We Stand
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 3)
+    OPP's unknown monster (zone 3) is destroyed in battle
+  YOU attacks DIRECTLY with Mystic Tomato (zone 2)
+    OPP loses 4100 LP -> 300
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 1)
+    OPP loses 1200 LP -> -900
+  [DUEL END]  final LP: YOU 1450 / OPP -900

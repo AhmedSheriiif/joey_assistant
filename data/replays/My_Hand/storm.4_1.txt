@@ -1,0 +1,221 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Crass Clown, Mage Power, Premature Burial, Sangan, The Rock Spirit
+    OPP hand [exact]: Ceasefire, Graceful Charity, Mask of the Accursed, Messenger of Peace, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Crass Clown in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  YOU SETS Premature Burial (S/T zone 5)  [card 3 of 5 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Mage Power, Sangan, The Rock Spirit
+    OPP hand [exact]: Ceasefire, Graceful Charity, Mask of the Accursed, Messenger of Peace, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 33)
+  OPP draws 1  (hand now 5, library 32)
+  OPP draws 1  (hand now 6, library 31)
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Mask of the Accursed (S/T zone 6)  [card 1 of 4 in hand]
+  OPP SETS Mask of the Accursed (S/T zone 7)  [card 3 of 3 in hand]
+  OPP SETS Messenger of Peace (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 34 / OPP 31
+    YOU (recorder) hand [exact]: Mage Power, Sangan, The Rock Spirit
+    OPP hand [exact]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+  YOU SUMMONS Sangan in monster zone 1  [card 3 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with face-down Crass Clown (zone 0)
+    OPP loses 1350 LP -> 5650
+  [main 2]
+  YOU SETS Mage Power (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 5650) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 31
+    YOU (recorder) hand [exact]: Monster Reborn, The Rock Spirit
+    OPP hand [exact]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 2 in hand]
+    effect: Messenger of Peace
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 5650) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 30
+    YOU (recorder) hand [exact]: Monster Reborn, The Rock Spirit
+    OPP hand [exact]: Burning Land, Cure Mermaid, Fire Princess, Messenger of Peace   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Monster Reborn (S/T zone 8)  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 1) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 6650
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  YOU attacks with Crass Clown (zone 0) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7650
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 7650) ===
+  hand: YOU 1 / OPP 3   library: YOU 32 / OPP 30
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Fire Princess, Messenger of Peace   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+    effect: Messenger of Peace
+    OPP loses 100 LP -> 7550
+  [main 1]
+  OPP SETS Fire Princess in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 9)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7550) ===
+  hand: YOU 1 / OPP 2   library: YOU 32 / OPP 29
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 3  [card 2 of 2 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks with face-down Man-Eater Bug (zone 2) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8550
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7550
+  YOU attacks DIRECTLY with Giant Rat (zone 3)
+    OPP loses 1400 LP -> 6150
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 6150) ===
+  hand: YOU 1 / OPP 3   library: YOU 31 / OPP 29
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+    effect: Messenger of Peace
+    OPP loses 100 LP -> 6050
+  [main 1]
+    effect: Mask of the Accursed
+    effect: Mask of the Accursed
+  OPP SETS Big Shield Gardna in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 6050) ===
+  hand: YOU 1 / OPP 3   library: YOU 31 / OPP 28
+    YOU (recorder) hand [exact]: The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+    effect: Crass Clown
+    effect: Monster Reborn
+    YOU special summons a monster to zone 4
+  [battle phase]
+  YOU attacks DIRECTLY with unknown monster (zone 4)
+    OPP loses 1300 LP -> 4750
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 3750
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 2)
+    OPP loses 450 LP -> 3300
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 3300) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 28
+    YOU (recorder) hand [exact]: Dark Hole, The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 27)
+  [standby]
+    effect: Mask of the Accursed
+    YOU loses 500 LP -> 7500
+    effect: Mask of the Accursed
+    YOU loses 500 LP -> 7000
+    effect: Messenger of Peace
+    OPP loses 100 LP -> 3200
+  [main 1]
+    effect: Mystical Space Typhoon
+  OPP SETS Magic Cylinder (S/T zone 9)  [card 3 of 4 in hand]
+  OPP SETS Big Shield Gardna in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7000 / OPP 3200) ===
+  hand: YOU 2 / OPP 2   library: YOU 30 / OPP 27
+    YOU (recorder) hand [exact]: Dark Hole, The Rock Spirit
+    OPP hand [partly unknown]: Burning Land, Cure Mermaid, Messenger of Peace   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 7)  [card 2 of 3 in hand]
+    effect: Dark Hole
+    effect: Ceasefire
+    YOU loses 3000 LP -> 4000
+    effect: Sangan
+    effect: Premature Burial
+    YOU loses 800 LP -> 3200
+    YOU special summons a monster to zone 0
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 2 of 3 in hand]
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 1)
+    effect: Magic Cylinder
+    effect: Seven Tools of the Bandit
+    YOU loses 1000 LP -> 2200
+    OPP loses 1400 LP -> 1800
+  YOU attacks DIRECTLY with unknown monster (zone 0)
+    OPP loses 1000 LP -> 800
+  [main 2]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -400
+  [DUEL END]  final LP: YOU 2200 / OPP -400

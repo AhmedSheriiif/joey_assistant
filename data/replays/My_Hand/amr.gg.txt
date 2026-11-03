@@ -1,0 +1,424 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Giant Trunade, Man-Eater Bug, Monster Reborn, Premature Burial, Waboku
+    OPP hand [exact]: Fissure, Mirror Wall, Nimble Momonga, Pot of Greed, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Waboku (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 39
+    YOU (recorder) hand [exact]: Giant Trunade, Kinetic Soldier, Monster Reborn, Premature Burial
+    OPP hand [exact]: Fissure, Mirror Wall, Nimble Momonga, Pot of Greed, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 37)
+  OPP draws 1  (hand now 7, library 36)
+  OPP SUMMONS Dimensional Warrior in monster zone 0  [card 5 of 7 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Man-Eater Bug
+  [main 2]
+  OPP SETS Trap Hole (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Mirror Wall (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: Giant Trunade, Kinetic Soldier, Monster Reborn, Premature Burial
+    OPP hand [exact]: 2x Fissure, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial
+    OPP hand [exact]: 2x Fissure, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 2 of 5 in hand]
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's face-down Kinetic Soldier (zone 0)
+    OPP loses 800 LP -> 7200
+  [main 2]
+  OPP ACTIVATES Fissure (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Fissure
+    effect: Scapegoat
+  OPP SETS Windstorm of Etaqua (S/T zone 7)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 35
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial
+    OPP hand [exact]: Fissure, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial
+    OPP hand [exact]: Fissure, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Wall of Illusion in monster zone 2  [card 2 of 3 in hand]
+    effect: Windstorm of Etaqua
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's Kinetic Soldier (zone 0)
+    effect: Waboku
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 3 / OPP 2   library: YOU 32 / OPP 34
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial
+    OPP hand [exact]: Fissure, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 4 / OPP 2   library: YOU 31 / OPP 34
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal
+    OPP hand [exact]: Fissure, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  OPP attacks with unknown monster (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Wall of Illusion (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 4 / OPP 3   library: YOU 31 / OPP 33
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal
+    OPP hand [exact]: Bazoo the Soul-Eater, Fissure, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 5 / OPP 3   library: YOU 30 / OPP 33
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Penguin Soldier, Premature Burial, Snatch Steal
+    OPP hand [exact]: Bazoo the Soul-Eater, Fissure, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 7)  [card 1 of 4 in hand]
+    effect: Fissure
+    effect: Scapegoat
+  [battle phase]
+  OPP attacks with Wall of Illusion (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with unknown monster (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 5 / OPP 3   library: YOU 30 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Penguin Soldier, Premature Burial, Snatch Steal
+    OPP hand [exact]: Bazoo the Soul-Eater, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 1 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 8000 / OPP 7200) ===
+  hand: YOU 5 / OPP 3   library: YOU 29 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade, Monster Reborn, Penguin Soldier, Premature Burial, Snatch Steal
+    OPP hand [exact]: Bazoo the Soul-Eater, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 1) -> YOU's face-down Giant Rat (zone 1)
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 1
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's Giant Rat (zone 1)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    OPP loses 200 LP -> 7000
+    effect: Dimensional Warrior
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 6 / OPP 4   library: YOU 29 / OPP 31
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Penguin Soldier, Premature Burial, Snatch Steal   (+1 unknown)
+    OPP hand [exact]: Bazoo the Soul-Eater, Giant Rat, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 6 / OPP 4   library: YOU 28 / OPP 31
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+2 unknown)
+    OPP hand [exact]: Bazoo the Soul-Eater, Giant Rat, Nimble Momonga, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Penguin Soldier (zone 1) -> YOU's face-down Penguin Soldier (zone 1)
+    YOU's Penguin Soldier (zone 1) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Waboku (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 6 / OPP 3   library: YOU 28 / OPP 30
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+2 unknown)
+    OPP hand [exact]: Bazoo the Soul-Eater, Giant Rat, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 6 of 7 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 7, library 26)
+  YOU draws 1  (hand now 8, library 25)
+    YOU special summons Penguin Soldier to zone 1
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8000
+    OPP special summons Nimble Momonga to zone 0
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 5 of 8 in hand]
+  YOU SETS Giant Rat in monster zone 2 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 25 / OPP 30
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+2 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Giant Rat, The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 2 of 5 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Kinetic Soldier (zone 0)
+    YOU's Kinetic Soldier (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 25 / OPP 29
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+2 unknown)
+    OPP hand [partly unknown]: Giant Rat, The Rock Spirit   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 24)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 5 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 6 / OPP 5   library: YOU 24 / OPP 29
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+2 unknown)
+    OPP hand [partly unknown]: Giant Rat, The Rock Spirit   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 28)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's face-down Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 7 / OPP 5   library: YOU 24 / OPP 28
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (+3 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's Bazoo the Soul-Eater (zone 1)
+    effect: Mirror Wall
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 6 of 8 in hand]
+    effect: Mystical Space Typhoon
+    effect: Waboku
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 6 / OPP 5   library: YOU 23 / OPP 28
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (up to 1 of these already discarded; +3 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Trap Hole (S/T zone 6)  [card 3 of 6 in hand]
+  OPP SETS Wall of Illusion in monster zone 2 (face-down)  [card 2 of 5 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with face-down Giant Rat (zone 0) -> YOU's Penguin Soldier (zone 1)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 600 LP -> 8400
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Giant Rat (zone 2)
+    OPP loses 50 LP -> 8350
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Giant Rat (zone 2)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 8000 / OPP 8350) ===
+  hand: YOU 7 / OPP 5   library: YOU 23 / OPP 27
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 22)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  YOU SETS Waboku (S/T zone 6)  [card 6 of 8 in hand]
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 8050
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 8000 / OPP 8050) ===
+  hand: YOU 6 / OPP 6   library: YOU 22 / OPP 27
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (up to 2 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 26)
+  [standby]
+  [main 1]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Giant Rat (zone 0)
+    effect: Waboku
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 7)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 8000 / OPP 8050) ===
+  hand: YOU 6 / OPP 6   library: YOU 22 / OPP 26
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Monster Reborn, Premature Burial, Snatch Steal   (up to 2 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Ultimate Offering (S/T zone 6)  [card 6 of 7 in hand]
+  YOU ACTIVATES Premature Burial (S/T zone 7)  [card 2 of 6 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    YOU special summons Giant Rat to zone 2
+  YOU ACTIVATES Giant Trunade (S/T zone 8)  [card 4 of 5 in hand]
+    effect: Giant Trunade
+    effect: Ceasefire
+    YOU loses 2500 LP -> 4700
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Snatch Steal
+    effect: Bazoo the Soul-Eater
+    YOU special summons Giant Rat to zone 4
+  [battle phase]
+  YOU attacks with Giant Rat (zone 2) -> OPP's Giant Rat (zone 0)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Giant Rat to zone 2
+  YOU attacks with unknown monster (zone 3) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 2050 LP -> 6000
+  YOU attacks DIRECTLY with Penguin Soldier (zone 1)
+    OPP loses 1700 LP -> 4300
+  YOU attacks DIRECTLY with Giant Rat (zone 2)
+    OPP loses 1400 LP -> 2900
+  YOU attacks DIRECTLY with Giant Rat (zone 4)
+    OPP loses 1700 LP -> 1200
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1200 LP -> 0
+  [DUEL END]  final LP: YOU 4700 / OPP 0

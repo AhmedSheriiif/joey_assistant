@@ -1,0 +1,93 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: 2x Backup Soldier, Painful Choice, Pot of Greed, Time Machine
+    OPP hand [exact]: Amphibian Beast, Beast of Gilfer, Catapult Turtle, Giant Trunade, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 33)
+  YOU draws 1  (hand now 7, library 32)
+  YOU ACTIVATES Painful Choice (S/T zone 5)  [card 4 of 7 in hand]
+    effect: Painful Choice
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Backup Soldier (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Backup Soldier, Left Leg of the Forbidden One, Right Arm of the Forbidden One, Time Machine
+    OPP hand [exact]: Amphibian Beast, Beast of Gilfer, Catapult Turtle, Giant Trunade, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Enchanted Javelin (S/T zone 5)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 32 / OPP 34
+    YOU (recorder) hand [exact]: Backup Soldier, Left Leg of the Forbidden One, Right Arm of the Forbidden One, Time Machine
+    OPP hand [exact]: Amphibian Beast, Beast of Gilfer, Catapult Turtle, Giant Trunade, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Nimble Momonga (zone 0)
+    effect: Enchanted Javelin
+    OPP gains 1000 LP -> 9000
+    OPP loses 1000 LP -> 8000
+  [main 2]
+  YOU SETS Sinister Serpent in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 31 / OPP 34
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Left Arm of the Forbidden One, Left Leg of the Forbidden One, Right Arm of the Forbidden One, Time Machine
+    OPP hand [exact]: Amphibian Beast, Beast of Gilfer, Catapult Turtle, Giant Trunade, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Raigeki (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Raigeki
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 6600
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 31 / OPP 33
+    YOU (recorder) hand [partly unknown]: Backup Soldier, Left Arm of the Forbidden One, Left Leg of the Forbidden One, Right Arm of the Forbidden One, Time Machine
+    OPP hand [exact]: Amphibian Beast, Beast of Gilfer, Catapult Turtle, Giant Trunade
+  [draw phase]
+  YOU draws 1  (hand now 5, library 30)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  YOU SUMMONS Sinister Serpent in monster zone 0  [card 5 of 5 in hand]
+  YOU ACTIVATES Last Will (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Sinister Serpent (zone 0) -> OPP's Mother Grizzly (zone 0)
+    YOU's Sinister Serpent (zone 0) is destroyed in battle
+    YOU loses 1100 LP -> 5500
+    effect: Last Will
+    YOU special summons Sinister Serpent to zone 0
+  YOU attacks with Sinister Serpent (zone 0) -> OPP's Mother Grizzly (zone 0)
+    effect: Backup Soldier
+    YOU's Sinister Serpent (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 5200
+    effect: Witch of the Black Forest
+  [DUEL END]  final LP: YOU 5200 / OPP 8000

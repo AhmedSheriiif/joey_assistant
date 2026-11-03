@@ -1,0 +1,765 @@
+[YOU = the user (the second deck list in this file)]
+  OPP draws 5  (hand now 5, library 61)
+  YOU draws 5  (hand now 5, library 59)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 59 / OPP 61
+    YOU (recorder) hand [exact]: Aqua Spirit, Masked Sorcerer, Mother Grizzly, Mystical Space Typhoon, Ring of Destruction
+    OPP hand [exact]: Magic Drain, Magic Jammer, Snatch Steal, Solemn Wishes, Umi
+  [draw phase]
+  OPP draws 1  (hand now 6, library 60)
+  [standby]
+  [main 1]
+  OPP SETS Magic Drain (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Magic Jammer (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Solemn Wishes (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 59 / OPP 60
+    YOU (recorder) hand [exact]: Aqua Spirit, Masked Sorcerer, Mother Grizzly, Mystical Space Typhoon, Ring of Destruction
+    OPP hand [exact]: Mystical Space Typhoon, Snatch Steal, Umi
+  [draw phase]
+  YOU draws 1  (hand now 6, library 58)
+    effect: Solemn Wishes
+  [standby]
+  [main 1]
+  YOU SUMMONS Masked Sorcerer in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Masked Sorcerer (zone 0)
+    OPP loses 900 LP -> 7100
+    effect: Masked Sorcerer
+  YOU draws 1  (hand now 6, library 57)
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Fairy Box (S/T zone 6)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 7100) ===
+  hand: YOU 4 / OPP 3   library: YOU 57 / OPP 60
+    YOU (recorder) hand [exact]: Aqua Spirit, Change of Heart, Mother Grizzly, Ring of Destruction
+    OPP hand [exact]: Mystical Space Typhoon, Snatch Steal, Umi
+  [draw phase]
+  OPP draws 1  (hand now 4, library 59)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 7600
+  [standby]
+  [main 1]
+  OPP ACTIVATES Umi (S/T zone 10)  [card 2 of 4 in hand]
+    effect: Umi
+  OPP ACTIVATES Snatch Steal (S/T zone 8)  [card 1 of 3 in hand]
+    effect: Snatch Steal
+  OPP SETS Tornado Wall (S/T zone 9)  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    effect: Mystical Space Typhoon
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 7600) ===
+  hand: YOU 4 / OPP 1   library: YOU 57 / OPP 59
+    YOU (recorder) hand [exact]: Aqua Spirit, Change of Heart, Mother Grizzly, Ring of Destruction
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  YOU draws 1  (hand now 5, library 56)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Masked Sorcerer (zone 0)
+    effect: Tornado Wall
+  [main 2]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 7600) ===
+  hand: YOU 4 / OPP 1   library: YOU 56 / OPP 59
+    YOU (recorder) hand [exact]: Aqua Spirit, Change of Heart, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  OPP draws 1  (hand now 2, library 58)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8100
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8100) ===
+  hand: YOU 4 / OPP 1   library: YOU 56 / OPP 58
+    YOU (recorder) hand [exact]: Aqua Spirit, Change of Heart, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  YOU draws 1  (hand now 5, library 55)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Change of Heart (S/T zone 7)  [card 3 of 5 in hand]
+    effect: Change of Heart
+  YOU SETS Banisher of the Light in monster zone 2 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8100) ===
+  hand: YOU 3 / OPP 1   library: YOU 55 / OPP 58
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  OPP draws 1  (hand now 2, library 57)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8600
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with face-down Nimble Momonga (zone 0) -> YOU's face-down Banisher of the Light (zone 2)
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 8600) ===
+  hand: YOU 3 / OPP 1   library: YOU 55 / OPP 57
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  YOU draws 1  (hand now 4, library 54)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 1) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+  YOU attacks with Masked Sorcerer (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 1)
+    YOU loses 300 LP -> 7700
+    effect: 4-Starred Ladybug of Doom
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7700 / OPP 8600) ===
+  hand: YOU 3 / OPP 1   library: YOU 54 / OPP 57
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon
+  [draw phase]
+  OPP draws 1  (hand now 2, library 56)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 9100
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7700 / OPP 9100) ===
+  hand: YOU 3 / OPP 2   library: YOU 54 / OPP 56
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Mother Grizzly
+    OPP hand [exact]: Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 4, library 53)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mother Grizzly in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 1)
+    OPP's 4-Starred Ladybug of Doom (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7700 / OPP 9100) ===
+  hand: YOU 3 / OPP 2   library: YOU 53 / OPP 56
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Wall of Illusion
+    OPP hand [exact]: Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 3, library 55)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 9600
+  [standby]
+  [main 1]
+  OPP SETS Needle Worm in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 7700 / OPP 9600) ===
+  hand: YOU 3 / OPP 2   library: YOU 53 / OPP 55
+    YOU (recorder) hand [exact]: Aqua Spirit, Dimensional Warrior, Wall of Illusion
+    OPP hand [exact]: Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 4, library 52)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 7)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 51)
+  YOU draws 1  (hand now 5, library 50)
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's face-down Needle Worm (zone 0)
+    OPP's Needle Worm (zone 0) is destroyed in battle
+    effect: Needle Worm
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 7700 / OPP 9600) ===
+  hand: YOU 4 / OPP 2   library: YOU 50 / OPP 55
+    YOU (recorder) hand [exact]: Aqua Spirit, Man-Eater Bug, Snatch Steal, Wall of Illusion
+    OPP hand [exact]: Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 3, library 54)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 10100
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 7700 / OPP 10100) ===
+  hand: YOU 4 / OPP 3   library: YOU 50 / OPP 54
+    YOU (recorder) hand [exact]: Aqua Spirit, Man-Eater Bug, Snatch Steal, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 5, library 49)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 7700 / OPP 10100) ===
+  hand: YOU 5 / OPP 3   library: YOU 49 / OPP 54
+    YOU (recorder) hand [exact]: Aqua Spirit, Man-Eater Bug, Snatch Steal, Tribute to The Doomed, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 4, library 53)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 10600
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 8)  [card 4 of 4 in hand]
+    effect: Nobleman of Crossout
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 7700 / OPP 10600) ===
+  hand: YOU 5 / OPP 3   library: YOU 49 / OPP 53
+    YOU (recorder) hand [exact]: Aqua Spirit, Man-Eater Bug, Snatch Steal, Tribute to The Doomed, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 48)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 7700 / OPP 10600) ===
+  hand: YOU 6 / OPP 3   library: YOU 48 / OPP 53
+    YOU (recorder) hand [exact]: 2x Aqua Spirit, Man-Eater Bug, Snatch Steal, Tribute to The Doomed, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 4, library 52)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 11100
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 7700 / OPP 11100) ===
+  hand: YOU 6 / OPP 4   library: YOU 48 / OPP 52
+    YOU (recorder) hand [exact]: 2x Aqua Spirit, Man-Eater Bug, Snatch Steal, Tribute to The Doomed, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light, Umi
+  [draw phase]
+  YOU draws 1  (hand now 7, library 47)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 7700 / OPP 11100) ===
+  hand: YOU 6 / OPP 4   library: YOU 47 / OPP 52
+    YOU (recorder) hand [exact]: 2x Aqua Spirit, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Gravity Bind, Mystical Space Typhoon, Swords of Revealing Light, Umi
+  [draw phase]
+  OPP draws 1  (hand now 5, library 51)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 11600
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 2 of 5 in hand]
+    effect: Swords of Revealing Light
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 7700 / OPP 11600) ===
+  hand: YOU 6 / OPP 4   library: YOU 47 / OPP 51
+    YOU (recorder) hand [exact]: 2x Aqua Spirit, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Mystical Space Typhoon, Umi
+  [draw phase]
+  YOU draws 1  (hand now 7, library 46)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 1 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 7700 / OPP 11600) ===
+  hand: YOU 6 / OPP 4   library: YOU 46 / OPP 51
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Mystical Space Typhoon, Umi
+  [draw phase]
+  OPP draws 1  (hand now 5, library 50)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 12100
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 7700 / OPP 12100) ===
+  hand: YOU 6 / OPP 5   library: YOU 46 / OPP 50
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Card Destruction, Gravekeeper's Servant, Gravity Bind, Mystical Space Typhoon, Umi
+  [draw phase]
+  YOU draws 1  (hand now 7, library 45)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cure Mermaid in monster zone 3  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 7700 / OPP 12100) ===
+  hand: YOU 6 / OPP 5   library: YOU 45 / OPP 50
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Card Destruction, Gravekeeper's Servant, Gravity Bind, Mystical Space Typhoon, Umi
+  [draw phase]
+  OPP draws 1  (hand now 6, library 49)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 12600
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 7700 / OPP 12600) ===
+  hand: YOU 6 / OPP 6   library: YOU 45 / OPP 49
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Card Destruction, Gravekeeper's Servant, Gravity Bind, Mirror Force, Mystical Space Typhoon, Umi
+  [draw phase]
+  YOU draws 1  (hand now 7, library 44)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 8500
+  [main 1]
+  YOU ACTIVATES Heavy Storm (S/T zone 7)  [card 7 of 7 in hand]
+    effect: Heavy Storm
+    effect: Magic Jammer
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 8500 / OPP 12600) ===
+  hand: YOU 6 / OPP 6   library: YOU 44 / OPP 49
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion
+    OPP hand [exact]: Card Destruction, Gravekeeper's Servant, Gravity Bind, Mirror Force, Mystical Space Typhoon, Umi
+  [draw phase]
+  OPP draws 1  (hand now 7, library 48)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 13100
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 6)  [card 5 of 7 in hand]
+  OPP ACTIVATES Card Destruction (S/T zone 8)  [card 4 of 6 in hand]
+    effect: Card Destruction
+  OPP draws 1  (hand now 6, library 47)
+  OPP draws 1  (hand now 7, library 46)
+  OPP draws 1  (hand now 8, library 45)
+  OPP draws 1  (hand now 9, library 44)
+  YOU draws 1  (hand now 7, library 43)
+  YOU draws 1  (hand now 8, library 42)
+  YOU draws 1  (hand now 9, library 41)
+  YOU draws 1  (hand now 10, library 40)
+  YOU draws 1  (hand now 11, library 39)
+  YOU draws 1  (hand now 12, library 38)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 13600
+  OPP ACTIVATES Harpie's Feather Duster (S/T zone 8)  [card 3 of 9 in hand]
+    effect: Harpie's Feather Duster
+  OPP ACTIVATES Pot of Greed (S/T zone 8)  [card 3 of 8 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 8, library 43)
+  OPP draws 1  (hand now 9, library 42)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 14100
+  OPP SETS Solemn Judgment (S/T zone 8)  [card 4 of 9 in hand]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 1 of 8 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's Cure Mermaid (zone 3)
+    YOU's Cure Mermaid (zone 3) is destroyed in battle
+    YOU loses 100 LP -> 8400
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 8400 / OPP 14100) ===
+  hand: YOU 12 / OPP 6   library: YOU 38 / OPP 42
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Robbin' Goblin, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion   (+6 unknown)
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Magic Drain, Morphing Jar #2, Mystical Space Typhoon, Nimble Momonga, Umi   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 13, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 13 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 11, library 36)
+  YOU draws 1  (hand now 12, library 35)
+  YOU draws 1  (hand now 13, library 34)
+  YOU SUMMONS Slate Warrior in monster zone 3  [card 6 of 13 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 3) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    effect: Mirror Force
+  [main 2]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 3 of 12 in hand]
+  YOU SETS Robbin' Goblin (S/T zone 6)  [card 3 of 11 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 7)  [card 3 of 10 in hand]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 8400 / OPP 14100) ===
+  hand: YOU 6 / OPP 6   library: YOU 34 / OPP 42
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion   (up to 5 of these already discarded; +6 unknown)
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Magic Drain, Morphing Jar #2, Mystical Space Typhoon, Nimble Momonga, Umi   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 41)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 14600
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 3 of 7 in hand]
+  OPP SETS Morphing Jar #2 in monster zone 1 (face-down)  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Kycoo the Ghost Destroyer (zone 0) -> YOU's face-down Sangan (zone 1)
+    YOU's Sangan (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 8400 / OPP 14600) ===
+  hand: YOU 6 / OPP 5   library: YOU 34 / OPP 41
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion   (up to 5 of these already discarded; +6 unknown)
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Magic Drain, Mystical Space Typhoon, Nimble Momonga, Umi   (up to 1 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS The Fiend Megacyber in monster zone 0  [card 3 of 7 in hand]
+  [battle phase]
+  YOU attacks with The Fiend Megacyber (zone 0) -> OPP's Kycoo the Ghost Destroyer (zone 0)
+    effect: Magic Cylinder
+    YOU loses 2200 LP -> 6200
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 6200 / OPP 14600) ===
+  hand: YOU 6 / OPP 5   library: YOU 33 / OPP 41
+    YOU (recorder) hand [partly unknown]: 2x Aqua Spirit, Snatch Steal, Tribute to The Doomed, Ultimate Offering, Wall of Illusion   (up to 5 of these already discarded; +6 unknown)
+    OPP hand [exact]: Gravekeeper's Servant, Gravity Bind, Magic Drain, Mystical Space Typhoon, Nimble Momonga, Umi   (up to 1 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 40)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 15100
+  [standby]
+  [main 1]
+    effect: Morphing Jar #2
+    OPP special summons Needle Worm to zone 0
+    OPP special summons Needle Worm to zone 1
+    YOU special summons Sangan to zone 0
+  OPP SETS Magic Drain (S/T zone 6)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 6200 / OPP 15100) ===
+  hand: YOU 0 / OPP 0   library: YOU 33 / OPP 40
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 1, library 32)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 8)  [card 1 of 1 in hand]
+    effect: Dark Hole
+    effect: Solemn Judgment
+    OPP loses 7550 LP -> 7550
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Needle Worm (zone 1)
+    YOU loses 800 LP -> 5400
+    effect: Cyber Jar
+    YOU special summons a monster to zone 0
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+    YOU special summons Mystic Tomato to zone 1
+  YOU draws 1  (hand now 2, library 29)
+  OPP draws 1  (hand now 2, library 39)
+    OPP special summons Kycoo the Ghost Destroyer to zone 0
+  OPP draws 1  (hand now 2, library 38)
+    OPP special summons a monster to zone 1
+  OPP draws 1  (hand now 2, library 37)
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's Needle Worm (zone 1)
+    OPP's Needle Worm (zone 1) is destroyed in battle
+    effect: Needle Worm
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 8)  [card 6 of 6 in hand]
+  YOU SETS Offerings to the Doomed (S/T zone 9)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 5400 / OPP 7550) ===
+  hand: YOU 4 / OPP 2   library: YOU 29 / OPP 37
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 36)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8050
+  [standby]
+  [main 1]
+  OPP ACTIVATES Raigeki (S/T zone 8)  [card 3 of 3 in hand]
+    effect: Raigeki
+  OPP SUMMONS Masked Sorcerer in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 0)
+    effect: Mirror Force
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 5400 / OPP 8050) ===
+  hand: YOU 4 / OPP 3   library: YOU 29 / OPP 36
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+    effect: Mystical Space Typhoon
+    effect: Magic Drain
+    effect: Robbin' Goblin
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 6650
+    effect: Robbin' Goblin
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 5400 / OPP 6650) ===
+  hand: YOU 4 / OPP 3   library: YOU 28 / OPP 36
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 7150
+  [standby]
+  [main 1]
+  OPP SETS Banisher of the Light in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  OPP SETS Solemn Wishes (S/T zone 6)  [card 1 of 3 in hand]
+  OPP SETS Dark Hole (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 34: YOU   (LP YOU 5400 / OPP 7150) ===
+  hand: YOU 4 / OPP 1   library: YOU 28 / OPP 35
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 27)
+    effect: Solemn Wishes
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's face-down Banisher of the Light (zone 0)
+    YOU loses 800 LP -> 4600
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 1400 LP -> 5750
+    effect: Robbin' Goblin
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 35: OPP   (LP YOU 4600 / OPP 5750) ===
+  hand: YOU 4 / OPP 1   library: YOU 27 / OPP 35
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 6250
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 6750
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Mystical Space Typhoon
+    effect: Dark Hole
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 36: YOU   (LP YOU 4600 / OPP 6750) ===
+  hand: YOU 4 / OPP 1   library: YOU 27 / OPP 34
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 3800
+    effect: Magic Drain
+  YOU SUMMONS Blast Sphere in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Blast Sphere (zone 0)
+    OPP loses 1400 LP -> 5350
+    effect: Robbin' Goblin
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 37: OPP   (LP YOU 3800 / OPP 5350) ===
+  hand: YOU 3 / OPP 1   library: YOU 26 / OPP 34
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 5850
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 6350
+  [standby]
+  [main 1]
+  OPP SETS Morphing Jar #2 in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 38: YOU   (LP YOU 3800 / OPP 6350) ===
+  hand: YOU 3 / OPP 1   library: YOU 26 / OPP 33
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Swords of Revealing Light
+    effect: Morphing Jar #2
+    YOU special summons Sangan to zone 0
+    OPP special summons Needle Worm to zone 0
+  YOU SUMMONS Sinister Serpent in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Sinister Serpent (zone 1) -> OPP's Needle Worm (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7350
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 39: OPP   (LP YOU 3800 / OPP 7350) ===
+  hand: YOU 1 / OPP 1   library: YOU 25 / OPP 33
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 32)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 7850
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 8350
+  [standby]
+  [main 1]
+  OPP ACTIVATES Gravekeeper's Servant (S/T zone 5)  [card 1 of 2 in hand]
+    effect: Gravekeeper's Servant
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 40: YOU   (LP YOU 3800 / OPP 8350) ===
+  hand: YOU 1 / OPP 1   library: YOU 25 / OPP 32
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mage Power (S/T zone 7)  [card 2 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 3400 LP -> 4950
+    effect: Robbin' Goblin
+  [main 2]
+  YOU SETS Wall of Illusion in monster zone 2 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 41: OPP   (LP YOU 3800 / OPP 4950) ===
+  hand: YOU 0 / OPP 1   library: YOU 24 / OPP 32
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 5450
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 5950
+  [standby]
+  [main 1]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 42: YOU   (LP YOU 3800 / OPP 5950) ===
+  hand: YOU 0 / OPP 1   library: YOU 24 / OPP 31
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with face-down Wall of Illusion (zone 2) -> OPP's face-down Witch of the Black Forest (zone 0)
+    YOU loses 200 LP -> 3600
+    effect: Offerings to the Doomed
+    effect: Witch of the Black Forest
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 3400 LP -> 2550
+    effect: Robbin' Goblin
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 43: OPP   (LP YOU 3600 / OPP 2550) ===
+  hand: YOU 0 / OPP 2   library: YOU 23 / OPP 31
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 30)
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 3050
+    effect: Solemn Wishes
+    OPP gains 500 LP -> 3550
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 44: YOU   (LP YOU 3600 / OPP 3550) ===
+  hand: YOU 0 / OPP 2   library: YOU 23 / OPP 30
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    effect: Rush Recklessly
+    OPP loses 3100 LP -> 450
+    effect: Robbin' Goblin
+  YOU attacks DIRECTLY with Wall of Illusion (zone 2)
+    OPP loses 1000 LP -> -550
+  [DUEL END]  final LP: YOU 3600 / OPP -550

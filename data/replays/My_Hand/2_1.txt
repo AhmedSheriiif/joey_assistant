@@ -1,0 +1,287 @@
+  YOU draws 5  (hand now 5, library 38)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Jinzo, 2x Nimble Momonga, Sangan, Snatch Steal
+    OPP hand [exact]: Mage Power, Man-Eater Bug, Monster Reborn, The Rock Spirit, Waboku
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 0  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 39
+    YOU (recorder) hand [exact]: Heavy Storm, Jinzo, Nimble Momonga, Sangan, Snatch Steal
+    OPP hand [exact]: Mage Power, Man-Eater Bug, Monster Reborn, The Rock Spirit, Waboku
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  OPP SETS Waboku (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 37 / OPP 38
+    YOU (recorder) hand [exact]: Heavy Storm, Jinzo, Nimble Momonga, Sangan, Snatch Steal
+    OPP hand [exact]: Giant Rat, Mage Power, Monster Reborn, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU SUMMONS Nimble Momonga in monster zone 0  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 36 / OPP 38
+    YOU (recorder) hand [exact]: Heavy Storm, Jinzo, Mystic Tomato, Sangan, Snatch Steal
+    OPP hand [exact]: Giant Rat, Mage Power, Monster Reborn, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 4 of 5 in hand]
+    OPP special summons Man-Eater Bug to zone 1
+  [battle phase]
+  OPP attacks with Man-Eater Bug (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 700 LP -> 7300
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8300
+    YOU special summons Nimble Momonga to zone 0
+  OPP attacks with Giant Rat (zone 0) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9300
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 9300 / OPP 8000) ===
+  hand: YOU 7 / OPP 4   library: YOU 36 / OPP 37
+    YOU (recorder) hand [partly unknown]: Heavy Storm, Jinzo, Mystic Tomato, Sangan, Snatch Steal   (+2 unknown)
+    OPP hand [exact]: Dark Hole, Mage Power, Monster Reborn, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 8, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 2 of 8 in hand]
+    effect: Snatch Steal
+  YOU SUMMONS Jinzo in monster zone 0  [card 2 of 7 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Man-Eater Bug (zone 1)
+    OPP's Man-Eater Bug (zone 1) is destroyed in battle
+    OPP loses 400 LP -> 7600
+  [main 2]
+  YOU SETS Heavy Storm (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 9300 / OPP 7600) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 37
+    YOU (recorder) hand [partly unknown]: Mystic Tomato, Sangan   (+3 unknown)
+    OPP hand [exact]: Dark Hole, Mage Power, Monster Reborn, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Dark Hole
+  OPP ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Monster Reborn
+    OPP special summons Man-Eater Bug to zone 0
+    effect: Jinzo
+  [battle phase]
+  OPP attacks DIRECTLY with Man-Eater Bug (zone 0)
+    YOU loses 2400 LP -> 6900
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6900 / OPP 7600) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 36
+    YOU (recorder) hand [partly unknown]: Mystic Tomato, Sangan   (+3 unknown)
+    OPP hand [exact]: Giant Trunade, Mage Power, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 6 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6900 / OPP 7600) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 36
+    YOU (recorder) hand [partly unknown]: Sangan   (+3 unknown)
+    OPP hand [exact]: Giant Trunade, Mage Power, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 1  [card 3 of 4 in hand]
+  OPP SETS Giant Trunade (S/T zone 6)  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Mystic Tomato (zone 0)
+  OPP attacks with Man-Eater Bug (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6900 / OPP 7600) ===
+  hand: YOU 5 / OPP 2   library: YOU 34 / OPP 35
+    YOU (recorder) hand [partly unknown]: Sangan   (+4 unknown)
+    OPP hand [exact]: Mage Power, The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 1 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 6900 / OPP 7600) ===
+  hand: YOU 5 / OPP 2   library: YOU 33 / OPP 35
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: Mage Power, The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dream Clown in monster zone 2  [card 2 of 3 in hand]
+  [battle phase]
+  OPP attacks with Dream Clown (zone 2) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with Man-Eater Bug (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 1000 LP -> 5900
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Sangan (zone 1)
+    YOU's Sangan (zone 1) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  OPP ACTIVATES Mage Power (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Mage Power
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5900 / OPP 7600) ===
+  hand: YOU 8 / OPP 1   library: YOU 33 / OPP 34
+    YOU (recorder) hand [partly unknown]: -   (+8 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 9, library 32)
+  [standby]
+  [main 1]
+    effect: Scapegoat
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 7100
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 6600
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 6100
+    effect: Heavy Storm
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Dream Clown (zone 2)
+    OPP's Dream Clown (zone 2) is destroyed in battle
+    OPP loses 200 LP -> 5900
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 9 in hand]
+  YOU SETS Magician of Faith in monster zone 2 (face-down)  [card 2 of 8 in hand]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 5400
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5900 / OPP 5400) ===
+  hand: YOU 6 / OPP 1   library: YOU 32 / OPP 34
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Man-Eater Bug (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Magician of Faith (zone 2)
+    YOU's Magician of Faith (zone 2) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 13: YOU   (LP YOU 5900 / OPP 5400) ===
+  hand: YOU 6 / OPP 1   library: YOU 32 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [exact]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 5)  [card 1 of 7 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Witch of the Black Forest (zone 1)
+    OPP's Witch of the Black Forest (zone 1) is destroyed in battle
+    OPP loses 1300 LP -> 4100
+    effect: Witch of the Black Forest
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5900 / OPP 4100) ===
+  hand: YOU 6 / OPP 2   library: YOU 31 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: The Rock Spirit   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 5100
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 2 of 3 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5900 / OPP 5100) ===
+  hand: YOU 6 / OPP 1   library: YOU 31 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: The Rock Spirit
+  [draw phase]
+  YOU draws 1  (hand now 7, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Crass Clown in monster zone 1  [card 4 of 7 in hand]
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Monster Reborn
+    YOU special summons Magician of Faith to zone 2
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 1 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 2400 LP -> 2700
+  YOU attacks DIRECTLY with Magician of Faith (zone 2)
+    OPP loses 1400 LP -> 1300
+  YOU attacks DIRECTLY with Crass Clown (zone 1)
+    OPP loses 1350 LP -> -50
+  [DUEL END]  final LP: YOU 5900 / OPP -50

@@ -1,0 +1,381 @@
+  OPP draws 5  (hand now 5, library 36)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 36
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, 2x Last Will, Premature Burial, Scapegoat
+    OPP hand [exact]: Kuriboh, Man-Eater Bug, Monster Reborn, Offerings to the Doomed, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Offerings to the Doomed (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 39 / OPP 35
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, 2x Last Will, Premature Burial, Scapegoat
+    OPP hand [exact]: Dream Clown, Kuriboh, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons a monster to zone 0
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 38 / OPP 35
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Last Will, Premature Burial   (+2 unknown)
+    OPP hand [exact]: Dream Clown, Kuriboh, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 38 / OPP 34
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Last Will, Premature Burial   (+2 unknown)
+    OPP hand [exact]: Dream Clown, Kuriboh, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 0) -> OPP's face-down Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 1
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 6 / OPP 5   library: YOU 37 / OPP 34
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Last Will, Premature Burial   (+3 unknown)
+    OPP hand [partly unknown]: Dream Clown, Kuriboh, Monster Reborn, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dream Clown in monster zone 2  [card 4 of 6 in hand]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 9000) ===
+  hand: YOU 6 / OPP 4   library: YOU 37 / OPP 33
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Last Will, Premature Burial   (+3 unknown)
+    OPP hand [partly unknown]: Kuriboh, Monster Reborn, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 0  [card 4 of 7 in hand]
+    effect: Jinzo
+  YOU ACTIVATES Last Will (S/T zone 6)  [card 1 of 6 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's Dream Clown (zone 2)
+    OPP's Dream Clown (zone 2) is destroyed in battle
+    OPP loses 1200 LP -> 7800
+    effect: Last Will
+    YOU special summons a monster to zone 1
+  YOU attacks with unknown monster (zone 1) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8800
+  [main 2]
+  YOU SETS Waboku (S/T zone 6)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8800) ===
+  hand: YOU 6 / OPP 5   library: YOU 36 / OPP 33
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Premature Burial   (+4 unknown)
+    OPP hand [partly unknown]: Kuriboh, Monster Reborn, Witch of the Black Forest   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Offerings to the Doomed
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Monster Reborn
+    effect: Waboku
+    OPP special summons Nimble Momonga to zone 0
+    effect: Jinzo
+  OPP SETS Witch of the Black Forest in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 8800) ===
+  hand: YOU 6 / OPP 4   library: YOU 36 / OPP 32
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Premature Burial   (+4 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 6)  [card 1 of 7 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 7200
+    YOU special summons a monster to zone 0
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9800
+  YOU attacks with unknown monster (zone 0) -> OPP's face-down Witch of the Black Forest (zone 2)
+    OPP's Witch of the Black Forest (zone 2) is destroyed in battle
+    effect: Witch of the Black Forest
+  [main 2]
+  YOU SETS Ceasefire (S/T zone 7)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7200 / OPP 9800) ===
+  hand: YOU 5 / OPP 6   library: YOU 35 / OPP 32
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater   (+4 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+5 unknown)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 2 of 6 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's unknown monster (zone 0)
+    OPP's Dimensional Warrior (zone 1) is destroyed in battle
+    OPP loses 200 LP -> 9600
+    effect: Dimensional Warrior
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+    YOU loses 1300 LP -> 5900
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5900 / OPP 9600) ===
+  hand: YOU 6 / OPP 5   library: YOU 35 / OPP 32
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater   (+5 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5900 / OPP 9600) ===
+  hand: YOU 6 / OPP 5   library: YOU 34 / OPP 32
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater   (+5 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Cannon Soldier in monster zone 1  [card 1 of 6 in hand]
+  OPP ACTIVATES Last Will (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Last Will
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 5400
+  [battle phase]
+  OPP attacks with Cannon Soldier (zone 1) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+    effect: Last Will
+    OPP special summons Dimensional Warrior to zone 0
+  OPP attacks DIRECTLY with Dimensional Warrior (zone 0)
+    effect: Scapegoat
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5400 / OPP 9600) ===
+  hand: YOU 6 / OPP 6   library: YOU 34 / OPP 31
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater   (+5 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 3 of 7 in hand]
+    effect: Mystical Space Typhoon
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 3  [card 1 of 6 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 3) -> OPP's Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    OPP loses 800 LP -> 8800
+    effect: Giant Rat
+    OPP special summons Dimensional Warrior to zone 0
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 5400 / OPP 8800) ===
+  hand: YOU 5 / OPP 7   library: YOU 33 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Kuriboh   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 2 of 8 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Bazoo the Soul-Eater (zone 3)
+    YOU's Bazoo the Soul-Eater (zone 3) is destroyed in battle
+    YOU loses 300 LP -> 5100
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 5100 / OPP 8800) ===
+  hand: YOU 5 / OPP 6   library: YOU 33 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Kuriboh   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Morphing Jar in monster zone 2 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 5100 / OPP 8800) ===
+  hand: YOU 4 / OPP 6   library: YOU 32 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: Kuriboh   (up to 1 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+    OPP special summons Dimensional Warrior to zone 2
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  OPP attacks with Dimensional Warrior (zone 2) -> YOU's face-down Morphing Jar (zone 2)
+    YOU's Morphing Jar (zone 2) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 31)
+  YOU draws 1  (hand now 2, library 30)
+  YOU draws 1  (hand now 3, library 29)
+  YOU draws 1  (hand now 4, library 28)
+  YOU draws 1  (hand now 5, library 27)
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  [main 2]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Mystical Space Typhoon
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 7400
+    YOU loses 1400 LP -> 3700
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 3700 / OPP 7400) ===
+  hand: YOU 5 / OPP 2   library: YOU 27 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+    YOU special summons Morphing Jar to zone 0
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 0) -> OPP's Bazoo the Soul-Eater (zone 1)
+    OPP's Bazoo the Soul-Eater (zone 1) is destroyed in battle
+    OPP loses 100 LP -> 7300
+  [main 2]
+  YOU SETS Dimensional Warrior in monster zone 1 (face-down)  [card 3 of 6 in hand]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 5300
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Fissure
+    effect: Ceasefire
+    YOU loses 2000 LP -> 1700
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 1700 / OPP 5300) ===
+  hand: YOU 3 / OPP 2   library: YOU 26 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 1700 / OPP 5300) ===
+  hand: YOU 3 / OPP 2   library: YOU 26 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons Morphing Jar to zone 2
+    effect: Jinzo
+  YOU ACTIVATES United We Stand (S/T zone 6)  [card 2 of 4 in hand]
+    effect: United We Stand
+  YOU SUMMONS Kuriboh in monster zone 3  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks with Morphing Jar (zone 2) -> OPP's Dimensional Warrior (zone 2)
+    OPP's Dimensional Warrior (zone 2) is destroyed in battle
+    OPP loses 3600 LP -> 1700
+  YOU attacks with face-down Dimensional Warrior (zone 1) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Penguin Soldier
+  YOU attacks DIRECTLY with Kuriboh (zone 3)
+    OPP loses 300 LP -> 1400
+  [main 2]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 2 of 2 in hand]
+    YOU special summons Morphing Jar to zone 0
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 1700 / OPP 1400) ===
+  hand: YOU 1 / OPP 2   library: YOU 25 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+    OPP special summons Penguin Soldier to zone 0
+  [battle phase]
+  OPP attacks with Penguin Soldier (zone 0) -> YOU's Kuriboh (zone 3)
+    effect: Magic Cylinder
+    OPP loses 2200 LP -> -800
+  [DUEL END]  final LP: YOU 1700 / OPP -800

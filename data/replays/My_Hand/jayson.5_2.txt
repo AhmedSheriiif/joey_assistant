@@ -1,0 +1,94 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Ceasefire, Giant Germ, Pot of Greed, Seven Tools of the Bandit, United We Stand
+    OPP hand [exact]: Black Illusion Ritual, Curse of the Masked Beast, Marie the Fallen One, Mirror Force, Sangan
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Tailor of the Fickle (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Ceasefire, Giant Germ, Pot of Greed, Seven Tools of the Bandit, United We Stand
+    OPP hand [exact]: Black Illusion Ritual, Curse of the Masked Beast, Marie the Fallen One, Mirror Force
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 6, library 33)
+  YOU draws 1  (hand now 7, library 32)
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 6 of 7 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 34
+    YOU (recorder) hand [exact]: Ceasefire, Giant Germ, Mage Power, United We Stand
+    OPP hand [exact]: Black Illusion Ritual, Curse of the Masked Beast, Marie the Fallen One, Mirror Force
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Marie the Fallen One in monster zone 0  [card 4 of 5 in hand]
+    effect: Sangan
+  OPP SETS Mirror Force (S/T zone 6)  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Marie the Fallen One (zone 0) -> YOU's face-down Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Scapegoat
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 33
+    YOU (recorder) hand [exact]: Ceasefire, Giant Germ, Mage Power, United We Stand
+    OPP hand [partly unknown]: Black Illusion Ritual, Curse of the Masked Beast, Sonic Bird   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 4  [card 3 of 5 in hand]
+  YOU SETS Ceasefire (S/T zone 6)  [card 2 of 4 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 7)  [card 1 of 3 in hand]
+    effect: United We Stand
+  YOU ACTIVATES Mage Power (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Germ (zone 4)
+    effect: Mirror Force
+    effect: Seven Tools of the Bandit
+    YOU loses 1000 LP -> 7000
+    OPP loses 6500 LP -> 1500
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 1500) ===
+  hand: YOU 1 / OPP 4   library: YOU 31 / OPP 33
+    YOU (recorder) hand [exact]: Morphing Jar
+    OPP hand [partly unknown]: Black Illusion Ritual, Curse of the Masked Beast, Sonic Bird   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 6)  [card 5 of 5 in hand]
+  OPP SUMMONS Senju of the Thousand Hands in monster zone 0  [card 2 of 4 in hand]
+    effect: Senju of the Thousand Hands
+  OPP ACTIVATES Black Illusion Ritual (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Black Illusion Ritual
+    OPP special summons a monster to zone 1
+    effect: Tailor of the Fickle
+    effect: Ceasefire
+    OPP loses 1500 LP -> 0
+  [DUEL END]  final LP: YOU 7000 / OPP 0

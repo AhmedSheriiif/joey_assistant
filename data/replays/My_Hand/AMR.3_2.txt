@@ -1,0 +1,496 @@
+  YOU draws 5  (hand now 5, library 39)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Magic Cylinder, Monster Reborn, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Call Of The Haunted, Graceful Charity, Ring of Destruction, Scapegoat, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 39
+    YOU (recorder) hand [exact]: Fissure, Magic Cylinder, Monster Reborn, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Call Of The Haunted, Graceful Charity, Ring of Destruction, Scapegoat, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 37)
+  OPP draws 1  (hand now 5, library 36)
+  OPP draws 1  (hand now 6, library 35)
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Mystical Space Typhoon
+    effect: Scapegoat
+  OPP SUMMONS Cannon Soldier in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Cannon Soldier (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 1 of 4 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 1 of 3 in hand]
+  OPP SETS Scapegoat (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 1   library: YOU 38 / OPP 35
+    YOU (recorder) hand [exact]: Fissure, Magic Cylinder, Monster Reborn, Scapegoat, Torrential Tribute
+    OPP hand [exact]: Jinzo, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Giant Trunade (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Giant Trunade
+    effect: Call Of The Haunted
+    OPP special summons a monster to zone 1
+    effect: Jinzo
+  YOU SETS Scapegoat (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 1   library: YOU 37 / OPP 35
+    YOU (recorder) hand [exact]: Fissure, Magic Cylinder, Monster Reborn, Torrential Tribute
+    OPP hand [exact]: Jinzo, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 5, library 33)
+  OPP draws 1  (hand now 6, library 32)
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Cannon Soldier (zone 0) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 7)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 37 / OPP 32
+    YOU (recorder) hand [exact]: Fissure, Magic Cylinder, Monster Reborn, Torrential Tribute
+    OPP hand [exact]: Fissure, Jinzo, Mage Power, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 35)
+  YOU draws 1  (hand now 4, library 34)
+  YOU draws 1  (hand now 5, library 33)
+  YOU SUMMONS Giant Rat in monster zone 0  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Cannon Soldier (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    OPP's Cannon Soldier (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  YOU attacks with Giant Rat (zone 0) -> OPP's unknown monster (zone 1)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    YOU loses 1200 LP -> 6800
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SETS Mirror Force (S/T zone 6)  [card 3 of 5 in hand]
+  YOU SETS Fissure (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Torrential Tribute (S/T zone 8)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6800 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn, Sangan   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: Fissure, Jinzo, Mage Power, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6800 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 33 / OPP 31
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn, Sangan   (up to 2 of these already discarded; +1 unknown)
+    OPP hand [exact]: Fissure, Jinzo, Mage Power, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+    effect: Fissure
+    effect: Scapegoat
+  YOU SUMMONS Sangan in monster zone 0  [card 1 of 3 in hand]
+  YOU ACTIVATES Last Will (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Nimble Momonga (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Sangan
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9000
+    effect: Last Will
+    YOU special summons Sangan to zone 0
+  YOU attacks with Sangan (zone 0) -> OPP's unknown monster (zone 4)
+    OPP's unknown monster (zone 4) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 6800 / OPP 9000) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn   (up to 2 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Fissure, Jinzo, Mage Power, Swords of Revealing Light, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 4 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 6500
+    effect: Witch of the Black Forest
+    effect: Call Of The Haunted
+    OPP special summons a monster to zone 2
+    effect: Torrential Tribute
+  [main 2]
+  OPP SETS Fissure (S/T zone 5)  [card 2 of 4 in hand]
+  OPP SETS Mage Power (S/T zone 7)  [card 2 of 3 in hand]
+  OPP SETS Swords of Revealing Light (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 6500 / OPP 9000) ===
+  hand: YOU 5 / OPP 1   library: YOU 32 / OPP 30
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn   (up to 2 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+    YOU special summons Sangan to zone 0
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1700 LP -> 4800
+    OPP loses 1700 LP -> 7300
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 4800 / OPP 7300) ===
+  hand: YOU 5 / OPP 1   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn   (up to 2 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 4800 / OPP 7300) ===
+  hand: YOU 5 / OPP 1   library: YOU 31 / OPP 29
+    YOU (recorder) hand [partly unknown]: Magic Cylinder, Monster Reborn   (up to 2 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  YOU SETS Fissure (S/T zone 7)  [card 2 of 6 in hand]
+  YOU SETS Swords of Revealing Light (S/T zone 8)  [card 1 of 5 in hand]
+    effect: Magician of Faith
+    effect: Swords of Revealing Light
+    effect: Man-Eater Bug
+  YOU ACTIVATES Monster Reborn (S/T zone 9)  [card 1 of 4 in hand]
+    effect: Monster Reborn
+    YOU special summons Sangan to zone 0
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's face-down Man-Eater Bug (zone 0) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4800 / OPP 7300) ===
+  hand: YOU 3 / OPP 1   library: YOU 30 / OPP 29
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+    effect: Swords of Revealing Light
+  OPP SETS Last Will (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 4800 / OPP 7300) ===
+  hand: YOU 3 / OPP 1   library: YOU 30 / OPP 28
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 9)  [card 1 of 4 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1100 LP -> 6200
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 4800 / OPP 6200) ===
+  hand: YOU 3 / OPP 1   library: YOU 29 / OPP 28
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 4800 / OPP 6200) ===
+  hand: YOU 3 / OPP 1   library: YOU 29 / OPP 27
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Dimensional Warrior (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  [main 2]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 4800 / OPP 6200) ===
+  hand: YOU 3 / OPP 1   library: YOU 28 / OPP 27
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 26)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 4800 / OPP 6200) ===
+  hand: YOU 3 / OPP 1   library: YOU 28 / OPP 26
+    YOU (recorder) hand [partly unknown]: Magic Cylinder   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Jinzo, Torrential Tribute   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Waboku (S/T zone 8)  [card 1 of 4 in hand]
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 26)
+  YOU draws 1  (hand now 2, library 25)
+  YOU draws 1  (hand now 3, library 24)
+  YOU draws 1  (hand now 4, library 23)
+  YOU draws 1  (hand now 5, library 22)
+  OPP draws 1  (hand now 1, library 25)
+  OPP draws 1  (hand now 2, library 24)
+  OPP draws 1  (hand now 3, library 23)
+  OPP draws 1  (hand now 4, library 22)
+  OPP draws 1  (hand now 5, library 21)
+  YOU SUMMONS Giant Rat in monster zone 1  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1400 LP -> 3400
+  YOU attacks DIRECTLY with face-down Morphing Jar (zone 0)
+    OPP loses 700 LP -> 5500
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 9)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 3400 / OPP 5500) ===
+  hand: YOU 3 / OPP 5   library: YOU 22 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Mystical Space Typhoon (S/T zone 8)  [card 6 of 6 in hand]
+    OPP special summons Dimensional Warrior to zone 0
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's Morphing Jar (zone 0)
+    effect: Mirror Force
+  [main 2]
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  OPP SETS Scapegoat (S/T zone 9)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 19: YOU   (LP YOU 3400 / OPP 5500) ===
+  hand: YOU 3 / OPP 3   library: YOU 22 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 21)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 20)
+  YOU draws 1  (hand now 5, library 19)
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Witch of the Black Forest (zone 0)
+    OPP's Witch of the Black Forest (zone 0) is destroyed in battle
+    effect: Witch of the Black Forest
+  YOU attacks DIRECTLY with Morphing Jar (zone 0)
+    OPP loses 700 LP -> 4800
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 9)  [card 2 of 4 in hand]
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 3400 / OPP 4800) ===
+  hand: YOU 2 / OPP 4   library: YOU 19 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Giant Trunade (S/T zone 9)  [card 3 of 5 in hand]
+    effect: Giant Trunade
+    effect: Waboku
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Premature Burial (S/T zone 6)  [card 5 of 5 in hand]
+  OPP SETS Last Will (S/T zone 7)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 3400 / OPP 4800) ===
+  hand: YOU 2 / OPP 3   library: YOU 19 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 18)
+  [standby]
+  [main 1]
+    effect: Man-Eater Bug
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1400 LP -> 3400
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 2)
+    OPP loses 450 LP -> 2950
+  YOU attacks DIRECTLY with Morphing Jar (zone 0)
+    OPP loses 700 LP -> 2250
+  [main 2]
+  YOU SETS Fissure (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 7)  [card 1 of 4 in hand]
+  YOU SETS Ring of Destruction (S/T zone 8)  [card 2 of 3 in hand]
+  YOU SETS Scapegoat (S/T zone 9)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 22: OPP   (LP YOU 3400 / OPP 2250) ===
+  hand: YOU 2 / OPP 3   library: YOU 18 / OPP 19
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 4, library 18)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 1 of 4 in hand]
+  OPP SETS Fissure (S/T zone 5)  [card 3 of 3 in hand]
+  OPP SETS Fissure (S/T zone 8)  [card 1 of 2 in hand]
+  OPP ACTIVATES Mage Power (S/T zone 9)  [card 1 of 1 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks with Slate Warrior (zone 0) -> YOU's Man-Eater Bug (zone 2)
+    YOU's Man-Eater Bug (zone 2) is destroyed in battle
+    effect: Kuriboh
+  [main 2]
+    effect: Fissure
+    effect: Fissure
+    effect: Call Of The Haunted
+    YOU special summons Man-Eater Bug to zone 0
+    effect: Sangan
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 3400 / OPP 2250) ===
+  hand: YOU 3 / OPP 0   library: YOU 18 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 17)
+  [standby]
+  [main 1]
+  YOU SETS Waboku (S/T zone 5)  [card 3 of 4 in hand]
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 2 of 3 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 1050
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 3400 / OPP 1050) ===
+  hand: YOU 2 / OPP 0   library: YOU 17 / OPP 18
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 17)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 5)  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    effect: Scapegoat
+  OPP attacks with Slate Warrior (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 3400 / OPP 1050) ===
+  hand: YOU 2 / OPP 0   library: YOU 17 / OPP 17
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 16)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kinetic Soldier in monster zone 3  [card 1 of 3 in hand]
+  YOU SETS Ceasefire (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Ring of Destruction
+    OPP loses 1350 LP -> -300
+    YOU loses 1350 LP -> 2050
+  [DUEL END]  final LP: YOU 2050 / OPP -300

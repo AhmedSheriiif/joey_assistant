@@ -1,0 +1,295 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 35
+    YOU (recorder) hand [exact]: Giant Trunade, Mystical Space Typhoon, Nobleman of Crossout, Ring of Destruction, Sangan
+    OPP hand [exact]: Giant Germ, Giant Trunade, Monster Reborn, Ring of Destruction, Wall of Illusion
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 39 / OPP 34
+    YOU (recorder) hand [exact]: Giant Trunade, Mystical Space Typhoon, Nobleman of Crossout, Ring of Destruction, Sangan
+    OPP hand [exact]: Giant Trunade, Graceful Charity, Monster Reborn, Wall of Illusion
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Mystical Space Typhoon
+  YOU SUMMONS Sangan in monster zone 0  [card 3 of 5 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 1 of 4 in hand]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 3 of 3 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 7000
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 2 / OPP 4   library: YOU 38 / OPP 34
+    YOU (recorder) hand [exact]: Giant Trunade, Nobleman of Crossout
+    OPP hand [exact]: Giant Trunade, Graceful Charity, Monster Reborn, Wall of Illusion
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Graceful Charity (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 2 / OPP 3   library: YOU 38 / OPP 33
+    YOU (recorder) hand [exact]: Giant Trunade, Nobleman of Crossout
+    OPP hand [exact]: Giant Trunade, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 3, library 37)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 2 of 3 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 0)
+    OPP loses 1000 LP -> 6000
+  [main 2]
+  YOU SETS Ceasefire (S/T zone 6)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 6000) ===
+  hand: YOU 1 / OPP 3   library: YOU 37 / OPP 33
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Giant Trunade, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 6000) ===
+  hand: YOU 1 / OPP 3   library: YOU 37 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade
+    OPP hand [exact]: Giant Trunade, Monster Reborn, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 2, library 36)
+  [standby]
+  [main 1]
+    effect: Ceasefire
+    OPP loses 1000 LP -> 5000
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's face-down Giant Germ (zone 0)
+    OPP's face-down Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 7500 / OPP 5000) ===
+  hand: YOU 2 / OPP 4   library: YOU 36 / OPP 32
+    YOU (recorder) hand [exact]: Giant Trunade, Last Will
+    OPP hand [partly unknown]: Giant Trunade, Monster Reborn, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Crass Clown in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 7500 / OPP 5000) ===
+  hand: YOU 2 / OPP 4   library: YOU 36 / OPP 31
+    YOU (recorder) hand [exact]: Giant Trunade, Last Will
+    OPP hand [partly unknown]: Giant Trunade, Monster Reborn, Witch of the Black Forest   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Giant Germ (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 7000
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7000 / OPP 5000) ===
+  hand: YOU 2 / OPP 5   library: YOU 35 / OPP 31
+    YOU (recorder) hand [exact]: Giant Trunade, Last Will
+    OPP hand [partly unknown]: Giant Trunade, Monster Reborn, Witch of the Black Forest   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Giant Trunade (S/T zone 6)  [card 2 of 6 in hand]
+    effect: Giant Trunade
+    effect: Scapegoat
+  OPP SETS Witch of the Black Forest in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  OPP SETS Graceful Charity (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7000 / OPP 5000) ===
+  hand: YOU 2 / OPP 3   library: YOU 35 / OPP 30
+    YOU (recorder) hand [exact]: Giant Trunade, Last Will
+    OPP hand [partly unknown]: Monster Reborn   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 3 of 3 in hand]
+  YOU SETS Giant Trunade (S/T zone 6)  [card 1 of 2 in hand]
+  YOU SETS Last Will (S/T zone 7)  [card 1 of 1 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 8)  [card 1 of 1 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 7000 / OPP 5000) ===
+  hand: YOU 0 / OPP 3   library: YOU 34 / OPP 30
+    YOU (recorder) hand [exact]: -
+    OPP hand [partly unknown]: Monster Reborn   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 7000 / OPP 5000) ===
+  hand: YOU 0 / OPP 3   library: YOU 34 / OPP 29
+    YOU (recorder) hand [exact]: -
+    OPP hand [partly unknown]: Monster Reborn   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 33)
+  [standby]
+  [main 1]
+    effect: Ring of Destruction
+    OPP loses 1000 LP -> 4000
+    YOU loses 1000 LP -> 6000
+    effect: Sangan
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 1 of 2 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 2800
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 1600
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6000 / OPP 1600) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 29
+    YOU (recorder) hand [partly unknown]: Witch of the Black Forest
+    OPP hand [partly unknown]: Monster Reborn   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 27)
+  OPP draws 1  (hand now 4, library 26)
+  OPP draws 1  (hand now 5, library 25)
+    effect: Crass Clown
+  OPP SETS Ceasefire (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 6000 / OPP 1600) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 25
+    YOU (recorder) hand [partly unknown]: Witch of the Black Forest
+    OPP hand [partly unknown]: Monster Reborn   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 2 in hand]
+  YOU SETS Last Will (S/T zone 6)  [card 4 of 4 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 3 of 3 in hand]
+    effect: Swords of Revealing Light
+    effect: Magician of Faith
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with Amazon Archer (zone 0) -> OPP's Amazon Archer (zone 1)
+    OPP's Amazon Archer (zone 1) is destroyed in battle
+    OPP loses 50 LP -> 1550
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 6000 / OPP 1550) ===
+  hand: YOU 1 / OPP 3   library: YOU 32 / OPP 25
+    YOU (recorder) hand [partly unknown]: Witch of the Black Forest
+    OPP hand [partly unknown]: Monster Reborn   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Giant Trunade (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Giant Trunade
+    effect: Scapegoat
+  OPP SUMMONS Mystic Tomato in monster zone 1  [card 1 of 3 in hand]
+  OPP SETS Ceasefire (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Scapegoat (S/T zone 6)  [card 1 of 1 in hand]
+  OPP ACTIVATES Monster Reborn (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Monster Reborn
+    OPP special summons Amazon Archer to zone 3
+  [battle phase]
+  OPP attacks with Amazon Archer (zone 3) -> YOU's Amazon Archer (zone 0)
+    OPP's Amazon Archer (zone 3) is destroyed in battle
+    YOU's Amazon Archer (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Amazon Archer to zone 3
+  OPP attacks with face-down Witch of the Black Forest (zone 0) -> YOU's unknown monster (zone 4)
+    YOU's unknown monster (zone 4) is destroyed in battle
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Amazon Archer (zone 3) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 6000 / OPP 1550) ===
+  hand: YOU 1 / OPP 1   library: YOU 32 / OPP 24
+    YOU (recorder) hand [partly unknown]: Witch of the Black Forest
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 2 in hand]
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 2 of 2 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's Amazon Archer (zone 3)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 5700
+    effect: Witch of the Black Forest
+  [main 2]
+    effect: Last Will
+    YOU special summons Witch of the Black Forest to zone 0
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 1050
+    YOU special summons Witch of the Black Forest to zone 1
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 550
+    YOU special summons Witch of the Black Forest to zone 1
+    effect: Cannon Soldier
+    effect: Ceasefire
+    YOU loses 2500 LP -> 3200
+    OPP loses 500 LP -> 50
+    effect: Cannon Soldier
+    OPP loses 500 LP -> -450
+  [DUEL END]  final LP: YOU 3200 / OPP -450

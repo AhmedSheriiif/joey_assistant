@@ -1,0 +1,245 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, Kinetic Soldier, Mirror Force, Offerings to the Doomed, United We Stand
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Mystical Space Typhoon, Ring of Destruction, Sangan
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 3 of 6 in hand]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU hand [exact]: Dimensional Warrior, Kinetic Soldier, Mirror Force, Offerings to the Doomed, United We Stand
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Mystical Space Typhoon, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Offerings to the Doomed (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU hand [exact]: Dimensional Warrior, Giant Rat, Mirror Force, United We Stand
+    OPP (recorder) hand [exact]: Heavy Storm, Magician of Faith, Mystical Space Typhoon, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1000 LP -> 7000
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 34 / OPP 33
+    YOU hand [exact]: Dimensional Warrior, Giant Rat, Mirror Force, United We Stand
+    OPP (recorder) hand [exact]: Heavy Storm, Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 33
+    YOU hand [exact]: Dimensional Warrior, Premature Burial, United We Stand
+    OPP (recorder) hand [exact]: Heavy Storm, Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Sangan (zone 0)
+    YOU loses 1000 LP -> 6000
+  OPP attacks DIRECTLY with face-down Magician of Faith (zone 1)
+    YOU loses 300 LP -> 5700
+  [main 2]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 1 of 3 in hand]
+  OPP SETS Penguin Soldier in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5700 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 33 / OPP 32
+    YOU hand [exact]: Dimensional Warrior, Premature Burial, United We Stand
+    OPP (recorder) hand [exact]: Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 7)  [card 4 of 4 in hand]
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Sangan (zone 0)
+    effect: Ring of Destruction
+    YOU loses 1200 LP -> 4500
+    OPP loses 1200 LP -> 6800
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 4500 / OPP 6800) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 32
+    YOU hand [exact]: Premature Burial, United We Stand
+    OPP (recorder) hand [exact]: Mystical Space Typhoon, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+    effect: Scapegoat
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks with Magician of Faith (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+    effect: Penguin Soldier
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Nimble Momonga in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 4500 / OPP 6800) ===
+  hand: YOU 2 / OPP 3   library: YOU 32 / OPP 31
+    YOU hand [exact]: Premature Burial, United We Stand
+    OPP (recorder) hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 3700
+    YOU special summons a monster to zone 2
+  YOU SUMMONS Hayabusa Knight in monster zone 3  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks with unknown monster (zone 2) -> OPP's Sangan (zone 0)
+    effect: Mystical Space Typhoon
+  YOU attacks with Hayabusa Knight (zone 3) -> OPP's face-down Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 7800
+    OPP special summons Nimble Momonga to zone 1
+    OPP special summons Nimble Momonga to zone 2
+  YOU attacks with Hayabusa Knight (zone 3) -> OPP's Nimble Momonga (zone 2)
+    OPP's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8800
+  [main 2]
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 1 of 1 in hand]
+    effect: United We Stand
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 3700 / OPP 8800) ===
+  hand: YOU 0 / OPP 5   library: YOU 31 / OPP 31
+    YOU hand [exact]: -
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Penguin Soldier in monster zone 2 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 3700 / OPP 8800) ===
+  hand: YOU 0 / OPP 5   library: YOU 31 / OPP 30
+    YOU hand [exact]: -
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Hayabusa Knight (zone 3) -> OPP's Nimble Momonga (zone 1)
+    OPP's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9800
+  YOU attacks with Hayabusa Knight (zone 3) -> OPP's face-down Penguin Soldier (zone 2)
+    OPP's Penguin Soldier (zone 2) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  YOU SUMMONS Hayabusa Knight in monster zone 1  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 3700 / OPP 9800) ===
+  hand: YOU 0 / OPP 6   library: YOU 30 / OPP 30
+    YOU hand [exact]: Heavy Storm
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 29)
+  [standby]
+  [main 1]
+  OPP SUMMONS Jinzo in monster zone 0  [card 4 of 7 in hand]
+    effect: Jinzo
+    effect: Sangan
+  [battle phase]
+  OPP attacks with Jinzo (zone 0) -> YOU's Hayabusa Knight (zone 1)
+    YOU's Hayabusa Knight (zone 1) is destroyed in battle
+    YOU loses 1400 LP -> 2300
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 5)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 2300 / OPP 9800) ===
+  hand: YOU 0 / OPP 6   library: YOU 30 / OPP 29
+    YOU hand [exact]: Heavy Storm
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 1, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 5)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 2300 / OPP 9800) ===
+  hand: YOU 1 / OPP 6   library: YOU 29 / OPP 29
+    YOU hand [exact]: Heavy Storm
+    OPP (recorder) hand [partly unknown]: Premature Burial   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 28)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Premature Burial (S/T zone 6)  [card 3 of 7 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 9000
+    OPP special summons Penguin Soldier to zone 1
+  OPP ACTIVATES Giant Trunade (S/T zone 7)  [card 3 of 6 in hand]
+    effect: Giant Trunade
+  OPP SUMMONS Amazon Archer in monster zone 2  [card 2 of 5 in hand]
+  OPP ACTIVATES Premature Burial (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 8200
+    OPP special summons Penguin Soldier to zone 3
+  OPP SETS Scapegoat (S/T zone 6)  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Penguin Soldier (zone 1) -> YOU's Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> -100
+  [DUEL END]  final LP: YOU -100 / OPP 8200

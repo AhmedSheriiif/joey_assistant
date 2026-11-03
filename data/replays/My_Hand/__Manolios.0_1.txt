@@ -1,0 +1,189 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 36)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 36 / OPP 35
+    YOU (recorder) hand [exact]: Call Of The Haunted, Dimensional Warrior, Giant Rat, Mystical Space Typhoon, Nobleman of Crossout
+    OPP hand [exact]: Giant Germ, Magician of Faith, Man-Eater Bug, Princess of Tsurugi, Vengeful Bog Spirit
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  OPP SETS Vengeful Bog Spirit (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 36 / OPP 34
+    YOU (recorder) hand [exact]: Call Of The Haunted, Dimensional Warrior, Giant Rat, Mystical Space Typhoon, Nobleman of Crossout
+    OPP hand [exact]: Magician of Faith, Man-Eater Bug, Princess of Tsurugi
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 6 in hand]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 4 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Scapegoat
+    OPP hand [exact]: Magician of Faith, Man-Eater Bug, Princess of Tsurugi
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  OPP ACTIVATES Burning Land (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Burning Land
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 2 / OPP 2   library: YOU 35 / OPP 33
+    YOU (recorder) hand [exact]: Dimensional Warrior, Scapegoat
+    OPP hand [exact]: Magician of Faith, Princess of Tsurugi
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+    effect: Burning Land
+    YOU loses 500 LP -> 7500
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+    effect: Man-Eater Bug
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7500 / OPP 6600) ===
+  hand: YOU 1 / OPP 2   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: United We Stand
+    OPP hand [exact]: Magician of Faith, Princess of Tsurugi
+  [draw phase]
+  OPP draws 1  (hand now 3, library 32)
+  [standby]
+    effect: Burning Land
+    OPP loses 500 LP -> 6100
+  [main 1]
+  OPP SUMMONS Nimble Momonga in monster zone 0  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 6500
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6500 / OPP 6100) ===
+  hand: YOU 1 / OPP 2   library: YOU 34 / OPP 32
+    YOU (recorder) hand [exact]: United We Stand
+    OPP hand [exact]: Magician of Faith, Princess of Tsurugi
+  [draw phase]
+  YOU draws 1  (hand now 2, library 33)
+  [standby]
+    effect: Burning Land
+    YOU loses 500 LP -> 6000
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6000 / OPP 6100) ===
+  hand: YOU 2 / OPP 2   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Mage Power, United We Stand
+    OPP hand [exact]: Magician of Faith, Princess of Tsurugi
+  [draw phase]
+  OPP draws 1  (hand now 3, library 31)
+  [standby]
+    effect: Burning Land
+    OPP loses 500 LP -> 5600
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    YOU loses 1000 LP -> 5000
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 6)  [card 3 of 3 in hand]
+  OPP SETS Princess of Tsurugi in monster zone 1 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5000 / OPP 5600) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 31
+    YOU (recorder) hand [exact]: Mage Power, United We Stand
+    OPP hand [exact]: Magician of Faith
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+    effect: Burning Land
+    YOU loses 500 LP -> 4500
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 4500 / OPP 5600) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: Mage Power, United We Stand
+    OPP hand [exact]: Magician of Faith
+  [draw phase]
+  OPP draws 1  (hand now 2, library 30)
+  [standby]
+    effect: Burning Land
+    OPP loses 500 LP -> 5100
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Nimble Momonga (zone 0)
+    effect: Scapegoat
+  OPP attacks with Nimble Momonga (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  OPP ACTIVATES Chain Energy (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Chain Energy
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 4500 / OPP 5100) ===
+  hand: YOU 2 / OPP 0   library: YOU 32 / OPP 30
+    YOU (recorder) hand [exact]: Mage Power, United We Stand
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+    effect: Burning Land
+    YOU loses 500 LP -> 4000
+  [main 1]
+    YOU loses 500 LP -> 3500
+  YOU SUMMONS Crass Clown in monster zone 3  [card 3 of 3 in hand]
+    YOU loses 500 LP -> 3000
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 1 of 2 in hand]
+    effect: United We Stand
+    YOU loses 500 LP -> 2500
+  YOU ACTIVATES Mage Power (S/T zone 7)  [card 1 of 1 in hand]
+    effect: Mage Power
+  [battle phase]
+  YOU attacks with Crass Clown (zone 3) -> OPP's Nimble Momonga (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    OPP loses 5050 LP -> 50
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 1050
+    OPP special summons Nimble Momonga to zone 0
+    OPP special summons Nimble Momonga to zone 3
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+    effect: Ceasefire
+    YOU loses 2500 LP -> 0
+  [DUEL END]  final LP: YOU 0 / OPP 1050

@@ -1,0 +1,188 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 39
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Last Will, Mystical Space Typhoon, Torrential Tribute
+    OPP hand [exact]: Dimensional Warrior, Greenkappa, Jinzo, Man-Eater Bug, Morphing Jar
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Last Will, Mystical Space Typhoon, Torrential Tribute
+    OPP hand [exact]: Dimensional Warrior, Greenkappa, Jinzo, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Last Will, 2x Mystical Space Typhoon
+    OPP hand [exact]: Dimensional Warrior, Greenkappa, Jinzo, Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 1  [card 5 of 6 in hand]
+    effect: Torrential Tribute
+    effect: Witch of the Black Forest
+    OPP special summons a monster to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    YOU loses 1700 LP -> 6300
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6300 / OPP 8000) ===
+  hand: YOU 5 / OPP 6   library: YOU 38 / OPP 37
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Last Will, 2x Mystical Space Typhoon
+    OPP hand [partly unknown]: Dimensional Warrior, Giant Rat, Greenkappa, Jinzo, Morphing Jar   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 6 of 6 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 5 of 5 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6300 / OPP 8000) ===
+  hand: YOU 3 / OPP 6   library: YOU 37 / OPP 37
+    YOU (recorder) hand [exact]: Jinzo, Last Will, Mystical Space Typhoon
+    OPP hand [partly unknown]: Dimensional Warrior, Giant Rat, Greenkappa, Jinzo, Morphing Jar   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 6 of 7 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 7, library 35)
+  OPP draws 1  (hand now 8, library 34)
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's face-down Giant Rat (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  [main 2]
+  OPP SETS Greenkappa in monster zone 1 (face-down)  [card 2 of 8 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6300 / OPP 8000) ===
+  hand: YOU 4 / OPP 6   library: YOU 37 / OPP 34
+    YOU (recorder) hand [partly unknown]: Jinzo, Last Will, Mystical Space Typhoon   (+1 unknown)
+    OPP hand [partly unknown]: Dimensional Warrior, Giant Rat, Jinzo, Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  YOU SUMMONS Jinzo in monster zone 0  [card 1 of 5 in hand]
+    effect: Jinzo
+  YOU SETS Ceasefire (S/T zone 7)  [card 3 of 4 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 8)  [card 1 of 3 in hand]
+  YOU ACTIVATES Last Will (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Last Will
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 7600
+    effect: Last Will
+    YOU special summons Giant Rat to zone 1
+  YOU attacks DIRECTLY with Giant Rat (zone 1)
+    OPP loses 1100 LP -> 6500
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6300 / OPP 6500) ===
+  hand: YOU 3 / OPP 6   library: YOU 36 / OPP 34
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: Dimensional Warrior, Giant Rat, Jinzo, Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 7 of 7 in hand]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6300 / OPP 6500) ===
+  hand: YOU 3 / OPP 5   library: YOU 36 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: Dimensional Warrior, Jinzo, Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 1) -> OPP's face-down Giant Rat (zone 0)
+    YOU loses 350 LP -> 5950
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5950 / OPP 6500) ===
+  hand: YOU 3 / OPP 5   library: YOU 35 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: Dimensional Warrior, Jinzo, Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 6 of 6 in hand]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Giant Rat (zone 1)
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    YOU loses 300 LP -> 5650
+    effect: Witch of the Black Forest
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's Jinzo (zone 0)
+    OPP's Dimensional Warrior (zone 1) is destroyed in battle
+    OPP loses 1200 LP -> 5300
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+    effect: Call Of The Haunted
+    YOU special summons Giant Rat to zone 0
+
+=== Turn 10: YOU   (LP YOU 5650 / OPP 5300) ===
+  hand: YOU 4 / OPP 4   library: YOU 35 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: Jinzo, Morphing Jar   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  YOU ACTIVATES Last Will (S/T zone 5)  [card 2 of 5 in hand]
+    effect: Last Will
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 2 of 5 in hand]
+    effect: Ceasefire
+    OPP loses 2000 LP -> 3300
+    effect: Dream Clown
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 2100
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 1)
+    OPP loses 1400 LP -> 700
+    effect: Last Will
+    YOU special summons Giant Rat to zone 0
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1000 LP -> -300
+  [DUEL END]  final LP: YOU 5650 / OPP -300

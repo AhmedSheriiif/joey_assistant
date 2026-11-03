@@ -1,0 +1,223 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Penguin Soldier, Ring of Destruction, Sangan, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Dark Hole, Graceful Charity, Mirror Force, Morphing Jar, Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 37)
+  OPP draws 1  (hand now 5, library 36)
+  OPP draws 1  (hand now 6, library 35)
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Penguin Soldier, Ring of Destruction, Sangan, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Dark Hole, Giant Rat, Heavy Storm, Mirror Force, Morphing Jar, Premature Burial   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 4 of 6 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 35
+    YOU (recorder) hand [exact]: Jinzo, Sangan, Scapegoat
+    OPP hand [exact]: Dark Hole, Giant Rat, Heavy Storm, Mirror Force, Morphing Jar, Premature Burial   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Rat in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Jinzo, Sangan, Scapegoat
+    OPP hand [exact]: Dark Hole, Mirror Force, Monster Reborn, Morphing Jar, Premature Burial   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 2 of 4 in hand]
+    effect: Penguin Soldier
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 7000
+  YOU attacks DIRECTLY with face-down Penguin Soldier (zone 0)
+    OPP loses 750 LP -> 6250
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 6250) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 34
+    YOU (recorder) hand [exact]: Jinzo, Mystical Space Typhoon, Scapegoat
+    OPP hand [exact]: Dark Hole, Mirror Force, Monster Reborn, Morphing Jar, Premature Burial   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 6250) ===
+  hand: YOU 3 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Jinzo, Mystical Space Typhoon, Scapegoat
+    OPP hand [exact]: Dark Hole, Mirror Force, Monster Reborn, Morphing Jar, Premature Burial, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+    effect: Ring of Destruction
+    OPP loses 1400 LP -> 4850
+    YOU loses 1400 LP -> 6600
+  [battle phase]
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 3850
+  YOU attacks DIRECTLY with Penguin Soldier (zone 0)
+    OPP loses 750 LP -> 3100
+  [main 2]
+  YOU SETS Witch of the Black Forest in monster zone 2 (face-down)  [card 4 of 4 in hand]
+  YOU SETS Mystical Space Typhoon (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6600 / OPP 3100) ===
+  hand: YOU 2 / OPP 4   library: YOU 32 / OPP 33
+    YOU (recorder) hand [exact]: Jinzo, Scapegoat
+    OPP hand [exact]: Dark Hole, Mirror Force, Monster Reborn, Morphing Jar, Premature Burial, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 7)  [card 3 of 5 in hand]
+    effect: Dark Hole
+    effect: Sangan
+    effect: Witch of the Black Forest
+    OPP special summons a monster to zone 0
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6600 / OPP 3100) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Jinzo, Scapegoat   (+2 unknown)
+    OPP hand [exact]: Mirror Force, Monster Reborn, Morphing Jar, Mystical Space Typhoon, Premature Burial, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 30)
+  YOU draws 1  (hand now 6, library 29)
+  YOU SETS Ceasefire (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Scapegoat (S/T zone 7)  [card 2 of 5 in hand]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6600 / OPP 3100) ===
+  hand: YOU 3 / OPP 4   library: YOU 29 / OPP 32
+    YOU (recorder) hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP hand [exact]: Mirror Force, Monster Reborn, Morphing Jar, Mystical Space Typhoon, Premature Burial, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Giant Rat (zone 0)
+    effect: Ceasefire
+    OPP loses 1500 LP -> 1600
+    OPP loses 250 LP -> 1350
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    effect: Scapegoat
+  OPP attacks with unknown monster (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 7)  [card 3 of 4 in hand]
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+    effect: Ring of Destruction
+    OPP loses 0 LP -> 1350
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6600 / OPP 1350) ===
+  hand: YOU 3 / OPP 3   library: YOU 29 / OPP 31
+    YOU (recorder) hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP hand [exact]: Mirror Force, Monster Reborn, Morphing Jar, Premature Burial, The Rock Spirit, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  YOU SUMMONS Amazon Archer in monster zone 2  [card 3 of 4 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 150
+  YOU SETS Nobleman of Crossout (S/T zone 5)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 6600 / OPP 150) ===
+  hand: YOU 2 / OPP 3   library: YOU 28 / OPP 31
+    YOU (recorder) hand [partly unknown]: Jinzo   (+1 unknown)
+    OPP hand [exact]: Mirror Force, Monster Reborn, Morphing Jar, Premature Burial, The Rock Spirit, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 1
+  OPP ACTIVATES United We Stand (S/T zone 5)  [card 2 of 3 in hand]
+    effect: United We Stand
+  OPP SETS Mirror Force (S/T zone 6)  [card 1 of 2 in hand]
+  OPP SETS Ceasefire (S/T zone 7)  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks with unknown monster (zone 1) -> YOU's Amazon Archer (zone 2)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    YOU's Amazon Archer (zone 2) is destroyed in battle
+    effect: Giant Rat
+    OPP special summons a monster to zone 1
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    YOU loses 3300 LP -> 3300
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 1200 LP -> 2100
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 2100 / OPP 150) ===
+  hand: YOU 2 / OPP 1   library: YOU 28 / OPP 30
+    YOU (recorder) hand [partly unknown]: Jinzo   (+1 unknown)
+    OPP hand [partly unknown]: Morphing Jar, Premature Burial, The Rock Spirit   (up to 2 of these already discarded; +1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+    YOU special summons Amazon Archer to zone 0
+  YOU SUMMONS Jinzo in monster zone 0  [card 1 of 3 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+    OPP loses 1200 LP -> -1050
+  [DUEL END]  final LP: YOU 2100 / OPP -1050

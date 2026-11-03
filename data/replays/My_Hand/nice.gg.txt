@@ -1,0 +1,142 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU hand [exact]: Bladefly, Flying Kamakiri #1, Nobleman of Crossout, Slate Warrior, The Forceful Sentry
+    OPP (recorder) hand [exact]: Cannon Soldier, Cyber Jar, Dark Hole, Man-Eater Bug, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES The Forceful Sentry (S/T zone 5)  [card 5 of 6 in hand]
+    effect: The Forceful Sentry
+  YOU SETS Slate Warrior in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 39
+    YOU hand [exact]: Bladefly, Flying Kamakiri #1, Harpie's Feather Duster, Nobleman of Crossout
+    OPP (recorder) hand [exact]: Cannon Soldier, Cyber Jar, Dark Hole, Man-Eater Bug, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 5)  [card 5 of 6 in hand]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 38
+    YOU hand [exact]: Bladefly, Flying Kamakiri #1, Harpie's Feather Duster, Nobleman of Crossout
+    OPP (recorder) hand [partly unknown]: Cannon Soldier, Cyber Jar, Dark Hole, Nimble Momonga, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Harpie's Feather Duster (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Harpie's Feather Duster
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 4 in hand]
+    effect: Nobleman of Crossout
+    effect: Slate Warrior
+  YOU ACTIVATES Delinquent Duo (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Delinquent Duo
+    YOU loses 1000 LP -> 7000
+  YOU SUMMONS Bladefly in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Slate Warrior (zone 0)
+    OPP loses 2900 LP -> 5100
+  YOU attacks DIRECTLY with Bladefly (zone 1)
+    OPP loses 1100 LP -> 4000
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7000 / OPP 4000) ===
+  hand: YOU 1 / OPP 4   library: YOU 33 / OPP 38
+    YOU hand [exact]: Flying Kamakiri #1
+    OPP (recorder) hand [partly unknown]: Cannon Soldier, Cyber Jar, Dark Hole, Nimble Momonga, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SETS Cyber Jar in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7000 / OPP 4000) ===
+  hand: YOU 1 / OPP 4   library: YOU 33 / OPP 37
+    YOU hand [exact]: Flying Kamakiri #1
+    OPP (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Nimble Momonga, United We Stand   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Bladefly (zone 1) -> OPP's face-down Cyber Jar (zone 0)
+    OPP's Cyber Jar (zone 0) is destroyed in battle
+    effect: Cyber Jar
+  YOU draws 1  (hand now 3, library 31)
+    YOU special summons Bladefly to zone 0
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+    YOU special summons Witch of the Black Forest to zone 1
+  OPP draws 1  (hand now 6, library 36)
+  OPP draws 1  (hand now 7, library 35)
+    OPP special summons a monster to zone 0
+    OPP special summons Mystic Tomato to zone 1
+  OPP draws 1  (hand now 6, library 34)
+  YOU attacks with Bladefly (zone 0) -> OPP's Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  YOU ACTIVATES Painful Choice (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Painful Choice
+  YOU ACTIVATES Rising Air Current (S/T zone 10)  [card 5 of 5 in hand]
+    effect: Rising Air Current
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 4 in hand]
+  YOU SETS Flying Kamakiri #1 in monster zone 2 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7000 / OPP 4000) ===
+  hand: YOU 2 / OPP 7   library: YOU 29 / OPP 34
+    YOU hand [partly unknown]: Flying Kamakiri #1, Garuda the Wind Spirit, Nobleman of Crossout, Slate Warrior
+    OPP (recorder) hand [partly unknown]: Cannon Soldier, Dark Hole, Nimble Momonga, United We Stand   (+6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 8, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 6 of 8 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 6, library 32)
+  OPP draws 1  (hand now 7, library 31)
+  OPP draws 1  (hand now 8, library 30)
+  OPP ACTIVATES Raigeki (S/T zone 5)  [card 6 of 8 in hand]
+    effect: Raigeki
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 5 of 7 in hand]
+    effect: Mystical Space Typhoon
+    effect: Mystical Space Typhoon
+    effect: Witch of the Black Forest
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 3 of 5 in hand]
+  OPP ACTIVATES Premature Burial (S/T zone 6)  [card 1 of 4 in hand]
+    effect: Premature Burial
+    OPP loses 800 LP -> 3200
+    OPP special summons Sangan to zone 2
+  OPP ACTIVATES United We Stand (S/T zone 7)  [card 1 of 3 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 0)
+    YOU loses 3500 LP -> 3500
+  OPP attacks DIRECTLY with Sangan (zone 2)
+    YOU loses 1400 LP -> 2100
+  OPP attacks DIRECTLY with Mystic Tomato (zone 1)
+    YOU loses 1400 LP -> 700
+  [main 2]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 200
+    effect: Cannon Soldier
+    YOU loses 500 LP -> -300
+  [DUEL END]  final LP: YOU -300 / OPP 3200

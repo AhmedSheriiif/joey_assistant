@@ -1,0 +1,100 @@
+
+### Will the champion attack this turn?  (champion turns n=814, base rate 60%, tree accuracy 63%, majority-class 60%)
+|--- mon_op <= 0.50
+|   |--- weights: [7.00, 34.00] class: 1
+|--- mon_op >  0.50
+|   |--- turn <= 18.50
+|   |   |--- lp_op <= 8225.00
+|   |   |   |--- weights: [224.00, 350.00] class: 1
+|   |   |--- lp_op >  8225.00
+|   |   |   |--- weights: [6.00, 25.00] class: 1
+|   |--- turn >  18.50
+|   |   |--- lp_op <= 5450.00
+|   |   |   |--- weights: [81.00, 62.00] class: 0
+|   |   |--- lp_op >  5450.00
+|   |   |   |--- weights: [6.00, 19.00] class: 1
+
+
+### Will the champion attack directly this turn?  (champion turns n=814, base rate 29%, tree accuracy 72%, majority-class 71%)
+|--- mon_op <= 0.50
+|   |--- weights: [16.00, 25.00] class: 1
+|--- mon_op >  0.50
+|   |--- mon_me <= 1.50
+|   |   |--- mon_op <= 2.50
+|   |   |   |--- weights: [224.00, 72.00] class: 0
+|   |   |--- mon_op >  2.50
+|   |   |   |--- weights: [85.00, 7.00] class: 0
+|   |--- mon_me >  1.50
+|   |   |--- lp_op <= 7425.00
+|   |   |   |--- weights: [181.00, 111.00] class: 0
+|   |   |--- lp_op >  7425.00
+|   |   |   |--- weights: [75.00, 18.00] class: 0
+
+
+### Will the champion use removal/steal this turn?  (champion turns n=814, base rate 19%, tree accuracy 81%, majority-class 81%)
+|--- mon_op <= 1.50
+|   |--- turn <= 4.50
+|   |   |--- weights: [53.00, 17.00] class: 0
+|   |--- turn >  4.50
+|   |   |--- lp_me <= 5125.00
+|   |   |   |--- weights: [47.00, 13.00] class: 0
+|   |   |--- lp_me >  5125.00
+|   |   |   |--- weights: [204.00, 23.00] class: 0
+|--- mon_op >  1.50
+|   |--- lp_me <= 8250.00
+|   |   |--- mon_me <= 2.50
+|   |   |   |--- weights: [297.00, 72.00] class: 0
+|   |   |--- mon_me >  2.50
+|   |   |   |--- weights: [41.00, 19.00] class: 0
+|   |--- lp_me >  8250.00
+|   |   |--- weights: [16.00, 12.00] class: 0
+
+
+### Will the champion set a monster face-down this turn?  (champion turns n=814, base rate 33%, tree accuracy 69%, majority-class 67%)
+|--- turn <= 14.50
+|   |--- turn <= 5.50
+|   |   |--- lp_op <= 7750.00
+|   |   |   |--- weights: [14.00, 27.00] class: 1
+|   |   |--- lp_op >  7750.00
+|   |   |   |--- weights: [69.00, 38.00] class: 0
+|   |--- turn >  5.50
+|   |   |--- lp_me <= 3775.00
+|   |   |   |--- weights: [13.00, 12.00] class: 0
+|   |   |--- lp_me >  3775.00
+|   |   |   |--- weights: [236.00, 119.00] class: 0
+|--- turn >  14.50
+|   |--- lp_op <= 4175.00
+|   |   |--- lp_me <= 6450.00
+|   |   |   |--- weights: [92.00, 25.00] class: 0
+|   |   |--- lp_me >  6450.00
+|   |   |   |--- weights: [36.00, 4.00] class: 0
+|   |--- lp_op >  4175.00
+|   |   |--- lp_me <= 5400.00
+|   |   |   |--- weights: [30.00, 27.00] class: 0
+|   |   |--- lp_me >  5400.00
+|   |   |   |--- weights: [56.00, 16.00] class: 0
+
+
+### Will the champion fire a burn effect this turn?  (champion turns n=814, base rate 11%, tree accuracy 89%, majority-class 89%)
+|--- lp_op <= 2950.00
+|   |--- lp_me <= 5125.00
+|   |   |--- lp_me <= 3425.00
+|   |   |   |--- weights: [32.00, 11.00] class: 0
+|   |   |--- lp_me >  3425.00
+|   |   |   |--- weights: [44.00, 4.00] class: 0
+|   |--- lp_me >  5125.00
+|   |   |--- lp_op <= 1875.00
+|   |   |   |--- weights: [24.00, 8.00] class: 0
+|   |   |--- lp_op >  1875.00
+|   |   |   |--- weights: [19.00, 12.00] class: 0
+|--- lp_op >  2950.00
+|   |--- lp_op <= 7475.00
+|   |   |--- mon_op <= 1.50
+|   |   |   |--- weights: [154.00, 13.00] class: 0
+|   |   |--- mon_op >  1.50
+|   |   |   |--- weights: [190.00, 30.00] class: 0
+|   |--- lp_op >  7475.00
+|   |   |--- turn <= 12.50
+|   |   |   |--- weights: [231.00, 9.00] class: 0
+|   |   |--- turn >  12.50
+|   |   |   |--- weights: [28.00, 5.00] class: 0

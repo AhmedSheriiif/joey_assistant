@@ -1,0 +1,157 @@
+  OPP draws 5  (hand now 5, library 36)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU hand [exact]: 2x Dunames Dark Witch, Hoshiningen, Monster Reborn, Robbin' Goblin
+    OPP (recorder) hand [exact]: Blast Sphere, Confiscation, Mage Power, Slate Warrior, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Confiscation (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Confiscation
+    OPP loses 1000 LP -> 7000
+  OPP SUMMONS Slate Warrior in monster zone 0  [card 3 of 5 in hand]
+  OPP SETS Mage Power (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 7000) ===
+  hand: YOU 5 / OPP 3   library: YOU 35 / OPP 35
+    YOU hand [exact]: 2x Dunames Dark Witch, Hoshiningen, Monster Reborn, Robbin' Goblin
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dunames Dark Witch in monster zone 0  [card 4 of 6 in hand]
+  YOU ACTIVATES Tribute to The Doomed (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Tribute to The Doomed
+  [battle phase]
+  YOU attacks DIRECTLY with Dunames Dark Witch (zone 0)
+    OPP loses 1800 LP -> 5200
+  [main 2]
+  YOU SETS Robbin' Goblin (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 5200) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 35
+    YOU hand [exact]: Dunames Dark Witch, Hoshiningen, Monster Reborn
+    OPP (recorder) hand [exact]: Blast Sphere, Dimensional Warrior, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Blast Sphere in monster zone 0  [card 2 of 4 in hand]
+  OPP SETS Swords of Revealing Light (S/T zone 6)  [card 1 of 3 in hand]
+  OPP SETS United We Stand (S/T zone 7)  [card 2 of 2 in hand]
+    effect: Mage Power
+  [battle phase]
+  OPP attacks with Blast Sphere (zone 0) -> YOU's Dunames Dark Witch (zone 0)
+    YOU's Dunames Dark Witch (zone 0) is destroyed in battle
+    YOU loses 1100 LP -> 6900
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6900 / OPP 5200) ===
+  hand: YOU 3 / OPP 1   library: YOU 34 / OPP 34
+    YOU hand [exact]: Dunames Dark Witch, Hoshiningen, Monster Reborn
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Hoshiningen in monster zone 0  [card 1 of 4 in hand]
+    YOU special summons Dunames Dark Witch to zone 1
+  [battle phase]
+  YOU attacks with Dunames Dark Witch (zone 1) -> OPP's Blast Sphere (zone 0)
+    YOU's Dunames Dark Witch (zone 1) is destroyed in battle
+    OPP's Blast Sphere (zone 0) is destroyed in battle
+    effect: Robbin' Goblin
+  YOU attacks DIRECTLY with Hoshiningen (zone 0)
+    OPP loses 1000 LP -> 4200
+    effect: Robbin' Goblin
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6900 / OPP 4200) ===
+  hand: YOU 3 / OPP 1   library: YOU 33 / OPP 34
+    YOU hand [exact]: Dunames Dark Witch, Monster Reborn, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Blast Sphere in monster zone 0  [card 1 of 2 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Blast Sphere (zone 0) -> YOU's Hoshiningen (zone 0)
+    YOU's Hoshiningen (zone 0) is destroyed in battle
+    YOU loses 800 LP -> 6100
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6100 / OPP 4200) ===
+  hand: YOU 3 / OPP 1   library: YOU 33 / OPP 33
+    YOU hand [exact]: Dunames Dark Witch, Monster Reborn, Soul of Purity and Light
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+    YOU special summons Hoshiningen to zone 0
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6100 / OPP 4200) ===
+  hand: YOU 4 / OPP 1   library: YOU 32 / OPP 33
+    YOU hand [exact]: Dunames Dark Witch, Monster Reborn, 2x Soul of Purity and Light
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  OPP draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Blast Sphere (zone 0) -> YOU's Hoshiningen (zone 0)
+    YOU's Hoshiningen (zone 0) is destroyed in battle
+    YOU loses 700 LP -> 5400
+  OPP attacks DIRECTLY with Dimensional Warrior (zone 1)
+    YOU loses 1200 LP -> 4200
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 4200 / OPP 4200) ===
+  hand: YOU 4 / OPP 1   library: YOU 32 / OPP 32
+    YOU hand [exact]: Dunames Dark Witch, Monster Reborn, 2x Soul of Purity and Light
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Shining Angel in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 4200 / OPP 4200) ===
+  hand: YOU 4 / OPP 1   library: YOU 31 / OPP 32
+    YOU hand [exact]: Dunames Dark Witch, Monster Reborn, 2x Soul of Purity and Light
+    OPP (recorder) hand [exact]: Dimensional Warrior
+  [draw phase]
+  OPP draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+    effect: Swords of Revealing Light
+    OPP special summons Blast Sphere to zone 2
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Shining Angel (zone 0)
+    YOU's face-down Shining Angel (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Blast Sphere (zone 0)
+    YOU loses 3000 LP -> 1200
+  OPP attacks DIRECTLY with Blast Sphere (zone 2)
+    YOU loses 1700 LP -> -500
+  [DUEL END]  final LP: YOU -500 / OPP 4200

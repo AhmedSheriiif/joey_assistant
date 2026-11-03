@@ -1,0 +1,400 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 37)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 37
+    YOU (recorder) hand [exact]: Aqua Spirit, Bait Doll, Giant Germ, Mother Grizzly, Sangan
+    OPP hand [exact]: Graceful Charity, Magician of Faith, Mystic Tomato, Skull Lair, Trap Hole
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Bait Doll (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Aqua Spirit, Mother Grizzly, Sangan, Windstorm of Etaqua
+    OPP hand [exact]: Graceful Charity, Magician of Faith, Mystic Tomato, Skull Lair, Trap Hole
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 35)
+  OPP draws 1  (hand now 5, library 34)
+  OPP draws 1  (hand now 6, library 33)
+  OPP SUMMONS Giant Germ in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Giant Germ (zone 0)
+    YOU's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    OPP loses 500 LP -> 7500
+    YOU special summons Giant Germ to zone 0
+    YOU special summons Giant Germ to zone 1
+  [main 2]
+  OPP SETS Trap Hole (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Trap Hole (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7500) ===
+  hand: YOU 5 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [partly unknown]: Aqua Spirit, Mother Grizzly, Sangan, Windstorm of Etaqua   (+1 unknown)
+    OPP hand [exact]: Giant Germ, Magician of Faith, Mask of Darkness, Mystic Tomato, Skull Lair   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+    effect: Bait Doll
+  YOU SUMMONS Mother Grizzly in monster zone 2  [card 3 of 6 in hand]
+    effect: Trap Hole
+    YOU special summons Giant Germ to zone 2
+  [battle phase]
+  YOU attacks with Giant Germ (zone 2) -> OPP's Giant Germ (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    OPP loses 600 LP -> 6900
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+  YOU attacks with Giant Germ (zone 1) -> OPP's Giant Germ (zone 0)
+    YOU's Giant Germ (zone 1) is destroyed in battle
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    effect: Giant Germ
+    YOU loses 500 LP -> 7000
+    OPP loses 500 LP -> 6400
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 5400
+  [main 2]
+  YOU SETS Kunai with Chain (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Windstorm of Etaqua (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7000 / OPP 5400) ===
+  hand: YOU 4 / OPP 5   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: Aqua Spirit, Sangan   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Magician of Faith, Mask of Darkness, Mystic Tomato, Skull Lair   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP SETS Wall of Illusion in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7000 / OPP 5400) ===
+  hand: YOU 4 / OPP 5   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: Aqua Spirit, Sangan   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Magician of Faith, Mask of Darkness, Mystic Tomato, Skull Lair   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Sangan in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 2) -> OPP's face-down Wall of Illusion (zone 0)
+    effect: Kunai with Chain
+    OPP's Wall of Illusion (zone 0) is destroyed in battle
+    effect: Wall of Illusion
+    -> Wall of Illusion returns YOU's attacking Giant Germ to its owner's hand (damage still counts)
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 4400
+  YOU attacks DIRECTLY with Giant Germ (zone 0)
+    OPP loses 1000 LP -> 3400
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7000 / OPP 3400) ===
+  hand: YOU 4 / OPP 5   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Giant Germ, Magician of Faith, Mask of Darkness, Mystic Tomato, Skull Lair   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SETS Crush Card (S/T zone 5)  [card 4 of 6 in hand]
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7000 / OPP 3400) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Giant Germ, Magician of Faith, Mystic Tomato, Skull Lair   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Mask of Darkness (zone 0)
+    OPP's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  YOU attacks DIRECTLY with Sangan (zone 1)
+    OPP loses 1000 LP -> 2400
+  [main 2]
+  YOU SETS Waboku (S/T zone 5)  [card 1 of 5 in hand]
+  YOU SETS Mirror Wall (S/T zone 7)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7000 / OPP 2400) ===
+  hand: YOU 3 / OPP 4   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Magician of Faith, Mystic Tomato, Skull Lair   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Skull Lair (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 3 of 4 in hand]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7000 / OPP 2400) ===
+  hand: YOU 3 / OPP 2   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Magician of Faith (zone 0)
+    effect: Skull Lair
+  YOU attacks with Sangan (zone 1) -> OPP's face-down Magician of Faith (zone 0)
+    effect: Skull Lair
+    effect: Sangan
+  [main 2]
+  YOU SETS Greenkappa in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7000 / OPP 2400) ===
+  hand: YOU 4 / OPP 2   library: YOU 30 / OPP 30
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+    effect: Magician of Faith
+  OPP ACTIVATES Graceful Charity (S/T zone 8)  [card 1 of 3 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP SETS Greenkappa in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  OPP SETS Windstorm of Etaqua (S/T zone 8)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7000 / OPP 2400) ===
+  hand: YOU 4 / OPP 1   library: YOU 30 / OPP 26
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+3 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+    effect: Solemn Judgment
+    OPP loses 1200 LP -> 1200
+  YOU SUMMONS Mother Grizzly in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's face-down Magician of Faith (zone 0)
+    effect: Windstorm of Etaqua
+  [main 2]
+  YOU SETS Magic Drain (S/T zone 8)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 7000 / OPP 1200) ===
+  hand: YOU 3 / OPP 1   library: YOU 29 / OPP 26
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Mirror Wall
+    effect: Crush Card
+  OPP SUMMONS Cure Mermaid in monster zone 1  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 7000 / OPP 1200) ===
+  hand: YOU 3 / OPP 1   library: YOU 29 / OPP 25
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+2 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 28)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's Cure Mermaid (zone 1)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    YOU loses 100 LP -> 6900
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's Cure Mermaid (zone 1)
+    effect: Waboku
+    OPP's Cure Mermaid (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 6900 / OPP 1200) ===
+  hand: YOU 5 / OPP 1   library: YOU 28 / OPP 25
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ, Mystic Tomato   (up to 2 of these already discarded; +3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 2 of 2 in hand]
+  OPP SETS Mystic Tomato in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 6900 / OPP 1200) ===
+  hand: YOU 5 / OPP 0   library: YOU 28 / OPP 24
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 27)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 7700
+  [main 1]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's face-down Mystic Tomato (zone 1)
+    OPP's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    OPP special summons Mystic Tomato to zone 1
+  [main 2]
+  YOU SUMMONS Cannon Soldier in monster zone 1  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 7700 / OPP 1200) ===
+  hand: YOU 5 / OPP 1   library: YOU 27 / OPP 24
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+    effect: Cannon Soldier
+    YOU loses 500 LP -> 7200
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Skull Lair
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 7200 / OPP 1200) ===
+  hand: YOU 5 / OPP 1   library: YOU 27 / OPP 23
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Skull Lair (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 7200 / OPP 1200) ===
+  hand: YOU 5 / OPP 1   library: YOU 26 / OPP 23
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 8)  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's Cannon Soldier (zone 1)
+    effect: Skull Lair
+    effect: Solemn Judgment
+    OPP loses 600 LP -> 600
+    OPP's Mystic Tomato (zone 1) is destroyed in battle
+    YOU's Cannon Soldier (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 7200 / OPP 600) ===
+  hand: YOU 5 / OPP 1   library: YOU 26 / OPP 22
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 25)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 0)
+    effect: Mirror Force
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 7200 / OPP 600) ===
+  hand: YOU 5 / OPP 1   library: YOU 25 / OPP 22
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Waboku (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 7200 / OPP 600) ===
+  hand: YOU 5 / OPP 1   library: YOU 25 / OPP 21
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 7200 / OPP 600) ===
+  hand: YOU 5 / OPP 1   library: YOU 24 / OPP 21
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mother Grizzly in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mother Grizzly (zone 0)
+    YOU loses 1400 LP -> 5800
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 5800 / OPP 600) ===
+  hand: YOU 5 / OPP 1   library: YOU 24 / OPP 20
+    YOU (recorder) hand [partly unknown]: Aqua Spirit   (+4 unknown)
+    OPP hand [partly unknown]: Giant Germ   (up to 1 of these already discarded; +4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 23)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    YOU special summons Cannon Soldier to zone 0
+  YOU SETS Cure Mermaid in monster zone 1 (face-down)  [card 2 of 6 in hand]
+    effect: Cannon Soldier
+    OPP loses 500 LP -> 100
+    effect: Cannon Soldier
+    OPP loses 500 LP -> -400
+  [DUEL END]  final LP: YOU 5800 / OPP -400

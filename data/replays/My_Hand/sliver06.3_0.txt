@@ -1,0 +1,360 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 71)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 71 / OPP 35
+    YOU hand [exact]: Ancient Lamp, Dust Tornado, Fissure, Nimble Momonga, Scapegoat
+    OPP (recorder) hand [exact]: 4-Starred Ladybug of Doom, Call Of The Haunted, Giant Germ, Harpie's Brother, Mystic Box
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 5)  [card 1 of 6 in hand]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 71 / OPP 34
+    YOU hand [exact]: Ancient Lamp, Dust Tornado, Fissure, Nimble Momonga, Scapegoat
+    OPP (recorder) hand [exact]: 4-Starred Ladybug of Doom, Bladefly, Harpie's Brother, Mystic Box
+  [draw phase]
+  YOU draws 1  (hand now 6, library 70)
+  [standby]
+  [main 1]
+  YOU SETS Ancient Lamp in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 70 / OPP 34
+    YOU hand [exact]: Fissure, Nimble Momonga, Scapegoat
+    OPP (recorder) hand [exact]: 4-Starred Ladybug of Doom, Bladefly, Harpie's Brother, Mystic Box
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Greenkappa in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 70 / OPP 33
+    YOU hand [exact]: Fissure, Nimble Momonga, Scapegoat
+    OPP (recorder) hand [exact]: 4-Starred Ladybug of Doom, Bladefly, Harpie's Brother, Mystic Box
+  [draw phase]
+  YOU draws 1  (hand now 4, library 69)
+  [standby]
+  [main 1]
+  YOU SUMMONS Nimble Momonga in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's face-down Giant Germ (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+    OPP special summons Giant Germ to zone 2
+  [main 2]
+  YOU SETS Solemn Wishes (S/T zone 7)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7500 / OPP 8000) ===
+  hand: YOU 2 / OPP 5   library: YOU 69 / OPP 33
+    YOU hand [exact]: Fissure, Scapegoat
+    OPP (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Bladefly, Harpie's Brother, Mystic Box   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Dust Tornado
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Harpie's Brother in monster zone 3  [card 3 of 5 in hand]
+  OPP ACTIVATES Mystic Box (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Mystic Box
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 3) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    YOU loses 800 LP -> 6700
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7700
+    YOU special summons Nimble Momonga to zone 1
+    YOU special summons Nimble Momonga to zone 2
+  OPP attacks with Giant Germ (zone 2) -> YOU's Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8700
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Ancient Lamp (zone 0)
+    YOU's face-down Ancient Lamp (zone 0) is destroyed in battle
+    YOU loses 350 LP -> 8350
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8350 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 69 / OPP 32
+    YOU hand [partly unknown]: Fissure, Scapegoat   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Bladefly   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 68)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Nimble Momonga (zone 1) -> OPP's Giant Germ (zone 0)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Giant Germ
+    YOU loses 500 LP -> 7850
+    YOU gains 1000 LP -> 8850
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8850 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 68 / OPP 32
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom, Bladefly   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bladefly in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Harpie's Brother (zone 3)
+    effect: Scapegoat
+  OPP attacks with Harpie's Brother (zone 3) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  OPP attacks with Giant Germ (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Bladefly (zone 0) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  [main 2]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 2 of 4 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8850 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 68 / OPP 31
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 67)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8850 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 67 / OPP 31
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: 4-Starred Ladybug of Doom   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 2) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks DIRECTLY with Bladefly (zone 0)
+    effect: Scapegoat
+  OPP attacks with Bladefly (zone 0) -> YOU's unknown monster (zone 0)
+    YOU's unknown monster (zone 0) is destroyed in battle
+  OPP attacks with Harpie's Brother (zone 3) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8850 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 67 / OPP 30
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 66)
+  [standby]
+  [main 1]
+  YOU SETS Acid Trap Hole (S/T zone 5)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8850 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 66 / OPP 30
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+    effect: Acid Trap Hole
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 2) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Bladefly (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  OPP attacks DIRECTLY with Harpie's Brother (zone 3)
+    YOU loses 2300 LP -> 6550
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 6550 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 66 / OPP 29
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 65)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 6550 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 65 / OPP 29
+    YOU hand [partly unknown]: Fissure   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 3) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  OPP attacks DIRECTLY with Bladefly (zone 0)
+    YOU loses 1100 LP -> 5450
+  OPP attacks DIRECTLY with Giant Germ (zone 2)
+    YOU loses 1000 LP -> 4450
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 4450 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 65 / OPP 28
+    YOU hand [partly unknown]: Fissure   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 64)
+  [standby]
+  [main 1]
+    YOU special summons Sangan to zone 0
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Giant Germ (zone 2)
+    OPP's Giant Germ (zone 2) is destroyed in battle
+    OPP loses 1200 LP -> 6800
+    effect: Giant Germ
+    YOU loses 500 LP -> 3950
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 3 of 7 in hand]
+  YOU ACTIVATES Fissure (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Fissure
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 3950 / OPP 6800) ===
+  hand: YOU 5 / OPP 4   library: YOU 64 / OPP 28
+    YOU hand [partly unknown]: -   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 3) -> YOU's face-down Man-Eater Bug (zone 1)
+    YOU's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+    OPP special summons Giant Germ to zone 0
+  OPP SETS Fissure (S/T zone 7)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 3950 / OPP 6800) ===
+  hand: YOU 5 / OPP 4   library: YOU 64 / OPP 27
+    YOU hand [partly unknown]: -   (+5 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 63)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Sangan (zone 0) -> OPP's Giant Germ (zone 0)
+    effect: Rush Recklessly
+    YOU's Sangan (zone 0) is destroyed in battle
+    YOU loses 100 LP -> 3850
+  [main 2]
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 17: OPP   (LP YOU 3850 / OPP 6800) ===
+  hand: YOU 4 / OPP 4   library: YOU 63 / OPP 27
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with Sangan (zone 1) -> YOU's face-down Mother Grizzly (zone 0)
+  [main 2]
+    effect: Fissure
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 3850 / OPP 6800) ===
+  hand: YOU 4 / OPP 4   library: YOU 63 / OPP 26
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 62)
+  [standby]
+  [main 1]
+  YOU SETS Robbin' Goblin (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 3850 / OPP 6800) ===
+  hand: YOU 4 / OPP 4   library: YOU 62 / OPP 26
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1600 LP -> 2250
+  OPP attacks DIRECTLY with Sangan (zone 1)
+    YOU loses 1000 LP -> 1250
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 1250 / OPP 6800) ===
+  hand: YOU 4 / OPP 4   library: YOU 62 / OPP 25
+    YOU hand [partly unknown]: -   (+4 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 61)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks with Kycoo the Ghost Destroyer (zone 0) -> OPP's Giant Germ (zone 0)
+    effect: Ceasefire
+    YOU loses 1500 LP -> -250
+  [DUEL END]  final LP: YOU -250 / OPP 6800

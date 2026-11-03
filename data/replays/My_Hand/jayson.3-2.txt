@@ -1,0 +1,185 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Amazon Archer, Dimensional Warrior, Jinzo, Ring of Destruction, Trap Hole
+    OPP hand [exact]: Dark Hole, Sangan, Sonic Bird, Tailor of the Fickle, The Masked Beast
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Senju of the Thousand Hands in monster zone 0  [card 6 of 6 in hand]
+    effect: Senju of the Thousand Hands
+  OPP SETS Tailor of the Fickle (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Amazon Archer, Dimensional Warrior, Jinzo, Ring of Destruction, Trap Hole
+    OPP hand [exact]: Dark Hole, Sangan, Sonic Bird, The Masked Beast
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Senju of the Thousand Hands (zone 0)
+    YOU's Giant Rat (zone 0) is destroyed in battle
+    OPP's Senju of the Thousand Hands (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Giant Rat to zone 0
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Trap Hole (S/T zone 5)  [card 4 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 34
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Jinzo   (+1 unknown)
+    OPP hand [exact]: Dark Hole, Sangan, Sonic Bird, The Masked Beast
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 3 of 5 in hand]
+  OPP ACTIVATES Black Illusion Ritual (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Black Illusion Ritual
+    OPP special summons Senju of the Thousand Hands to zone 0
+    effect: Sangan
+    effect: Ring of Destruction
+    YOU loses 0 LP -> 8000
+  OPP ACTIVATES Dark Hole (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Dark Hole
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 6600) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 33
+    YOU (recorder) hand [partly unknown]: Amazon Archer, Dimensional Warrior, Jinzo   (+1 unknown)
+    OPP hand [partly unknown]: Megamorph, Sonic Bird, The Masked Beast   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Amazon Archer (zone 0)
+    OPP loses 1400 LP -> 5200
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 5200) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Jinzo   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, Sonic Bird, The Masked Beast   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Senju of the Thousand Hands in monster zone 0  [card 3 of 5 in hand]
+    effect: Senju of the Thousand Hands
+    effect: Trap Hole
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 5200) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Jinzo   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, Sonic Bird, The Masked Beast   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 1)
+    OPP loses 1200 LP -> 4000
+  YOU attacks DIRECTLY with Amazon Archer (zone 0)
+    OPP loses 1400 LP -> 2600
+  [main 2]
+  YOU SETS Mystic Box (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 2600) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, Sonic Bird, The Masked Beast   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sonic Bird in monster zone 0  [card 4 of 5 in hand]
+    effect: Sonic Bird
+  OPP ACTIVATES Black Illusion Ritual (S/T zone 6)  [card 1 of 5 in hand]
+    effect: Black Illusion Ritual
+    OPP special summons Senju of the Thousand Hands to zone 1
+    effect: Relinquished
+  [battle phase]
+  OPP attacks with Sonic Bird (zone 0) -> YOU's Dimensional Warrior (zone 1)
+    YOU's Dimensional Warrior (zone 1) is destroyed in battle
+    YOU loses 200 LP -> 7800
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Senju of the Thousand Hands (zone 1)
+    YOU loses 1400 LP -> 6400
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6400 / OPP 2600) ===
+  hand: YOU 3 / OPP 4   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: Jinzo   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, The Masked Beast   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Monster Reborn
+    YOU special summons Dimensional Warrior to zone 0
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Senju of the Thousand Hands (zone 1)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    effect: Giant Rat
+    YOU special summons Dimensional Warrior to zone 0
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Senju of the Thousand Hands (zone 1)
+    OPP's Senju of the Thousand Hands (zone 1) is destroyed in battle
+    OPP loses 1000 LP -> 1600
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    OPP loses 1000 LP -> 600
+  [main 2]
+  YOU SETS Skull Lair (S/T zone 6)  [card 2 of 4 in hand]
+  YOU SETS Jinzo in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 6400 / OPP 600) ===
+  hand: YOU 2 / OPP 4   library: YOU 31 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, The Masked Beast   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 2 of 5 in hand]
+  OPP SETS Curse of the Masked Beast (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 6400 / OPP 600) ===
+  hand: YOU 2 / OPP 3   library: YOU 31 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: Megamorph, The Masked Beast   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Jinzo (zone 0)
+    OPP loses 2400 LP -> -1800
+  [DUEL END]  final LP: YOU 6400 / OPP -1800

@@ -1,0 +1,83 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 35
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Hayabusa Knight, Solemn Judgment, United We Stand
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Last Will, Solemn Judgment, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 5)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 34
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Hayabusa Knight, Solemn Judgment, United We Stand
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Last Will, Raigeki, Tribute to The Doomed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kinetic Soldier in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Kinetic Soldier (zone 0)
+    OPP loses 1350 LP -> 6650
+  [main 2]
+  YOU SETS Solemn Judgment (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 6650) ===
+  hand: YOU 4 / OPP 5   library: YOU 34 / OPP 34
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Hayabusa Knight, United We Stand
+    OPP hand [exact]: Axe of Despair, Harpie's Feather Duster, Last Will, Raigeki, Tribute to The Doomed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Axe of Despair (S/T zone 6)  [card 1 of 6 in hand]
+    effect: Axe of Despair
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 7)  [card 3 of 5 in hand]
+    effect: Tribute to The Doomed
+  OPP ACTIVATES Last Will (S/T zone 6)  [card 2 of 4 in hand]
+    effect: Last Will
+    effect: Last Will
+    OPP special summons a monster to zone 0
+    effect: Cyber-Stein
+    OPP loses 5000 LP -> 1650
+    OPP special summons a monster to zone 1
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 1)
+    YOU loses 3200 LP -> 4800
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    YOU loses 700 LP -> 4100
+  [main 2]
+  OPP SETS Harpie's Feather Duster (S/T zone 6)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 4100 / OPP 1650) ===
+  hand: YOU 4 / OPP 4   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Cyber-Stein, Giant Trunade, Hayabusa Knight, United We Stand
+    OPP hand [partly unknown]: Raigeki, Ultimate Offering   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Giant Trunade (S/T zone 6)  [card 4 of 5 in hand]
+    effect: Giant Trunade
+    effect: Solemn Judgment
+    OPP loses 825 LP -> 825
+    effect: Solemn Judgment
+    YOU loses 2050 LP -> 2050
+  YOU SUMMONS Hayabusa Knight in monster zone 0  [card 2 of 4 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 5)  [card 1 of 3 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Hayabusa Knight (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    OPP loses 1100 LP -> -275
+  [DUEL END]  final LP: YOU 2050 / OPP -275

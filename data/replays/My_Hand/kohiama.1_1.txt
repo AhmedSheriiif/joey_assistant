@@ -1,0 +1,572 @@
+  OPP draws 5  (hand now 5, library 38)
+  YOU draws 5  (hand now 5, library 37)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 38
+    YOU (recorder) hand [exact]: Blast Sphere, Graceful Charity, Kycoo the Ghost Destroyer, Morphing Jar, Mystic Tomato
+    OPP hand [exact]: Dream Clown, Imperial Order, Kinetic Soldier, Magic Jammer, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Painful Choice (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Painful Choice
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  OPP SETS Magic Jammer (S/T zone 5)  [card 4 of 4 in hand]
+  OPP SETS Imperial Order (S/T zone 6)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 37 / OPP 37
+    YOU (recorder) hand [exact]: Blast Sphere, Graceful Charity, Kycoo the Ghost Destroyer, Morphing Jar, Mystic Tomato
+    OPP hand [exact]: Dream Clown, Sinister Serpent
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SETS Blast Sphere in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 36 / OPP 37
+    YOU (recorder) hand [exact]: Graceful Charity, Kycoo the Ghost Destroyer, Morphing Jar, Mystic Tomato, Nimble Momonga
+    OPP hand [exact]: Dream Clown, Sinister Serpent
+  [draw phase]
+  OPP draws 1  (hand now 3, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Sinister Serpent in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 36 / OPP 36
+    YOU (recorder) hand [exact]: Graceful Charity, Kycoo the Ghost Destroyer, Morphing Jar, Mystic Tomato, Nimble Momonga
+    OPP hand [exact]: Dream Clown, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 6 of 6 in hand]
+    effect: Swords of Revealing Light
+  YOU SETS Morphing Jar in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Graceful Charity, Kycoo the Ghost Destroyer, Mystic Tomato, Nimble Momonga
+    OPP hand [exact]: Dream Clown, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 7)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 4, library 34)
+  OPP draws 1  (hand now 5, library 33)
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 7)  [card 4 of 5 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Summoned Skull in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Summoned Skull (zone 1) -> YOU's face-down Blast Sphere (zone 0)
+    effect: Blast Sphere
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 35 / OPP 33
+    YOU (recorder) hand [exact]: Graceful Charity, Kycoo the Ghost Destroyer, Mystic Tomato, Nimble Momonga
+    OPP hand [partly unknown]: Dream Clown, Last Will, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 5, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Imperial Order (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Graceful Charity (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+    effect: Imperial Order
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Kycoo the Ghost Destroyer, Mystic Tomato
+    OPP hand [partly unknown]: Dream Clown, Last Will, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+    effect: Sinister Serpent
+    effect: Imperial Order
+    OPP loses 700 LP -> 7300
+  [main 1]
+  [battle phase]
+  OPP attacks with Summoned Skull (zone 1) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9000
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 2
+  [main 2]
+  OPP SETS Dust Tornado (S/T zone 7)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 9000 / OPP 7300) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 32
+    YOU (recorder) hand [partly unknown]: Kycoo the Ghost Destroyer, Mystic Tomato   (+1 unknown)
+    OPP hand [partly unknown]: Dream Clown, Last Will, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 3 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 9000 / OPP 7300) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: Kycoo the Ghost Destroyer   (+2 unknown)
+    OPP hand [partly unknown]: Dream Clown, Last Will, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+    effect: Imperial Order
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Swords of Revealing Light
+    effect: Imperial Order
+    effect: Dust Tornado
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 32)
+  YOU draws 1  (hand now 2, library 31)
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  OPP draws 1  (hand now 1, library 30)
+  OPP draws 1  (hand now 2, library 29)
+  OPP draws 1  (hand now 3, library 28)
+  OPP draws 1  (hand now 4, library 27)
+  OPP draws 1  (hand now 5, library 26)
+  OPP SUMMONS Giant Rat in monster zone 2  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Summoned Skull (zone 1) -> YOU's face-down Mystic Tomato (zone 3)
+    YOU's face-down Mystic Tomato (zone 3) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 3
+  OPP attacks with Giant Rat (zone 2) -> YOU's face-down Morphing Jar (zone 1)
+    YOU's face-down Morphing Jar (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS DNA Surgery (S/T zone 7)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 9000 / OPP 7300) ===
+  hand: YOU 6 / OPP 3   library: YOU 28 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 27)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 6)  [card 4 of 7 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 5, library 26)
+  YOU draws 1  (hand now 6, library 25)
+  YOU draws 1  (hand now 7, library 24)
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 7)  [card 6 of 7 in hand]
+    effect: Ekibyo Drakmord
+  YOU SETS Trap Hole (S/T zone 8)  [card 1 of 6 in hand]
+  YOU SETS Michizure (S/T zone 9)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 9000 / OPP 7300) ===
+  hand: YOU 4 / OPP 3   library: YOU 24 / OPP 26
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 25)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Kinetic Soldier (zone 0) -> YOU's Nimble Momonga (zone 2)
+    YOU's Nimble Momonga (zone 2) is destroyed in battle
+    effect: Nimble Momonga
+    effect: Michizure
+    YOU gains 1000 LP -> 10000
+  [main 2]
+  OPP SETS Sangan in monster zone 1 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 10000 / OPP 7300) ===
+  hand: YOU 5 / OPP 3   library: YOU 24 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 23)
+  [standby]
+  [main 1]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 1 of 6 in hand]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 9)  [card 3 of 5 in hand]
+    effect: Ekibyo Drakmord
+    effect: Magic Jammer
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 10000 / OPP 7300) ===
+  hand: YOU 4 / OPP 3   library: YOU 23 / OPP 25
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 24)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SUMMONS The Fiend Megacyber in monster zone 2  [card 1 of 4 in hand]
+    effect: Trap Hole
+  OPP ACTIVATES Monster Reborn (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Monster Reborn
+    OPP special summons a monster to zone 2
+  [battle phase]
+  OPP attacks with face-down Sangan (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 11000
+  OPP attacks with Kinetic Soldier (zone 0) -> YOU's Mystic Tomato (zone 3)
+    YOU's Mystic Tomato (zone 3) is destroyed in battle
+    effect: Witch of the Black Forest
+  OPP attacks DIRECTLY with unknown monster (zone 2)
+    YOU loses 2500 LP -> 8500
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 8500 / OPP 7300) ===
+  hand: YOU 6 / OPP 2   library: YOU 23 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+8 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 2 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 8500 / OPP 7300) ===
+  hand: YOU 6 / OPP 2   library: YOU 22 / OPP 24
+    YOU (recorder) hand [partly unknown]: -   (+8 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with unknown monster (zone 2) -> YOU's face-down Penguin Soldier (zone 0)
+    YOU's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  OPP attacks DIRECTLY with Kinetic Soldier (zone 0)
+    YOU loses 1350 LP -> 7150
+  [main 2]
+  OPP SETS Witch of the Black Forest in monster zone 1 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 7150 / OPP 7300) ===
+  hand: YOU 6 / OPP 2   library: YOU 22 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+8 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+    effect: Dust Tornado
+    YOU special summons Penguin Soldier to zone 0
+  YOU ACTIVATES Monster Reborn (S/T zone 6)  [card 1 of 7 in hand]
+    effect: Monster Reborn
+    YOU special summons Penguin Soldier to zone 1
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's Kinetic Soldier (zone 0)
+    OPP's Kinetic Soldier (zone 0) is destroyed in battle
+    OPP loses 50 LP -> 7250
+  YOU attacks with Penguin Soldier (zone 0) -> OPP's face-down Witch of the Black Forest (zone 1)
+    OPP's Witch of the Black Forest (zone 1) is destroyed in battle
+    effect: Witch of the Black Forest
+  [main 2]
+  YOU SETS Blast Sphere in monster zone 2 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 7150 / OPP 7250) ===
+  hand: YOU 5 / OPP 3   library: YOU 21 / OPP 23
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 7 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 7150 / OPP 7250) ===
+  hand: YOU 5 / OPP 6   library: YOU 21 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 20)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 1) -> OPP's face-down Kinetic Soldier (zone 0)
+    YOU loses 400 LP -> 6750
+  [main 2]
+  YOU SETS Kunai with Chain (S/T zone 6)  [card 2 of 6 in hand]
+  YOU SETS Greenkappa in monster zone 3 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 6750 / OPP 7250) ===
+  hand: YOU 4 / OPP 6   library: YOU 20 / OPP 22
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 21)
+  [standby]
+  [main 1]
+  OPP SETS Gravity Bind (S/T zone 5)  [card 7 of 7 in hand]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 6 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 20: YOU   (LP YOU 6750 / OPP 7250) ===
+  hand: YOU 4 / OPP 5   library: YOU 20 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with face-down Blast Sphere (zone 2) -> OPP's Kinetic Soldier (zone 0)
+    effect: Kunai with Chain
+    OPP's Kinetic Soldier (zone 0) is destroyed in battle
+  YOU attacks with Penguin Soldier (zone 0) -> OPP's face-down Man-Eater Bug (zone 1)
+    OPP's Man-Eater Bug (zone 1) is destroyed in battle
+    effect: Man-Eater Bug
+  [main 2]
+  YOU SETS Skull Lair (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 6750 / OPP 7250) ===
+  hand: YOU 4 / OPP 5   library: YOU 19 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Seven Tools of the Bandit (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 6750 / OPP 7250) ===
+  hand: YOU 4 / OPP 4   library: YOU 19 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 18)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Blast Sphere (zone 2) -> OPP's face-down Mask of Darkness (zone 0)
+    OPP's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  YOU attacks DIRECTLY with Penguin Soldier (zone 0)
+    OPP loses 2200 LP -> 5050
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 6750 / OPP 5050) ===
+  hand: YOU 5 / OPP 4   library: YOU 18 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 19)
+  [standby]
+  [main 1]
+  OPP SETS Gravity Bind (S/T zone 6)  [card 3 of 5 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 6750 / OPP 5050) ===
+  hand: YOU 5 / OPP 4   library: YOU 18 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 6, library 17)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Gravity Bind
+  YOU SUMMONS Wall of Illusion in monster zone 1  [card 1 of 6 in hand]
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 7)  [card 1 of 5 in hand]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks with Blast Sphere (zone 2) -> OPP's face-down Penguin Soldier (zone 0)
+    OPP's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  YOU attacks DIRECTLY with Wall of Illusion (zone 1)
+    OPP loses 1000 LP -> 4050
+  YOU attacks DIRECTLY with face-down Greenkappa (zone 3)
+    OPP loses 650 LP -> 3400
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 6750 / OPP 3400) ===
+  hand: YOU 4 / OPP 4   library: YOU 17 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 5, library 18)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 17)
+  OPP draws 1  (hand now 4, library 16)
+  OPP draws 1  (hand now 5, library 15)
+  OPP SETS Skull Lair (S/T zone 5)  [card 5 of 5 in hand]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 6750 / OPP 3400) ===
+  hand: YOU 4 / OPP 3   library: YOU 17 / OPP 15
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 16)
+  [standby]
+  [main 1]
+  YOU SUMMONS Blast Sphere in monster zone 0  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Wall of Illusion (zone 1) -> OPP's face-down Kinetic Soldier (zone 0)
+    effect: Skull Lair
+  YOU attacks with Blast Sphere (zone 0) -> OPP's face-down Kinetic Soldier (zone 0)
+    effect: Skull Lair
+  [main 2]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 6750 / OPP 3400) ===
+  hand: YOU 4 / OPP 3   library: YOU 16 / OPP 15
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 14)
+  [standby]
+    effect: Sinister Serpent
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's Greenkappa (zone 3)
+    YOU's Greenkappa (zone 3) is destroyed in battle
+  [main 2]
+    effect: Bazoo the Soul-Eater
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 6750 / OPP 3400) ===
+  hand: YOU 4 / OPP 4   library: YOU 16 / OPP 14
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 15)
+  [standby]
+  [main 1]
+    YOU special summons Greenkappa to zone 0
+  YOU ACTIVATES Mage Power (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Mage Power
+  YOU SUMMONS Blast Sphere in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Greenkappa (zone 0) -> OPP's Bazoo the Soul-Eater (zone 1)
+    OPP's Bazoo the Soul-Eater (zone 1) is destroyed in battle
+    OPP loses 1000 LP -> 2400
+  YOU attacks with Blast Sphere (zone 1) -> OPP's face-down Kinetic Soldier (zone 0)
+    YOU loses 400 LP -> 6350
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 6350 / OPP 2400) ===
+  hand: YOU 3 / OPP 4   library: YOU 15 / OPP 14
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 13)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Kinetic Soldier (zone 0) -> YOU's Greenkappa (zone 0)
+    effect: Skull Lair
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 6)  [card 5 of 5 in hand]
+  OPP SETS Sangan in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 6350 / OPP 2400) ===
+  hand: YOU 3 / OPP 3   library: YOU 15 / OPP 13
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 14)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 2  [card 1 of 4 in hand]
+  [battle phase]
+  YOU attacks with Blast Sphere (zone 1) -> OPP's face-down Sangan (zone 0)
+    OPP's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  YOU attacks DIRECTLY with Mystic Tomato (zone 2)
+    effect: Skull Lair
+    OPP loses 1400 LP -> 1000
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 6350 / OPP 1000) ===
+  hand: YOU 3 / OPP 4   library: YOU 14 / OPP 13
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 12)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 7)  [card 5 of 5 in hand]
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 6350 / OPP 1000) ===
+  hand: YOU 3 / OPP 3   library: YOU 14 / OPP 12
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 4, library 13)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Blast Sphere (zone 1) -> OPP's face-down Giant Rat (zone 0)
+    YOU loses 50 LP -> 6300
+    effect: Skull Lair
+  YOU attacks DIRECTLY with Mystic Tomato (zone 2)
+    OPP loses 1400 LP -> -400
+  [DUEL END]  final LP: YOU 6300 / OPP -400

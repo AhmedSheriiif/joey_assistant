@@ -1,0 +1,355 @@
+  YOU draws 5  (hand now 5, library 35)
+  OPP draws 5  (hand now 5, library 36)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 36
+    YOU (recorder) hand [exact]: Giant Germ, Jinzo, Mystical Space Typhoon, Swords of Revealing Light, Trap Hole
+    OPP hand [exact]: Dream Clown, Dust Tornado, Kinetic Soldier, Penguin Soldier, Pot of Greed
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Trap Hole (S/T zone 6)  [card 4 of 5 in hand]
+  YOU SETS Giant Germ in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 5   library: YOU 34 / OPP 36
+    YOU (recorder) hand [exact]: Delinquent Duo, Jinzo, Swords of Revealing Light
+    OPP hand [exact]: Dream Clown, Dust Tornado, Kinetic Soldier, Penguin Soldier, Pot of Greed
+  [draw phase]
+  OPP draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 6, library 34)
+  OPP draws 1  (hand now 7, library 33)
+  OPP SETS Dust Tornado (S/T zone 5)  [card 3 of 7 in hand]
+  OPP SETS Kunai with Chain (S/T zone 6)  [card 5 of 6 in hand]
+  OPP SETS Michizure (S/T zone 7)  [card 4 of 5 in hand]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 33
+    YOU (recorder) hand [exact]: Delinquent Duo, Jinzo, Swords of Revealing Light
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 2 of 4 in hand]
+    effect: Swords of Revealing Light
+  YOU SUMMONS Jinzo in monster zone 0  [card 1 of 3 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 0) -> OPP's face-down Kinetic Soldier (zone 0)
+    OPP's face-down Kinetic Soldier (zone 0) is destroyed in battle
+  [main 2]
+  YOU ACTIVATES Delinquent Duo (S/T zone 8)  [card 1 of 2 in hand]
+    effect: Delinquent Duo
+    YOU loses 1000 LP -> 7000
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 33
+    YOU (recorder) hand [exact]: Giant Rat
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Tribute to The Doomed (S/T zone 8)  [card 2 of 4 in hand]
+    effect: Tribute to The Doomed
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7000 / OPP 8000) ===
+  hand: YOU 1 / OPP 3   library: YOU 33 / OPP 32
+    YOU (recorder) hand [exact]: Giant Rat
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 2, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Rush Recklessly (S/T zone 8)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+    effect: Dust Tornado
+
+=== Turn 6: OPP   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 32 / OPP 32
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 32 / OPP 31
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 1, library 31)
+  [standby]
+  [main 1]
+  YOU SETS Graceful Charity (S/T zone 8)  [card 1 of 1 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down 4-Starred Ladybug of Doom (zone 0)
+    OPP's 4-Starred Ladybug of Doom (zone 0) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 31 / OPP 31
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 7000 / OPP 6600) ===
+  hand: YOU 0 / OPP 3   library: YOU 31 / OPP 30
+    YOU (recorder) hand [exact]: -
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  YOU draws 1  (hand now 1, library 30)
+  [standby]
+  [main 1]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 1, library 29)
+  YOU draws 1  (hand now 2, library 28)
+  YOU draws 1  (hand now 3, library 27)
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    OPP loses 1200 LP -> 5400
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 7000 / OPP 5400) ===
+  hand: YOU 2 / OPP 3   library: YOU 27 / OPP 30
+    YOU (recorder) hand [exact]: Dust Tornado, Man-Eater Bug, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Kinetic Soldier, Penguin Soldier
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 8)  [card 1 of 4 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 2, library 28)
+  OPP draws 1  (hand now 3, library 27)
+  OPP draws 1  (hand now 4, library 26)
+    OPP special summons 4-Starred Ladybug of Doom to zone 0
+  [battle phase]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 7000 / OPP 5400) ===
+  hand: YOU 2 / OPP 4   library: YOU 27 / OPP 26
+    YOU (recorder) hand [exact]: Dust Tornado, Man-Eater Bug, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 26)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Force (S/T zone 7)  [card 2 of 3 in hand]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+    effect: Ceasefire
+    YOU loses 1500 LP -> 5500
+
+=== Turn 12: OPP   (LP YOU 5500 / OPP 5400) ===
+  hand: YOU 1 / OPP 4   library: YOU 26 / OPP 26
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 1  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks with 4-Starred Ladybug of Doom (zone 0) -> YOU's face-down Man-Eater Bug (zone 1)
+    effect: Mirror Force
+    effect: Michizure
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5500 / OPP 5400) ===
+  hand: YOU 1 / OPP 4   library: YOU 26 / OPP 25
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 25)
+  [standby]
+  [main 1]
+  YOU SETS United We Stand (S/T zone 7)  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with face-down Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 4950
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5500 / OPP 4950) ===
+  hand: YOU 1 / OPP 4   library: YOU 25 / OPP 25
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 24)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5500 / OPP 4950) ===
+  hand: YOU 1 / OPP 4   library: YOU 25 / OPP 24
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 24)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Germ in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Giant Germ (zone 0) -> OPP's face-down Man-Eater Bug (zone 0)
+    OPP's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 4500
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 5500 / OPP 4500) ===
+  hand: YOU 1 / OPP 4   library: YOU 24 / OPP 24
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 23)
+  [standby]
+  [main 1]
+  OPP SETS DNA Surgery (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5500 / OPP 4500) ===
+  hand: YOU 1 / OPP 4   library: YOU 24 / OPP 23
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 23)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 4050
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 5500 / OPP 4050) ===
+  hand: YOU 2 / OPP 4   library: YOU 23 / OPP 23
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 5500 / OPP 4050) ===
+  hand: YOU 2 / OPP 4   library: YOU 23 / OPP 22
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly, Tribute to The Doomed   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 22)
+  [standby]
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's face-down Kinetic Soldier (zone 0)
+    effect: Kunai with Chain
+  [main 2]
+  YOU SETS Tribute to The Doomed (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 5500 / OPP 4050) ===
+  hand: YOU 1 / OPP 4   library: YOU 22 / OPP 22
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+    effect: Trap Hole
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 6)  [card 1 of 5 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 5500 / OPP 4050) ===
+  hand: YOU 1 / OPP 4   library: YOU 22 / OPP 21
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 21)
+  [standby]
+  [main 1]
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> 2150
+  YOU attacks DIRECTLY with Man-Eater Bug (zone 1)
+    OPP loses 450 LP -> 1700
+  [main 2]
+  YOU SETS Penguin Soldier in monster zone 2 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 5500 / OPP 1700) ===
+  hand: YOU 1 / OPP 4   library: YOU 21 / OPP 21
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 20)
+  [standby]
+  [main 1]
+  OPP SETS Dimensional Warrior in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 5500 / OPP 1700) ===
+  hand: YOU 1 / OPP 4   library: YOU 21 / OPP 20
+    YOU (recorder) hand [exact]: Dust Tornado, Rush Recklessly   (up to 1 of these already discarded)
+    OPP hand [exact]: Dream Clown, Giant Rat, Kinetic Soldier, Penguin Soldier, Slate Warrior, The Rock Spirit   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 2, library 20)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 0)
+    OPP loses 1900 LP -> -200
+  [DUEL END]  final LP: YOU 5500 / OPP -200

@@ -1,0 +1,268 @@
+  YOU draws 5  (hand now 5, library 67)
+  OPP draws 5  (hand now 5, library 43)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 67 / OPP 43
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Dust Tornado, Mother Grizzly, Time Wizard
+    OPP (recorder) hand [exact]: Blast Sphere, Kunai with Chain, Man-Eater Bug, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  YOU draws 1  (hand now 6, library 66)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  YOU SETS Dust Tornado (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 66 / OPP 43
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Mystic Box, Time Wizard
+    OPP (recorder) hand [exact]: Blast Sphere, Kunai with Chain, Man-Eater Bug, Mystical Space Typhoon, Swords of Revealing Light
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Mystical Space Typhoon
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Kunai with Chain (S/T zone 6)  [card 1 of 4 in hand]
+  OPP SETS Man-Eater Bug in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 66 / OPP 42
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Mystic Box, Time Wizard
+    OPP (recorder) hand [exact]: Blast Sphere, Kycoo the Ghost Destroyer
+  [draw phase]
+  YOU draws 1  (hand now 5, library 65)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Box (S/T zone 5)  [card 4 of 5 in hand]
+  YOU SETS Seven Tools of the Bandit (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 65 / OPP 42
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Time Wizard
+    OPP (recorder) hand [exact]: Blast Sphere, Kycoo the Ghost Destroyer
+  [draw phase]
+  OPP draws 1  (hand now 3, library 41)
+  [standby]
+  [main 1]
+  OPP SUMMONS Kycoo the Ghost Destroyer in monster zone 1  [card 2 of 3 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  OPP attacks DIRECTLY with Kycoo the Ghost Destroyer (zone 1)
+    YOU loses 1800 LP -> 6200
+    effect: Kycoo the Ghost Destroyer
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 0)
+    YOU loses 450 LP -> 5750
+  [main 2]
+  OPP SETS Fairy Box (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 65 / OPP 41
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Time Wizard
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  YOU draws 1  (hand now 4, library 64)
+  [standby]
+  [main 1]
+  YOU SUMMONS Time Wizard in monster zone 0  [card 1 of 4 in hand]
+    effect: Time Wizard
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 64 / OPP 41
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Rocket Warrior
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  OPP draws 1  (hand now 2, library 40)
+  [standby]
+  [main 1]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 3 / OPP 1   library: YOU 64 / OPP 40
+    YOU hand [exact]: Aqua Spirit, Cure Mermaid, Rocket Warrior
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  YOU draws 1  (hand now 4, library 63)
+  [standby]
+  [main 1]
+    effect: Time Wizard
+    YOU loses 250 LP -> 5500
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 4 of 4 in hand]
+    effect: Swords of Revealing Light
+    effect: Greenkappa
+  YOU SUMMONS Cure Mermaid in monster zone 0  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5500 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 63 / OPP 40
+    YOU hand [exact]: Aqua Spirit, Rocket Warrior
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  OPP draws 1  (hand now 2, library 39)
+  [standby]
+  [main 1]
+  OPP SETS Blast Sphere in monster zone 1 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5500 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 63 / OPP 39
+    YOU hand [exact]: Aqua Spirit, Rocket Warrior
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  YOU draws 1  (hand now 3, library 62)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 6300
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Cure Mermaid (zone 0) -> OPP's face-down Greenkappa (zone 0)
+    effect: Fairy Box
+    YOU's Cure Mermaid (zone 0) is destroyed in battle
+    YOU loses 650 LP -> 5650
+  YOU attacks with Kycoo the Ghost Destroyer (zone 1) -> OPP's face-down Blast Sphere (zone 1)
+    effect: Fairy Box
+    effect: Blast Sphere
+  [main 2]
+    YOU special summons Cure Mermaid to zone 0
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5650 / OPP 8000) ===
+  hand: YOU 2 / OPP 1   library: YOU 62 / OPP 39
+    YOU hand [exact]: Aqua Spirit, Rocket Warrior
+    OPP (recorder) hand [exact]: Blast Sphere
+  [draw phase]
+  OPP draws 1  (hand now 2, library 38)
+  [standby]
+    effect: Aqua Spirit
+    effect: Fairy Box
+    OPP loses 500 LP -> 7500
+  [main 1]
+  OPP SETS Windstorm of Etaqua (S/T zone 8)  [card 2 of 2 in hand]
+  OPP SETS Blast Sphere in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5650 / OPP 7500) ===
+  hand: YOU 2 / OPP 0   library: YOU 62 / OPP 38
+    YOU hand [exact]: Aqua Spirit, Rocket Warrior
+    OPP (recorder) hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 61)
+  [standby]
+    effect: Blast Sphere
+    YOU loses 1800 LP -> 3850
+  [main 1]
+  YOU SETS Ceasefire (S/T zone 5)  [card 2 of 3 in hand]
+  YOU SUMMONS Rocket Warrior in monster zone 1  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Cure Mermaid (zone 0) -> OPP's face-down Greenkappa (zone 0)
+    effect: Fairy Box
+    OPP's face-down Greenkappa (zone 0) is destroyed in battle
+  YOU attacks with Rocket Warrior (zone 1) -> OPP's face-down Blast Sphere (zone 1)
+    effect: Fairy Box
+    effect: Blast Sphere
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 3850 / OPP 7500) ===
+  hand: YOU 1 / OPP 0   library: YOU 61 / OPP 38
+    YOU hand [exact]: Aqua Spirit
+    OPP (recorder) hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 37)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 7000
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 3850 / OPP 7000) ===
+  hand: YOU 1 / OPP 0   library: YOU 61 / OPP 37
+    YOU hand [exact]: Aqua Spirit
+    OPP (recorder) hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 60)
+  [standby]
+    effect: Blast Sphere
+    YOU loses 1500 LP -> 2350
+  [main 1]
+  YOU ACTIVATES Fissure (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Fissure
+    effect: Sangan
+  [battle phase]
+  YOU attacks DIRECTLY with Cure Mermaid (zone 0)
+    effect: Fairy Box
+    OPP loses 1600 LP -> 5400
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 2350 / OPP 5400) ===
+  hand: YOU 1 / OPP 1   library: YOU 60 / OPP 37
+    YOU hand [exact]: Aqua Spirit
+    OPP (recorder) hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 36)
+  [standby]
+    effect: Fairy Box
+    OPP loses 500 LP -> 4900
+  [main 1]
+  OPP SUMMONS Cure Mermaid in monster zone 0  [card 1 of 2 in hand]
+  [battle phase]
+  OPP attacks with Cure Mermaid (zone 0) -> YOU's Cure Mermaid (zone 0)
+    effect: Kunai with Chain
+    YOU's Cure Mermaid (zone 0) is destroyed in battle
+    YOU loses 400 LP -> 1950
+  [main 2]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 1950 / OPP 4900) ===
+  hand: YOU 1 / OPP 0   library: YOU 60 / OPP 36
+    YOU hand [exact]: Aqua Spirit
+    OPP (recorder) hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 59)
+  [standby]
+  [main 1]
+  YOU SETS Solemn Wishes (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 16: OPP   (LP YOU 1950 / OPP 4900) ===
+  hand: YOU 1 / OPP 0   library: YOU 59 / OPP 36
+    YOU hand [exact]: Aqua Spirit
+    OPP (recorder) hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 35)
+  [standby]
+    effect: Cure Mermaid
+    OPP gains 800 LP -> 5700
+    effect: Fairy Box
+    OPP loses 500 LP -> 5200
+  [main 1]
+  OPP SUMMONS Blast Sphere in monster zone 1  [card 1 of 1 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Cure Mermaid (zone 0)
+    YOU loses 2000 LP -> -50
+  [DUEL END]  final LP: YOU -50 / OPP 5200

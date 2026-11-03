@@ -1,0 +1,210 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU (recorder) hand [exact]: Call Of The Haunted, Heavy Storm, Ring of Destruction, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Ceasefire, Dream Clown, Nobleman of Crossout, Scapegoat, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 6 of 6 in hand]
+  OPP SUMMONS Dream Clown in monster zone 0  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Heavy Storm, Ring of Destruction, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Ceasefire, Nobleman of Crossout, Scapegoat, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU SUMMONS Giant Rat in monster zone 0  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Dream Clown (zone 0)
+    effect: Magic Cylinder
+    YOU loses 1400 LP -> 6600
+  [main 2]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 1 of 5 in hand]
+  YOU SETS Heavy Storm (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 34 / OPP 38
+    YOU (recorder) hand [exact]: Call Of The Haunted, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Ceasefire, Nobleman of Crossout, Scapegoat, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+    effect: Ring of Destruction
+    OPP loses 1200 LP -> 6800
+    YOU loses 1200 LP -> 5400
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 3 / OPP 3   library: YOU 34 / OPP 37
+    YOU (recorder) hand [exact]: Call Of The Haunted, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Ceasefire, Nobleman of Crossout, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+    effect: Heavy Storm
+    effect: Scapegoat
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's Dream Clown (zone 0)
+    OPP's Dream Clown (zone 0) is destroyed in battle
+  [main 2]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 5400 / OPP 6800) ===
+  hand: YOU 3 / OPP 3   library: YOU 33 / OPP 37
+    YOU (recorder) hand [exact]: Call Of The Haunted, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: Ceasefire, Nobleman of Crossout, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES United We Stand (S/T zone 5)  [card 1 of 4 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with unknown monster (zone 3) -> YOU's Giant Rat (zone 0)
+    effect: Mystical Space Typhoon
+    OPP's unknown monster (zone 3) is destroyed in battle
+    OPP loses 1400 LP -> 5400
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5400 / OPP 5400) ===
+  hand: YOU 3 / OPP 2   library: YOU 33 / OPP 36
+    YOU (recorder) hand [exact]: Call Of The Haunted, Scapegoat, Swords of Revealing Light
+    OPP hand [exact]: 2x Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 1  [card 4 of 4 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's unknown monster (zone 1)
+    OPP's unknown monster (zone 1) is destroyed in battle
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's unknown monster (zone 2)
+    OPP's unknown monster (zone 2) is destroyed in battle
+  [main 2]
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 3 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5400 / OPP 5400) ===
+  hand: YOU 1 / OPP 2   library: YOU 32 / OPP 36
+    YOU (recorder) hand [exact]: Swords of Revealing Light
+    OPP hand [exact]: 2x Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Amazon Archer in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  OPP SETS Nobleman of Crossout (S/T zone 6)  [card 1 of 2 in hand]
+  OPP SETS Nobleman of Crossout (S/T zone 7)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5400 / OPP 5400) ===
+  hand: YOU 1 / OPP 0   library: YOU 32 / OPP 35
+    YOU (recorder) hand [exact]: Swords of Revealing Light
+    OPP hand [exact]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Swords of Revealing Light
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 1) -> OPP's face-down Amazon Archer (zone 0)
+    OPP's face-down Amazon Archer (zone 0) is destroyed in battle
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 4000
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5400 / OPP 4000) ===
+  hand: YOU 1 / OPP 0   library: YOU 31 / OPP 35
+    YOU (recorder) hand [exact]: Mad Sword Beast
+    OPP hand [exact]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 34)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5400 / OPP 4000) ===
+  hand: YOU 1 / OPP 1   library: YOU 31 / OPP 34
+    YOU (recorder) hand [exact]: Mad Sword Beast
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 2, library 30)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 2, library 29)
+  YOU draws 1  (hand now 3, library 28)
+  [battle phase]
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    OPP loses 1100 LP -> 2900
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 2 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5400 / OPP 2900) ===
+  hand: YOU 2 / OPP 1   library: YOU 28 / OPP 34
+    YOU (recorder) hand [exact]: Mad Sword Beast, The Rock Spirit
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  OPP draws 1  (hand now 2, library 33)
+  [standby]
+  [main 1]
+    effect: Nobleman of Crossout
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5400 / OPP 2900) ===
+  hand: YOU 2 / OPP 1   library: YOU 28 / OPP 33
+    YOU (recorder) hand [exact]: Mad Sword Beast, The Rock Spirit
+    OPP hand [exact]: Premature Burial
+  [draw phase]
+  YOU draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 1500
+  YOU attacks DIRECTLY with Witch of the Black Forest (zone 1)
+    effect: Call Of The Haunted
+    OPP special summons Amazon Archer to zone 0
+  [main 2]
+  YOU ACTIVATES Monster Reborn (S/T zone 8)  [card 3 of 3 in hand]
+    effect: Monster Reborn
+    YOU special summons a monster to zone 2
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 300
+    effect: Witch of the Black Forest
+  YOU SUMMONS Amazon Archer in monster zone 0  [card 2 of 3 in hand]
+    effect: Amazon Archer
+    OPP loses 1200 LP -> -900
+  [DUEL END]  final LP: YOU 5400 / OPP -900

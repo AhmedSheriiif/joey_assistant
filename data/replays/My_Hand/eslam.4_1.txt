@@ -1,0 +1,211 @@
+  OPP draws 5  (hand now 5, library 43)
+  YOU draws 5  (hand now 5, library 39)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 43
+    YOU hand [exact]: Dark Hole, Giant Rat, Monster Reborn, Nimble Momonga, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Dimensional Warrior, Giant Rat, Giant Trunade, Morphing Jar, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 42
+    YOU hand [exact]: Dark Hole, Giant Rat, Monster Reborn, Nimble Momonga, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Dimensional Warrior, Giant Trunade, Morphing Jar, Nimble Momonga, Nobleman of Crossout
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Monster Reborn (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 38 / OPP 42
+    YOU hand [exact]: Dark Hole, Giant Rat, Mirror Force, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Dimensional Warrior, Giant Trunade, Morphing Jar, Nimble Momonga, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 6, library 41)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 1 of 6 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 6600
+  [main 2]
+  OPP SETS Penguin Soldier in monster zone 1 (face-down)  [card 5 of 5 in hand]
+  OPP SETS Giant Trunade (S/T zone 5)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 38 / OPP 41
+    YOU hand [exact]: Dark Hole, Giant Rat, Mirror Force, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Dimensional Warrior, Morphing Jar, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 1 of 5 in hand]
+  YOU SETS Mirror Force (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 41
+    YOU hand [exact]: Dark Hole, Nobleman of Crossout, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Dimensional Warrior, Morphing Jar, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 4, library 40)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 5200
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 1 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 5200 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 37 / OPP 40
+    YOU hand [exact]: Dark Hole, Nobleman of Crossout, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Mirror Force, Morphing Jar, Nimble Momonga
+  [draw phase]
+  YOU draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 7)  [card 1 of 4 in hand]
+    effect: Dark Hole
+  YOU SUMMONS Giant Rat in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 6600
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 5200 / OPP 6600) ===
+  hand: YOU 2 / OPP 3   library: YOU 36 / OPP 40
+    YOU hand [exact]: Morphing Jar, Nobleman of Crossout, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Mirror Force, Morphing Jar, Nimble Momonga
+  [draw phase]
+  OPP draws 1  (hand now 4, library 39)
+  [standby]
+  [main 1]
+  OPP SETS Mirror Force (S/T zone 6)  [card 3 of 4 in hand]
+  OPP SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 5200 / OPP 6600) ===
+  hand: YOU 2 / OPP 2   library: YOU 36 / OPP 39
+    YOU hand [exact]: Morphing Jar, Nobleman of Crossout, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 3, library 35)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 1 of 3 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    OPP loses 1400 LP -> 5200
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 5200 / OPP 5200) ===
+  hand: YOU 2 / OPP 2   library: YOU 35 / OPP 39
+    YOU hand [exact]: Morphing Jar, Scapegoat, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Morphing Jar, Witch of the Black Forest
+  [draw phase]
+  OPP draws 1  (hand now 3, library 38)
+  [standby]
+  [main 1]
+  OPP SETS Magic Cylinder (S/T zone 7)  [card 4 of 4 in hand]
+  OPP SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 5200 / OPP 5200) ===
+  hand: YOU 2 / OPP 2   library: YOU 35 / OPP 38
+    YOU hand [exact]: Morphing Jar, Scapegoat, Swords of Revealing Light
+    OPP (recorder) hand [exact]: Witch of the Black Forest
+  [draw phase]
+  YOU draws 1  (hand now 3, library 34)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 0) -> OPP's face-down Morphing Jar (zone 0)
+    effect: Magic Cylinder
+    YOU loses 1400 LP -> 3800
+  [main 2]
+  YOU SETS Swords of Revealing Light (S/T zone 7)  [card 1 of 3 in hand]
+  YOU SETS Scapegoat (S/T zone 8)  [card 2 of 2 in hand]
+    effect: Swords of Revealing Light
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 37)
+  OPP draws 1  (hand now 2, library 36)
+  OPP draws 1  (hand now 3, library 35)
+  OPP draws 1  (hand now 4, library 34)
+  OPP draws 1  (hand now 5, library 33)
+  YOU draws 1  (hand now 1, library 33)
+  YOU draws 1  (hand now 2, library 32)
+  YOU draws 1  (hand now 3, library 31)
+  YOU draws 1  (hand now 4, library 30)
+  YOU draws 1  (hand now 5, library 29)
+  YOU ACTIVATES Graceful Charity (S/T zone 9)  [card 2 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 28)
+  YOU draws 1  (hand now 4, library 27)
+  YOU draws 1  (hand now 5, library 26)
+  YOU SUMMONS Amazon Archer in monster zone 1  [card 1 of 5 in hand]
+    YOU special summons a monster to zone 2
+    effect: Amazon Archer
+    OPP loses 1200 LP -> 4000
+  YOU SETS Ceasefire (S/T zone 9)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 3800 / OPP 4000) ===
+  hand: YOU 3 / OPP 5   library: YOU 26 / OPP 33
+    YOU hand [exact]: Nobleman of Crossout, Penguin Soldier, Scapegoat, The Rock Spirit, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Bazoo the Soul-Eater, Mystical Space Typhoon, Nimble Momonga, Ring of Destruction, Snatch Steal
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+    effect: Scapegoat
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 1  [card 1 of 6 in hand]
+    effect: Bazoo the Soul-Eater
+  OPP ACTIVATES Snatch Steal (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Snatch Steal
+  OPP SETS Ring of Destruction (S/T zone 6)  [card 2 of 4 in hand]
+  OPP SETS Mirror Force (S/T zone 7)  [card 2 of 3 in hand]
+  [battle phase]
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 8)  [card 3 of 3 in hand]
+    effect: Mystical Space Typhoon
+  OPP attacks with Bazoo the Soul-Eater (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+    YOU loses 2500 LP -> 1300
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 1300 / OPP 4000) ===
+  hand: YOU 3 / OPP 2   library: YOU 26 / OPP 32
+    YOU hand [exact]: Nobleman of Crossout, Penguin Soldier, Scapegoat, The Rock Spirit, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Nimble Momonga, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 25)
+    effect: Ring of Destruction
+    YOU loses 1400 LP -> -100
+    OPP loses 1400 LP -> 2600
+  [DUEL END]  final LP: YOU -100 / OPP 2600

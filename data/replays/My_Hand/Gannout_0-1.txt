@@ -1,0 +1,589 @@
+  OPP draws 5  (hand now 5, library 75)
+  YOU draws 5  (hand now 5, library 75)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 75 / OPP 75
+    YOU (recorder) hand [exact]: Giant Trunade, Mage Power, Mother Grizzly, Mystic Tomato, Snatch Steal
+    OPP hand [exact]: Dark Hole, Dimensional Warrior, Michizure, Penguin Soldier, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  OPP ACTIVATES The Forceful Sentry (S/T zone 5)  [card 6 of 6 in hand]
+    effect: The Forceful Sentry
+  OPP SETS Michizure (S/T zone 5)  [card 3 of 5 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 75 / OPP 74
+    YOU (recorder) hand [exact]: Giant Trunade, Mage Power, Mother Grizzly, Mystic Tomato, Snatch Steal
+    OPP hand [exact]: Dark Hole, Dimensional Warrior, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 74 / OPP 74
+    YOU (recorder) hand [exact]: Giant Trunade, Mage Power, Mystic Tomato, Mystical Space Typhoon, Snatch Steal
+    OPP hand [exact]: Dark Hole, Dimensional Warrior, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 4, library 73)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    YOU loses 1600 LP -> 6400
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6400 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 74 / OPP 73
+    YOU (recorder) hand [exact]: Giant Trunade, Mage Power, Mystic Tomato, Mystical Space Typhoon, Snatch Steal
+    OPP hand [exact]: Dark Hole, Dimensional Warrior, Raigeki
+  [draw phase]
+  YOU draws 1  (hand now 6, library 73)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 5)  [card 6 of 6 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6400 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 73 / OPP 73
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Mage Power, Mystical Space Typhoon, Snatch Steal, Waboku
+    OPP hand [exact]: Dark Hole, Dimensional Warrior, Raigeki
+  [draw phase]
+  OPP draws 1  (hand now 4, library 72)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 1  [card 2 of 4 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 1) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Dimensional Warrior
+  OPP attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    effect: Scapegoat
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6400 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 73 / OPP 72
+    YOU (recorder) hand [partly unknown]: Giant Trunade, Mage Power, Mystical Space Typhoon, Snatch Steal, Waboku
+    OPP hand [exact]: Dark Hole, Raigeki, Slate Warrior
+  [draw phase]
+  YOU draws 1  (hand now 5, library 72)
+  [standby]
+  [main 1]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6400 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 72 / OPP 72
+    YOU (recorder) hand [partly unknown]: Mage Power, Mystical Space Typhoon, Snatch Steal, Waboku   (+1 unknown)
+    OPP hand [exact]: Dark Hole, Raigeki, Slate Warrior
+  [draw phase]
+  OPP draws 1  (hand now 4, library 71)
+  [standby]
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 1  [card 4 of 4 in hand]
+  OPP ACTIVATES Raigeki (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Raigeki
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    YOU loses 1900 LP -> 4500
+  OPP attacks DIRECTLY with Bazoo the Soul-Eater (zone 0)
+    YOU loses 1600 LP -> 2900
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 2900 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 72 / OPP 71
+    YOU (recorder) hand [partly unknown]: Mage Power, Mystical Space Typhoon, Snatch Steal, Waboku   (+1 unknown)
+    OPP hand [exact]: Change of Heart, Dark Hole
+  [draw phase]
+  YOU draws 1  (hand now 5, library 71)
+  [standby]
+  [main 1]
+  YOU SETS Scapegoat (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Mage Power (S/T zone 7)  [card 2 of 4 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 2900 / OPP 8000) ===
+  hand: YOU 2 / OPP 2   library: YOU 71 / OPP 71
+    YOU (recorder) hand [partly unknown]: Mystical Space Typhoon, Snatch Steal, Waboku
+    OPP hand [exact]: Change of Heart, Dark Hole
+  [draw phase]
+  OPP draws 1  (hand now 3, library 70)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Change of Heart (S/T zone 6)  [card 3 of 3 in hand]
+    effect: Change of Heart
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    effect: Scapegoat
+  OPP attacks with Slate Warrior (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [main 2]
+  OPP SETS Dark Hole (S/T zone 6)  [card 2 of 2 in hand]
+  OPP SETS Penguin Soldier in monster zone 3 (face-down)  [card 1 of 1 in hand]
+    effect: Morphing Jar
+  OPP draws 1  (hand now 1, library 69)
+  OPP draws 1  (hand now 2, library 68)
+  OPP draws 1  (hand now 3, library 67)
+  OPP draws 1  (hand now 4, library 66)
+  OPP draws 1  (hand now 5, library 65)
+  YOU draws 1  (hand now 1, library 70)
+  YOU draws 1  (hand now 2, library 69)
+  YOU draws 1  (hand now 3, library 68)
+  YOU draws 1  (hand now 4, library 67)
+  YOU draws 1  (hand now 5, library 66)
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 2900 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 66 / OPP 65
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Rat, The Fiend Megacyber, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 65)
+  [standby]
+  [main 1]
+    effect: Giant Trunade
+  YOU ACTIVATES The Forceful Sentry (S/T zone 5)  [card 2 of 6 in hand]
+    effect: The Forceful Sentry
+  YOU SETS Waboku (S/T zone 5)  [card 2 of 5 in hand]
+  YOU SETS Solemn Wishes (S/T zone 6)  [card 1 of 4 in hand]
+  YOU SUMMONS Jinzo in monster zone 2  [card 1 of 3 in hand]
+    effect: Jinzo
+  [battle phase]
+  YOU attacks with Jinzo (zone 2) -> OPP's Bazoo the Soul-Eater (zone 0)
+    OPP's Bazoo the Soul-Eater (zone 0) is destroyed in battle
+    OPP loses 800 LP -> 7200
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 2900 / OPP 7200) ===
+  hand: YOU 2 / OPP 4   library: YOU 65 / OPP 65
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Rat, The Fiend Megacyber, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 64)
+  [standby]
+  [main 1]
+  OPP SETS Michizure (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Penguin Soldier
+  [battle phase]
+  OPP attacks with face-down Penguin Soldier (zone 3) -> YOU's face-down Morphing Jar (zone 0)
+    YOU's face-down Morphing Jar (zone 0) is destroyed in battle
+  OPP attacks DIRECTLY with Slate Warrior (zone 1)
+    YOU loses 1900 LP -> 1000
+  [main 2]
+  OPP SETS Slate Warrior in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Solemn Wishes
+
+=== Turn 12: YOU   (LP YOU 1000 / OPP 7200) ===
+  hand: YOU 2 / OPP 4   library: YOU 65 / OPP 64
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Rat, The Fiend Megacyber, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 3, library 64)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 1500
+  [standby]
+  [main 1]
+  YOU ACTIVATES Change of Heart (S/T zone 7)  [card 5 of 5 in hand]
+    effect: Change of Heart
+    effect: Slate Warrior
+  [battle phase]
+  YOU attacks with unknown monster (zone 0) -> OPP's Slate Warrior (zone 1)
+    OPP's Slate Warrior (zone 1) is destroyed in battle
+    OPP loses 500 LP -> 6700
+    effect: Slate Warrior
+  [main 2]
+  YOU SETS Jinzo in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 1500 / OPP 6700) ===
+  hand: YOU 3 / OPP 4   library: YOU 64 / OPP 64
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Giant Rat, The Fiend Megacyber, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 5, library 63)
+  [standby]
+  [main 1]
+  OPP SUMMONS The Fiend Megacyber in monster zone 3  [card 3 of 5 in hand]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 4 of 4 in hand]
+    effect: Nobleman of Crossout
+    effect: Waboku
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 1500 / OPP 6700) ===
+  hand: YOU 3 / OPP 3   library: YOU 64 / OPP 63
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Giant Rat, Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 4, library 63)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 2000
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 2, library 62)
+  YOU draws 1  (hand now 3, library 61)
+  YOU draws 1  (hand now 4, library 60)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 2500
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 1 of 4 in hand]
+  YOU SETS Mage Power (S/T zone 5)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 2500 / OPP 6700) ===
+  hand: YOU 2 / OPP 3   library: YOU 60 / OPP 63
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Giant Rat, Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 4, library 62)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 3 of 4 in hand]
+  [battle phase]
+  OPP attacks with The Fiend Megacyber (zone 3) -> YOU's face-down Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 3500
+    YOU special summons Nimble Momonga to zone 0
+    YOU special summons Nimble Momonga to zone 1
+  OPP attacks with Giant Rat (zone 0) -> YOU's Nimble Momonga (zone 1)
+    YOU's Nimble Momonga (zone 1) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 4500
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 4500 / OPP 6700) ===
+  hand: YOU 4 / OPP 3   library: YOU 60 / OPP 62
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Premature Burial, The Rock Spirit, United We Stand   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 59)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 5000
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 7)  [card 3 of 5 in hand]
+  YOU SETS Mystic Tomato in monster zone 1 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 5000 / OPP 6700) ===
+  hand: YOU 3 / OPP 3   library: YOU 59 / OPP 62
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Premature Burial, The Rock Spirit, United We Stand   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 61)
+  [standby]
+  [main 1]
+  OPP SETS Imperial Order (S/T zone 7)  [card 4 of 4 in hand]
+  OPP SUMMONS Mystic Tomato in monster zone 1  [card 3 of 3 in hand]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 6000
+  OPP attacks with The Fiend Megacyber (zone 3) -> YOU's face-down Mystic Tomato (zone 1)
+    YOU's Mystic Tomato (zone 1) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with Giant Rat (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 5700
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 5700 / OPP 6700) ===
+  hand: YOU 6 / OPP 2   library: YOU 59 / OPP 61
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 7, library 58)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 6200
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 8)  [card 3 of 7 in hand]
+    effect: Dark Hole
+  YOU SETS Penguin Soldier in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 6200 / OPP 6700) ===
+  hand: YOU 5 / OPP 2   library: YOU 58 / OPP 61
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: 4-Starred Ladybug of Doom, Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 3, library 60)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 8)  [card 3 of 3 in hand]
+  OPP SUMMONS 4-Starred Ladybug of Doom in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with 4-Starred Ladybug of Doom (zone 0) -> YOU's face-down Penguin Soldier (zone 0)
+    YOU's Penguin Soldier (zone 0) is destroyed in battle
+    effect: Penguin Soldier
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 6200 / OPP 6700) ===
+  hand: YOU 5 / OPP 1   library: YOU 58 / OPP 60
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 57)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 6700
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 6700 / OPP 6700) ===
+  hand: YOU 5 / OPP 1   library: YOU 57 / OPP 60
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 59)
+  [standby]
+  [main 1]
+  OPP SUMMONS Witch of the Black Forest in monster zone 1  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Witch of the Black Forest (zone 1) -> YOU's face-down Giant Rat (zone 0)
+    OPP loses 350 LP -> 6350
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 6700 / OPP 6350) ===
+  hand: YOU 5 / OPP 1   library: YOU 57 / OPP 59
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 56)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 7200
+  [standby]
+  [main 1]
+  YOU SETS Cyber Jar in monster zone 1 (face-down)  [card 1 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 23: OPP   (LP YOU 7200 / OPP 6350) ===
+  hand: YOU 5 / OPP 1   library: YOU 56 / OPP 59
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 58)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Dark Hole (S/T zone 9)  [card 1 of 2 in hand]
+    effect: Dark Hole
+    effect: Witch of the Black Forest
+    OPP special summons Slate Warrior to zone 0
+  [battle phase]
+  OPP attacks DIRECTLY with Slate Warrior (zone 0)
+    YOU loses 1700 LP -> 5500
+  [main 2]
+  OPP SETS Ring of Destruction (S/T zone 9)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 24: YOU   (LP YOU 5500 / OPP 6350) ===
+  hand: YOU 5 / OPP 1   library: YOU 56 / OPP 58
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 55)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 6000
+  [standby]
+  [main 1]
+  YOU ACTIVATES Snatch Steal (S/T zone 8)  [card 1 of 6 in hand]
+    effect: Snatch Steal
+    effect: Imperial Order
+    effect: Mystical Space Typhoon
+  [battle phase]
+  YOU attacks DIRECTLY with Giant Rat (zone 0)
+    effect: Scapegoat
+  YOU attacks with Giant Rat (zone 0) -> OPP's The Fiend Megacyber (zone 3)
+    OPP's The Fiend Megacyber (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 25: OPP   (LP YOU 6000 / OPP 6350) ===
+  hand: YOU 5 / OPP 1   library: YOU 55 / OPP 58
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 57)
+  [standby]
+    effect: Snatch Steal
+    OPP gains 1000 LP -> 7350
+  [main 1]
+  OPP SUMMONS Slate Warrior in monster zone 3  [card 1 of 2 in hand]
+  [battle phase]
+    effect: Ring of Destruction
+    YOU loses 2000 LP -> 4000
+    OPP loses 2000 LP -> 5350
+  OPP attacks DIRECTLY with Slate Warrior (zone 3)
+    YOU loses 1900 LP -> 2100
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 26: YOU   (LP YOU 2100 / OPP 5350) ===
+  hand: YOU 5 / OPP 1   library: YOU 55 / OPP 57
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 54)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 2600
+  [standby]
+  [main 1]
+  YOU ACTIVATES Raigeki (S/T zone 7)  [card 1 of 6 in hand]
+    effect: Raigeki
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 27: OPP   (LP YOU 2600 / OPP 5350) ===
+  hand: YOU 5 / OPP 1   library: YOU 54 / OPP 57
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 56)
+  [standby]
+  [main 1]
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 28: YOU   (LP YOU 2600 / OPP 5350) ===
+  hand: YOU 5 / OPP 1   library: YOU 54 / OPP 56
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 53)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 3100
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 29: OPP   (LP YOU 3100 / OPP 5350) ===
+  hand: YOU 6 / OPP 1   library: YOU 53 / OPP 56
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 55)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    OPP special summons The Fiend Megacyber to zone 0
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  OPP attacks DIRECTLY with The Fiend Megacyber (zone 0)
+    YOU loses 2500 LP -> 600
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 8)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 30: YOU   (LP YOU 600 / OPP 5350) ===
+  hand: YOU 6 / OPP 1   library: YOU 53 / OPP 55
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 7, library 52)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 1100
+  [standby]
+  [main 1]
+  YOU ACTIVATES Fissure (S/T zone 7)  [card 1 of 7 in hand]
+    effect: Fissure
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 2 of 6 in hand]
+    effect: Torrential Tribute
+  YOU ACTIVATES Last Will (S/T zone 7)  [card 1 of 5 in hand]
+    effect: Last Will
+    effect: Last Will
+    YOU special summons Penguin Soldier to zone 0
+    effect: Mage Power
+  [battle phase]
+  YOU attacks DIRECTLY with Penguin Soldier (zone 0)
+    OPP loses 2000 LP -> 3350
+  YOU attacks DIRECTLY with Penguin Soldier (zone 0)
+    OPP loses 2000 LP -> 1350
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 31: OPP   (LP YOU 1100 / OPP 1350) ===
+  hand: YOU 6 / OPP 1   library: YOU 52 / OPP 55
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 54)
+  [standby]
+  [main 1]
+  OPP SETS Kycoo the Ghost Destroyer in monster zone 0 (face-down)  [card 1 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 32: YOU   (LP YOU 1100 / OPP 1350) ===
+  hand: YOU 6 / OPP 1   library: YOU 52 / OPP 54
+    YOU (recorder) hand [partly unknown]: -   (+6 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 7, library 51)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 1600
+  [standby]
+  [main 1]
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 33: OPP   (LP YOU 1600 / OPP 1350) ===
+  hand: YOU 6 / OPP 1   library: YOU 51 / OPP 54
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: Premature Burial, The Rock Spirit, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 2, library 53)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Snatch Steal (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  OPP attacks DIRECTLY with face-down Kycoo the Ghost Destroyer (zone 0)
+    YOU loses 1800 LP -> -200
+  [DUEL END]  final LP: YOU -200 / OPP 1350

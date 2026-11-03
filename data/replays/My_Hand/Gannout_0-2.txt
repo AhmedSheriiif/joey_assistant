@@ -1,0 +1,267 @@
+  OPP draws 5  (hand now 5, library 75)
+  YOU draws 5  (hand now 5, library 75)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 75 / OPP 75
+    YOU (recorder) hand [exact]: Cure Mermaid, Fissure, Giant Rat, The Rock Spirit, Wall of Illusion
+    OPP hand [exact]: Acid Trap Hole, Dimensional Warrior, Giant Germ, Mystic Tomato, Royal Decree
+  [draw phase]
+  OPP draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  OPP SETS Acid Trap Hole (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Royal Decree (S/T zone 6)  [card 4 of 5 in hand]
+  OPP SETS Seven Tools of the Bandit (S/T zone 7)  [card 4 of 4 in hand]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 75 / OPP 74
+    YOU (recorder) hand [exact]: Cure Mermaid, Fissure, Giant Rat, The Rock Spirit, Wall of Illusion
+    OPP hand [exact]: Dimensional Warrior, Mystic Tomato
+  [draw phase]
+  YOU draws 1  (hand now 6, library 74)
+  [standby]
+  [main 1]
+  YOU SETS Fissure (S/T zone 5)  [card 3 of 6 in hand]
+  YOU SETS Scapegoat (S/T zone 6)  [card 5 of 5 in hand]
+  YOU SETS Wall of Illusion in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Acid Trap Hole
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 74 / OPP 74
+    YOU (recorder) hand [exact]: Cure Mermaid, Giant Rat, The Rock Spirit
+    OPP hand [exact]: Dimensional Warrior, Mystic Tomato
+  [draw phase]
+  OPP draws 1  (hand now 3, library 73)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 1)
+    effect: Scapegoat
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's unknown monster (zone 2)
+    YOU's unknown monster (zone 2) is destroyed in battle
+  OPP attacks with face-down Giant Germ (zone 0) -> YOU's unknown monster (zone 3)
+    YOU's unknown monster (zone 3) is destroyed in battle
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 74 / OPP 73
+    YOU (recorder) hand [exact]: Cure Mermaid, Giant Rat, The Rock Spirit
+    OPP hand [exact]: Cyber Jar, Dimensional Warrior
+  [draw phase]
+  YOU draws 1  (hand now 4, library 73)
+  [standby]
+  [main 1]
+  YOU SETS Giant Rat in monster zone 2 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 73 / OPP 73
+    YOU (recorder) hand [exact]: Cure Mermaid, Mother Grizzly, The Rock Spirit
+    OPP hand [exact]: Cyber Jar, Dimensional Warrior
+  [draw phase]
+  OPP draws 1  (hand now 3, library 72)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's Wall of Illusion (zone 0)
+    YOU's Wall of Illusion (zone 0) is destroyed in battle
+  OPP attacks with Giant Germ (zone 0) -> YOU's unknown monster (zone 1)
+    YOU's unknown monster (zone 1) is destroyed in battle
+  [main 2]
+  OPP SETS Dimensional Warrior in monster zone 2 (face-down)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 2   library: YOU 73 / OPP 72
+    YOU (recorder) hand [exact]: Cure Mermaid, Mother Grizzly, The Rock Spirit
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cyber Jar
+  [draw phase]
+  YOU draws 1  (hand now 4, library 72)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 4, library 71)
+  YOU draws 1  (hand now 5, library 70)
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 2   library: YOU 70 / OPP 72
+    YOU (recorder) hand [exact]: Bazoo the Soul-Eater, Cannon Soldier, Cure Mermaid, The Rock Spirit
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cyber Jar
+  [draw phase]
+  OPP draws 1  (hand now 3, library 71)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with face-down Dimensional Warrior (zone 2) -> YOU's face-down Giant Rat (zone 2)
+    OPP loses 250 LP -> 7750
+    effect: Dimensional Warrior
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's face-down Mother Grizzly (zone 0)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 8000 / OPP 7750) ===
+  hand: YOU 5 / OPP 3   library: YOU 70 / OPP 71
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, Cure Mermaid, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cyber Jar, Heavy Storm
+  [draw phase]
+  YOU draws 1  (hand now 6, library 69)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 6)  [card 5 of 6 in hand]
+  YOU SUMMONS Cure Mermaid in monster zone 1  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 8000 / OPP 7750) ===
+  hand: YOU 4 / OPP 3   library: YOU 69 / OPP 71
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+1 unknown)
+    OPP hand [exact]: 4-Starred Ladybug of Doom, Cyber Jar, Heavy Storm
+  [draw phase]
+  OPP draws 1  (hand now 4, library 70)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Mystic Tomato (zone 1) -> YOU's Mother Grizzly (zone 0)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 2 (face-down)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 8000 / OPP 7750) ===
+  hand: YOU 5 / OPP 3   library: YOU 69 / OPP 70
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Cyber Jar, Heavy Storm, Man-Eater Bug
+  [draw phase]
+  YOU draws 1  (hand now 6, library 68)
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 8800
+  [main 1]
+  YOU SETS Waboku (S/T zone 7)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 8800 / OPP 7750) ===
+  hand: YOU 5 / OPP 3   library: YOU 68 / OPP 70
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Cyber Jar, Heavy Storm, Man-Eater Bug
+  [draw phase]
+  OPP draws 1  (hand now 4, library 69)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 3 (face-down)  [card 3 of 4 in hand]
+    effect: 4-Starred Ladybug of Doom
+  [battle phase]
+  OPP attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 2)
+    YOU loses 800 LP -> 8000
+  OPP attacks DIRECTLY with Mystic Tomato (zone 1)
+    effect: Magic Cylinder
+    effect: Seven Tools of the Bandit
+    OPP loses 1000 LP -> 6750
+    YOU loses 1400 LP -> 6600
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 5600
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5600 / OPP 6750) ===
+  hand: YOU 5 / OPP 3   library: YOU 68 / OPP 69
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Cyber Jar, Goblin Attack Force, Heavy Storm
+  [draw phase]
+  YOU draws 1  (hand now 6, library 67)
+  [standby]
+  [main 1]
+  YOU SUMMONS Cure Mermaid in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  YOU attacks with Cure Mermaid (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 2)
+    OPP's 4-Starred Ladybug of Doom (zone 2) is destroyed in battle
+    OPP loses 700 LP -> 6050
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+    effect: Royal Decree
+
+=== Turn 13: OPP   (LP YOU 5600 / OPP 6050) ===
+  hand: YOU 5 / OPP 3   library: YOU 67 / OPP 69
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Cyber Jar, Goblin Attack Force, Heavy Storm
+  [draw phase]
+  OPP draws 1  (hand now 4, library 68)
+  [standby]
+  [main 1]
+  OPP SUMMONS Goblin Attack Force in monster zone 2  [card 3 of 4 in hand]
+    effect: Man-Eater Bug
+  [battle phase]
+  OPP attacks DIRECTLY with Goblin Attack Force (zone 2)
+    YOU loses 2300 LP -> 3300
+  OPP attacks DIRECTLY with Mystic Tomato (zone 1)
+    YOU loses 1400 LP -> 1900
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 900
+  OPP attacks DIRECTLY with face-down Man-Eater Bug (zone 3)
+    YOU loses 450 LP -> 450
+    effect: Goblin Attack Force
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 450 / OPP 6050) ===
+  hand: YOU 5 / OPP 3   library: YOU 67 / OPP 68
+    YOU (recorder) hand [partly unknown]: Bazoo the Soul-Eater, Cannon Soldier, The Rock Spirit   (+2 unknown)
+    OPP hand [exact]: Cyber Jar, Giant Germ, Heavy Storm
+  [draw phase]
+  YOU draws 1  (hand now 6, library 66)
+  [standby]
+  [main 1]
+  YOU SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 2 of 6 in hand]
+    effect: Bazoo the Soul-Eater
+  [battle phase]
+  YOU attacks with Bazoo the Soul-Eater (zone 0) -> OPP's Man-Eater Bug (zone 3)
+    OPP's Man-Eater Bug (zone 3) is destroyed in battle
+    OPP loses 2050 LP -> 4000
+  [main 2]
+    effect: Fissure
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 450 / OPP 4000) ===
+  hand: YOU 5 / OPP 3   library: YOU 66 / OPP 68
+    YOU (recorder) hand [partly unknown]: Cannon Soldier, The Rock Spirit   (+3 unknown)
+    OPP hand [exact]: Cyber Jar, Giant Germ, Heavy Storm
+  [draw phase]
+  OPP draws 1  (hand now 4, library 67)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Delinquent Duo (S/T zone 5)  [card 4 of 4 in hand]
+    effect: Delinquent Duo
+    OPP loses 1000 LP -> 3000
+  OPP ACTIVATES Heavy Storm (S/T zone 5)  [card 2 of 3 in hand]
+    effect: Heavy Storm
+  OPP SUMMONS Giant Germ in monster zone 0  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's Bazoo the Soul-Eater (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    OPP loses 1500 LP -> 1500
+    effect: Giant Germ
+    YOU loses 500 LP -> -50
+    OPP special summons Giant Germ to zone 0
+  [DUEL END]  final LP: YOU -50 / OPP 1500

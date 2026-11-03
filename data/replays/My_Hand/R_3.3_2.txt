@@ -1,0 +1,200 @@
+  YOU draws 5  (hand now 5, library 44)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 44 / OPP 35
+    YOU hand [exact]: Dimensional Warrior, Mad Sword Beast, Magician of Faith, Sangan, Torrential Tribute
+    OPP (recorder) hand [exact]: Call Of The Haunted, Crush Card, Flying Kamakiri #1, Giant Germ, Windstorm of Etaqua
+  [draw phase]
+  YOU draws 1  (hand now 6, library 43)
+  [standby]
+  [main 1]
+  YOU SETS Torrential Tribute (S/T zone 5)  [card 2 of 6 in hand]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 43 / OPP 35
+    YOU hand [exact]: Aqua Spirit, Dimensional Warrior, Mad Sword Beast, Magician of Faith
+    OPP (recorder) hand [exact]: Call Of The Haunted, Crush Card, Flying Kamakiri #1, Giant Germ, Windstorm of Etaqua
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Germ in monster zone 0  [card 4 of 6 in hand]
+  [battle phase]
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Sangan (zone 0)
+    YOU's Sangan (zone 0) is destroyed in battle
+    effect: Sangan
+  [main 2]
+  OPP SETS Windstorm of Etaqua (S/T zone 5)  [card 1 of 5 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 6)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 43 / OPP 34
+    YOU hand [partly unknown]: Aqua Spirit, Dimensional Warrior, Mad Sword Beast, Magician of Faith   (+1 unknown)
+    OPP (recorder) hand [exact]: Crush Card, Flying Kamakiri #1, Harpie's Brother
+  [draw phase]
+  YOU draws 1  (hand now 6, library 42)
+  [standby]
+  [main 1]
+  YOU SETS Mother Grizzly in monster zone 0 (face-down)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 3   library: YOU 42 / OPP 34
+    YOU hand [partly unknown]: Aqua Spirit, Dimensional Warrior, Mad Sword Beast, Magician of Faith   (+1 unknown)
+    OPP (recorder) hand [exact]: Crush Card, Flying Kamakiri #1, Harpie's Brother
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 1  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 1) -> YOU's face-down Mother Grizzly (zone 0)
+    YOU's Mother Grizzly (zone 0) is destroyed in battle
+    effect: Mother Grizzly
+    YOU special summons Mother Grizzly to zone 0
+  OPP attacks with Giant Germ (zone 0) -> YOU's Mother Grizzly (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    OPP loses 500 LP -> 7500
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+    OPP special summons Giant Germ to zone 2
+  [main 2]
+  OPP SETS Crush Card (S/T zone 7)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 7500 / OPP 7500) ===
+  hand: YOU 6 / OPP 3   library: YOU 42 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, Dimensional Warrior, Mad Sword Beast, Magician of Faith   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Flying Kamakiri #1, Harpie's Brother   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 41)
+    effect: Crush Card
+  [standby]
+  [main 1]
+  YOU SETS Nobleman of Crossout (S/T zone 6)  [card 4 of 7 in hand]
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Dimensional Warrior (zone 0) -> OPP's Flying Kamakiri #1 (zone 1)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    YOU loses 200 LP -> 7300
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 7300 / OPP 7500) ===
+  hand: YOU 5 / OPP 3   library: YOU 41 / OPP 33
+    YOU hand [partly unknown]: Aqua Spirit, Mad Sword Beast, Magician of Faith   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Flying Kamakiri #1, Harpie's Brother   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 6300
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 6300 / OPP 7500) ===
+  hand: YOU 5 / OPP 4   library: YOU 41 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, Mad Sword Beast, Magician of Faith   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Flying Kamakiri #1, Harpie's Brother   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 40)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mad Sword Beast in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mad Sword Beast (zone 0) -> OPP's Giant Germ (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 7100
+    effect: Giant Germ
+    YOU loses 500 LP -> 5800
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5800 / OPP 7100) ===
+  hand: YOU 5 / OPP 5   library: YOU 40 / OPP 32
+    YOU hand [partly unknown]: Aqua Spirit, Magician of Faith   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Flying Kamakiri #1, Harpie's Brother   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 0  [card 2 of 6 in hand]
+    effect: Torrential Tribute
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5800 / OPP 7100) ===
+  hand: YOU 5 / OPP 5   library: YOU 40 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Magician of Faith   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Harpie's Brother   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 39)
+  [standby]
+  [main 1]
+  YOU SETS Crush Card (S/T zone 5)  [card 2 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5800 / OPP 7100) ===
+  hand: YOU 5 / OPP 5   library: YOU 39 / OPP 31
+    YOU hand [partly unknown]: Aqua Spirit, Magician of Faith   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Harpie's Brother   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Harpie's Brother in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Harpie's Brother (zone 0)
+    YOU loses 1800 LP -> 4000
+  [main 2]
+  OPP SETS Kunai with Chain (S/T zone 7)  [card 3 of 5 in hand]
+  OPP SETS Rush Recklessly (S/T zone 8)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 4000 / OPP 7100) ===
+  hand: YOU 5 / OPP 3   library: YOU 39 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Magician of Faith   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 4000 / OPP 7100) ===
+  hand: YOU 5 / OPP 3   library: YOU 38 / OPP 30
+    YOU hand [partly unknown]: Aqua Spirit, Magician of Faith   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 9)  [card 1 of 4 in hand]
+    effect: Nobleman of Crossout
+  OPP SUMMONS 4-Starred Ladybug of Doom in monster zone 1  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Harpie's Brother (zone 0)
+    YOU loses 1800 LP -> 2200
+  OPP attacks DIRECTLY with 4-Starred Ladybug of Doom (zone 1)
+    YOU loses 800 LP -> 1400
+    effect: Call Of The Haunted
+    OPP special summons Giant Germ to zone 2
+  OPP attacks DIRECTLY with Giant Germ (zone 2)
+    YOU loses 1400 LP -> 0
+  [DUEL END]  final LP: YOU 0 / OPP 7100

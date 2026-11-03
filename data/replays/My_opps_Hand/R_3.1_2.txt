@@ -1,0 +1,529 @@
+  YOU draws 5  (hand now 5, library 47)
+  OPP draws 5  (hand now 5, library 35)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 47 / OPP 35
+    YOU (recorder) hand [exact]: Dimensional Warrior, Greenkappa, Kycoo the Ghost Destroyer, Morphing Jar, Nimble Momonga
+    OPP hand [exact]: Dust Tornado, Giant Germ, Harpie's Brother, Magic Cylinder, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 6, library 46)
+  [standby]
+  [main 1]
+  YOU SETS Nimble Momonga in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 46 / OPP 35
+    YOU (recorder) hand [exact]: Dimensional Warrior, Greenkappa, Kycoo the Ghost Destroyer, Man-Eater Bug, Morphing Jar
+    OPP hand [exact]: Dust Tornado, Giant Germ, Harpie's Brother, Magic Cylinder, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  OPP SETS Dust Tornado (S/T zone 5)  [card 4 of 5 in hand]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 3 of 4 in hand]
+  OPP SETS Torrential Tribute (S/T zone 7)  [card 1 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 2   library: YOU 46 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Greenkappa, Kycoo the Ghost Destroyer, Man-Eater Bug, Morphing Jar
+    OPP hand [exact]: Harpie's Brother, Man-Eater Bug
+  [draw phase]
+  YOU draws 1  (hand now 6, library 45)
+  [standby]
+  [main 1]
+  YOU SETS Kunai with Chain (S/T zone 5)  [card 6 of 6 in hand]
+  [battle phase]
+  YOU attacks with face-down Nimble Momonga (zone 0) -> OPP's face-down Giant Germ (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    effect: Giant Germ
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+    OPP special summons Giant Germ to zone 1
+  [main 2]
+  YOU SETS Greenkappa in monster zone 1 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 7500 / OPP 8000) ===
+  hand: YOU 4 / OPP 3   library: YOU 45 / OPP 34
+    YOU (recorder) hand [exact]: Dimensional Warrior, Kycoo the Ghost Destroyer, Man-Eater Bug, Morphing Jar
+    OPP hand [partly unknown]: Harpie's Brother, Man-Eater Bug   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Harpie's Brother in monster zone 2  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 2) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    YOU loses 800 LP -> 6700
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 7700
+    YOU special summons Nimble Momonga to zone 0
+  OPP attacks with Giant Germ (zone 0) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 8700
+    YOU special summons Nimble Momonga to zone 0
+  OPP attacks with Giant Germ (zone 1) -> YOU's Nimble Momonga (zone 0)
+    YOU's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    YOU gains 1000 LP -> 9700
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 9700 / OPP 8000) ===
+  hand: YOU 7 / OPP 3   library: YOU 45 / OPP 33
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Kycoo the Ghost Destroyer, Man-Eater Bug, Morphing Jar   (+3 unknown)
+    OPP hand [partly unknown]: Man-Eater Bug   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 44)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Dust Tornado
+    effect: Kunai with Chain
+  YOU SETS Torrential Tribute (S/T zone 5)  [card 5 of 8 in hand]
+  YOU SETS Man-Eater Bug in monster zone 0 (face-down)  [card 4 of 7 in hand]
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 9700 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 44 / OPP 33
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Kycoo the Ghost Destroyer, Morphing Jar   (+3 unknown)
+    OPP hand [partly unknown]: Man-Eater Bug   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 32)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 2) -> YOU's face-down Greenkappa (zone 1)
+    YOU's face-down Greenkappa (zone 1) is destroyed in battle
+    YOU loses 1150 LP -> 8550
+  OPP attacks with Giant Germ (zone 0) -> YOU's face-down Man-Eater Bug (zone 0)
+    YOU's Man-Eater Bug (zone 0) is destroyed in battle
+    effect: Man-Eater Bug
+  OPP attacks DIRECTLY with Giant Germ (zone 1)
+    YOU loses 1000 LP -> 7550
+  [main 2]
+  OPP SETS Man-Eater Bug in monster zone 2 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 7550 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 44 / OPP 32
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Kycoo the Ghost Destroyer, Morphing Jar   (+3 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 43)
+  [standby]
+  [main 1]
+  YOU SUMMONS Kycoo the Ghost Destroyer in monster zone 0  [card 2 of 7 in hand]
+  [battle phase]
+  YOU attacks with Kycoo the Ghost Destroyer (zone 0) -> OPP's Giant Germ (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1800 LP -> 5750
+  [end phase]
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 43 / OPP 32
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Morphing Jar   (+4 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 31)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 3  [card 1 of 4 in hand]
+    effect: Torrential Tribute
+    effect: Sangan
+  OPP SETS Windstorm of Etaqua (S/T zone 5)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 5750 / OPP 8000) ===
+  hand: YOU 6 / OPP 3   library: YOU 43 / OPP 31
+    YOU (recorder) hand [partly unknown]: Dimensional Warrior, Morphing Jar   (+4 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 42)
+  [standby]
+  [main 1]
+  YOU SETS Crush Card (S/T zone 5)  [card 3 of 7 in hand]
+  YOU SUMMONS Dimensional Warrior in monster zone 0  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 0)
+    OPP loses 1200 LP -> 6800
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 5750 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 42 / OPP 31
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+4 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 4 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 0) -> YOU's Dimensional Warrior (zone 0)
+    YOU's Dimensional Warrior (zone 0) is destroyed in battle
+    YOU loses 200 LP -> 5550
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 11: YOU   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 5 / OPP 3   library: YOU 42 / OPP 30
+    YOU (recorder) hand [partly unknown]: Morphing Jar   (+4 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 41)
+  [standby]
+  [main 1]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 1 of 6 in hand]
+  YOU SETS Axe of Despair (S/T zone 6)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 12: OPP   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 4 / OPP 3   library: YOU 41 / OPP 30
+    YOU (recorder) hand [partly unknown]: -   (+4 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 29)
+  [standby]
+  [main 1]
+  OPP SETS Mystic Box (S/T zone 6)  [card 1 of 4 in hand]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 0) -> YOU's face-down Morphing Jar (zone 0)
+    YOU's Morphing Jar (zone 0) is destroyed in battle
+    effect: Morphing Jar
+  YOU draws 1  (hand now 1, library 40)
+  YOU draws 1  (hand now 2, library 39)
+  YOU draws 1  (hand now 3, library 38)
+  YOU draws 1  (hand now 4, library 37)
+  YOU draws 1  (hand now 5, library 36)
+  OPP draws 1  (hand now 1, library 28)
+  OPP draws 1  (hand now 2, library 27)
+  OPP draws 1  (hand now 3, library 26)
+  OPP draws 1  (hand now 4, library 25)
+  OPP draws 1  (hand now 5, library 24)
+  [main 2]
+  OPP ACTIVATES Graceful Charity (S/T zone 7)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 23)
+  OPP draws 1  (hand now 4, library 22)
+  OPP draws 1  (hand now 5, library 21)
+  OPP SETS Crush Card (S/T zone 7)  [card 5 of 5 in hand]
+  OPP SETS Call Of The Haunted (S/T zone 8)  [card 1 of 4 in hand]
+  OPP SETS Nobleman of Crossout (S/T zone 9)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 13: YOU   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 5 / OPP 2   library: YOU 36 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+5 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Magic Drain (S/T zone 7)  [card 6 of 6 in hand]
+  YOU SETS Premature Burial (S/T zone 8)  [card 4 of 5 in hand]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 3 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 14: OPP   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 3 / OPP 2   library: YOU 35 / OPP 21
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 20)
+  [standby]
+  [main 1]
+    effect: Nobleman of Crossout
+    effect: Magic Drain
+    effect: Call Of The Haunted
+    OPP special summons Giant Germ to zone 1
+    effect: Crush Card
+    effect: Sangan
+  OPP SETS Waboku (S/T zone 7)  [card 1 of 4 in hand]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  [battle phase]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 15: YOU   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 3 / OPP 2   library: YOU 35 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+3 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  YOU SETS Magic Cylinder (S/T zone 7)  [card 2 of 4 in hand]
+  [battle phase]
+  YOU attacks with 4-Starred Ladybug of Doom (zone 0) -> OPP's Flying Kamakiri #1 (zone 0)
+    effect: Windstorm of Etaqua
+  [main 2]
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 16: OPP   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 2 / OPP 2   library: YOU 34 / OPP 20
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+4 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 19)
+  [standby]
+  [main 1]
+    effect: 4-Starred Ladybug of Doom
+  [battle phase]
+  OPP attacks with face-down 4-Starred Ladybug of Doom (zone 1) -> YOU's face-down Penguin Soldier (zone 1)
+    YOU's Penguin Soldier (zone 1) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  OPP SETS Mirror Wall (S/T zone 5)  [card 1 of 3 in hand]
+  OPP SETS Penguin Soldier in monster zone 0 (face-down)  [card 3 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 17: YOU   (LP YOU 5550 / OPP 6800) ===
+  hand: YOU 2 / OPP 2   library: YOU 34 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 33)
+  [standby]
+  [main 1]
+    effect: Premature Burial
+    YOU loses 800 LP -> 4750
+    YOU special summons Penguin Soldier to zone 0
+  [battle phase]
+  YOU attacks with Penguin Soldier (zone 0) -> OPP's 4-Starred Ladybug of Doom (zone 1)
+    effect: Waboku
+  [main 2]
+  YOU SETS Waboku (S/T zone 9)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 18: OPP   (LP YOU 4750 / OPP 6800) ===
+  hand: YOU 2 / OPP 2   library: YOU 33 / OPP 19
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 3, library 18)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 3 of 3 in hand]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 2  [card 1 of 2 in hand]
+    effect: Mystic Box
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 2) -> YOU's Penguin Soldier (zone 0)
+    YOU's Penguin Soldier (zone 0) is destroyed in battle
+    YOU loses 600 LP -> 4150
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 19: YOU   (LP YOU 4150 / OPP 6800) ===
+  hand: YOU 2 / OPP 1   library: YOU 33 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 32)
+  [standby]
+  [main 1]
+  YOU SUMMONS Wall of Illusion in monster zone 0  [card 2 of 3 in hand]
+  [battle phase]
+  YOU attacks with Wall of Illusion (zone 0) -> OPP's face-down Penguin Soldier (zone 0)
+    effect: Mirror Wall
+    effect: Penguin Soldier
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 20: OPP   (LP YOU 4150 / OPP 6800) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 18
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 17)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  [battle phase]
+  OPP attacks DIRECTLY with Flying Kamakiri #1 (zone 2)
+    effect: Magic Cylinder
+    OPP loses 1400 LP -> 5400
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 5)  [card 3 of 3 in hand]
+  OPP SETS Mask of Darkness in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 21: YOU   (LP YOU 4150 / OPP 5400) ===
+  hand: YOU 2 / OPP 1   library: YOU 32 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+2 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 3, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 7)  [card 4 of 4 in hand]
+    effect: Dark Hole
+    effect: Solemn Judgment
+    OPP loses 2700 LP -> 2700
+  YOU SUMMONS Wall of Illusion in monster zone 0  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Wall of Illusion (zone 0) -> OPP's face-down Mask of Darkness (zone 0)
+    OPP's Mask of Darkness (zone 0) is destroyed in battle
+    effect: Mask of Darkness
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 22: OPP   (LP YOU 4150 / OPP 2700) ===
+  hand: YOU 2 / OPP 1   library: YOU 31 / OPP 17
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 2, library 16)
+  [standby]
+  [main 1]
+  OPP SETS Solemn Judgment (S/T zone 6)  [card 2 of 2 in hand]
+  OPP SETS Solemn Judgment (S/T zone 7)  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 2) -> YOU's Wall of Illusion (zone 0)
+    effect: Waboku
+    effect: Wall of Illusion
+    -> Wall of Illusion returns OPP's attacking Flying Kamakiri #1 to its owner's hand (damage still counts)
+  [main 2]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: OPP holds 0 card(s) in hand
+
+=== Turn 23: YOU   (LP YOU 4150 / OPP 2700) ===
+  hand: YOU 2 / OPP 0   library: YOU 31 / OPP 16
+    YOU (recorder) hand [partly unknown]: -   (+1 unknown)
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 3, library 30)
+  [standby]
+  [main 1]
+  YOU SETS 4-Starred Ladybug of Doom in monster zone 1 (face-down)  [card 2 of 3 in hand]
+  YOU SETS Mage Power (S/T zone 7)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 24: OPP   (LP YOU 4150 / OPP 2700) ===
+  hand: YOU 1 / OPP 0   library: YOU 30 / OPP 16
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 1, library 15)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 0) -> YOU's face-down 4-Starred Ladybug of Doom (zone 1)
+    YOU's 4-Starred Ladybug of Doom (zone 1) is destroyed in battle
+    effect: 4-Starred Ladybug of Doom
+  [main 2]
+  OPP SETS Scapegoat (S/T zone 9)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 25: YOU   (LP YOU 4150 / OPP 2700) ===
+  hand: YOU 1 / OPP 1   library: YOU 30 / OPP 15
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 2, library 29)
+  [standby]
+  [main 1]
+  YOU SETS Mirror Wall (S/T zone 8)  [card 2 of 2 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Wall of Illusion (zone 0)
+    effect: Scapegoat
+  YOU attacks with Wall of Illusion (zone 0) -> OPP's Sangan (zone 3)
+    OPP's Sangan (zone 3) is destroyed in battle
+  [main 2]
+  YOU SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 1 in hand]
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 26: OPP   (LP YOU 4150 / OPP 2700) ===
+  hand: YOU 0 / OPP 1   library: YOU 29 / OPP 15
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 2, library 14)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 3  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 3) -> YOU's Wall of Illusion (zone 0)
+    effect: Mirror Wall
+    effect: Rush Recklessly
+    YOU's Wall of Illusion (zone 0) is destroyed in battle
+    YOU loses 50 LP -> 4100
+    effect: Wall of Illusion
+    -> Wall of Illusion returns OPP's attacking Flying Kamakiri #1 to its owner's hand (damage still counts)
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 27: YOU   (LP YOU 4100 / OPP 2700) ===
+  hand: YOU 0 / OPP 1   library: YOU 29 / OPP 14
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 1, library 28)
+  [standby]
+    effect: Mirror Wall
+  [main 1]
+  YOU ACTIVATES Ekibyo Drakmord (S/T zone 8)  [card 1 of 1 in hand]
+    effect: Ekibyo Drakmord
+  [end phase]
+    end of turn: YOU holds 0 card(s) in hand
+
+=== Turn 28: OPP   (LP YOU 4100 / OPP 2700) ===
+  hand: YOU 0 / OPP 1   library: YOU 28 / OPP 14
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  OPP draws 1  (hand now 2, library 13)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 3  [card 2 of 2 in hand]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 3) -> YOU's face-down Magician of Faith (zone 1)
+    YOU's Magician of Faith (zone 1) is destroyed in battle
+    effect: Magician of Faith
+  [main 2]
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 29: YOU   (LP YOU 4100 / OPP 2700) ===
+  hand: YOU 0 / OPP 1   library: YOU 28 / OPP 13
+    YOU (recorder) hand [partly unknown]: -
+    OPP hand [partly unknown]: -
+  [draw phase]
+  YOU draws 1  (hand now 1, library 27)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Dark Hole (S/T zone 9)  [card 1 of 1 in hand]
+    effect: Dark Hole
+  YOU SUMMONS Cure Mermaid in monster zone 0  [card 1 of 1 in hand]
+    effect: Axe of Despair
+    effect: Mage Power
+  [battle phase]
+  YOU attacks DIRECTLY with Cure Mermaid (zone 0)
+    OPP loses 4000 LP -> -1300
+  [DUEL END]  final LP: YOU 4100 / OPP -1300

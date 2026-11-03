@@ -1,0 +1,177 @@
+  YOU draws 5  (hand now 5, library 42)
+  OPP draws 5  (hand now 5, library 39)
+
+=== Turn 1: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 42 / OPP 39
+    YOU hand [exact]: Amazon Archer, Cannon Soldier, Giant Trunade, Mystical Space Typhoon, Snatch Steal
+    OPP (recorder) hand [exact]: Fissure, Mage Power, Magician of Faith, Penguin Soldier, United We Stand
+  [draw phase]
+  YOU draws 1  (hand now 6, library 41)
+  [standby]
+  [main 1]
+  YOU SETS Mystical Space Typhoon (S/T zone 5)  [card 5 of 6 in hand]
+  YOU SUMMONS Cannon Soldier in monster zone 0  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 2: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 5   library: YOU 41 / OPP 39
+    YOU hand [exact]: Amazon Archer, Giant Trunade, Heavy Storm, Snatch Steal
+    OPP (recorder) hand [exact]: Fissure, Mage Power, Magician of Faith, Penguin Soldier, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SUMMONS Sangan in monster zone 0  [card 6 of 6 in hand]
+  OPP ACTIVATES United We Stand (S/T zone 5)  [card 1 of 5 in hand]
+    effect: United We Stand
+  [battle phase]
+  OPP attacks with Sangan (zone 0) -> YOU's Cannon Soldier (zone 0)
+    effect: Mystical Space Typhoon
+    OPP's Sangan (zone 0) is destroyed in battle
+    OPP loses 400 LP -> 7600
+    effect: Sangan
+  [main 2]
+  OPP SETS Mage Power (S/T zone 5)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 3: YOU   (LP YOU 8000 / OPP 7600) ===
+  hand: YOU 4 / OPP 4   library: YOU 41 / OPP 38
+    YOU hand [exact]: Amazon Archer, Giant Trunade, Heavy Storm, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Fissure, Magician of Faith, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 40)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks DIRECTLY with Cannon Soldier (zone 0)
+    OPP loses 1400 LP -> 6200
+  [main 2]
+  YOU SETS Giant Trunade (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 4: OPP   (LP YOU 8000 / OPP 6200) ===
+  hand: YOU 4 / OPP 4   library: YOU 40 / OPP 38
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Mage Power, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Fissure, Magician of Faith, Penguin Soldier   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 2 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Cannon Soldier (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    YOU's Cannon Soldier (zone 0) is destroyed in battle
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 6600
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 5: YOU   (LP YOU 6600 / OPP 6200) ===
+  hand: YOU 4 / OPP 5   library: YOU 40 / OPP 37
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Mage Power, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Fissure, Magician of Faith, Penguin Soldier   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 39)
+  [standby]
+  [main 1]
+  YOU SETS Sangan in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 6: OPP   (LP YOU 6600 / OPP 6200) ===
+  hand: YOU 4 / OPP 5   library: YOU 39 / OPP 37
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Mage Power, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Fissure, Magician of Faith, Penguin Soldier   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 4 of 6 in hand]
+    effect: Nobleman of Crossout
+  OPP SETS Magician of Faith in monster zone 1 (face-down)  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 5200
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 7: YOU   (LP YOU 5200 / OPP 6200) ===
+  hand: YOU 4 / OPP 4   library: YOU 39 / OPP 36
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Mage Power, Snatch Steal
+    OPP (recorder) hand [partly unknown]: Fissure, Penguin Soldier   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 38)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 5 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 37)
+  YOU draws 1  (hand now 6, library 36)
+  YOU SETS Mage Power (S/T zone 6)  [card 4 of 6 in hand]
+  YOU SETS Heavy Storm (S/T zone 7)  [card 3 of 5 in hand]
+  YOU SETS Snatch Steal (S/T zone 8)  [card 1 of 4 in hand]
+  YOU SETS Limiter Removal (S/T zone 9)  [card 3 of 3 in hand]
+  YOU SETS Morphing Jar in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 8: OPP   (LP YOU 5200 / OPP 6200) ===
+  hand: YOU 1 / OPP 4   library: YOU 36 / OPP 36
+    YOU hand [exact]: Amazon Archer
+    OPP (recorder) hand [partly unknown]: Fissure, Penguin Soldier   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 35)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Heavy Storm (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Heavy Storm
+  OPP SETS Ceasefire (S/T zone 5)  [card 3 of 4 in hand]
+  OPP SETS Penguin Soldier in monster zone 2 (face-down)  [card 2 of 3 in hand]
+    effect: Magician of Faith
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 6)  [card 1 of 2 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  OPP attacks DIRECTLY with Giant Rat (zone 0)
+    YOU loses 1400 LP -> 3800
+  OPP attacks DIRECTLY with face-down Magician of Faith (zone 1)
+    YOU loses 300 LP -> 3500
+  [end phase]
+    end of turn: OPP holds 1 card(s) in hand
+
+=== Turn 9: YOU   (LP YOU 3500 / OPP 6200) ===
+  hand: YOU 1 / OPP 1   library: YOU 36 / OPP 35
+    YOU hand [exact]: Amazon Archer
+    OPP (recorder) hand [partly unknown]: Fissure
+  [draw phase]
+  YOU draws 1  (hand now 2, library 35)
+  [standby]
+  [main 1]
+  YOU SETS Kinetic Soldier in monster zone 0 (face-down)  [card 2 of 2 in hand]
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 10: OPP   (LP YOU 3500 / OPP 6200) ===
+  hand: YOU 1 / OPP 1   library: YOU 35 / OPP 35
+    YOU hand [partly unknown]: Amazon Archer, Witch of the Black Forest
+    OPP (recorder) hand [partly unknown]: Fissure
+  [draw phase]
+  OPP draws 1  (hand now 2, library 34)
+  [standby]
+  [main 1]
+    effect: Penguin Soldier
+    effect: Ceasefire
+    YOU loses 2000 LP -> 1500
+  OPP SUMMONS Jinzo in monster zone 0  [card 1 of 2 in hand]
+    effect: Jinzo
+  OPP ACTIVATES Fissure (S/T zone 5)  [card 1 of 1 in hand]
+    effect: Fissure
+  [battle phase]
+  OPP attacks DIRECTLY with Jinzo (zone 0)
+    YOU loses 2400 LP -> -900
+  [DUEL END]  final LP: YOU -900 / OPP 6200

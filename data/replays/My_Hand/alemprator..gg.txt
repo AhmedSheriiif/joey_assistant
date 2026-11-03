@@ -1,0 +1,374 @@
+  OPP draws 5  (hand now 5, library 39)
+  YOU draws 5  (hand now 5, library 35)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 35 / OPP 39
+    YOU hand [exact]: Ceasefire, Graceful Charity, Heavy Storm, 2x Nobleman of Crossout
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Mystic Tomato, Mystical Space Typhoon, Nobleman of Crossout
+  [draw phase]
+  OPP draws 1  (hand now 6, library 38)
+  [standby]
+  [main 1]
+  OPP SUMMONS Mystic Tomato in monster zone 0  [card 3 of 6 in hand]
+  OPP SETS Mystical Space Typhoon (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 35 / OPP 38
+    YOU hand [exact]: Ceasefire, Graceful Charity, Heavy Storm, 2x Nobleman of Crossout
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Nobleman of Crossout, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 5)  [card 5 of 6 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 4, library 33)
+  YOU draws 1  (hand now 5, library 32)
+  YOU draws 1  (hand now 6, library 31)
+  YOU SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Ceasefire (S/T zone 5)  [card 3 of 5 in hand]
+  YOU SETS Call Of The Haunted (S/T zone 6)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+    effect: Mystical Space Typhoon
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 3 / OPP 4   library: YOU 31 / OPP 38
+    YOU hand [exact]: Heavy Storm, 2x Nobleman of Crossout, Swords of Revealing Light, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Nobleman of Crossout, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 5, library 37)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Nobleman of Crossout
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 4 of 4 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Mystic Tomato (zone 0)
+    YOU loses 1400 LP -> 6600
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 3 / OPP 3   library: YOU 31 / OPP 37
+    YOU hand [exact]: Heavy Storm, 2x Nobleman of Crossout, Swords of Revealing Light, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 4, library 30)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dream Clown in monster zone 0  [card 4 of 4 in hand]
+  YOU ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 3 in hand]
+    effect: Swords of Revealing Light
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 37
+    YOU hand [exact]: Heavy Storm, 2x Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 4, library 36)
+  [standby]
+  [main 1]
+  OPP SETS Man-Eater Bug in monster zone 1 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6600 / OPP 8000) ===
+  hand: YOU 2 / OPP 3   library: YOU 30 / OPP 36
+    YOU hand [exact]: Heavy Storm, 2x Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 3, library 29)
+  [standby]
+  [main 1]
+  YOU SUMMONS Dimensional Warrior in monster zone 1  [card 3 of 3 in hand]
+    effect: Dream Clown
+  YOU ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 1 of 2 in hand]
+    effect: Nobleman of Crossout
+  [battle phase]
+  YOU attacks DIRECTLY with Dimensional Warrior (zone 1)
+    OPP loses 1200 LP -> 6800
+  [end phase]
+    end of turn: YOU holds 1 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6600 / OPP 6800) ===
+  hand: YOU 1 / OPP 3   library: YOU 29 / OPP 36
+    YOU hand [exact]: Heavy Storm, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [exact]: Dark Hole, Mirror Force, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 4, library 35)
+  [standby]
+  [main 1]
+  OPP SETS Kinetic Soldier in monster zone 0 (face-down)  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6600 / OPP 6800) ===
+  hand: YOU 1 / OPP 3   library: YOU 29 / OPP 35
+    YOU hand [exact]: Heavy Storm, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 2, library 28)
+  [standby]
+  [main 1]
+  [battle phase]
+  YOU attacks with Dream Clown (zone 0) -> OPP's face-down Kinetic Soldier (zone 0)
+    effect: Kinetic Soldier
+    YOU loses 2600 LP -> 4000
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 4000 / OPP 6800) ===
+  hand: YOU 2 / OPP 3   library: YOU 28 / OPP 35
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 4, library 34)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dream Clown in monster zone 1  [card 4 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 4000 / OPP 6800) ===
+  hand: YOU 2 / OPP 3   library: YOU 28 / OPP 34
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 3, library 27)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  [battle phase]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 4000 / OPP 6800) ===
+  hand: YOU 3 / OPP 3   library: YOU 27 / OPP 34
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Monster Reborn, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute
+  [draw phase]
+  OPP draws 1  (hand now 4, library 33)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Pot of Greed (S/T zone 6)  [card 4 of 4 in hand]
+    effect: Pot of Greed
+  OPP draws 1  (hand now 4, library 32)
+  OPP draws 1  (hand now 5, library 31)
+  [battle phase]
+  OPP attacks with Dream Clown (zone 1) -> YOU's Dream Clown (zone 0)
+    YOU's Dream Clown (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Magician of Faith in monster zone 0 (face-down)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Call Of The Haunted
+    YOU special summons Dream Clown to zone 0
+
+=== Turn 12: YOU   (LP YOU 4000 / OPP 6800) ===
+  hand: YOU 3 / OPP 4   library: YOU 27 / OPP 31
+    YOU hand [exact]: Amazon Archer, Heavy Storm, Monster Reborn, Nobleman of Crossout, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 26)
+  [standby]
+  [main 1]
+    effect: Dream Clown
+  YOU SETS Giant Trunade (S/T zone 5)  [card 3 of 4 in hand]
+  YOU SUMMONS Giant Rat in monster zone 2  [card 3 of 3 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 2) -> OPP's Dream Clown (zone 1)
+    effect: Magic Cylinder
+    YOU loses 1400 LP -> 2600
+  YOU attacks with Dimensional Warrior (zone 1) -> OPP's Dream Clown (zone 1)
+    YOU's Dimensional Warrior (zone 1) is destroyed in battle
+    OPP's Dream Clown (zone 1) is destroyed in battle
+    effect: Dimensional Warrior
+  [end phase]
+    end of turn: YOU holds 2 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 2600 / OPP 6800) ===
+  hand: YOU 2 / OPP 4   library: YOU 26 / OPP 31
+    YOU hand [partly unknown]: Amazon Archer, Heavy Storm, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Mirror Force, Torrential Tribute   (+1 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SUMMONS Giant Rat in monster zone 0  [card 5 of 5 in hand]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Dream Clown (zone 0)
+    YOU's Dream Clown (zone 0) is destroyed in battle
+  [main 2]
+  OPP SETS Ceasefire (S/T zone 5)  [card 4 of 4 in hand]
+  OPP SETS Mirror Force (S/T zone 6)  [card 2 of 3 in hand]
+  [end phase]
+    end of turn: OPP holds 2 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 2600 / OPP 6800) ===
+  hand: YOU 2 / OPP 2   library: YOU 26 / OPP 30
+    YOU hand [partly unknown]: Amazon Archer, Heavy Storm, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Torrential Tribute
+  [draw phase]
+  YOU draws 1  (hand now 3, library 25)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Heavy Storm (S/T zone 6)  [card 1 of 3 in hand]
+    effect: Heavy Storm
+    effect: Ceasefire
+    YOU loses 1000 LP -> 1600
+    YOU special summons Dream Clown to zone 0
+  YOU SETS Scapegoat (S/T zone 5)  [card 1 of 2 in hand]
+  [battle phase]
+  YOU attacks with Giant Rat (zone 2) -> OPP's Giant Rat (zone 0)
+    YOU's Giant Rat (zone 2) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Giant Rat to zone 1
+  YOU attacks with Giant Rat (zone 1) -> OPP's Giant Rat (zone 0)
+    YOU's Giant Rat (zone 1) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Giant Rat
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Giant Rat to zone 1
+  YOU attacks with Giant Rat (zone 1) -> OPP's Giant Rat (zone 0)
+    effect: Kinetic Soldier
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 2150 LP -> 4650
+    effect: Dimensional Warrior
+  YOU attacks DIRECTLY with Dream Clown (zone 0)
+    OPP loses 1700 LP -> 2950
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 3 / OPP 4   library: YOU 25 / OPP 30
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm, Torrential Tribute   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 29)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Swords of Revealing Light (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Swords of Revealing Light
+  OPP SETS Torrential Tribute (S/T zone 6)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 16: YOU   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 3 / OPP 3   library: YOU 25 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+2 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 24)
+  [standby]
+  [main 1]
+  YOU SETS Ring of Destruction (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 17: OPP   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 3 / OPP 3   library: YOU 24 / OPP 29
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 28)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 18: YOU   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 3 / OPP 4   library: YOU 24 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +2 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 23)
+  [standby]
+  [main 1]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 19: OPP   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 4 / OPP 4   library: YOU 23 / OPP 28
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+  OPP SETS Scapegoat (S/T zone 7)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 20: YOU   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 4 / OPP 4   library: YOU 23 / OPP 27
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 22)
+  [standby]
+  [main 1]
+  YOU SETS Hayabusa Knight in monster zone 1 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 21: OPP   (LP YOU 1600 / OPP 2950) ===
+  hand: YOU 4 / OPP 4   library: YOU 22 / OPP 27
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Dark Hole, Heavy Storm   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 3, library 25)
+  OPP draws 1  (hand now 4, library 24)
+  OPP draws 1  (hand now 5, library 23)
+  OPP ACTIVATES Dark Hole (S/T zone 5)  [card 1 of 5 in hand]
+    effect: Dark Hole
+  OPP ACTIVATES Mystical Space Typhoon (S/T zone 8)  [card 2 of 4 in hand]
+    effect: Mystical Space Typhoon
+  OPP SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 3 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Witch of the Black Forest (zone 0)
+    effect: Ring of Destruction
+    OPP loses 1100 LP -> 1850
+    YOU loses 1100 LP -> 500
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+
+=== Turn 22: YOU   (LP YOU 500 / OPP 1850) ===
+  hand: YOU 4 / OPP 3   library: YOU 22 / OPP 23
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 21)
+  [standby]
+  [main 1]
+  YOU SETS Offerings to the Doomed (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+    effect: Scapegoat
+
+=== Turn 23: OPP   (LP YOU 500 / OPP 1850) ===
+  hand: YOU 4 / OPP 3   library: YOU 21 / OPP 23
+    YOU hand [partly unknown]: Amazon Archer, Monster Reborn, Nobleman of Crossout, Sangan, United We Stand   (up to 2 of these already discarded; +3 unknown)
+    OPP (recorder) hand [partly unknown]: Heavy Storm   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 4, library 22)
+  [standby]
+  [main 1]
+  OPP SUMMONS Amazon Archer in monster zone 4  [card 1 of 4 in hand]
+    effect: Amazon Archer
+    YOU loses 1200 LP -> -700
+  [DUEL END]  final LP: YOU -700 / OPP 1850

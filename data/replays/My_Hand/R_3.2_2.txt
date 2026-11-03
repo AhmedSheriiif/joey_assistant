@@ -1,0 +1,239 @@
+  OPP draws 5  (hand now 5, library 35)
+  YOU draws 5  (hand now 5, library 47)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 47 / OPP 35
+    YOU hand [exact]: Greenkappa, 2x Mystic Tomato, Solemn Wishes, Torrential Tribute
+    OPP (recorder) hand [exact]: 2x Crush Card, Fissure, Giant Germ, Harpie's Brother
+  [draw phase]
+  OPP draws 1  (hand now 6, library 34)
+  [standby]
+  [main 1]
+  OPP SETS Giant Germ in monster zone 0 (face-down)  [card 5 of 6 in hand]
+  OPP SETS Crush Card (S/T zone 5)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 47 / OPP 34
+    YOU hand [exact]: Greenkappa, 2x Mystic Tomato, Solemn Wishes, Torrential Tribute
+    OPP (recorder) hand [exact]: Crush Card, Fissure, Harpie's Brother, Rush Recklessly
+  [draw phase]
+  YOU draws 1  (hand now 6, library 46)
+  [standby]
+  [main 1]
+  YOU SETS Mystic Tomato in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  YOU SETS Solemn Wishes (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 46 / OPP 34
+    YOU hand [exact]: Dimensional Warrior, Greenkappa, Mystic Tomato, Torrential Tribute
+    OPP (recorder) hand [exact]: Crush Card, Fissure, Harpie's Brother, Rush Recklessly
+  [draw phase]
+  OPP draws 1  (hand now 5, library 33)
+  [standby]
+  [main 1]
+  OPP SUMMONS Harpie's Brother in monster zone 1  [card 3 of 5 in hand]
+  [battle phase]
+  OPP attacks with Harpie's Brother (zone 1) -> YOU's face-down Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    YOU special summons Mystic Tomato to zone 0
+  OPP attacks with face-down Giant Germ (zone 0) -> YOU's Mystic Tomato (zone 0)
+    OPP's Giant Germ (zone 0) is destroyed in battle
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    effect: Giant Germ
+    effect: Sangan
+    YOU loses 500 LP -> 7500
+    OPP special summons Giant Germ to zone 0
+    OPP special summons Giant Germ to zone 2
+  OPP attacks DIRECTLY with Giant Germ (zone 2)
+    YOU loses 1000 LP -> 6500
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 5500
+  [main 2]
+  OPP SETS Rush Recklessly (S/T zone 6)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+    effect: Solemn Wishes
+
+=== Turn 4: YOU   (LP YOU 5500 / OPP 8000) ===
+  hand: YOU 6 / OPP 4   library: YOU 46 / OPP 33
+    YOU hand [partly unknown]: Dimensional Warrior, Greenkappa, Mystic Tomato, Torrential Tribute   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card, Fissure, Graceful Charity   (+1 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 45)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 6000
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 2 of 7 in hand]
+  YOU SETS Torrential Tribute (S/T zone 6)  [card 2 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Giant Germ (zone 2)
+    OPP's Giant Germ (zone 2) is destroyed in battle
+    OPP loses 400 LP -> 7600
+    effect: Giant Germ
+    YOU loses 500 LP -> 5500
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 5500 / OPP 7600) ===
+  hand: YOU 5 / OPP 5   library: YOU 45 / OPP 33
+    YOU hand [partly unknown]: Dimensional Warrior, Greenkappa   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card, Fissure, Graceful Charity   (+2 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 32)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Fissure (S/T zone 7)  [card 2 of 6 in hand]
+    effect: Fissure
+  [battle phase]
+  OPP attacks DIRECTLY with Harpie's Brother (zone 1)
+    YOU loses 1800 LP -> 3700
+  OPP attacks DIRECTLY with Giant Germ (zone 0)
+    YOU loses 1000 LP -> 2700
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 2700 / OPP 7600) ===
+  hand: YOU 5 / OPP 5   library: YOU 45 / OPP 32
+    YOU hand [partly unknown]: Dimensional Warrior, Greenkappa   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card, Graceful Charity   (+3 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 44)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 3200
+  [standby]
+  [main 1]
+  YOU SETS Tailor of the Fickle (S/T zone 7)  [card 5 of 6 in hand]
+  YOU SUMMONS Mother Grizzly in monster zone 0  [card 3 of 5 in hand]
+  [battle phase]
+  YOU attacks with Mother Grizzly (zone 0) -> OPP's Giant Germ (zone 0)
+    effect: Crush Card
+    effect: Rush Recklessly
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 3200 / OPP 7600) ===
+  hand: YOU 4 / OPP 5   library: YOU 44 / OPP 32
+    YOU hand [partly unknown]: Dimensional Warrior, Greenkappa   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card, Graceful Charity   (+3 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 6, library 31)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 2 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 30)
+  OPP draws 1  (hand now 5, library 29)
+  OPP draws 1  (hand now 6, library 28)
+  [battle phase]
+  OPP attacks DIRECTLY with Harpie's Brother (zone 1)
+    YOU loses 1800 LP -> 1400
+  [main 2]
+  OPP SETS Magic Cylinder (S/T zone 5)  [card 2 of 6 in hand]
+  OPP SETS Greenkappa in monster zone 0 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 1400 / OPP 7600) ===
+  hand: YOU 4 / OPP 4   library: YOU 44 / OPP 28
+    YOU hand [partly unknown]: Dimensional Warrior, Greenkappa   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 43)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 1900
+  [standby]
+  [main 1]
+  YOU SETS Dimensional Warrior in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 1900 / OPP 7600) ===
+  hand: YOU 4 / OPP 4   library: YOU 43 / OPP 28
+    YOU hand [partly unknown]: Greenkappa   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 27)
+  [standby]
+  [main 1]
+    effect: Greenkappa
+    effect: Torrential Tribute
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 0  [card 1 of 5 in hand]
+  [battle phase]
+  OPP attacks DIRECTLY with Flying Kamakiri #1 (zone 0)
+    YOU loses 1400 LP -> 500
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 500 / OPP 7600) ===
+  hand: YOU 4 / OPP 4   library: YOU 43 / OPP 27
+    YOU hand [partly unknown]: Greenkappa   (+3 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 42)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 1000
+  [standby]
+  [main 1]
+  YOU ACTIVATES Premature Burial (S/T zone 6)  [card 2 of 5 in hand]
+    effect: Premature Burial
+    YOU loses 800 LP -> 200
+    YOU special summons Mystic Tomato to zone 0
+  YOU SETS Penguin Soldier in monster zone 1 (face-down)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 200 / OPP 7600) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 27
+    YOU hand [partly unknown]: Greenkappa   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 26)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Flying Kamakiri #1 (zone 0) -> YOU's face-down Penguin Soldier (zone 1)
+    YOU's Penguin Soldier (zone 1) is destroyed in battle
+    effect: Penguin Soldier
+  [main 2]
+  OPP SETS 4-Starred Ladybug of Doom in monster zone 0 (face-down)  [card 4 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 200 / OPP 7600) ===
+  hand: YOU 3 / OPP 4   library: YOU 42 / OPP 26
+    YOU hand [partly unknown]: Greenkappa   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 4, library 41)
+    effect: Solemn Wishes
+    YOU gains 500 LP -> 700
+  [standby]
+    effect: Cure Mermaid
+    YOU gains 800 LP -> 1500
+  [main 1]
+  YOU SETS Mage Power (S/T zone 7)  [card 2 of 4 in hand]
+  [end phase]
+    end of turn: YOU holds 3 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 1500 / OPP 7600) ===
+  hand: YOU 3 / OPP 4   library: YOU 41 / OPP 26
+    YOU hand [partly unknown]: Greenkappa   (+2 unknown)
+    OPP (recorder) hand [partly unknown]: Crush Card   (up to 1 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 25)
+  [standby]
+  [main 1]
+  OPP SUMMONS Flying Kamakiri #1 in monster zone 1  [card 2 of 5 in hand]
+    effect: 4-Starred Ladybug of Doom
+  [battle phase]
+  OPP attacks DIRECTLY with Flying Kamakiri #1 (zone 1)
+    YOU loses 1400 LP -> 100
+  OPP attacks DIRECTLY with face-down 4-Starred Ladybug of Doom (zone 0)
+    YOU loses 800 LP -> -700
+  [DUEL END]  final LP: YOU -700 / OPP 7600

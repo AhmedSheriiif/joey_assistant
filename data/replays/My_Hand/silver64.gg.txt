@@ -1,0 +1,312 @@
+  OPP draws 5  (hand now 5, library 41)
+  YOU draws 5  (hand now 5, library 38)
+
+=== Turn 1: OPP   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 38 / OPP 41
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Mystical Space Typhoon, United We Stand, Witch of the Black Forest
+    OPP hand [exact]: Graceful Charity, Nimble Momonga, Nobleman of Crossout, Snatch Steal, United We Stand
+  [draw phase]
+  OPP draws 1  (hand now 6, library 40)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Graceful Charity (S/T zone 5)  [card 3 of 6 in hand]
+    effect: Graceful Charity
+  OPP draws 1  (hand now 4, library 39)
+  OPP draws 1  (hand now 5, library 38)
+  OPP draws 1  (hand now 6, library 37)
+  OPP SETS Giant Rat in monster zone 0 (face-down)  [card 4 of 6 in hand]
+  OPP SETS Scapegoat (S/T zone 5)  [card 5 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 2: YOU   (LP YOU 8000 / OPP 8000) ===
+  hand: YOU 5 / OPP 4   library: YOU 38 / OPP 37
+    YOU (recorder) hand [exact]: Call Of The Haunted, Jinzo, Mystical Space Typhoon, United We Stand, Witch of the Black Forest
+    OPP hand [exact]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 37)
+  [standby]
+  [main 1]
+  YOU SUMMONS Witch of the Black Forest in monster zone 0  [card 1 of 6 in hand]
+  [battle phase]
+  YOU attacks with Witch of the Black Forest (zone 0) -> OPP's face-down Giant Rat (zone 0)
+    YOU loses 350 LP -> 7650
+  [main 2]
+  YOU SETS Call Of The Haunted (S/T zone 5)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 3: OPP   (LP YOU 7650 / OPP 8000) ===
+  hand: YOU 4 / OPP 4   library: YOU 37 / OPP 37
+    YOU (recorder) hand [exact]: Jinzo, Monster Reborn, Mystical Space Typhoon, United We Stand
+    OPP hand [exact]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 36)
+  [standby]
+  [main 1]
+  [battle phase]
+  OPP attacks with Giant Rat (zone 0) -> YOU's Witch of the Black Forest (zone 0)
+    YOU's Witch of the Black Forest (zone 0) is destroyed in battle
+    YOU loses 300 LP -> 7350
+    effect: Witch of the Black Forest
+  [end phase]
+    end of turn: OPP holds 5 card(s) in hand
+
+=== Turn 4: YOU   (LP YOU 7350 / OPP 8000) ===
+  hand: YOU 5 / OPP 5   library: YOU 37 / OPP 36
+    YOU (recorder) hand [partly unknown]: Jinzo, Monster Reborn, Mystical Space Typhoon, United We Stand   (+1 unknown)
+    OPP hand [exact]: Bazoo the Soul-Eater, Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber, United We Stand   (up to 2 of these already discarded)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 36)
+  [standby]
+  [main 1]
+  YOU SUMMONS Mystic Tomato in monster zone 0  [card 3 of 6 in hand]
+  [battle phase]
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Giant Rat (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Mystic Tomato to zone 0
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Giant Rat (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Mystic Tomato to zone 0
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Giant Rat (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    effect: Mystic Tomato
+    effect: Giant Rat
+    OPP special summons Giant Rat to zone 0
+    YOU special summons Mystic Tomato to zone 0
+    effect: Call Of The Haunted
+    YOU special summons Mystic Tomato to zone 1
+  YOU attacks with Mystic Tomato (zone 1) -> OPP's Giant Rat (zone 0)
+    OPP's Giant Rat (zone 0) is destroyed in battle
+    OPP loses 100 LP -> 7900
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 8900
+    OPP special summons Giant Rat to zone 0
+  YOU attacks with Mystic Tomato (zone 0) -> OPP's Giant Rat (zone 0)
+    OPP's Nimble Momonga (zone 0) is destroyed in battle
+    effect: Nimble Momonga
+    OPP gains 1000 LP -> 9900
+  YOU ACTIVATES Mystical Space Typhoon (S/T zone 6)  [card 1 of 8 in hand]
+    effect: Mystical Space Typhoon
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 5: OPP   (LP YOU 7350 / OPP 9900) ===
+  hand: YOU 6 / OPP 10   library: YOU 36 / OPP 36
+    YOU (recorder) hand [partly unknown]: Jinzo, Monster Reborn, United We Stand   (up to 1 of these already discarded; +4 unknown)
+    OPP hand [partly unknown]: Bazoo the Soul-Eater, Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber, United We Stand   (up to 2 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 11, library 35)
+  [standby]
+  [main 1]
+  OPP SUMMONS Bazoo the Soul-Eater in monster zone 0  [card 5 of 11 in hand]
+  [battle phase]
+  OPP attacks with Bazoo the Soul-Eater (zone 0) -> YOU's Mystic Tomato (zone 0)
+    YOU's Mystic Tomato (zone 0) is destroyed in battle
+    YOU loses 600 LP -> 6750
+    effect: Sangan
+  [main 2]
+    effect: Bazoo the Soul-Eater
+  OPP SETS United We Stand (S/T zone 5)  [card 3 of 10 in hand]
+  OPP SETS Magic Cylinder (S/T zone 6)  [card 4 of 9 in hand]
+  [end phase]
+    OPP discards down to 6 cards (hand limit)
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 6: YOU   (LP YOU 6750 / OPP 9900) ===
+  hand: YOU 7 / OPP 6   library: YOU 36 / OPP 35
+    YOU (recorder) hand [partly unknown]: Jinzo, Monster Reborn, United We Stand   (up to 1 of these already discarded; +5 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber   (up to 4 of these already discarded; +5 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 8, library 35)
+  [standby]
+  [main 1]
+  YOU SUMMONS Jinzo in monster zone 1  [card 2 of 8 in hand]
+    effect: Jinzo
+    effect: Witch of the Black Forest
+  [battle phase]
+  YOU attacks with Jinzo (zone 1) -> OPP's Bazoo the Soul-Eater (zone 0)
+    OPP's Bazoo the Soul-Eater (zone 0) is destroyed in battle
+    OPP loses 500 LP -> 9400
+  [end phase]
+    YOU discards down to 6 cards (hand limit)
+    end of turn: YOU holds 6 card(s) in hand
+
+=== Turn 7: OPP   (LP YOU 6750 / OPP 9400) ===
+  hand: YOU 6 / OPP 6   library: YOU 35 / OPP 35
+    YOU (recorder) hand [partly unknown]: Monster Reborn, United We Stand   (up to 2 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, Snatch Steal, The Fiend Megacyber   (up to 4 of these already discarded; +5 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 34)
+  [standby]
+  [main 1]
+  OPP ACTIVATES Snatch Steal (S/T zone 7)  [card 2 of 7 in hand]
+    effect: Snatch Steal
+  [battle phase]
+  OPP attacks DIRECTLY with unknown monster (zone 0)
+    effect: Kuriboh
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 8: YOU   (LP YOU 6750 / OPP 9400) ===
+  hand: YOU 6 / OPP 6   library: YOU 35 / OPP 34
+    YOU (recorder) hand [partly unknown]: Monster Reborn, United We Stand   (up to 2 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, The Fiend Megacyber   (up to 4 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 7, library 34)
+  [standby]
+    effect: Snatch Steal
+    YOU gains 1000 LP -> 7750
+  [main 1]
+  YOU SUMMONS Slate Warrior in monster zone 0  [card 6 of 7 in hand]
+  YOU ACTIVATES United We Stand (S/T zone 6)  [card 4 of 6 in hand]
+    effect: United We Stand
+  [battle phase]
+  YOU attacks with Slate Warrior (zone 0) -> OPP's unknown monster (zone 0)
+    OPP's unknown monster (zone 0) is destroyed in battle
+    OPP loses 300 LP -> 9100
+  [end phase]
+    end of turn: YOU holds 5 card(s) in hand
+
+=== Turn 9: OPP   (LP YOU 7750 / OPP 9100) ===
+  hand: YOU 5 / OPP 6   library: YOU 34 / OPP 34
+    YOU (recorder) hand [partly unknown]: Monster Reborn   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, The Fiend Megacyber   (up to 4 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 33)
+  [standby]
+  [main 1]
+  OPP SETS Ring of Destruction (S/T zone 7)  [card 3 of 7 in hand]
+  [end phase]
+    end of turn: OPP holds 6 card(s) in hand
+
+=== Turn 10: YOU   (LP YOU 7750 / OPP 9100) ===
+  hand: YOU 5 / OPP 6   library: YOU 34 / OPP 33
+    YOU (recorder) hand [partly unknown]: Monster Reborn   (up to 1 of these already discarded; +7 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, The Fiend Megacyber   (up to 4 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 6, library 33)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Monster Reborn (S/T zone 7)  [card 2 of 6 in hand]
+    effect: Monster Reborn
+    effect: Ring of Destruction
+    YOU loses 2700 LP -> 5050
+    OPP loses 2700 LP -> 6400
+    YOU special summons Mystic Tomato to zone 0
+    effect: Jinzo
+  [battle phase]
+  YOU attacks DIRECTLY with Mystic Tomato (zone 0)
+    OPP loses 2400 LP -> 4000
+  [main 2]
+  YOU SETS Man-Eater Bug in monster zone 1 (face-down)  [card 3 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 11: OPP   (LP YOU 5050 / OPP 4000) ===
+  hand: YOU 4 / OPP 6   library: YOU 33 / OPP 33
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: Call Of The Haunted, Nimble Momonga, Nobleman of Crossout, The Fiend Megacyber   (up to 4 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 7, library 32)
+  [standby]
+  [main 1]
+  OPP SUMMONS Dimensional Warrior in monster zone 0  [card 4 of 7 in hand]
+  [battle phase]
+  OPP attacks with Dimensional Warrior (zone 0) -> YOU's Mystic Tomato (zone 0)
+    OPP's Dimensional Warrior (zone 0) is destroyed in battle
+    OPP loses 1200 LP -> 2800
+    effect: Dimensional Warrior
+  [main 2]
+  OPP ACTIVATES Nobleman of Crossout (S/T zone 7)  [card 1 of 6 in hand]
+    effect: Nobleman of Crossout
+  OPP SETS Call Of The Haunted (S/T zone 7)  [card 1 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 12: YOU   (LP YOU 5050 / OPP 2800) ===
+  hand: YOU 4 / OPP 4   library: YOU 33 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 32)
+  [standby]
+  [main 1]
+  YOU SETS Magician of Faith in monster zone 0 (face-down)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 13: OPP   (LP YOU 5050 / OPP 2800) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 32
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+    effect: Call Of The Haunted
+    OPP special summons Dimensional Warrior to zone 0
+  OPP SETS Mystical Space Typhoon (S/T zone 8)  [card 2 of 5 in hand]
+  [end phase]
+    end of turn: OPP holds 4 card(s) in hand
+
+=== Turn 14: YOU   (LP YOU 5050 / OPP 2800) ===
+  hand: YOU 4 / OPP 4   library: YOU 32 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+7 unknown)
+    OPP hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  YOU draws 1  (hand now 5, library 31)
+  [standby]
+  [main 1]
+  YOU ACTIVATES Graceful Charity (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Graceful Charity
+  YOU draws 1  (hand now 3, library 30)
+  YOU draws 1  (hand now 4, library 29)
+  YOU draws 1  (hand now 5, library 28)
+  YOU ACTIVATES Pot of Greed (S/T zone 6)  [card 3 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 27)
+  YOU draws 1  (hand now 6, library 26)
+    effect: Magician of Faith
+  YOU ACTIVATES Heavy Storm (S/T zone 6)  [card 3 of 6 in hand]
+    effect: Heavy Storm
+  YOU ACTIVATES Pot of Greed (S/T zone 5)  [card 4 of 5 in hand]
+    effect: Pot of Greed
+  YOU draws 1  (hand now 5, library 25)
+  YOU draws 1  (hand now 6, library 24)
+  YOU SUMMONS Slate Warrior in monster zone 1  [card 4 of 6 in hand]
+  YOU SETS Ring of Destruction (S/T zone 5)  [card 4 of 5 in hand]
+  [battle phase]
+  YOU attacks DIRECTLY with Slate Warrior (zone 1)
+    OPP loses 1900 LP -> 900
+  YOU attacks DIRECTLY with face-down Magician of Faith (zone 0)
+    OPP loses 300 LP -> 600
+  [end phase]
+    end of turn: YOU holds 4 card(s) in hand
+
+=== Turn 15: OPP   (LP YOU 5050 / OPP 600) ===
+  hand: YOU 4 / OPP 4   library: YOU 24 / OPP 31
+    YOU (recorder) hand [partly unknown]: -   (+9 unknown)
+    OPP hand [partly unknown]: Nimble Momonga, The Fiend Megacyber   (up to 2 of these already discarded; +6 unknown)
+  [draw phase]
+  OPP draws 1  (hand now 5, library 30)
+  [standby]
+  [main 1]
+  OPP SETS Torrential Tribute (S/T zone 5)  [card 2 of 5 in hand]
+  OPP SETS Heavy Storm (S/T zone 6)  [card 1 of 4 in hand]
+  [end phase]
+    end of turn: OPP holds 3 card(s) in hand
+    effect: Ring of Destruction
+    OPP loses 1900 LP -> -1300
+    YOU loses 1900 LP -> 3150
+  [DUEL END]  final LP: YOU 3150 / OPP -1300
